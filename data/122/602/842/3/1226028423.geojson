@@ -1,0 +1,72 @@
+{
+  "id": 1226028423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61608,0.10522,35.61608,0.10522",
+    "geom:latitude":0.10522,
+    "geom:longitude":35.61608,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Chemususu",
+    "gn:country_code":"KE",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199634,
+    "gn:latitude":0.10522,
+    "gn:longitude":35.61608,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Chemususu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chemosusu",
+        "Chemususu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199634,
+        "wk:page":"Chemosusu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c49b2c5a1dc89fe1b084c02f0f1426c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911719,
+            "locality_id":1226028423,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1226028423,
+    "wof:lastmodified":1537653088,
+    "wof:name":"Chemususu",
+    "wof:parent_id":1091911719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61608,
+    0.10522,
+    35.61608,
+    0.10522
+],
+  "geometry": {"coordinates":[35.61608,0.10522],"type":"Point"}
+}

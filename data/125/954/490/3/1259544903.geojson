@@ -1,0 +1,68 @@
+{
+  "id": 1259544903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16659,-4.59306,39.16659,-4.59306",
+    "geom:latitude":-4.59306,
+    "geom:longitude":39.16659,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Dzirive",
+    "gn:country_code":"KE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198789,
+    "gn:latitude":-4.59306,
+    "gn:longitude":39.16659,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dzirive",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198789,
+        "wk:page":"Dzirive"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c8978d809093447192e3c885b7d1cf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1259544903,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259544903,
+    "wof:lastmodified":1537567168,
+    "wof:name":"Dzirive",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16659,
+    -4.59306,
+    39.16659,
+    -4.59306
+],
+  "geometry": {"coordinates":[39.16659,-4.59306],"type":"Point"}
+}

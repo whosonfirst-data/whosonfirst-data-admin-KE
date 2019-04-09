@@ -1,0 +1,62 @@
+{
+  "id": 1209067707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57351,-4.156,39.57351,-4.156",
+    "geom:latitude":-4.156,
+    "geom:longitude":39.57351,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Makondeni",
+    "gn:country_code":"KE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188099,
+    "gn:latitude":-4.156,
+    "gn:longitude":39.57351,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Makondeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188099,
+        "wk:page":"Makondeni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"60e8fc42c6974a5a76c1ce59206fa41e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209067707
+        }
+    ],
+    "wof:id":1209067707,
+    "wof:lastmodified":1537567143,
+    "wof:name":"Makondeni",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57351,
+    -4.156,
+    39.57351,
+    -4.156
+],
+  "geometry": {"coordinates":[39.57351,-4.156],"type":"Point"}
+}

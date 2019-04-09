@@ -1,0 +1,68 @@
+{
+  "id": 1210047443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91347,1.26066,34.91347,1.26066",
+    "geom:latitude":1.26066,
+    "geom:longitude":34.91347,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kanyarkwat",
+    "gn:country_code":"KE",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194292,
+    "gn:latitude":1.26066,
+    "gn:longitude":34.91347,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kanyarkwat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194292,
+        "wk:page":"Kanyarkwat"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c5c55dec29faafd2876c31ff8654e26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1210047443,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1210047443,
+    "wof:lastmodified":1537567152,
+    "wof:name":"Kanyarkwat",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91347,
+    1.26066,
+    34.91347,
+    1.26066
+],
+  "geometry": {"coordinates":[34.91347,1.26066],"type":"Point"}
+}

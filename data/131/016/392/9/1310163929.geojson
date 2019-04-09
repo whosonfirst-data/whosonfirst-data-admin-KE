@@ -1,0 +1,72 @@
+{
+  "id": 1310163929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.13333,-2.91667,40.13333,-2.91667",
+    "geom:latitude":-2.91667,
+    "geom:longitude":40.13333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kampi ya Kerenzeni",
+    "gn:country_code":"KE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194688,
+    "gn:latitude":-2.91667,
+    "gn:longitude":40.13333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kampi ya Kerenzeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampi ya Kerengenzi",
+        "Kampi ya Kerenzeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194688,
+        "wk:page":"Kampi_ya_Kerengenzi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"37125e3c72dbb4531b6df0ca9b5f192b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1310163929,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310163929,
+    "wof:lastmodified":1537653071,
+    "wof:name":"Kampi ya Kerenzeni",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.13333,
+    -2.91667,
+    40.13333,
+    -2.91667
+],
+  "geometry": {"coordinates":[40.13333,-2.91667],"type":"Point"}
+}

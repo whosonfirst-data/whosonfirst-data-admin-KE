@@ -1,0 +1,67 @@
+{
+  "id": 1226272843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,-1.53333,37.66667,-1.53333",
+    "geom:latitude":-1.53333,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kalasa",
+    "gn:country_code":"KE",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195097,
+    "gn:latitude":-1.53333,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kalasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195097
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b2a0e25c646baef7fa58b404fea62cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":1226272843,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226272843,
+    "wof:lastmodified":1536894416,
+    "wof:name":"Kalasa",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    -1.53333,
+    37.66667,
+    -1.53333
+],
+  "geometry": {"coordinates":[37.66667,-1.53333],"type":"Point"}
+}

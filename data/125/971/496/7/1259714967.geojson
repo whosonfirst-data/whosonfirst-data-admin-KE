@@ -1,0 +1,68 @@
+{
+  "id": 1259714967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00381,-1.20727,40.00381,-1.20727",
+    "geom:latitude":-1.20727,
+    "geom:longitude":40.00381,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Masabubu",
+    "gn:country_code":"KE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187543,
+    "gn:latitude":-1.20727,
+    "gn:longitude":40.00381,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Masabubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187543,
+        "wk:page":"Masabubu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"69bae24f00bedac5ad8186d0b9f8f9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1259714967,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1259714967,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Masabubu",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00381,
+    -1.20727,
+    40.00381,
+    -1.20727
+],
+  "geometry": {"coordinates":[40.00381,-1.20727],"type":"Point"}
+}

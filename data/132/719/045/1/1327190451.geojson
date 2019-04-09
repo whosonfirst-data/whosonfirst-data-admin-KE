@@ -1,0 +1,67 @@
+{
+  "id": 1327190451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70173,-3.52167,39.70173,-3.52167",
+    "geom:latitude":-3.52167,
+    "geom:longitude":39.70173,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tsangalaweni",
+    "gn:country_code":"KE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179058,
+    "gn:latitude":-3.52167,
+    "gn:longitude":39.70173,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Tsangalaweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179058
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bdc3265157594ab1f26e22baf7390f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1327190451,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327190451,
+    "wof:lastmodified":1537029059,
+    "wof:name":"Tsangalaweni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70173,
+    -3.52167,
+    39.70173,
+    -3.52167
+],
+  "geometry": {"coordinates":[39.70173,-3.52167],"type":"Point"}
+}

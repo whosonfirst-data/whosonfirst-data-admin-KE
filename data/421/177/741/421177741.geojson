@@ -1,0 +1,88 @@
+{
+  "id": 421177741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,-0.41667,36.88333,-0.41667",
+    "geom:latitude":-0.41667,
+    "geom:longitude":36.88333,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Ihururu"
+    ],
+    "name:eng_x_preferred":[
+        "Ihururu"
+    ],
+    "name:unk_x_variant":[
+        "Ihurururu"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":196626,
+    "qs:gn_pop":0,
+    "qs:name":"Ihururu",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Central",
+    "qs:photos":50,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1353116,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527306,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196626,
+        "gp:id":1527306,
+        "qs:id":1353116,
+        "wd:id":"Q15045476",
+        "wk:page":"Ihururu"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009159,
+    "wof:geomhash":"ef59bb29023e34f6c269a609dad8f657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":421177741,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":421177741,
+    "wof:lastmodified":1527716482,
+    "wof:name":"Ihururu",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    -0.41667,
+    36.88333,
+    -0.41667
+],
+  "geometry": {"coordinates":[36.88333,-0.41667],"type":"Point"}
+}

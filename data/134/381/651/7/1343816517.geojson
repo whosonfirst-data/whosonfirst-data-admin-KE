@@ -1,0 +1,67 @@
+{
+  "id": 1343816517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6367,-0.84698,36.6367,-0.84698",
+    "geom:latitude":-0.84698,
+    "geom:longitude":36.6367,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamae",
+    "gn:country_code":"KE",
+    "gn:dem":2564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194898,
+    "gn:latitude":-0.84698,
+    "gn:longitude":36.6367,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kamae",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194898
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bda4623f4e879deadeeb7bcf745ade65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1343816517,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343816517,
+    "wof:lastmodified":1536730525,
+    "wof:name":"Kamae",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6367,
+    -0.84698,
+    36.6367,
+    -0.84698
+],
+  "geometry": {"coordinates":[36.6367,-0.84698],"type":"Point"}
+}

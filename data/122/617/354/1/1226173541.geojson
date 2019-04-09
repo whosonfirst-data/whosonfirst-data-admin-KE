@@ -1,0 +1,72 @@
+{
+  "id": 1226173541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90125,3.53573,35.90125,3.53573",
+    "geom:latitude":3.53573,
+    "geom:longitude":35.90125,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Lokwa Kangole",
+    "gn:country_code":"KE",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":189140,
+    "gn:latitude":3.53573,
+    "gn:longitude":35.90125,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Lokwa Kangole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokwakangole",
+        "Lokwa Kangole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":189140,
+        "wk:page":"Lokwakangole"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"701d6c0a2d770ade238bfc6614aeb3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1226173541,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1226173541,
+    "wof:lastmodified":1537653058,
+    "wof:name":"Lokwa Kangole",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90125,
+    3.53573,
+    35.90125,
+    3.53573
+],
+  "geometry": {"coordinates":[35.90125,3.53573],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242738539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95826,-2.29833,40.95826,-2.29833",
+    "geom:latitude":-2.29833,
+    "geom:longitude":40.95826,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Takwa Milinga",
+    "gn:country_code":"KE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179626,
+    "gn:latitude":-2.29833,
+    "gn:longitude":40.95826,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Takwa Milinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tekwa Ruins"
+    ],
+    "name:und_x_variant":[
+        "Milinga",
+        "Takwa Milinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179626
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"394bb8d8d596720ff644070d7c3585bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1242738539,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1242738539,
+    "wof:lastmodified":1537653035,
+    "wof:name":"Takwa Milinga",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95826,
+    -2.29833,
+    40.95826,
+    -2.29833
+],
+  "geometry": {"coordinates":[40.95826,-2.29833],"type":"Point"}
+}

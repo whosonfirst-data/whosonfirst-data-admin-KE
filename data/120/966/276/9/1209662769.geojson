@@ -1,0 +1,61 @@
+{
+  "id": 1209662769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.21847,-4.65948,39.21847,-4.65948",
+    "geom:latitude":-4.65948,
+    "geom:longitude":39.21847,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Vanga",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178575,
+    "gn:latitude":-4.65948,
+    "gn:longitude":39.21847,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Vanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178575
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"07d322053f2794228cacb75611b85785",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209662769
+        }
+    ],
+    "wof:id":1209662769,
+    "wof:lastmodified":1536280196,
+    "wof:name":"Vanga",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.21847,
+    -4.65948,
+    39.21847,
+    -4.65948
+],
+  "geometry": {"coordinates":[39.21847,-4.65948],"type":"Point"}
+}

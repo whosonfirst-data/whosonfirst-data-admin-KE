@@ -1,0 +1,74 @@
+{
+  "id": 1327294443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70427,-2.30314,40.70427,-2.30314",
+    "geom:latitude":-2.30314,
+    "geom:longitude":40.70427,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mkunumbi",
+    "gn:country_code":"KE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186434,
+    "gn:latitude":-2.30314,
+    "gn:longitude":40.70427,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mkunumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkunumbi",
+        "Mkonumbi",
+        "Mkonumbia",
+        "Mkunumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186434,
+        "wk:page":"Mkunumbi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"79181ff07f0c172018f1daeb47a89a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1327294443,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327294443,
+    "wof:lastmodified":1537653050,
+    "wof:name":"Mkunumbi",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70427,
+    -2.30314,
+    40.70427,
+    -2.30314
+],
+  "geometry": {"coordinates":[40.70427,-2.30314],"type":"Point"}
+}

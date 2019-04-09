@@ -1,0 +1,67 @@
+{
+  "id": 1260010565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1991,-2.02599,39.1991,-2.02599",
+    "geom:latitude":-2.02599,
+    "geom:longitude":39.1991,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Onjebie",
+    "gn:country_code":"KE",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525501,
+    "gn:latitude":-2.02599,
+    "gn:longitude":39.1991,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Onjebie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525501
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d08baf9eaf408ee78c909a9cfbd713a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1260010565,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1260010565,
+    "wof:lastmodified":1537089843,
+    "wof:name":"Onjebie",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1991,
+    -2.02599,
+    39.1991,
+    -2.02599
+],
+  "geometry": {"coordinates":[39.1991,-2.02599],"type":"Point"}
+}

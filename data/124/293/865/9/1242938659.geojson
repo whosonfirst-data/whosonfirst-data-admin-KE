@@ -1,0 +1,73 @@
+{
+  "id": 1242938659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11762,-2.0904,36.11762,-2.0904",
+    "geom:latitude":-2.0904,
+    "geom:longitude":36.11762,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shompole",
+    "gn:country_code":"KE",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182302,
+    "gn:latitude":-2.0904,
+    "gn:longitude":36.11762,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Shompole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alangarua",
+        "Shombole",
+        "Olengarua",
+        "Shompole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182302
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7e64a8500e71ef552c9067d92f13bf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1242938659,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1242938659,
+    "wof:lastmodified":1537653039,
+    "wof:name":"Shompole",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11762,
+    -2.0904,
+    36.11762,
+    -2.0904
+],
+  "geometry": {"coordinates":[36.11762,-2.0904],"type":"Point"}
+}

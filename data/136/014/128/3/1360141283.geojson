@@ -1,0 +1,68 @@
+{
+  "id": 1360141283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74402,-1.07757,36.74402,-1.07757",
+    "geom:latitude":-1.07757,
+    "geom:longitude":36.74402,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Matuguta",
+    "gn:country_code":"KE",
+    "gn:dem":2048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187268,
+    "gn:latitude":-1.07757,
+    "gn:longitude":36.74402,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Matuguta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187268,
+        "wk:page":"Matuguta"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1b43b2fbeffae673f694c1d2a1c0c305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1360141283,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1360141283,
+    "wof:lastmodified":1537567140,
+    "wof:name":"Matuguta",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74402,
+    -1.07757,
+    36.74402,
+    -1.07757
+],
+  "geometry": {"coordinates":[36.74402,-1.07757],"type":"Point"}
+}

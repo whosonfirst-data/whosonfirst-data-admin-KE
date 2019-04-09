@@ -1,0 +1,70 @@
+{
+  "id": 1242652691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.80928,-2.27977,36.80928,-2.27977",
+    "geom:latitude":-2.27977,
+    "geom:longitude":36.80928,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngatataek",
+    "gn:country_code":"KE",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183787,
+    "gn:latitude":-2.27977,
+    "gn:longitude":36.80928,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ngatataek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngatataik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183787
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"93e9da1376c4f49372bf7a1ba0160b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1242652691,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1242652691,
+    "wof:lastmodified":1537653042,
+    "wof:name":"Ngatataek",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.80928,
+    -2.27977,
+    36.80928,
+    -2.27977
+],
+  "geometry": {"coordinates":[36.80928,-2.27977],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309877183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43123,-0.56375,34.43123,-0.56375",
+    "geom:latitude":-0.56375,
+    "geom:longitude":34.43123,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Marucha",
+    "gn:country_code":"KE",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187571,
+    "gn:latitude":-0.56375,
+    "gn:longitude":34.43123,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Marucha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187571,
+        "wk:page":"Marucha"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c03fcb825245d6d17339ec09e5160b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911319,
+            "locality_id":1309877183,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1309877183,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Marucha",
+    "wof:parent_id":1091911319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43123,
+    -0.56375,
+    34.43123,
+    -0.56375
+],
+  "geometry": {"coordinates":[34.43123,-0.56375],"type":"Point"}
+}

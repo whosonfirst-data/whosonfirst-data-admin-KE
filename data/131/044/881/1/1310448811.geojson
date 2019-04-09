@@ -1,0 +1,71 @@
+{
+  "id": 1310448811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36951,0.1515,36.36951,0.1515",
+    "geom:latitude":0.1515,
+    "geom:longitude":36.36951,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Subuku",
+    "gn:country_code":"KE",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179793,
+    "gn:latitude":0.1515,
+    "gn:longitude":36.36951,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Subuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subuko",
+        "Subuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179793
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2aeebbf2bdaf2dd0083bb533c123b2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":1310448811,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310448811,
+    "wof:lastmodified":1537653035,
+    "wof:name":"Subuku",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36951,
+    0.1515,
+    36.36951,
+    0.1515
+],
+  "geometry": {"coordinates":[36.36951,0.1515],"type":"Point"}
+}

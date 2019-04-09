@@ -1,0 +1,67 @@
+{
+  "id": 1327304257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77766,-0.57805,37.77766,-0.57805",
+    "geom:latitude":-0.57805,
+    "geom:longitude":37.77766,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kerie",
+    "gn:country_code":"KE",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192894,
+    "gn:latitude":-0.57805,
+    "gn:longitude":37.77766,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kerie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192894
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"15bd97837db6be2320a83e51abd51dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912055,
+            "locality_id":1327304257,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1327304257,
+    "wof:lastmodified":1536864626,
+    "wof:name":"Kerie",
+    "wof:parent_id":1091912055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77766,
+    -0.57805,
+    37.77766,
+    -0.57805
+],
+  "geometry": {"coordinates":[37.77766,-0.57805],"type":"Point"}
+}

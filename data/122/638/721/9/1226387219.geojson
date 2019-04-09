@@ -1,0 +1,71 @@
+{
+  "id": 1226387219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.17004,0.02266,37.17004,0.02266",
+    "geom:latitude":0.02266,
+    "geom:longitude":37.17004,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Oltulili",
+    "gn:country_code":"KE",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181952,
+    "gn:latitude":0.02266,
+    "gn:longitude":37.17004,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Oltulili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ontulili",
+        "Oltulili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181952
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a6a98d2113483d18ea2ca54dcfbf4628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912097,
+            "locality_id":1226387219,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226387219,
+    "wof:lastmodified":1537653038,
+    "wof:name":"Oltulili",
+    "wof:parent_id":1091912097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.17004,
+    0.02266,
+    37.17004,
+    0.02266
+],
+  "geometry": {"coordinates":[37.17004,0.02266],"type":"Point"}
+}

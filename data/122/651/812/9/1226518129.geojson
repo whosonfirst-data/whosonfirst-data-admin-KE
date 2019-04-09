@@ -1,0 +1,67 @@
+{
+  "id": 1226518129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56934,0.34284,37.56934,0.34284",
+    "geom:latitude":0.34284,
+    "geom:longitude":37.56934,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bulla Pesa",
+    "gn:country_code":"KE",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428261,
+    "gn:latitude":0.34284,
+    "gn:longitude":37.56934,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"Bulla Pesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428261
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7b6f5bbe122df3609d7fc12b5975bcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911367,
+            "locality_id":1226518129,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226518129,
+    "wof:lastmodified":1537036372,
+    "wof:name":"Bulla Pesa",
+    "wof:parent_id":1091911367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56934,
+    0.34284,
+    37.56934,
+    0.34284
+],
+  "geometry": {"coordinates":[37.56934,0.34284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209799157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28714,0.8019,36.28714,0.8019",
+    "geom:latitude":0.8019,
+    "geom:longitude":36.28714,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tangulbei",
+    "gn:country_code":"KE",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179569,
+    "gn:latitude":0.8019,
+    "gn:longitude":36.28714,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Tangulbei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangulbwe",
+        "Tangulbei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179569
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6d7860f6099c7e36f297838b7e2c2233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1209799157,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1209799157,
+    "wof:lastmodified":1537653035,
+    "wof:name":"Tangulbei",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28714,
+    0.8019,
+    36.28714,
+    0.8019
+],
+  "geometry": {"coordinates":[36.28714,0.8019],"type":"Point"}
+}

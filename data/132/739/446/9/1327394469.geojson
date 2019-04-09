@@ -1,0 +1,64 @@
+{
+  "id": 1327394469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85304,-1.95189,40.85304,-1.95189",
+    "geom:latitude":-1.95189,
+    "geom:longitude":40.85304,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Ankish",
+    "gn:country_code":"KE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200956,
+    "gn:latitude":-1.95189,
+    "gn:longitude":40.85304,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Ankish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200956,
+        "wk:page":"Ankish"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6d12df02a3ceafeec4d79bab959e08e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327394469,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327394469,
+    "wof:lastmodified":1537567173,
+    "wof:name":"Ankish",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85304,
+    -1.95189,
+    40.85304,
+    -1.95189
+],
+  "geometry": {"coordinates":[40.85304,-1.95189],"type":"Point"}
+}

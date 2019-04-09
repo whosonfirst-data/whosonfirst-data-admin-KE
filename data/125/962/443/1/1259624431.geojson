@@ -1,0 +1,70 @@
+{
+  "id": 1259624431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70372,2.75418,36.70372,2.75418",
+    "geom:latitude":2.75418,
+    "geom:longitude":36.70372,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"New El Molo Camp",
+    "gn:country_code":"KE",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11562961,
+    "gn:latitude":2.75418,
+    "gn:longitude":36.70372,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"New El Molo Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "New El Molo Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11562961
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0ed0adae3e46666b084aaeac8f56d9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1259624431,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1259624431,
+    "wof:lastmodified":1537653095,
+    "wof:name":"New El Molo Camp",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70372,
+    2.75418,
+    36.70372,
+    2.75418
+],
+  "geometry": {"coordinates":[36.70372,2.75418],"type":"Point"}
+}

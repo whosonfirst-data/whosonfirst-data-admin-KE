@@ -1,0 +1,105 @@
+{
+  "id": 1126074343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78333,-1.28333,36.78333,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":36.78333,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-1.28333,
+    "gn:longitude":36.78333,
+    "iso:country":"KE",
+    "lbl:latitude":-1.28333,
+    "lbl:longitude":36.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kileleshwa"
+    ],
+    "name:eng_x_variant":[
+        "Kileleshwan",
+        "Kerichwa Kubwa"
+    ],
+    "name:unk_x_variant":[
+        "Kerichwa Kubwa",
+        "Kileleshwa"
+    ],
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":192093,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kileleshwa",
+    "qs_pg:name_adm0":"Kenya",
+    "qs_pg:name_adm1":"Nairobi Area",
+    "qs_pg:photos":392,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":392,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":7552,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424863,
+    "qs_pg:woe_id":1527815,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424863,
+    "woe:name_adm0":"Kenya",
+    "woe:name_adm1":"Nairobi Area",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672951,
+        102191573,
+        85632329,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192093,
+        "gp:id":1527815,
+        "qs:id":7552,
+        "qs_pg:id":7552
+    },
+    "wof:country":"KE",
+    "wof:created":1497310628,
+    "wof:geomhash":"81c4b7b043a63bf335d4817c6cac5142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":-1,
+            "neighbourhood_id":1126074343,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":1126074343,
+    "wof:lastmodified":1534379373,
+    "wof:name":"Kileleshwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85771923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78333,
+    -1.28333,
+    36.78333,
+    -1.28333
+],
+  "geometry": {"coordinates":[36.78333,-1.28333],"type":"Point"}
+}

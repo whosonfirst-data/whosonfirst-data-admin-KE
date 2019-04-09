@@ -1,0 +1,111 @@
+{
+  "id": 421195145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31201,-0.48972,36.31201,-0.48972",
+    "geom:latitude":-0.48972,
+    "geom:longitude":36.31201,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Gilgil"
+    ],
+    "name:cze_x_preferred":[
+        "Gilgil"
+    ],
+    "name:dut_x_preferred":[
+        "Gilgil"
+    ],
+    "name:eng_x_preferred":[
+        "Gilgil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30eb\u30ae\u30eb"
+    ],
+    "name:nob_x_preferred":[
+        "Gilgil"
+    ],
+    "name:nor_x_preferred":[
+        "Gilgil"
+    ],
+    "name:pol_x_preferred":[
+        "Gilgil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u0433\u0438\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Gilgil"
+    ],
+    "name:swe_x_preferred":[
+        "Gilgil"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":197334,
+    "qs:gn_pop":0,
+    "qs:name":"Gilgil",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":137,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":137,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":277109,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527211,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":869,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197334,
+        "gp:id":1527211,
+        "qs:id":277109,
+        "wd:id":"Q3499651"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009833,
+    "wof:geomhash":"dd35dc0c671422098de1e53b2ce313bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":421195145,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421195145,
+    "wof:lastmodified":1527716121,
+    "wof:name":"Gilgil",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31201,
+    -0.48972,
+    36.31201,
+    -0.48972
+],
+  "geometry": {"coordinates":[36.31201,-0.48972],"type":"Point"}
+}

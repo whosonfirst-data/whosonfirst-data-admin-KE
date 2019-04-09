@@ -1,0 +1,93 @@
+{
+  "id": 1126085125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78308,-1.31654,36.78308,-1.31654",
+    "geom:latitude":-1.31654,
+    "geom:longitude":36.78308,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"KE",
+    "lbl:latitude":-1.31654,
+    "lbl:longitude":36.78308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":186353,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Moi",
+    "qs_pg:name_adm0":"Kenya",
+    "qs_pg:name_adm1":"Nairobi Area",
+    "qs_pg:photos":1713,
+    "qs_pg:photos_1k":347,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1713,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":275493,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424863,
+    "qs_pg:woe_id":1528331,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424863,
+    "woe:name_adm0":"Kenya",
+    "woe:name_adm1":"Nairobi Area",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672951,
+        102191573,
+        85632329,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186353,
+        "gp:id":1528331,
+        "qs_pg:id":275493
+    },
+    "wof:country":"KE",
+    "wof:created":1497312630,
+    "wof:geomhash":"ea55d019f467c1a2346ca4b585a17bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":-1,
+            "neighbourhood_id":1126085125,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":1126085125,
+    "wof:lastmodified":1534379373,
+    "wof:name":"Moi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[
+        85771929
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78308,
+    -1.31654,
+    36.78308,
+    -1.31654
+],
+  "geometry": {"coordinates":[36.78308,-1.31654],"type":"Point"}
+}

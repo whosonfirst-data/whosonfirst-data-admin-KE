@@ -1,0 +1,73 @@
+{
+  "id": 1276515827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.99117,-2.82094,39.99117,-2.82094",
+    "geom:latitude":-2.82094,
+    "geom:longitude":39.99117,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bukotwavi",
+    "gn:country_code":"KE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200176,
+    "gn:latitude":-2.82094,
+    "gn:longitude":39.99117,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bukotwavi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buketwavi",
+        "Bukatwavi",
+        "Bukotwavi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200176,
+        "wk:page":"Bukatwavi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"315aa743fc8f67bb012a50871094ec54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1276515827,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276515827,
+    "wof:lastmodified":1537653090,
+    "wof:name":"Bukotwavi",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.99117,
+    -2.82094,
+    39.99117,
+    -2.82094
+],
+  "geometry": {"coordinates":[39.99117,-2.82094],"type":"Point"}
+}

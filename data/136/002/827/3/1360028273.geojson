@@ -1,0 +1,68 @@
+{
+  "id": 1360028273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06667,-0.61667,37.06667,-0.61667",
+    "geom:latitude":-0.61667,
+    "geom:longitude":37.06667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Githanga",
+    "gn:country_code":"KE",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197280,
+    "gn:latitude":-0.61667,
+    "gn:longitude":37.06667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Githanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197280,
+        "wk:page":"Githanga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0d3e2881ff1aea4b1ba02face12b2445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1360028273,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1360028273,
+    "wof:lastmodified":1537567162,
+    "wof:name":"Githanga",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06667,
+    -0.61667,
+    37.06667,
+    -0.61667
+],
+  "geometry": {"coordinates":[37.06667,-0.61667],"type":"Point"}
+}

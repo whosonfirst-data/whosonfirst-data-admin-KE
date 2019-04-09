@@ -1,0 +1,67 @@
+{
+  "id": 1310099249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,0.96667,35.68333,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kimnai",
+    "gn:country_code":"KE",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191904,
+    "gn:latitude":0.96667,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kimnai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191904
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d758680a1cf140f597179a356b2a6416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1310099249,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310099249,
+    "wof:lastmodified":1537004772,
+    "wof:name":"Kimnai",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    0.96667,
+    35.68333,
+    0.96667
+],
+  "geometry": {"coordinates":[35.68333,0.96667],"type":"Point"}
+}

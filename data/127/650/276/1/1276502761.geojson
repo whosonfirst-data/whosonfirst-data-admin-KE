@@ -1,0 +1,71 @@
+{
+  "id": 1276502761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,-3.7,39.53333,-3.7",
+    "geom:latitude":-3.7,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Viragoni",
+    "gn:country_code":"KE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178541,
+    "gn:latitude":-3.7,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Viragoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vinagoni",
+        "Viragoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178541
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3c64616e75f3d3849d6228e2278e35ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1276502761,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276502761,
+    "wof:lastmodified":1537653033,
+    "wof:name":"Viragoni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    -3.7,
+    39.53333,
+    -3.7
+],
+  "geometry": {"coordinates":[39.53333,-3.7],"type":"Point"}
+}

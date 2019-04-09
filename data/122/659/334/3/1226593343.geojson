@@ -1,0 +1,71 @@
+{
+  "id": 1226593343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34772,-1.70664,37.34772,-1.70664",
+    "geom:latitude":-1.70664,
+    "geom:longitude":37.34772,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kola",
+    "gn:country_code":"KE",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190696,
+    "gn:latitude":-1.70664,
+    "gn:longitude":37.34772,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koala",
+        "Kola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190696
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0c03d1a984c9f102db0f8e229239c603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":1226593343,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226593343,
+    "wof:lastmodified":1537653060,
+    "wof:name":"Kola",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34772,
+    -1.70664,
+    37.34772,
+    -1.70664
+],
+  "geometry": {"coordinates":[37.34772,-1.70664],"type":"Point"}
+}

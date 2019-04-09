@@ -1,0 +1,67 @@
+{
+  "id": 1292942791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.07693,0.10746,34.07693,0.10746",
+    "geom:latitude":0.10746,
+    "geom:longitude":34.07693,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Siamufua",
+    "gn:country_code":"KE",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180331,
+    "gn:latitude":0.10746,
+    "gn:longitude":34.07693,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Siamufua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180331
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"855a6119c18eed50d6848db6302acb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1292942791,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1292942791,
+    "wof:lastmodified":1537072095,
+    "wof:name":"Siamufua",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.07693,
+    0.10746,
+    34.07693,
+    0.10746
+],
+  "geometry": {"coordinates":[34.07693,0.10746],"type":"Point"}
+}

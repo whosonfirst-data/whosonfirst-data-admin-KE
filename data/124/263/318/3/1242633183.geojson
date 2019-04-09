@@ -1,0 +1,68 @@
+{
+  "id": 1242633183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16566,-0.50595,37.16566,-0.50595",
+    "geom:latitude":-0.50595,
+    "geom:longitude":37.16566,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kangocho",
+    "gn:country_code":"KE",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194421,
+    "gn:latitude":-0.50595,
+    "gn:longitude":37.16566,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kangocho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194421,
+        "wk:page":"Kangocho"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ae788cce3b2cf123f742d35dbf61f864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1242633183,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1242633183,
+    "wof:lastmodified":1537567152,
+    "wof:name":"Kangocho",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16566,
+    -0.50595,
+    37.16566,
+    -0.50595
+],
+  "geometry": {"coordinates":[37.16566,-0.50595],"type":"Point"}
+}

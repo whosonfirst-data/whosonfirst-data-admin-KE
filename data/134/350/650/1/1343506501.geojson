@@ -1,0 +1,71 @@
+{
+  "id": 1343506501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27417,3.08889,39.27417,3.08889",
+    "geom:latitude":3.08889,
+    "geom:longitude":39.27417,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Dabel",
+    "gn:country_code":"KE",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198920,
+    "gn:latitude":3.08889,
+    "gn:longitude":39.27417,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dabel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobel",
+        "Dabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198920
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7c4c3389756b534c9c43e81c300a192b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912223,
+            "locality_id":1343506501,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1343506501,
+    "wof:lastmodified":1537653087,
+    "wof:name":"Dabel",
+    "wof:parent_id":1091912223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27417,
+    3.08889,
+    39.27417,
+    3.08889
+],
+  "geometry": {"coordinates":[39.27417,3.08889],"type":"Point"}
+}

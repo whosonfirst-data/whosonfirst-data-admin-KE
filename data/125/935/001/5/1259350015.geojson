@@ -1,0 +1,67 @@
+{
+  "id": 1259350015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63363,-0.03871,34.63363,-0.03871",
+    "geom:latitude":-0.03871,
+    "geom:longitude":34.63363,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Chulaimbo",
+    "gn:country_code":"KE",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10343865,
+    "gn:latitude":-0.03871,
+    "gn:longitude":34.63363,
+    "gn:modification_date":"2015-06-17",
+    "gn:name":"Chulaimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10343865
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4383adc891fe3c48c32388bcc3c3b124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911657,
+            "locality_id":1259350015,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1259350015,
+    "wof:lastmodified":1537048484,
+    "wof:name":"Chulaimbo",
+    "wof:parent_id":1091911657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63363,
+    -0.03871,
+    34.63363,
+    -0.03871
+],
+  "geometry": {"coordinates":[34.63363,-0.03871],"type":"Point"}
+}

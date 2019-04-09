@@ -1,0 +1,67 @@
+{
+  "id": 1309940607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.00158,-1.34854,40.00158,-1.34854",
+    "geom:latitude":-1.34854,
+    "geom:longitude":40.00158,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Obo",
+    "gn:country_code":"KE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182548,
+    "gn:latitude":-1.34854,
+    "gn:longitude":40.00158,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Obo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182548
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aaeae8e9eeb2612f5404a66c3fd7be4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1309940607,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1309940607,
+    "wof:lastmodified":1536736864,
+    "wof:name":"Obo",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.00158,
+    -1.34854,
+    40.00158,
+    -1.34854
+],
+  "geometry": {"coordinates":[40.00158,-1.34854],"type":"Point"}
+}

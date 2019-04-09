@@ -1,0 +1,68 @@
+{
+  "id": 1327118101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8261,0.01664,35.8261,0.01664",
+    "geom:latitude":0.01664,
+    "geom:longitude":35.8261,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Esageri",
+    "gn:country_code":"KE",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198173,
+    "gn:latitude":0.01664,
+    "gn:longitude":35.8261,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Esageri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198173,
+        "wk:page":"Esageri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"26adeb7b10f4b02bc678a760b4d7d40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911719,
+            "locality_id":1327118101,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327118101,
+    "wof:lastmodified":1537567167,
+    "wof:name":"Esageri",
+    "wof:parent_id":1091911719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8261,
+    0.01664,
+    35.8261,
+    0.01664
+],
+  "geometry": {"coordinates":[35.8261,0.01664],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310531889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91851,2.09773,36.91851,2.09773",
+    "geom:latitude":2.09773,
+    "geom:longitude":36.91851,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"South Horr",
+    "gn:country_code":"KE",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179869,
+    "gn:latitude":2.09773,
+    "gn:longitude":36.91851,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"South Horr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179869,
+        "wk:page":"South_Horr"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b748e5920b348125e34ff47fb74821cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912581,
+            "locality_id":1310531889,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310531889,
+    "wof:lastmodified":1537567129,
+    "wof:name":"South Horr",
+    "wof:parent_id":1091912581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91851,
+    2.09773,
+    36.91851,
+    2.09773
+],
+  "geometry": {"coordinates":[36.91851,2.09773],"type":"Point"}
+}

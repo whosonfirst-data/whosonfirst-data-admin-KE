@@ -1,0 +1,68 @@
+{
+  "id": 1209999517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.69729,-0.48668,37.69729,-0.48668",
+    "geom:latitude":-0.48668,
+    "geom:longitude":37.69729,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kasafari",
+    "gn:country_code":"KE",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193599,
+    "gn:latitude":-0.48668,
+    "gn:longitude":37.69729,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kasafari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193599,
+        "wk:page":"Kasafari"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ce4382996410030120b01108592df45a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1209999517,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1209999517,
+    "wof:lastmodified":1537567150,
+    "wof:name":"Kasafari",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.69729,
+    -0.48668,
+    37.69729,
+    -0.48668
+],
+  "geometry": {"coordinates":[37.69729,-0.48668],"type":"Point"}
+}

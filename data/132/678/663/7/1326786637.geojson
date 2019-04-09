@@ -1,0 +1,67 @@
+{
+  "id": 1326786637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.13651,-3.03663,40.13651,-3.03663",
+    "geom:latitude":-3.03663,
+    "geom:longitude":40.13651,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gongoni",
+    "gn:country_code":"KE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197083,
+    "gn:latitude":-3.03663,
+    "gn:longitude":40.13651,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gongoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197083
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b22b6f9cc68a1f7a8af5e904b49c3596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1326786637,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1326786637,
+    "wof:lastmodified":1536615089,
+    "wof:name":"Gongoni",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.13651,
+    -3.03663,
+    40.13651,
+    -3.03663
+],
+  "geometry": {"coordinates":[40.13651,-3.03663],"type":"Point"}
+}

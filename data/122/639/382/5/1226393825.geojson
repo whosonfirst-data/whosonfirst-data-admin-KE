@@ -1,0 +1,72 @@
+{
+  "id": 1226393825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05398,-0.8519,37.05398,-0.8519",
+    "geom:latitude":-0.8519,
+    "geom:longitude":37.05398,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Githembe",
+    "gn:country_code":"KE",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197271,
+    "gn:latitude":-0.8519,
+    "gn:longitude":37.05398,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Githembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitembe",
+        "Githembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197271,
+        "wk:page":"Gitembe"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9359565af9f9c5bee29f0c9f80d22678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1226393825,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226393825,
+    "wof:lastmodified":1537653080,
+    "wof:name":"Githembe",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05398,
+    -0.8519,
+    37.05398,
+    -0.8519
+],
+  "geometry": {"coordinates":[37.05398,-0.8519],"type":"Point"}
+}

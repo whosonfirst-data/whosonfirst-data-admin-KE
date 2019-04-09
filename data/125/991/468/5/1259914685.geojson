@@ -1,0 +1,68 @@
+{
+  "id": 1259914685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03333,-0.58333,37.03333,-0.58333",
+    "geom:latitude":-0.58333,
+    "geom:longitude":37.03333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kamuchoni",
+    "gn:country_code":"KE",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194658,
+    "gn:latitude":-0.58333,
+    "gn:longitude":37.03333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamuchoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194658,
+        "wk:page":"Kamuchoni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"234e95f86f3ca6b6fa2f2a0c4d06b186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1259914685,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259914685,
+    "wof:lastmodified":1537567153,
+    "wof:name":"Kamuchoni",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03333,
+    -0.58333,
+    37.03333,
+    -0.58333
+],
+  "geometry": {"coordinates":[37.03333,-0.58333],"type":"Point"}
+}

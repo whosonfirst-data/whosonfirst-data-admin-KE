@@ -1,0 +1,68 @@
+{
+  "id": 1242638765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35337,-4.45856,39.35337,-4.45856",
+    "geom:latitude":-4.45856,
+    "geom:longitude":39.35337,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ngwaru",
+    "gn:country_code":"KE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183399,
+    "gn:latitude":-4.45856,
+    "gn:longitude":39.35337,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ngwaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183399,
+        "wk:page":"Ngwaru"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"397921fdf377b2e78f5996b4e3c80444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1242638765,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1242638765,
+    "wof:lastmodified":1537567131,
+    "wof:name":"Ngwaru",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35337,
+    -4.45856,
+    39.35337,
+    -4.45856
+],
+  "geometry": {"coordinates":[39.35337,-4.45856],"type":"Point"}
+}

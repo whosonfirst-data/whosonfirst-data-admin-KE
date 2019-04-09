@@ -1,0 +1,68 @@
+{
+  "id": 1293761821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18333,-0.8,35.18333,-0.8",
+    "geom:latitude":-0.8,
+    "geom:longitude":35.18333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndamichoni",
+    "gn:country_code":"KE",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184230,
+    "gn:latitude":-0.8,
+    "gn:longitude":35.18333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ndamichoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184230,
+        "wk:page":"Ndamichoni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8eb5d09a3bb2d4856ef24c0bb31edf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910907,
+            "locality_id":1293761821,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293761821,
+    "wof:lastmodified":1537567133,
+    "wof:name":"Ndamichoni",
+    "wof:parent_id":1091910907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18333,
+    -0.8,
+    35.18333,
+    -0.8
+],
+  "geometry": {"coordinates":[35.18333,-0.8],"type":"Point"}
+}

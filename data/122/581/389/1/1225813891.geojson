@@ -1,0 +1,67 @@
+{
+  "id": 1225813891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22022,-2.99815,40.22022,-2.99815",
+    "geom:latitude":-2.99815,
+    "geom:longitude":40.22022,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Rasi",
+    "gn:country_code":"KE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890245,
+    "gn:latitude":-2.99815,
+    "gn:longitude":40.22022,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Rasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890245
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"44c8faaea45d5298508053b19350fbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1225813891,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1225813891,
+    "wof:lastmodified":1537057235,
+    "wof:name":"Rasi",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22022,
+    -2.99815,
+    40.22022,
+    -2.99815
+],
+  "geometry": {"coordinates":[40.22022,-2.99815],"type":"Point"}
+}

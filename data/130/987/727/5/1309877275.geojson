@@ -1,0 +1,68 @@
+{
+  "id": 1309877275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15153,-0.68848,34.15153,-0.68848",
+    "geom:latitude":-0.68848,
+    "geom:longitude":34.15153,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Magunga",
+    "gn:country_code":"KE",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188333,
+    "gn:latitude":-0.68848,
+    "gn:longitude":34.15153,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Magunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188333,
+        "wk:page":"Magunga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"472db9b458a547c1ad01e8fe08ca7072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912585,
+            "locality_id":1309877275,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1309877275,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Magunga",
+    "wof:parent_id":1091912585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15153,
+    -0.68848,
+    34.15153,
+    -0.68848
+],
+  "geometry": {"coordinates":[34.15153,-0.68848],"type":"Point"}
+}

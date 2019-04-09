@@ -1,0 +1,68 @@
+{
+  "id": 1260048777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67041,-1.15708,36.67041,-1.15708",
+    "geom:latitude":-1.15708,
+    "geom:longitude":36.67041,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kabuku",
+    "gn:country_code":"KE",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195685,
+    "gn:latitude":-1.15708,
+    "gn:longitude":36.67041,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kabuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195685,
+        "wk:page":"Kabuku"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"975a180695b889dab8ca03519424c890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1260048777,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260048777,
+    "wof:lastmodified":1537567157,
+    "wof:name":"Kabuku",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67041,
+    -1.15708,
+    36.67041,
+    -1.15708
+],
+  "geometry": {"coordinates":[36.67041,-1.15708],"type":"Point"}
+}

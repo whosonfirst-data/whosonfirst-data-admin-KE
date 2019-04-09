@@ -1,0 +1,67 @@
+{
+  "id": 1260332089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.19742,-1.03638,34.19742,-1.03638",
+    "geom:latitude":-1.03638,
+    "geom:longitude":34.19742,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Bande",
+    "gn:country_code":"KE",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200646,
+    "gn:latitude":-1.03638,
+    "gn:longitude":34.19742,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Bande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200646
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ad0b6c3b048f823becdf8b0d56506f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1260332089,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1260332089,
+    "wof:lastmodified":1536646396,
+    "wof:name":"Bande",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.19742,
+    -1.03638,
+    34.19742,
+    -1.03638
+],
+  "geometry": {"coordinates":[34.19742,-1.03638],"type":"Point"}
+}

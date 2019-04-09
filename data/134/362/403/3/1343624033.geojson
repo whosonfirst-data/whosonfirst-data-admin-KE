@@ -1,0 +1,72 @@
+{
+  "id": 1343624033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92115,-1.96686,36.92115,-1.96686",
+    "geom:latitude":-1.96686,
+    "geom:longitude":36.92115,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Enkorika",
+    "gn:country_code":"KE",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198252,
+    "gn:latitude":-1.96686,
+    "gn:longitude":36.92115,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Enkorika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngorigaishi",
+        "Enkorika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198252,
+        "wk:page":"Enkorika"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"af72ca8480968082f3c602f6fd33c360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1343624033,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1343624033,
+    "wof:lastmodified":1537653085,
+    "wof:name":"Enkorika",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92115,
+    -1.96686,
+    36.92115,
+    -1.96686
+],
+  "geometry": {"coordinates":[36.92115,-1.96686],"type":"Point"}
+}

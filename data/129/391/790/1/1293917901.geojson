@@ -1,0 +1,71 @@
+{
+  "id": 1293917901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01072,-1.24869,35.01072,-1.24869",
+    "geom:latitude":-1.24869,
+    "geom:longitude":35.01072,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kichwa Tembo",
+    "gn:country_code":"KE",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11153440,
+    "gn:latitude":-1.24869,
+    "gn:longitude":35.01072,
+    "gn:modification_date":"2016-05-21",
+    "gn:name":"Kichwa Tembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kichwa Tembo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11153440,
+        "wk:page":"Heritage_commodification#Kichwa_Tembo_.28Out_of_Africa_Sundowner.29"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"39d9f04006592357e9f163bcc263e15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912717,
+            "locality_id":1293917901,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293917901,
+    "wof:lastmodified":1537653094,
+    "wof:name":"Kichwa Tembo",
+    "wof:parent_id":1091912717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01072,
+    -1.24869,
+    35.01072,
+    -1.24869
+],
+  "geometry": {"coordinates":[35.01072,-1.24869],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209042619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6077,-3.51757,38.6077,-3.51757",
+    "geom:latitude":-3.51757,
+    "geom:longitude":38.6077,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Kajire",
+    "gn:country_code":"KE",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195287,
+    "gn:latitude":-3.51757,
+    "gn:longitude":38.6077,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kajire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195287,
+        "wk:page":"Kajire"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"34485655a49477c61704d910848ea08e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209042619
+        }
+    ],
+    "wof:id":1209042619,
+    "wof:lastmodified":1537567155,
+    "wof:name":"Kajire",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6077,
+    -3.51757,
+    38.6077,
+    -3.51757
+],
+  "geometry": {"coordinates":[38.6077,-3.51757],"type":"Point"}
+}

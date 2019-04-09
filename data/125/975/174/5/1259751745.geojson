@@ -1,0 +1,68 @@
+{
+  "id": 1259751745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55,-3.46667,39.55,-3.46667",
+    "geom:latitude":-3.46667,
+    "geom:longitude":39.55,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Luswani",
+    "gn:country_code":"KE",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188573,
+    "gn:latitude":-3.46667,
+    "gn:longitude":39.55,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Luswani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188573,
+        "wk:page":"Luswani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c0f774e78dad5733db43fa8f461bf933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1259751745,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259751745,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Luswani",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55,
+    -3.46667,
+    39.55,
+    -3.46667
+],
+  "geometry": {"coordinates":[39.55,-3.46667],"type":"Point"}
+}

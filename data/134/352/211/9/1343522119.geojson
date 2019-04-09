@@ -1,0 +1,68 @@
+{
+  "id": 1343522119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70888,-2.35791,40.70888,-2.35791",
+    "geom:latitude":-2.35791,
+    "geom:longitude":40.70888,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mapenya",
+    "gn:country_code":"KE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187772,
+    "gn:latitude":-2.35791,
+    "gn:longitude":40.70888,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mapenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187772,
+        "wk:page":"Mapenya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b6ae95d4ca3afeec969370c8ea38fcc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1343522119,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343522119,
+    "wof:lastmodified":1537567142,
+    "wof:name":"Mapenya",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70888,
+    -2.35791,
+    40.70888,
+    -2.35791
+],
+  "geometry": {"coordinates":[40.70888,-2.35791],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243509215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43333,-0.06667,34.43333,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":34.43333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mirieri",
+    "gn:country_code":"KE",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186623,
+    "gn:latitude":-0.06667,
+    "gn:longitude":34.43333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mirieri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186623,
+        "wk:page":"Mirieri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"386119dea708537c2b7fa0a91b913a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911657,
+            "locality_id":1243509215,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1243509215,
+    "wof:lastmodified":1537567139,
+    "wof:name":"Mirieri",
+    "wof:parent_id":1091911657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43333,
+    -0.06667,
+    34.43333,
+    -0.06667
+],
+  "geometry": {"coordinates":[34.43333,-0.06667],"type":"Point"}
+}

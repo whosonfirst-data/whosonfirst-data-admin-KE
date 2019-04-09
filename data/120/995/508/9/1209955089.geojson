@@ -1,0 +1,68 @@
+{
+  "id": 1209955089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.10934,0.43357,35.10934,0.43357",
+    "geom:latitude":0.43357,
+    "geom:longitude":35.10934,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kabisaga",
+    "gn:country_code":"KE",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195762,
+    "gn:latitude":0.43357,
+    "gn:longitude":35.10934,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kabisaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195762,
+        "wk:page":"Kabisaga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0150f3c0c60c52db7e0b7322b03b222e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912403,
+            "locality_id":1209955089,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1209955089,
+    "wof:lastmodified":1537567157,
+    "wof:name":"Kabisaga",
+    "wof:parent_id":1091912403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.10934,
+    0.43357,
+    35.10934,
+    0.43357
+],
+  "geometry": {"coordinates":[35.10934,0.43357],"type":"Point"}
+}

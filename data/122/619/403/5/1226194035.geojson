@@ -1,0 +1,67 @@
+{
+  "id": 1226194035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73678,-3.98822,39.73678,-3.98822",
+    "geom:latitude":-3.98822,
+    "geom:longitude":39.73678,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Bamburi Beach",
+    "gn:country_code":"KE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8126046,
+    "gn:latitude":-3.98822,
+    "gn:longitude":39.73678,
+    "gn:modification_date":"2013-11-22",
+    "gn:name":"Bamburi Beach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8126046
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4d428caddfb3dd7f915d04b88da8e7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912207,
+            "locality_id":1226194035,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226194035,
+    "wof:lastmodified":1537007509,
+    "wof:name":"Bamburi Beach",
+    "wof:parent_id":1091912207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73678,
+    -3.98822,
+    39.73678,
+    -3.98822
+],
+  "geometry": {"coordinates":[39.73678,-3.98822],"type":"Point"}
+}

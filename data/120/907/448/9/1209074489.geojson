@@ -1,0 +1,61 @@
+{
+  "id": 1209074489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34024,-0.69215,37.34024,-0.69215",
+    "geom:latitude":-0.69215,
+    "geom:longitude":37.34024,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Thiba",
+    "gn:country_code":"KE",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179346,
+    "gn:latitude":-0.69215,
+    "gn:longitude":37.34024,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Thiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179346
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0a6282b29f24470243a6b8c3bd0ac884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209074489
+        }
+    ],
+    "wof:id":1209074489,
+    "wof:lastmodified":1536298539,
+    "wof:name":"Thiba",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34024,
+    -0.69215,
+    37.34024,
+    -0.69215
+],
+  "geometry": {"coordinates":[37.34024,-0.69215],"type":"Point"}
+}

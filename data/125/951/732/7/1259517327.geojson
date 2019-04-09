@@ -1,0 +1,67 @@
+{
+  "id": 1259517327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.32784,-2.51312,40.32784,-2.51312",
+    "geom:latitude":-2.51312,
+    "geom:longitude":40.32784,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Odhole",
+    "gn:country_code":"KE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7844725,
+    "gn:latitude":-2.51312,
+    "gn:longitude":40.32784,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Odhole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7844725
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d19a33a1a0db38a6587952aa93d73fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1259517327,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259517327,
+    "wof:lastmodified":1536809782,
+    "wof:name":"Odhole",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.32784,
+    -2.51312,
+    40.32784,
+    -2.51312
+],
+  "geometry": {"coordinates":[40.32784,-2.51312],"type":"Point"}
+}

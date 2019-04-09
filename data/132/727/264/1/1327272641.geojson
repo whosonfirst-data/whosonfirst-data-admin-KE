@@ -1,0 +1,72 @@
+{
+  "id": 1327272641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0278,-0.78697,37.0278,-0.78697",
+    "geom:latitude":-0.78697,
+    "geom:longitude":37.0278,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gatheri",
+    "gn:country_code":"KE",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197652,
+    "gn:latitude":-0.78697,
+    "gn:longitude":37.0278,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gatheri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gathera",
+        "Gatheri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197652,
+        "wk:page":"Gathera"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b41d071ba30b4366a6664555fb166f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1327272641,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1327272641,
+    "wof:lastmodified":1537653082,
+    "wof:name":"Gatheri",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0278,
+    -0.78697,
+    37.0278,
+    -0.78697
+],
+  "geometry": {"coordinates":[37.0278,-0.78697],"type":"Point"}
+}

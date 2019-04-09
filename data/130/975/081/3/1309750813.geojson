@@ -1,0 +1,72 @@
+{
+  "id": 1309750813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67272,-0.12445,37.67272,-0.12445",
+    "geom:latitude":-0.12445,
+    "geom:longitude":37.67272,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kanyekine",
+    "gn:country_code":"KE",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194286,
+    "gn:latitude":-0.12445,
+    "gn:longitude":37.67272,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kanyekine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyekini",
+        "Kanyekine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194286,
+        "wk:page":"Kanyekine"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5d3fbc18e69e718d7678ef9f42d1aaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912097,
+            "locality_id":1309750813,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1309750813,
+    "wof:lastmodified":1537653070,
+    "wof:name":"Kanyekine",
+    "wof:parent_id":1091912097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67272,
+    -0.12445,
+    37.67272,
+    -0.12445
+],
+  "geometry": {"coordinates":[37.67272,-0.12445],"type":"Point"}
+}

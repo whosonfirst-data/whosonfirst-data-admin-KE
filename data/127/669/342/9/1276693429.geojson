@@ -1,0 +1,67 @@
+{
+  "id": 1276693429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57648,-2.06959,39.57648,-2.06959",
+    "geom:latitude":-2.06959,
+    "geom:longitude":39.57648,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Buluto Chopi",
+    "gn:country_code":"KE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525535,
+    "gn:latitude":-2.06959,
+    "gn:longitude":39.57648,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Buluto Chopi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525535
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"23d355336b731e8e225968bc6af30228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1276693429,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276693429,
+    "wof:lastmodified":1536793464,
+    "wof:name":"Buluto Chopi",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57648,
+    -2.06959,
+    39.57648,
+    -2.06959
+],
+  "geometry": {"coordinates":[39.57648,-2.06959],"type":"Point"}
+}

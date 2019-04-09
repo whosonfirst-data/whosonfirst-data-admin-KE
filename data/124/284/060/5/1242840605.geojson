@@ -1,0 +1,68 @@
+{
+  "id": 1242840605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,0.33333,37.55,0.33333",
+    "geom:latitude":0.33333,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kampi Ya Sheikh Omar",
+    "gn:country_code":"KE",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194674,
+    "gn:latitude":0.33333,
+    "gn:longitude":37.55,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kampi Ya Sheikh Omar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194674,
+        "wk:page":"Kampi_Ya_Sheikh_Omar"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5193c000fc86c06eaaedbc7e235d6092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911367,
+            "locality_id":1242840605,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1242840605,
+    "wof:lastmodified":1537567153,
+    "wof:name":"Kampi Ya Sheikh Omar",
+    "wof:parent_id":1091911367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    0.33333,
+    37.55,
+    0.33333
+],
+  "geometry": {"coordinates":[37.55,0.33333],"type":"Point"}
+}

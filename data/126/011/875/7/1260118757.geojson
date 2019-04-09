@@ -1,0 +1,72 @@
+{
+  "id": 1260118757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09163,-0.67994,37.09163,-0.67994",
+    "geom:latitude":-0.67994,
+    "geom:longitude":37.09163,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kagumo",
+    "gn:country_code":"KE",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194395,
+    "gn:latitude":-0.67994,
+    "gn:longitude":37.09163,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kagumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangure",
+        "Kagumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194395,
+        "wk:page":"Kangure"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"901382a08c8c9fb8a6fd50d2253ff097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1260118757,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260118757,
+    "wof:lastmodified":1537653070,
+    "wof:name":"Kagumo",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09163,
+    -0.67994,
+    37.09163,
+    -0.67994
+],
+  "geometry": {"coordinates":[37.09163,-0.67994],"type":"Point"}
+}

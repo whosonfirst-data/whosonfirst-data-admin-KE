@@ -1,0 +1,67 @@
+{
+  "id": 1259666029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3787,0.00281,40.3787,0.00281",
+    "geom:latitude":0.00281,
+    "geom:longitude":40.3787,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hagadera",
+    "gn:country_code":"KE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196919,
+    "gn:latitude":0.00281,
+    "gn:longitude":40.3787,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Hagadera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196919
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"cd31cb07089466d53e478fa6862d6487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1259666029,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1259666029,
+    "wof:lastmodified":1537088976,
+    "wof:name":"Hagadera",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.3787,
+    0.00281,
+    40.3787,
+    0.00281
+],
+  "geometry": {"coordinates":[40.3787,0.00281],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890442267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,-1.03333,36.83333,-1.03333",
+    "geom:latitude":-1.03333,
+    "geom:longitude":36.83333,
+    "gn:country":"KE",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Karatina"
+    ],
+    "qs:name":"Kiratina Sub-Location",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191505,
+        "qs:id":275864
+    },
+    "wof:country":"KE",
+    "wof:created":1469052356,
+    "wof:geomhash":"f7e13a12419b3dc5fe3a3efba83d7580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "localadmin_id":890442267,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":890442267,
+    "wof:lastmodified":1505343587,
+    "wof:name":"Kiratina Sub-Location",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    -1.03333,
+    36.83333,
+    -1.03333
+],
+  "geometry": {"coordinates":[36.83333,-1.03333],"type":"Point"}
+}

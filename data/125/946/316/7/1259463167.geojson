@@ -1,0 +1,72 @@
+{
+  "id": 1259463167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.71489,0.84033,34.71489,0.84033",
+    "geom:latitude":0.84033,
+    "geom:longitude":34.71489,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kapsakwony",
+    "gn:country_code":"KE",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194033,
+    "gn:latitude":0.84033,
+    "gn:longitude":34.71489,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kapsakwony",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapsakwany",
+        "Kapsakwony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194033,
+        "wk:page":"Kapsakwany"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f2121a77ebbf21a7b60a15e800918626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912267,
+            "locality_id":1259463167,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1259463167,
+    "wof:lastmodified":1537653069,
+    "wof:name":"Kapsakwony",
+    "wof:parent_id":1091912267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.71489,
+    0.84033,
+    34.71489,
+    0.84033
+],
+  "geometry": {"coordinates":[34.71489,0.84033],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421202539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1575,-0.48697,36.1575,-0.48697",
+    "geom:latitude":-0.48697,
+    "geom:longitude":36.1575,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Elmenteita"
+    ],
+    "name:eng_x_preferred":[
+        "Elmenteita"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":198572,
+    "qs:gn_pop":0,
+    "qs:name":"Elmenteita",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":24,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":28009,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527041,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198572,
+        "gp:id":1527041,
+        "qs:id":28009,
+        "wd:id":"Q5366459",
+        "wk:page":"Elmenteita"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010121,
+    "wof:geomhash":"3568d00536c6b1ed9458dc875e177df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":421202539,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421202539,
+    "wof:lastmodified":1527716209,
+    "wof:name":"Elmenteita",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1575,
+    -0.48697,
+    36.1575,
+    -0.48697
+],
+  "geometry": {"coordinates":[36.1575,-0.48697],"type":"Point"}
+}

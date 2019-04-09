@@ -1,0 +1,73 @@
+{
+  "id": 1310442539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02418,-0.48085,35.02418,-0.48085",
+    "geom:latitude":-0.48085,
+    "geom:longitude":35.02418,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Magwagwa",
+    "gn:country_code":"KE",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188320,
+    "gn:latitude":-0.48085,
+    "gn:longitude":35.02418,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Magwagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maraagwa",
+        "Maragwa",
+        "Magwagwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188320,
+        "wk:page":"Magwagwa"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"41e676a1bf3017cd7c9be2a406d36509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912493,
+            "locality_id":1310442539,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310442539,
+    "wof:lastmodified":1537653057,
+    "wof:name":"Magwagwa",
+    "wof:parent_id":1091912493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02418,
+    -0.48085,
+    35.02418,
+    -0.48085
+],
+  "geometry": {"coordinates":[35.02418,-0.48085],"type":"Point"}
+}

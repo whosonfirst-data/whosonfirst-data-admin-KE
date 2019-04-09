@@ -1,0 +1,71 @@
+{
+  "id": 1276795695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.02912,2.25037,35.02912,2.25037",
+    "geom:latitude":2.25037,
+    "geom:longitude":35.02912,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Alalei",
+    "gn:country_code":"KE",
+    "gn:dem":1597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201122,
+    "gn:latitude":2.25037,
+    "gn:longitude":35.02912,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Alalei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alale",
+        "Akale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201122
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d3cd6e30ff133b046dc3bd14d673f2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1276795695,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276795695,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Alalei",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.02912,
+    2.25037,
+    35.02912,
+    2.25037
+],
+  "geometry": {"coordinates":[35.02912,2.25037],"type":"Point"}
+}

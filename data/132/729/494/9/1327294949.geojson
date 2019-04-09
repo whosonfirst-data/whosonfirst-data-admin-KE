@@ -1,0 +1,67 @@
+{
+  "id": 1327294949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31216,0.10857,36.31216,0.10857",
+    "geom:latitude":0.10857,
+    "geom:longitude":36.31216,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shamenek",
+    "gn:country_code":"KE",
+    "gn:dem":2301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180476,
+    "gn:latitude":0.10857,
+    "gn:longitude":36.31216,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Shamenek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180476
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4a0cb29cd0afe5ee762a281480bd0b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":1327294949,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327294949,
+    "wof:lastmodified":1536878662,
+    "wof:name":"Shamenek",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31216,
+    0.10857,
+    36.31216,
+    0.10857
+],
+  "geometry": {"coordinates":[36.31216,0.10857],"type":"Point"}
+}

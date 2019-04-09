@@ -1,0 +1,67 @@
+{
+  "id": 1310266551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.15771,0.67315,35.15771,0.67315",
+    "geom:latitude":0.67315,
+    "geom:longitude":35.15771,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Soy",
+    "gn:country_code":"KE",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179830,
+    "gn:latitude":0.67315,
+    "gn:longitude":35.15771,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Soy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179830
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c97ef807157d6eb810710148dfe8e577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "locality_id":1310266551,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310266551,
+    "wof:lastmodified":1536764576,
+    "wof:name":"Soy",
+    "wof:parent_id":1091912837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.15770999999999,
+    0.67315,
+    35.15770999999999,
+    0.67315
+],
+  "geometry": {"coordinates":[35.15770999999999,0.67315],"type":"Point"}
+}

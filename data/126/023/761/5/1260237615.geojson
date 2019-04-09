@@ -1,0 +1,73 @@
+{
+  "id": 1260237615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63333,-3.85,39.63333,-3.85",
+    "geom:latitude":-3.85,
+    "geom:longitude":39.63333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mbungoni",
+    "gn:country_code":"KE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186954,
+    "gn:latitude":-3.85,
+    "gn:longitude":39.63333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mbungoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbunboni",
+        "Mbungoni",
+        "Mubungoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186954,
+        "wk:page":"Mbunboni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2a74e9c576bb0955e63887c50706d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1260237615,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1260237615,
+    "wof:lastmodified":1537653052,
+    "wof:name":"Mbungoni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63333,
+    -3.85,
+    39.63333,
+    -3.85
+],
+  "geometry": {"coordinates":[39.63333,-3.85],"type":"Point"}
+}

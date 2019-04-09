@@ -1,0 +1,61 @@
+{
+  "id": 1209173669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45,-1.76667,37.45,-1.76667",
+    "geom:latitude":-1.76667,
+    "geom:longitude":37.45,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Nzuuni",
+    "gn:country_code":"KE",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182574,
+    "gn:latitude":-1.76667,
+    "gn:longitude":37.45,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nzuuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182574
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6eaa9b0e71784a12cb12ab81e3364fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209173669
+        }
+    ],
+    "wof:id":1209173669,
+    "wof:lastmodified":1536295497,
+    "wof:name":"Nzuuni",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45,
+    -1.76667,
+    37.45,
+    -1.76667
+],
+  "geometry": {"coordinates":[37.45,-1.76667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310341577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63333,0.01667,34.63333,0.01667",
+    "geom:latitude":0.01667,
+    "geom:longitude":34.63333,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Konjero se Ekonjero",
+    "gn:country_code":"KE",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190562,
+    "gn:latitude":0.01667,
+    "gn:longitude":34.63333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Konjero se Ekonjero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190562,
+        "wk:page":"Konjero_se_Ekonjero"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fe11c017313fb0d951f4b050c5d44d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":1310341577,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1310341577,
+    "wof:lastmodified":1537567146,
+    "wof:name":"Konjero se Ekonjero",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63333,
+    0.01667,
+    34.63333,
+    0.01667
+],
+  "geometry": {"coordinates":[34.63333,0.01667],"type":"Point"}
+}

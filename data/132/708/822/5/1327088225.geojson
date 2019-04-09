@@ -1,0 +1,70 @@
+{
+  "id": 1327088225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92992,2.6426,36.92992,2.6426",
+    "geom:latitude":2.6426,
+    "geom:longitude":36.92992,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Gatab",
+    "gn:country_code":"KE",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559231,
+    "gn:latitude":2.6426,
+    "gn:longitude":36.92992,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Gatab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gatab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559231
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7ed9b1a553001cbe1f33ab943c8365cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1327088225,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1327088225,
+    "wof:lastmodified":1537653095,
+    "wof:name":"Gatab",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92992,
+    2.6426,
+    36.92992,
+    2.6426
+],
+  "geometry": {"coordinates":[36.92992,2.6426],"type":"Point"}
+}

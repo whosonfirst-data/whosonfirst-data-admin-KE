@@ -1,0 +1,68 @@
+{
+  "id": 1327381423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5,-3.88333,39.5,-3.88333",
+    "geom:latitude":-3.88333,
+    "geom:longitude":39.5,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Lukongo",
+    "gn:country_code":"KE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188632,
+    "gn:latitude":-3.88333,
+    "gn:longitude":39.5,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lukongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188632,
+        "wk:page":"Lukongo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f710f6645da32622f1d6e7c6f40fb63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1327381423,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327381423,
+    "wof:lastmodified":1537567145,
+    "wof:name":"Lukongo",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5,
+    -3.88333,
+    39.5,
+    -3.88333
+],
+  "geometry": {"coordinates":[39.5,-3.88333],"type":"Point"}
+}

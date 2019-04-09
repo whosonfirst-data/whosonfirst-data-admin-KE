@@ -1,0 +1,67 @@
+{
+  "id": 1293851575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70953,-0.67639,34.70953,-0.67639",
+    "geom:latitude":-0.67639,
+    "geom:longitude":34.70953,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Nyambunwa",
+    "gn:country_code":"KE",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182894,
+    "gn:latitude":-0.67639,
+    "gn:longitude":34.70953,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nyambunwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182894
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"42e73d5073d9bc2ae3dee5b68c5f4150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911163,
+            "locality_id":1293851575,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1293851575,
+    "wof:lastmodified":1536759606,
+    "wof:name":"Nyambunwa",
+    "wof:parent_id":1091911163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70953,
+    -0.67639,
+    34.70953,
+    -0.67639
+],
+  "geometry": {"coordinates":[34.70953,-0.67639],"type":"Point"}
+}

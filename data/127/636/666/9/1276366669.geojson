@@ -1,0 +1,71 @@
+{
+  "id": 1276366669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37917,-0.27088,36.37917,-0.27088",
+    "geom:latitude":-0.27088,
+    "geom:longitude":36.37917,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ol Kalou",
+    "gn:country_code":"KE",
+    "gn:dem":2348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7931933,
+    "gn:latitude":-0.27088,
+    "gn:longitude":36.37917,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Ol Kalou",
+    "gn:population":47795,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890437763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931933,
+        "wk:page":"Ol_Kalou"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2ddd627cd8194e0877da0ff72bfd72bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890437763,
+            "locality_id":1276366669,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1276366669,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Ol Kalou",
+    "wof:parent_id":890437763,
+    "wof:placetype":"locality",
+    "wof:population":47795,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37917,
+    -0.27088,
+    36.37917,
+    -0.27088
+],
+  "geometry": {"coordinates":[36.37917,-0.27088],"type":"Point"}
+}

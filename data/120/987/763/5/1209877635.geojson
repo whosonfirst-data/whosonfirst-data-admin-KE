@@ -1,0 +1,67 @@
+{
+  "id": 1209877635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.13366,-4.48046,39.13366,-4.48046",
+    "geom:latitude":-4.48046,
+    "geom:longitude":39.13366,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mwena",
+    "gn:country_code":"KE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308068,
+    "gn:latitude":-4.48046,
+    "gn:longitude":39.13366,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mwena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308068
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4b4c36423199e3cb95557ff70d426ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1209877635,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1209877635,
+    "wof:lastmodified":1536396501,
+    "wof:name":"Mwena",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.13366,
+    -4.48046,
+    39.13366,
+    -4.48046
+],
+  "geometry": {"coordinates":[39.13366,-4.48046],"type":"Point"}
+}

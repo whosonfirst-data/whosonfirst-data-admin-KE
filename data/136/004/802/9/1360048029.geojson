@@ -1,0 +1,68 @@
+{
+  "id": 1360048029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.68548,-1.39507,36.68548,-1.39507",
+    "geom:latitude":-1.39507,
+    "geom:longitude":36.68548,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Matathia",
+    "gn:country_code":"KE",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187411,
+    "gn:latitude":-1.39507,
+    "gn:longitude":36.68548,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Matathia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187411,
+        "wk:page":"Matathia"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"34bb31cf2ec897d4fdb8933946e9294a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1360048029,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1360048029,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Matathia",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.68548,
+    -1.39507,
+    36.68548,
+    -1.39507
+],
+  "geometry": {"coordinates":[36.68548,-1.39507],"type":"Point"}
+}

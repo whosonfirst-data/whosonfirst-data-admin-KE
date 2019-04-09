@@ -1,0 +1,71 @@
+{
+  "id": 1226472773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30736,-0.37369,34.30736,-0.37369",
+    "geom:latitude":-0.37369,
+    "geom:longitude":34.30736,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ranalo",
+    "gn:country_code":"KE",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181365,
+    "gn:latitude":-0.37369,
+    "gn:longitude":34.30736,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ranalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ranyala",
+        "Ranalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091910953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181365
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"99c976c6c5283f43678c0ea5b73e8a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910953,
+            "locality_id":1226472773,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1226472773,
+    "wof:lastmodified":1537653038,
+    "wof:name":"Ranalo",
+    "wof:parent_id":1091910953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30736,
+    -0.37369,
+    34.30736,
+    -0.37369
+],
+  "geometry": {"coordinates":[34.30736,-0.37369],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310558381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.8249,-0.14958,34.8249,-0.14958",
+    "geom:latitude":-0.14958,
+    "geom:longitude":34.8249,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Rabour",
+    "gn:country_code":"KE",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181463,
+    "gn:latitude":-0.14958,
+    "gn:longitude":34.8249,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Rabour",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rabwor",
+        "Rabur",
+        "Rabour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181463
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"70ee51b69da299153c50e25adf048c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911657,
+            "locality_id":1310558381,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310558381,
+    "wof:lastmodified":1537653038,
+    "wof:name":"Rabour",
+    "wof:parent_id":1091911657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.8249,
+    -0.14958,
+    34.8249,
+    -0.14958
+],
+  "geometry": {"coordinates":[34.8249,-0.14958],"type":"Point"}
+}

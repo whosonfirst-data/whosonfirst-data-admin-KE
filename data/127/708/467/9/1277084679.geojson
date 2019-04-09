@@ -1,0 +1,60 @@
+{
+  "id": 1277084679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51766,-2.52617,40.51766,-2.52617",
+    "geom:latitude":-2.52617,
+    "geom:longitude":40.51766,
+    "gn:asciiname":"Tana Power Station",
+    "gn:country_code":"KE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617403,
+    "gn:latitude":-2.52617,
+    "gn:longitude":40.51766,
+    "gn:modification_date":"2013-09-25",
+    "gn:name":"Tana Power Station",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617403
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d048e18d54a52c20a1d74c50f38b1008",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277084679,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277084679,
+    "wof:lastmodified":1536765111,
+    "wof:name":"Tana Power Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51766,
+    -2.52617,
+    40.51766,
+    -2.52617
+],
+  "geometry": {"coordinates":[40.51766,-2.52617],"type":"Point"}
+}

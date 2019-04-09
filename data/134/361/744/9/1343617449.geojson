@@ -1,0 +1,72 @@
+{
+  "id": 1343617449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3231,-0.50669,37.3231,-0.50669",
+    "geom:latitude":-0.50669,
+    "geom:longitude":37.3231,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kabare",
+    "gn:country_code":"KE",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195828,
+    "gn:latitude":-0.50669,
+    "gn:longitude":37.3231,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kabare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabara",
+        "Kabae",
+        "Kabare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195828
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e87368baeaefee7cccc6a9cd5cfa58c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1343617449,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343617449,
+    "wof:lastmodified":1537653075,
+    "wof:name":"Kabare",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3231,
+    -0.50669,
+    37.3231,
+    -0.50669
+],
+  "geometry": {"coordinates":[37.3231,-0.50669],"type":"Point"}
+}

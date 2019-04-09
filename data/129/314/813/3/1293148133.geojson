@@ -1,0 +1,68 @@
+{
+  "id": 1293148133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28394,-4.57006,39.28394,-4.57006",
+    "geom:latitude":-4.57006,
+    "geom:longitude":39.28394,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Majoreni",
+    "gn:country_code":"KE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188189,
+    "gn:latitude":-4.57006,
+    "gn:longitude":39.28394,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Majoreni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188189,
+        "wk:page":"Majoreni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aed7a908f616b71334d5e8a3ea2e4d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1293148133,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293148133,
+    "wof:lastmodified":1537567143,
+    "wof:name":"Majoreni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28394,
+    -4.57006,
+    39.28394,
+    -4.57006
+],
+  "geometry": {"coordinates":[39.28394,-4.57006],"type":"Point"}
+}

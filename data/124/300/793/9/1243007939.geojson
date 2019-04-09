@@ -1,0 +1,67 @@
+{
+  "id": 1243007939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.21522,-2.3368,40.21522,-2.3368",
+    "geom:latitude":-2.3368,
+    "geom:longitude":40.21522,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Galili",
+    "gn:country_code":"KE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889856,
+    "gn:latitude":-2.3368,
+    "gn:longitude":40.21522,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Galili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889856
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e1dfc6e39b930871f3b8cf78f053be1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1243007939,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243007939,
+    "wof:lastmodified":1536941353,
+    "wof:name":"Galili",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.21522,
+    -2.3368,
+    40.21522,
+    -2.3368
+],
+  "geometry": {"coordinates":[40.21522,-2.3368],"type":"Point"}
+}

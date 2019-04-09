@@ -1,0 +1,68 @@
+{
+  "id": 1293625111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71086,1.05258,37.71086,1.05258",
+    "geom:latitude":1.05258,
+    "geom:longitude":37.71086,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Kauro",
+    "gn:country_code":"KE",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193204,
+    "gn:latitude":1.05258,
+    "gn:longitude":37.71086,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kauro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193204,
+        "wk:page":"Kauro"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fea94939661f06847fe69783434a975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912581,
+            "locality_id":1293625111,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293625111,
+    "wof:lastmodified":1537567149,
+    "wof:name":"Kauro",
+    "wof:parent_id":1091912581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71086,
+    1.05258,
+    37.71086,
+    1.05258
+],
+  "geometry": {"coordinates":[37.71086,1.05258],"type":"Point"}
+}

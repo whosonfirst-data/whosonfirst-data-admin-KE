@@ -1,0 +1,67 @@
+{
+  "id": 1310571627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45878,-0.49583,37.45878,-0.49583",
+    "geom:latitude":-0.49583,
+    "geom:longitude":37.45878,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kangaru",
+    "gn:country_code":"KE",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194461,
+    "gn:latitude":-0.49583,
+    "gn:longitude":37.45878,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kangaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194461
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"422d306a35c26e5dd52dd2fd307b8854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1310571627,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1310571627,
+    "wof:lastmodified":1536820782,
+    "wof:name":"Kangaru",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45878,
+    -0.49583,
+    37.45878,
+    -0.49583
+],
+  "geometry": {"coordinates":[37.45878,-0.49583],"type":"Point"}
+}

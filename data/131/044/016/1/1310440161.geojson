@@ -1,0 +1,67 @@
+{
+  "id": 1310440161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26677,0.28504,34.26677,0.28504",
+    "geom:latitude":0.28504,
+    "geom:longitude":34.26677,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Jera",
+    "gn:country_code":"KE",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195964,
+    "gn:latitude":0.28504,
+    "gn:longitude":34.26677,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Jera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195964
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"382206a09bc28c99996461c4e42317e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1310440161,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310440161,
+    "wof:lastmodified":1537010539,
+    "wof:name":"Jera",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26677,
+    0.28504,
+    34.26677,
+    0.28504
+],
+  "geometry": {"coordinates":[34.26677,0.28504],"type":"Point"}
+}

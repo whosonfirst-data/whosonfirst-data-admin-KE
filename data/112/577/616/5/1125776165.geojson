@@ -1,0 +1,97 @@
+{
+  "id": 1125776165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19878,-0.15406,35.19878,-0.15406",
+    "geom:latitude":-0.15406,
+    "geom:longitude":35.19878,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15217,
+    "gn:population":15217,
+    "iso:country":"KE",
+    "lbl:latitude":-0.15406,
+    "lbl:longitude":35.19878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Muhoroni"
+    ],
+    "name:eng_x_preferred":[
+        "Muhoroni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30db\u30ed\u30cb"
+    ],
+    "name:pol_x_preferred":[
+        "Muhoroni"
+    ],
+    "name:swa_x_preferred":[
+        "Muhoroni"
+    ],
+    "name:swe_x_preferred":[
+        "Muhoroni"
+    ],
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":185939,
+    "qs_pg:gn_pop":15217,
+    "qs_pg:name":"Muhoroni",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":844839,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185939,
+        "qs_pg:id":844839,
+        "wd:id":"Q580476"
+    },
+    "wof:country":"KE",
+    "wof:created":1497290265,
+    "wof:geomhash":"8bd0535bcf9a703900b9cdfa4738148d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912511,
+            "locality_id":1125776165,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1125776165,
+    "wof:lastmodified":1514468722,
+    "wof:name":"Muhoroni",
+    "wof:parent_id":1091912511,
+    "wof:placetype":"locality",
+    "wof:population":15217,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19878,
+    -0.15406,
+    35.19878,
+    -0.15406
+],
+  "geometry": {"coordinates":[35.19878,-0.15406],"type":"Point"}
+}

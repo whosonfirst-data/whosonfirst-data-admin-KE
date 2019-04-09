@@ -1,0 +1,67 @@
+{
+  "id": 1276795653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38809,-3.35844,38.38809,-3.35844",
+    "geom:latitude":-3.35844,
+    "geom:longitude":38.38809,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Choke",
+    "gn:country_code":"KE",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199330,
+    "gn:latitude":-3.35844,
+    "gn:longitude":38.38809,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Choke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199330
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d936dea2aea90734feb09ba05fea0012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1276795653,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276795653,
+    "wof:lastmodified":1536656663,
+    "wof:name":"Choke",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38809000000001,
+    -3.35844,
+    38.38809000000001,
+    -3.35844
+],
+  "geometry": {"coordinates":[38.38809000000001,-3.35844],"type":"Point"}
+}

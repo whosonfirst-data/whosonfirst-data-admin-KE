@@ -1,0 +1,97 @@
+{
+  "id": 421174101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72778,-1.25891,36.72778,-1.25891",
+    "geom:latitude":-1.25891,
+    "geom:longitude":36.72778,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kabete"
+    ],
+    "name:eng_x_preferred":[
+        "Kabete"
+    ],
+    "name:ita_x_preferred":[
+        "Kabete"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d9\u30c6"
+    ],
+    "name:swa_x_preferred":[
+        "Kabete"
+    ],
+    "name:swe_x_preferred":[
+        "Kabete"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":195789,
+    "qs:gn_pop":0,
+    "qs:name":"Kabete",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":136,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":136,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317032,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527384,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":265,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195789,
+        "gp:id":1527384,
+        "qs:id":317032,
+        "wd:id":"Q3812391",
+        "wk:page":"Kabete"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009020,
+    "wof:geomhash":"dce28f3aa21819f003446b7a5327b722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":421174101,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421174101,
+    "wof:lastmodified":1527716229,
+    "wof:name":"Kabete",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72778,
+    -1.25891,
+    36.72778,
+    -1.25891
+],
+  "geometry": {"coordinates":[36.72778,-1.25891],"type":"Point"}
+}

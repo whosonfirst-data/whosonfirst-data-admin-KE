@@ -1,0 +1,67 @@
+{
+  "id": 1292968027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66624,-0.07484,34.66624,-0.07484",
+    "geom:latitude":-0.07484,
+    "geom:longitude":34.66624,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kisian",
+    "gn:country_code":"KE",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629602,
+    "gn:latitude":-0.07484,
+    "gn:longitude":34.66624,
+    "gn:modification_date":"2013-10-31",
+    "gn:name":"Kisian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629602
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a7210367601e382fcc7f0c9457259900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911657,
+            "locality_id":1292968027,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1292968027,
+    "wof:lastmodified":1537037380,
+    "wof:name":"Kisian",
+    "wof:parent_id":1091911657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66624,
+    -0.07484,
+    34.66624,
+    -0.07484
+],
+  "geometry": {"coordinates":[34.66624,-0.07484],"type":"Point"}
+}

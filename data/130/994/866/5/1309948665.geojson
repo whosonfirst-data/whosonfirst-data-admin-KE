@@ -1,0 +1,72 @@
+{
+  "id": 1309948665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0415,-0.85434,37.0415,-0.85434",
+    "geom:latitude":-0.85434,
+    "geom:longitude":37.0415,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kagunduini",
+    "gn:country_code":"KE",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195498,
+    "gn:latitude":-0.85434,
+    "gn:longitude":37.0415,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kagunduini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagunduine",
+        "Kagunduini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195498,
+        "wk:page":"Kagunduini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7ea27252e6fc58afae7bcec7c4536f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1309948665,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1309948665,
+    "wof:lastmodified":1537653074,
+    "wof:name":"Kagunduini",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0415,
+    -0.85434,
+    37.0415,
+    -0.85434
+],
+  "geometry": {"coordinates":[37.0415,-0.85434],"type":"Point"}
+}

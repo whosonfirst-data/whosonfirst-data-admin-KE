@@ -1,0 +1,71 @@
+{
+  "id": 1209771847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,-3.76667,39.6,-3.76667",
+    "geom:latitude":-3.76667,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kinane",
+    "gn:country_code":"KE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191836,
+    "gn:latitude":-3.76667,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kinane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinani",
+        "Kinane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191836
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aaf9153a97d5dffd20290b749be3f6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1209771847,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1209771847,
+    "wof:lastmodified":1537653062,
+    "wof:name":"Kinane",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    -3.76667,
+    39.6,
+    -3.76667
+],
+  "geometry": {"coordinates":[39.6,-3.76667],"type":"Point"}
+}

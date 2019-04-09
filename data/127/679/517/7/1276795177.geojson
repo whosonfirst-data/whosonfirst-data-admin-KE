@@ -1,0 +1,70 @@
+{
+  "id": 1276795177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12126,-1.71737,40.12126,-1.71737",
+    "geom:latitude":-1.71737,
+    "geom:longitude":40.12126,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Gabani",
+    "gn:country_code":"KE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197005,
+    "gn:latitude":-1.71737,
+    "gn:longitude":40.12126,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Gabani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gubani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197005
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"266ab6619969d8ad04c9e899ba2838b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1276795177,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276795177,
+    "wof:lastmodified":1537653079,
+    "wof:name":"Gabani",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12126,
+    -1.71737,
+    40.12126,
+    -1.71737
+],
+  "geometry": {"coordinates":[40.12126,-1.71737],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276279355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.92885,2.80922,40.92885,2.80922",
+    "geom:latitude":2.80922,
+    "geom:longitude":40.92885,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"El Wak",
+    "gn:country_code":"KE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198547,
+    "gn:latitude":2.80922,
+    "gn:longitude":40.92885,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"El Wak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eil Wak",
+        "El Wak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198547,
+        "wk:page":"El_Wak"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8638d60272ccd0b387eb251eda2b7dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1276279355,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1276279355,
+    "wof:lastmodified":1537653086,
+    "wof:name":"El Wak",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.92885,
+    2.80922,
+    40.92885,
+    2.80922
+],
+  "geometry": {"coordinates":[40.92885,2.80922],"type":"Point"}
+}

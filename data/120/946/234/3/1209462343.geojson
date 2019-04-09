@@ -1,0 +1,65 @@
+{
+  "id": 1209462343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24096,-3.95624,39.24096,-3.95624",
+    "geom:latitude":-3.95624,
+    "geom:longitude":39.24096,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ria Kalui",
+    "gn:country_code":"KE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181258,
+    "gn:latitude":-3.95624,
+    "gn:longitude":39.24096,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ria Kalui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ryakalui",
+        "Ria Kalui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181258
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e14ef9342001712a8d47addee2de6e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209462343
+        }
+    ],
+    "wof:id":1209462343,
+    "wof:lastmodified":1537653038,
+    "wof:name":"Ria Kalui",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24096,
+    -3.95624,
+    39.24096,
+    -3.95624
+],
+  "geometry": {"coordinates":[39.24096,-3.95624],"type":"Point"}
+}

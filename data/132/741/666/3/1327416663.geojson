@@ -1,0 +1,68 @@
+{
+  "id": 1327416663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.60155,-0.39433,37.60155,-0.39433",
+    "geom:latitude":-0.39433,
+    "geom:longitude":37.60155,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kathari",
+    "gn:country_code":"KE",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193418,
+    "gn:latitude":-0.39433,
+    "gn:longitude":37.60155,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kathari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193418,
+        "wk:page":"Kathari"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"224619bbd2de03d3e0fb859a90c5430c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1327416663,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1327416663,
+    "wof:lastmodified":1537567149,
+    "wof:name":"Kathari",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.60155,
+    -0.39433,
+    37.60155,
+    -0.39433
+],
+  "geometry": {"coordinates":[37.60155,-0.39433],"type":"Point"}
+}

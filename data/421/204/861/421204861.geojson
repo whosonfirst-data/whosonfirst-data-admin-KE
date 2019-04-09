@@ -1,0 +1,85 @@
+{
+  "id": 421204861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30528,0.39361,34.30528,0.39361",
+    "geom:latitude":0.39361,
+    "geom:longitude":34.30528,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Busia"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":188657,
+    "qs:gn_pop":40894,
+    "qs:name":"Lugulu",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":250500,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528065,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188657,
+        "gp:id":1528065,
+        "qs:id":250500,
+        "wd:id":"Q6699865",
+        "wk:page":"Lugulu"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010201,
+    "wof:geomhash":"c68ee0340c20f0c2573fe3fecac93dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":421204861,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":421204861,
+    "wof:lastmodified":1527716180,
+    "wof:name":"Lugulu",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:population":40894,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30528,
+    0.39361,
+    34.30528,
+    0.39361
+],
+  "geometry": {"coordinates":[34.30528,0.39361],"type":"Point"}
+}

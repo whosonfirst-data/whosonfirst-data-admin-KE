@@ -1,0 +1,67 @@
+{
+  "id": 1277125941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.04561,-2.47324,38.04561,-2.47324",
+    "geom:latitude":-2.47324,
+    "geom:longitude":38.04561,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Thangi",
+    "gn:country_code":"KE",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179389,
+    "gn:latitude":-2.47324,
+    "gn:longitude":38.04561,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Thangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179389
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5c8bd08794c43e831e399f92d5eb92c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1277125941,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1277125941,
+    "wof:lastmodified":1536705783,
+    "wof:name":"Thangi",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.04561,
+    -2.47324,
+    38.04561,
+    -2.47324
+],
+  "geometry": {"coordinates":[38.04561,-2.47324],"type":"Point"}
+}

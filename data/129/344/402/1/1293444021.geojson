@@ -1,0 +1,68 @@
+{
+  "id": 1293444021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05517,2.90873,41.05517,2.90873",
+    "geom:latitude":2.90873,
+    "geom:longitude":41.05517,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Arda Dadaja",
+    "gn:country_code":"KE",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444982,
+    "gn:latitude":2.90873,
+    "gn:longitude":41.05517,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Arda Dadaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444982,
+        "wk:page":"Arda_Dadaja"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"17f016e232f1a0dc5bfbe33682c2bb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1293444021,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1293444021,
+    "wof:lastmodified":1537567173,
+    "wof:name":"Arda Dadaja",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05517,
+    2.90873,
+    41.05517,
+    2.90873
+],
+  "geometry": {"coordinates":[41.05517,2.90873],"type":"Point"}
+}

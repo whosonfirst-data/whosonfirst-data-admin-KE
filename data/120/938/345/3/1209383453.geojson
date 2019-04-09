@@ -1,0 +1,62 @@
+{
+  "id": 1209383453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47357,-3.66346,39.47357,-3.66346",
+    "geom:latitude":-3.66346,
+    "geom:longitude":39.47357,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Matolani",
+    "gn:country_code":"KE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187293,
+    "gn:latitude":-3.66346,
+    "gn:longitude":39.47357,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Matolani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187293,
+        "wk:page":"Matolani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"722195228838b48d4b6a782c3c51dadb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209383453
+        }
+    ],
+    "wof:id":1209383453,
+    "wof:lastmodified":1537567140,
+    "wof:name":"Matolani",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47357,
+    -3.66346,
+    39.47357,
+    -3.66346
+],
+  "geometry": {"coordinates":[39.47357,-3.66346],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326603247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51168,-0.47217,37.51168,-0.47217",
+    "geom:latitude":-0.47217,
+    "geom:longitude":37.51168,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nembure",
+    "gn:country_code":"KE",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183916,
+    "gn:latitude":-0.47217,
+    "gn:longitude":37.51168,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nembure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183916,
+        "wk:page":"Nembure"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"da54381f927e99c720e9c9fe0dfd38e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1326603247,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1326603247,
+    "wof:lastmodified":1537567132,
+    "wof:name":"Nembure",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51168,
+    -0.47217,
+    37.51168,
+    -0.47217
+],
+  "geometry": {"coordinates":[37.51168,-0.47217],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209573403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26667,-0.6,37.26667,-0.6",
+    "geom:latitude":-0.6,
+    "geom:longitude":37.26667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kiaga",
+    "gn:country_code":"KE",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192773,
+    "gn:latitude":-0.6,
+    "gn:longitude":37.26667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192773
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"402bb35b843451873ff2b2d05a8a8732",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209573403
+        }
+    ],
+    "wof:id":1209573403,
+    "wof:lastmodified":1536283013,
+    "wof:name":"Kiaga",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26667,
+    -0.6,
+    37.26667,
+    -0.6
+],
+  "geometry": {"coordinates":[37.26667,-0.6],"type":"Point"}
+}

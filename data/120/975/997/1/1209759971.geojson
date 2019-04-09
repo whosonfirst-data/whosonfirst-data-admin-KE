@@ -1,0 +1,67 @@
+{
+  "id": 1209759971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.55,-0.91667,34.55,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":34.55,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Okumu",
+    "gn:country_code":"KE",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182446,
+    "gn:latitude":-0.91667,
+    "gn:longitude":34.55,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Okumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182446
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"14e1003c8ba758647ef13812578c3d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1209759971,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1209759971,
+    "wof:lastmodified":1536388960,
+    "wof:name":"Okumu",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.55,
+    -0.91667,
+    34.55,
+    -0.91667
+],
+  "geometry": {"coordinates":[34.55,-0.91667],"type":"Point"}
+}

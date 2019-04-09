@@ -1,0 +1,67 @@
+{
+  "id": 1343637727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.57115,-0.60334,34.57115,-0.60334",
+    "geom:latitude":-0.60334,
+    "geom:longitude":34.57115,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Josephs",
+    "gn:country_code":"KE",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195905,
+    "gn:latitude":-0.60334,
+    "gn:longitude":34.57115,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Josephs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195905
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f7578b4bf76669d2cf38187fcccbcd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911319,
+            "locality_id":1343637727,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1343637727,
+    "wof:lastmodified":1536987088,
+    "wof:name":"Josephs",
+    "wof:parent_id":1091911319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.57115,
+    -0.60334,
+    34.57115,
+    -0.60334
+],
+  "geometry": {"coordinates":[34.57115,-0.60334],"type":"Point"}
+}

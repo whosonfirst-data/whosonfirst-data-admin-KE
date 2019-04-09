@@ -1,0 +1,64 @@
+{
+  "id": 1209481861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03569,-1.34098,38.03569,-1.34098",
+    "geom:latitude":-1.34098,
+    "geom:longitude":38.03569,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kavonge",
+    "gn:country_code":"KE",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195725,
+    "gn:latitude":-1.34098,
+    "gn:longitude":38.03569,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kavonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195725
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"43d78879e6bf86a84a48e272761ab141",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209481861
+        }
+    ],
+    "wof:id":1209481861,
+    "wof:lastmodified":1537653075,
+    "wof:name":"Kavonge",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03569,
+    -1.34098,
+    38.03569,
+    -1.34098
+],
+  "geometry": {"coordinates":[38.03569,-1.34098],"type":"Point"}
+}

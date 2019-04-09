@@ -1,0 +1,67 @@
+{
+  "id": 1226200893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69469,-1.06295,36.69469,-1.06295",
+    "geom:latitude":-1.06295,
+    "geom:longitude":36.69469,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gitiha",
+    "gn:country_code":"KE",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197207,
+    "gn:latitude":-1.06295,
+    "gn:longitude":36.69469,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gitiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197207
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"747244da9b847e699852a8ae4d52e3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1226200893,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226200893,
+    "wof:lastmodified":1536997664,
+    "wof:name":"Gitiha",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69469,
+    -1.06295,
+    36.69469,
+    -1.06295
+],
+  "geometry": {"coordinates":[36.69469,-1.06295],"type":"Point"}
+}

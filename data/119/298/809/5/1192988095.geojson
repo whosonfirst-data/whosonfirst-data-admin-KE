@@ -1,0 +1,67 @@
+{
+  "id": 1192988095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4563,-0.03113,40.4563,-0.03113",
+    "geom:latitude":-0.03113,
+    "geom:longitude":40.4563,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Alinjur",
+    "gn:country_code":"KE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10221377,
+    "gn:latitude":-0.03113,
+    "gn:longitude":40.4563,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Alinjur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10221377
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"46b3d0e11b702684aa16d256befcf4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1192988095,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1192988095,
+    "wof:lastmodified":1536383846,
+    "wof:name":"Alinjur",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4563,
+    -0.03113,
+    40.4563,
+    -0.03113
+],
+  "geometry": {"coordinates":[40.4563,-0.03113],"type":"Point"}
+}

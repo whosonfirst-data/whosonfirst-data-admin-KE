@@ -1,0 +1,72 @@
+{
+  "id": 1310052117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73079,-2.23324,40.73079,-2.23324",
+    "geom:latitude":-2.23324,
+    "geom:longitude":40.73079,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Hidio",
+    "gn:country_code":"KE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196784,
+    "gn:latitude":-2.23324,
+    "gn:longitude":40.73079,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Hidio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hidiyo",
+        "Hidio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196784,
+        "wk:page":"Hidio"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c38772b03b6539b408fc3440ddca3e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1310052117,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310052117,
+    "wof:lastmodified":1537653078,
+    "wof:name":"Hidio",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73079,
+    -2.23324,
+    40.73079,
+    -2.23324
+],
+  "geometry": {"coordinates":[40.73079,-2.23324],"type":"Point"}
+}

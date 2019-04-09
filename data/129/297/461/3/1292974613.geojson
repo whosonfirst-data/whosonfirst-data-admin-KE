@@ -1,0 +1,67 @@
+{
+  "id": 1292974613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60102,0.82807,35.60102,0.82807",
+    "geom:latitude":0.82807,
+    "geom:longitude":35.60102,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chegilet",
+    "gn:country_code":"KE",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10340733,
+    "gn:latitude":0.82807,
+    "gn:longitude":35.60102,
+    "gn:modification_date":"2015-06-12",
+    "gn:name":"Chegilet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10340733
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"29d1e45eabaf143170d971bb5ed8a505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911493,
+            "locality_id":1292974613,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1292974613,
+    "wof:lastmodified":1537028271,
+    "wof:name":"Chegilet",
+    "wof:parent_id":1091911493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60102,
+    0.82807,
+    35.60102,
+    0.82807
+],
+  "geometry": {"coordinates":[35.60102,0.82807],"type":"Point"}
+}

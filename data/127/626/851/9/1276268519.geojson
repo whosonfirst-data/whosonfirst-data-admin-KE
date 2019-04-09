@@ -1,0 +1,68 @@
+{
+  "id": 1276268519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98954,-0.60164,36.98954,-0.60164",
+    "geom:latitude":-0.60164,
+    "geom:longitude":36.98954,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kamacharia",
+    "gn:country_code":"KE",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194902,
+    "gn:latitude":-0.60164,
+    "gn:longitude":36.98954,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamacharia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194902,
+        "wk:page":"Kamacharia"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8180f263289a6e6ecadb3ace480aab91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1276268519,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1276268519,
+    "wof:lastmodified":1537567154,
+    "wof:name":"Kamacharia",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98954000000001,
+    -0.60164,
+    36.98954000000001,
+    -0.60164
+],
+  "geometry": {"coordinates":[36.98954000000001,-0.60164],"type":"Point"}
+}

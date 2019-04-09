@@ -1,0 +1,61 @@
+{
+  "id": 1209373077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7802,-3.78344,39.7802,-3.78344",
+    "geom:latitude":-3.78344,
+    "geom:longitude":39.7802,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pingilikani",
+    "gn:country_code":"KE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181584,
+    "gn:latitude":-3.78344,
+    "gn:longitude":39.7802,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Pingilikani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181584
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6fce1ef877637e3cbda03a719deda8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209373077
+        }
+    ],
+    "wof:id":1209373077,
+    "wof:lastmodified":1536289041,
+    "wof:name":"Pingilikani",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7802,
+    -3.78344,
+    39.7802,
+    -3.78344
+],
+  "geometry": {"coordinates":[39.7802,-3.78344],"type":"Point"}
+}

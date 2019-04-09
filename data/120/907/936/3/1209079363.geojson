@@ -1,0 +1,61 @@
+{
+  "id": 1209079363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36603,-0.7716,37.36603,-0.7716",
+    "geom:latitude":-0.7716,
+    "geom:longitude":37.36603,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Karaba",
+    "gn:country_code":"KE",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193895,
+    "gn:latitude":-0.7716,
+    "gn:longitude":37.36603,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Karaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193895
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b414e14af27acd87cc48caf480adde53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209079363
+        }
+    ],
+    "wof:id":1209079363,
+    "wof:lastmodified":1536298390,
+    "wof:name":"Karaba",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36603,
+    -0.7716,
+    37.36603,
+    -0.7716
+],
+  "geometry": {"coordinates":[37.36603,-0.7716],"type":"Point"}
+}

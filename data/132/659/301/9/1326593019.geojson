@@ -1,0 +1,68 @@
+{
+  "id": 1326593019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12224,0.70163,37.12224,0.70163",
+    "geom:latitude":0.70163,
+    "geom:longitude":37.12224,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Longopito",
+    "gn:country_code":"KE",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188940,
+    "gn:latitude":0.70163,
+    "gn:longitude":37.12224,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Longopito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188940,
+        "wk:page":"Longopito"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9ba0b865e1103d103c04bd2746743145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911367,
+            "locality_id":1326593019,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1326593019,
+    "wof:lastmodified":1537567145,
+    "wof:name":"Longopito",
+    "wof:parent_id":1091911367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12224000000001,
+    0.70163,
+    37.12224000000001,
+    0.70163
+],
+  "geometry": {"coordinates":[37.12224000000001,0.70163],"type":"Point"}
+}

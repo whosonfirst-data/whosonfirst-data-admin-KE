@@ -1,0 +1,67 @@
+{
+  "id": 1243410051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33916,-0.53991,37.33916,-0.53991",
+    "geom:latitude":-0.53991,
+    "geom:longitude":37.33916,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Rukenya",
+    "gn:country_code":"KE",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181015,
+    "gn:latitude":-0.53991,
+    "gn:longitude":37.33916,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Rukenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181015
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7a518132a28b421215922c558b7fcc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1243410051,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243410051,
+    "wof:lastmodified":1536856810,
+    "wof:name":"Rukenya",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33916,
+    -0.53991,
+    37.33916,
+    -0.53991
+],
+  "geometry": {"coordinates":[37.33916,-0.53991],"type":"Point"}
+}

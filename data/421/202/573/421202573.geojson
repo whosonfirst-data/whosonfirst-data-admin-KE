@@ -1,0 +1,132 @@
+{
+  "id": 421202573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.15,-0.71667,37.15,-0.71667",
+    "geom:latitude":-0.71667,
+    "geom:longitude":37.15,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Muranga"
+    ],
+    "name:chi_x_preferred":[
+        "\u7a46\u62c9\u96c5"
+    ],
+    "name:dut_x_preferred":[
+        "Murang'a"
+    ],
+    "name:eng_x_preferred":[
+        "Murang'a"
+    ],
+    "name:fre_x_preferred":[
+        "Murang'a"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10e3\u10e0\u10d0\u10dc\u10d2\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Murang\u2019a"
+    ],
+    "name:ita_x_preferred":[
+        "Muranga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30e9\u30f3\u30ac"
+    ],
+    "name:nob_x_preferred":[
+        "Murang'a"
+    ],
+    "name:pol_x_preferred":[
+        "Murang'a"
+    ],
+    "name:por_x_preferred":[
+        "Murang'a"
+    ],
+    "name:rum_x_preferred":[
+        "Muranga"
+    ],
+    "name:spa_x_preferred":[
+        "Muranga"
+    ],
+    "name:swa_x_preferred":[
+        "Murang'a"
+    ],
+    "name:swe_x_preferred":[
+        "Muranga"
+    ],
+    "name:unk_x_variant":[
+        "Murang\u2019a"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":185579,
+    "qs:gn_pop":11987,
+    "qs:name":"Fort Hall",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":29075,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527068,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185579,
+        "gp:id":1527068,
+        "qs:id":29075,
+        "wd:id":"Q974323",
+        "wk:page":"Murang'a"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010122,
+    "wof:geomhash":"64bfd089e5f4536fe93ec65d4547f78b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":421202573,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":421202573,
+    "wof:lastmodified":1514468704,
+    "wof:name":"Fort Hall",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:population":11987,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.15,
+    -0.71667,
+    37.15,
+    -0.71667
+],
+  "geometry": {"coordinates":[37.15,-0.71667],"type":"Point"}
+}

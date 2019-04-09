@@ -1,0 +1,67 @@
+{
+  "id": 1277138267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.34962,-4.24646,39.34962,-4.24646",
+    "geom:latitude":-4.24646,
+    "geom:longitude":39.34962,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Burani",
+    "gn:country_code":"KE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308081,
+    "gn:latitude":-4.24646,
+    "gn:longitude":39.34962,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Burani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308081
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"977155e90bd49107e62c11eb7298a3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1277138267,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1277138267,
+    "wof:lastmodified":1536687797,
+    "wof:name":"Burani",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.34962,
+    -4.24646,
+    39.34962,
+    -4.24646
+],
+  "geometry": {"coordinates":[39.34962,-4.24646],"type":"Point"}
+}

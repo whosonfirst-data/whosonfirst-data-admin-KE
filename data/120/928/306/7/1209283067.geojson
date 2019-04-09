@@ -1,0 +1,62 @@
+{
+  "id": 1209283067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73235,-3.75723,39.73235,-3.75723",
+    "geom:latitude":-3.75723,
+    "geom:longitude":39.73235,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lutsangani",
+    "gn:country_code":"KE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188565,
+    "gn:latitude":-3.75723,
+    "gn:longitude":39.73235,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lutsangani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188565,
+        "wk:page":"Lutsangani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"541bfc881cefc1cf68f093b0b8fb17a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209283067
+        }
+    ],
+    "wof:id":1209283067,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Lutsangani",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73235,
+    -3.75723,
+    39.73235,
+    -3.75723
+],
+  "geometry": {"coordinates":[39.73235,-3.75723],"type":"Point"}
+}

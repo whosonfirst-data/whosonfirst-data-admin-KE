@@ -1,0 +1,68 @@
+{
+  "id": 1259620097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96688,-1.17417,39.96688,-1.17417",
+    "geom:latitude":-1.17417,
+    "geom:longitude":39.96688,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Chewele",
+    "gn:country_code":"KE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199411,
+    "gn:latitude":-1.17417,
+    "gn:longitude":39.96688,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chewele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199411,
+        "wk:page":"Chewele"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1917a8d4ce8121f4419425f38c6835a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1259620097,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259620097,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Chewele",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96688,
+    -1.17417,
+    39.96688,
+    -1.17417
+],
+  "geometry": {"coordinates":[39.96688,-1.17417],"type":"Point"}
+}

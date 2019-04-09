@@ -1,0 +1,68 @@
+{
+  "id": 1293440847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18933,-4.64726,39.18933,-4.64726",
+    "geom:latitude":-4.64726,
+    "geom:longitude":39.18933,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Jego",
+    "gn:country_code":"KE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195975,
+    "gn:latitude":-4.64726,
+    "gn:longitude":39.18933,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Jego",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195975,
+        "wk:page":"Jego"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d84523541ca4970da9a1899352a8baa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1293440847,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293440847,
+    "wof:lastmodified":1537567158,
+    "wof:name":"Jego",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18933,
+    -4.64726,
+    39.18933,
+    -4.64726
+],
+  "geometry": {"coordinates":[39.18933,-4.64726],"type":"Point"}
+}

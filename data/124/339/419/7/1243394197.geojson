@@ -1,0 +1,68 @@
+{
+  "id": 1243394197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91617,-0.39738,36.91617,-0.39738",
+    "geom:latitude":-0.39738,
+    "geom:longitude":36.91617,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kamwenja",
+    "gn:country_code":"KE",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194568,
+    "gn:latitude":-0.39738,
+    "gn:longitude":36.91617,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamwenja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194568,
+        "wk:page":"Kamwenja"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"be7a3b865d4c184be570d53d23762975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1243394197,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243394197,
+    "wof:lastmodified":1537567153,
+    "wof:name":"Kamwenja",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91617,
+    -0.39738,
+    36.91617,
+    -0.39738
+],
+  "geometry": {"coordinates":[36.91617,-0.39738],"type":"Point"}
+}

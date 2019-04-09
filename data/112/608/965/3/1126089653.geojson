@@ -1,0 +1,100 @@
+{
+  "id": 1126089653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,-1.26667,36.83333,-1.26667",
+    "geom:latitude":-1.26667,
+    "geom:longitude":36.83333,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":-1.26667,
+    "gn:longitude":36.83333,
+    "iso:country":"KE",
+    "lbl:latitude":-1.26667,
+    "lbl:longitude":36.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Pangani"
+    ],
+    "name:unk_x_variant":[
+        "Pangani"
+    ],
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":181680,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pangani",
+    "qs_pg:name_adm0":"Kenya",
+    "qs_pg:name_adm1":"Nairobi Area",
+    "qs_pg:photos":639,
+    "qs_pg:photos_1k":129,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":639,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081060,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424863,
+    "qs_pg:woe_id":1528693,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424863,
+    "woe:name_adm0":"Kenya",
+    "woe:name_adm1":"Nairobi Area",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672951,
+        102191573,
+        85632329,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181680,
+        "gp:id":1528693,
+        "qs:id":1081060,
+        "qs_pg:id":1081060
+    },
+    "wof:country":"KE",
+    "wof:created":1497313480,
+    "wof:geomhash":"cd2ab3e7620720ff48a50e8c28ed840e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":-1,
+            "neighbourhood_id":1126089653,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":1126089653,
+    "wof:lastmodified":1534379373,
+    "wof:name":"Pangani",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85771949
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    -1.26667,
+    36.83333,
+    -1.26667
+],
+  "geometry": {"coordinates":[36.83333,-1.26667],"type":"Point"}
+}

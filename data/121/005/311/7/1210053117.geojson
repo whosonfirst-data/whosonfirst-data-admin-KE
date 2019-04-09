@@ -1,0 +1,72 @@
+{
+  "id": 1210053117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39944,-2.4187,40.39944,-2.4187",
+    "geom:latitude":-2.4187,
+    "geom:longitude":40.39944,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Dida Warede",
+    "gn:country_code":"KE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198981,
+    "gn:latitude":-2.4187,
+    "gn:longitude":40.39944,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dida Warede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dida Waredi",
+        "Dida Warede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198981,
+        "wk:page":"Dida_Waredi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"cb0cb0db3903b8f58f030b16a5ffa63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1210053117,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1210053117,
+    "wof:lastmodified":1537653087,
+    "wof:name":"Dida Warede",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39944000000001,
+    -2.4187,
+    40.39944000000001,
+    -2.4187
+],
+  "geometry": {"coordinates":[40.39944000000001,-2.4187],"type":"Point"}
+}

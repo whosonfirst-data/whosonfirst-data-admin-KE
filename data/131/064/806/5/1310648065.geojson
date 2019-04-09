@@ -1,0 +1,67 @@
+{
+  "id": 1310648065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12363,-4.55276,39.12363,-4.55276",
+    "geom:latitude":-4.55276,
+    "geom:longitude":39.12363,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Lunga-Lunga",
+    "gn:country_code":"KE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188610,
+    "gn:latitude":-4.55276,
+    "gn:longitude":39.12363,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lunga-Lunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188610
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6431bd8311749970e0a87137a890e993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1310648065,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310648065,
+    "wof:lastmodified":1536711591,
+    "wof:name":"Lunga-Lunga",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12363,
+    -4.55276,
+    39.12363,
+    -4.55276
+],
+  "geometry": {"coordinates":[39.12363,-4.55276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260048189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36667,-0.63333,37.36667,-0.63333",
+    "geom:latitude":-0.63333,
+    "geom:longitude":37.36667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mathangauta",
+    "gn:country_code":"KE",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187375,
+    "gn:latitude":-0.63333,
+    "gn:longitude":37.36667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mathangauta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mathaguta",
+        "Mathangauta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187375
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3427d83e5155127d4cda38c8b1d41b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1260048189,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260048189,
+    "wof:lastmodified":1537653053,
+    "wof:name":"Mathangauta",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36667,
+    -0.63333,
+    37.36667,
+    -0.63333
+],
+  "geometry": {"coordinates":[37.36667,-0.63333],"type":"Point"}
+}

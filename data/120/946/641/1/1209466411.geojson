@@ -1,0 +1,62 @@
+{
+  "id": 1209466411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,-0.81667,36.96667,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mathareini",
+    "gn:country_code":"KE",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187369,
+    "gn:latitude":-0.81667,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mathareini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187369,
+        "wk:page":"Mathareini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dd6b81f508e5a0b33138219924facbb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209466411
+        }
+    ],
+    "wof:id":1209466411,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Mathareini",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    -0.81667,
+    36.96667,
+    -0.81667
+],
+  "geometry": {"coordinates":[36.96667,-0.81667],"type":"Point"}
+}

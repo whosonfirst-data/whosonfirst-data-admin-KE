@@ -1,0 +1,67 @@
+{
+  "id": 1226787745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0778,0.2467,35.0778,0.2467",
+    "geom:latitude":0.2467,
+    "geom:longitude":35.0778,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Baraton",
+    "gn:country_code":"KE",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428523,
+    "gn:latitude":0.2467,
+    "gn:longitude":35.0778,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Baraton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428523
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b802580feb7202aac4105b0d46395ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912403,
+            "locality_id":1226787745,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1226787745,
+    "wof:lastmodified":1536655077,
+    "wof:name":"Baraton",
+    "wof:parent_id":1091912403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0778,
+    0.2467,
+    35.0778,
+    0.2467
+],
+  "geometry": {"coordinates":[35.0778,0.2467],"type":"Point"}
+}

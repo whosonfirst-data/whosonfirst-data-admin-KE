@@ -1,0 +1,73 @@
+{
+  "id": 1310241049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79321,-0.71298,39.79321,-0.71298",
+    "geom:latitude":-0.71298,
+    "geom:longitude":39.79321,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Jara",
+    "gn:country_code":"KE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187957,
+    "gn:latitude":-0.71298,
+    "gn:longitude":39.79321,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malka Jara",
+        "Jara Melka",
+        "Jara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187957,
+        "wk:page":"Malka_Jara"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8b35d985c8c87ed332e2ba367a45c30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1310241049,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310241049,
+    "wof:lastmodified":1537653055,
+    "wof:name":"Jara",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79321,
+    -0.71298,
+    39.79321,
+    -0.71298
+],
+  "geometry": {"coordinates":[39.79321,-0.71298],"type":"Point"}
+}

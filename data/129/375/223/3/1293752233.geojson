@@ -1,0 +1,68 @@
+{
+  "id": 1293752233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81062,-3.7452,39.81062,-3.7452",
+    "geom:latitude":-3.7452,
+    "geom:longitude":39.81062,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kadzinuni",
+    "gn:country_code":"KE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195582,
+    "gn:latitude":-3.7452,
+    "gn:longitude":39.81062,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kadzinuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195582,
+        "wk:page":"Kadzinuni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5b6f9792c1c6dbc090607323e0a4e418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1293752233,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293752233,
+    "wof:lastmodified":1537567156,
+    "wof:name":"Kadzinuni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81062,
+    -3.7452,
+    39.81062,
+    -3.7452
+],
+  "geometry": {"coordinates":[39.81062,-3.7452],"type":"Point"}
+}

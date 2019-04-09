@@ -1,0 +1,68 @@
+{
+  "id": 1243011035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.04292,-0.70935,37.04292,-0.70935",
+    "geom:latitude":-0.70935,
+    "geom:longitude":37.04292,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kahuhia",
+    "gn:country_code":"KE",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195456,
+    "gn:latitude":-0.70935,
+    "gn:longitude":37.04292,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kahuhia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195456,
+        "wk:page":"Kahuhia"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"156a198b4e8bdf88817b94ec2537a3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1243011035,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243011035,
+    "wof:lastmodified":1537567155,
+    "wof:name":"Kahuhia",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.04292,
+    -0.70935,
+    37.04292,
+    -0.70935
+],
+  "geometry": {"coordinates":[37.04292,-0.70935],"type":"Point"}
+}

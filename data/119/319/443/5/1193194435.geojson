@@ -1,0 +1,68 @@
+{
+  "id": 1193194435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08333,-0.8,37.08333,-0.8",
+    "geom:latitude":-0.8,
+    "geom:longitude":37.08333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kirimaini",
+    "gn:country_code":"KE",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191446,
+    "gn:latitude":-0.8,
+    "gn:longitude":37.08333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kirimaini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191446,
+        "wk:page":"Kirimaini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1d7e810f1822cd1416f7488be204fd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1193194435,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1193194435,
+    "wof:lastmodified":1537567147,
+    "wof:name":"Kirimaini",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08333,
+    -0.8,
+    37.08333,
+    -0.8
+],
+  "geometry": {"coordinates":[37.08333,-0.8],"type":"Point"}
+}

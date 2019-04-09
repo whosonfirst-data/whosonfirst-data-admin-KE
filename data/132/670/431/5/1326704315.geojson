@@ -1,0 +1,68 @@
+{
+  "id": 1326704315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34255,-0.20014,35.34255,-0.20014",
+    "geom:latitude":-0.20014,
+    "geom:longitude":35.34255,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Fort Ternan",
+    "gn:country_code":"KE",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198029,
+    "gn:latitude":-0.20014,
+    "gn:longitude":35.34255,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Fort Ternan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198029,
+        "wk:page":"Fort_Ternan"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ecc9b0d65313ebb2bca60f4c584c0706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911533,
+            "locality_id":1326704315,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1326704315,
+    "wof:lastmodified":1537567167,
+    "wof:name":"Fort Ternan",
+    "wof:parent_id":1091911533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34255,
+    -0.20014,
+    35.34255,
+    -0.20014
+],
+  "geometry": {"coordinates":[35.34255,-0.20014],"type":"Point"}
+}

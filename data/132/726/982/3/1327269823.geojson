@@ -1,0 +1,68 @@
+{
+  "id": 1327269823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.85685,-0.36401,37.85685,-0.36401",
+    "geom:latitude":-0.36401,
+    "geom:longitude":37.85685,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kamaende",
+    "gn:country_code":"KE",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194894,
+    "gn:latitude":-0.36401,
+    "gn:longitude":37.85685,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamaende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194894,
+        "wk:page":"Kamaende"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8e47a2a1b0be2fcabac343fb26d3e8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912169,
+            "locality_id":1327269823,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1327269823,
+    "wof:lastmodified":1537567154,
+    "wof:name":"Kamaende",
+    "wof:parent_id":1091912169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.85685,
+    -0.36401,
+    37.85685,
+    -0.36401
+],
+  "geometry": {"coordinates":[37.85685,-0.36401],"type":"Point"}
+}

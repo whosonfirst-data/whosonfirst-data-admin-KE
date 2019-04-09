@@ -1,0 +1,67 @@
+{
+  "id": 1226379291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10353,1.54655,37.10353,1.54655",
+    "geom:latitude":1.54655,
+    "geom:longitude":37.10353,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Latakweny",
+    "gn:country_code":"KE",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10345183,
+    "gn:latitude":1.54655,
+    "gn:longitude":37.10353,
+    "gn:modification_date":"2015-06-19",
+    "gn:name":"Latakweny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345183
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a980b555e43238a2778a55dd582455c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912581,
+            "locality_id":1226379291,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1226379291,
+    "wof:lastmodified":1536740927,
+    "wof:name":"Latakweny",
+    "wof:parent_id":1091912581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10353,
+    1.54655,
+    37.10353,
+    1.54655
+],
+  "geometry": {"coordinates":[37.10353,1.54655],"type":"Point"}
+}

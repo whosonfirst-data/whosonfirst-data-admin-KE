@@ -1,0 +1,67 @@
+{
+  "id": 1343692715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.12709,-2.35009,40.12709,-2.35009",
+    "geom:latitude":-2.35009,
+    "geom:longitude":40.12709,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Shirikisho",
+    "gn:country_code":"KE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889814,
+    "gn:latitude":-2.35009,
+    "gn:longitude":40.12709,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Shirikisho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889814
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e3b4a65320f35cd08a574f8a02021027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1343692715,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343692715,
+    "wof:lastmodified":1536908926,
+    "wof:name":"Shirikisho",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.12709,
+    -2.35009,
+    40.12709,
+    -2.35009
+],
+  "geometry": {"coordinates":[40.12709,-2.35009],"type":"Point"}
+}

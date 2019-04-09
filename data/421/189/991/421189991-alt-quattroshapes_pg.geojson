@@ -1,0 +1,16 @@
+{
+  "id": 421189991,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-ke",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"e1fd15ea59529424795381f15d045a04",
+    "wof:id":421189991
+},
+  "bbox": [
+    39.66359,
+    -4.05466,
+    39.66359,
+    -4.05466
+],
+  "geometry": {"coordinates":[39.66359,-4.05466],"type":"Point"}
+}

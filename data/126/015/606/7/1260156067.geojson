@@ -1,0 +1,73 @@
+{
+  "id": 1260156067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.52935,-2.53621,37.52935,-2.53621",
+    "geom:latitude":-2.53621,
+    "geom:longitude":37.52935,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makutano",
+    "gn:country_code":"KE",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187032,
+    "gn:latitude":-2.53621,
+    "gn:longitude":37.52935,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Makutano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukutano",
+        "Mbirikani",
+        "Makutano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187032,
+        "wk:page":"Mbirikani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4126a96a8bddc66c68aa0585bd1a6315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1260156067,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1260156067,
+    "wof:lastmodified":1537653052,
+    "wof:name":"Makutano",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.52935,
+    -2.53621,
+    37.52935,
+    -2.53621
+],
+  "geometry": {"coordinates":[37.52935,-2.53621],"type":"Point"}
+}

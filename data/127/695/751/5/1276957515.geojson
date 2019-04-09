@@ -1,0 +1,68 @@
+{
+  "id": 1276957515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54112,0.46465,35.54112,0.46465",
+    "geom:latitude":0.46465,
+    "geom:longitude":35.54112,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kaptarakwa",
+    "gn:country_code":"KE",
+    "gn:dem":2347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193964,
+    "gn:latitude":0.46465,
+    "gn:longitude":35.54112,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kaptarakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193964,
+        "wk:page":"Kaptarakwa"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fb8a83923b4c03053e591e71e8c7b2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911493,
+            "locality_id":1276957515,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276957515,
+    "wof:lastmodified":1537567151,
+    "wof:name":"Kaptarakwa",
+    "wof:parent_id":1091911493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54112,
+    0.46465,
+    35.54112,
+    0.46465
+],
+  "geometry": {"coordinates":[35.54112,0.46465],"type":"Point"}
+}

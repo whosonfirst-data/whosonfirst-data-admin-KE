@@ -1,0 +1,67 @@
+{
+  "id": 1277012951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05164,3.927,35.05164,3.927",
+    "geom:latitude":3.927,
+    "geom:longitude":35.05164,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lopusiki",
+    "gn:country_code":"KE",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497789,
+    "gn:latitude":3.927,
+    "gn:longitude":35.05164,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lopusiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497789
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"280a0fcbb92191ed7e32a73c29104c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1277012951,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1277012951,
+    "wof:lastmodified":1536861453,
+    "wof:name":"Lopusiki",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05164,
+    3.927,
+    35.05164,
+    3.927
+],
+  "geometry": {"coordinates":[35.05164,3.927],"type":"Point"}
+}

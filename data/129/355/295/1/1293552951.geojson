@@ -1,0 +1,71 @@
+{
+  "id": 1293552951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45408,-0.62398,34.45408,-0.62398",
+    "geom:latitude":-0.62398,
+    "geom:longitude":34.45408,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ogama",
+    "gn:country_code":"KE",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182505,
+    "gn:latitude":-0.62398,
+    "gn:longitude":34.45408,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Ogama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogomo",
+        "Ogama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182505
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b255255100fe02ddd9a568672213424d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911319,
+            "locality_id":1293552951,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1293552951,
+    "wof:lastmodified":1537653039,
+    "wof:name":"Ogama",
+    "wof:parent_id":1091911319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45408,
+    -0.62398,
+    34.45408,
+    -0.62398
+],
+  "geometry": {"coordinates":[34.45408,-0.62398],"type":"Point"}
+}

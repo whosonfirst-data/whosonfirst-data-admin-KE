@@ -1,0 +1,68 @@
+{
+  "id": 1327392201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56605,-3.85074,39.56605,-3.85074",
+    "geom:latitude":-3.85074,
+    "geom:longitude":39.56605,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Malamba",
+    "gn:country_code":"KE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188013,
+    "gn:latitude":-3.85074,
+    "gn:longitude":39.56605,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Malamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188013,
+        "wk:page":"Malamba"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dbe448d974a09c1cccf33fef4f036327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1327392201,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327392201,
+    "wof:lastmodified":1537567143,
+    "wof:name":"Malamba",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56605,
+    -3.85074,
+    39.56605,
+    -3.85074
+],
+  "geometry": {"coordinates":[39.56605,-3.85074],"type":"Point"}
+}

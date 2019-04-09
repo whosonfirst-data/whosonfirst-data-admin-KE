@@ -1,0 +1,70 @@
+{
+  "id": 1225981121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45814,2.40615,35.45814,2.40615",
+    "geom:latitude":2.40615,
+    "geom:longitude":35.45814,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Naoiyapua",
+    "gn:country_code":"KE",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221235,
+    "gn:latitude":2.40615,
+    "gn:longitude":35.45814,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Naoiyapua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loiyapuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221235
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b1175d77e37ec9007cf075059b43d86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1225981121,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1225981121,
+    "wof:lastmodified":1537653094,
+    "wof:name":"Naoiyapua",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45814,
+    2.40615,
+    35.45814,
+    2.40615
+],
+  "geometry": {"coordinates":[35.45814,2.40615],"type":"Point"}
+}

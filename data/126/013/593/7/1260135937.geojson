@@ -1,0 +1,67 @@
+{
+  "id": 1260135937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3539,-0.52685,37.3539,-0.52685",
+    "geom:latitude":-0.52685,
+    "geom:longitude":37.3539,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ruambiti",
+    "gn:country_code":"KE",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181083,
+    "gn:latitude":-0.52685,
+    "gn:longitude":37.3539,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ruambiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181083
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"879e60f8512ba4be269740b30f91c4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1260135937,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260135937,
+    "wof:lastmodified":1536913550,
+    "wof:name":"Ruambiti",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3539,
+    -0.52685,
+    37.3539,
+    -0.52685
+],
+  "geometry": {"coordinates":[37.3539,-0.52685],"type":"Point"}
+}

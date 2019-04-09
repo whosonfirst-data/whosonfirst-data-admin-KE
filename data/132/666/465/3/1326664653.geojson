@@ -1,0 +1,68 @@
+{
+  "id": 1326664653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.11084,-2.31916,40.11084,-2.31916",
+    "geom:latitude":-2.31916,
+    "geom:longitude":40.11084,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Minjila",
+    "gn:country_code":"KE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186647,
+    "gn:latitude":-2.31916,
+    "gn:longitude":40.11084,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Minjila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186647,
+        "wk:page":"Minjila"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0ad6ecebe3f978c669e8f1a1c52cb9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1326664653,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1326664653,
+    "wof:lastmodified":1537567139,
+    "wof:name":"Minjila",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.11084,
+    -2.31916,
+    40.11084,
+    -2.31916
+],
+  "geometry": {"coordinates":[40.11084,-2.31916],"type":"Point"}
+}

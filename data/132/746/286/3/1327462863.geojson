@@ -1,0 +1,72 @@
+{
+  "id": 1327462863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38452,0.81743,35.38452,0.81743",
+    "geom:latitude":0.81743,
+    "geom:longitude":35.38452,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Moiben",
+    "gn:country_code":"KE",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186350,
+    "gn:latitude":0.81743,
+    "gn:longitude":35.38452,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Moiben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moyben",
+        "Moiben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186350,
+        "wk:page":"Moiben"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"570b0c1398fb1e0c64a1810965d76da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "locality_id":1327462863,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327462863,
+    "wof:lastmodified":1537653049,
+    "wof:name":"Moiben",
+    "wof:parent_id":1091912837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38452,
+    0.81743,
+    35.38452,
+    0.81743
+],
+  "geometry": {"coordinates":[35.38452,0.81743],"type":"Point"}
+}

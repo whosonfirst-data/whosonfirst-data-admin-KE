@@ -1,0 +1,67 @@
+{
+  "id": 1276909189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41479,-2.50934,40.41479,-2.50934",
+    "geom:latitude":-2.50934,
+    "geom:longitude":40.41479,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kidhanga",
+    "gn:country_code":"KE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7844728,
+    "gn:latitude":-2.50934,
+    "gn:longitude":40.41479,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kidhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7844728
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"233689be4f16f336518b3c7dcff37833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1276909189,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276909189,
+    "wof:lastmodified":1537001240,
+    "wof:name":"Kidhanga",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41479,
+    -2.50934,
+    40.41479,
+    -2.50934
+],
+  "geometry": {"coordinates":[40.41479,-2.50934],"type":"Point"}
+}

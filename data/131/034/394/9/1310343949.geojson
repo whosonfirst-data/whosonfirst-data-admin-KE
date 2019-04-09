@@ -1,0 +1,72 @@
+{
+  "id": 1310343949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10704,-0.95241,37.10704,-0.95241",
+    "geom:latitude":-0.95241,
+    "geom:longitude":37.10704,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kabati",
+    "gn:country_code":"KE",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195805,
+    "gn:latitude":-0.95241,
+    "gn:longitude":37.10704,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kabati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabuku",
+        "Kabati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195805,
+        "wk:page":"Kabati"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0c3d54d7916ef9dc480562fba26c823c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1310343949,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1310343949,
+    "wof:lastmodified":1537653075,
+    "wof:name":"Kabati",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10704000000001,
+    -0.95241,
+    37.10704000000001,
+    -0.95241
+],
+  "geometry": {"coordinates":[37.10704000000001,-0.95241],"type":"Point"}
+}

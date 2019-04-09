@@ -1,0 +1,67 @@
+{
+  "id": 1360235893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1719,-4.56888,39.1719,-4.56888",
+    "geom:latitude":-4.56888,
+    "geom:longitude":39.1719,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kidomaya",
+    "gn:country_code":"KE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192348,
+    "gn:latitude":-4.56888,
+    "gn:longitude":39.1719,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kidomaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192348
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"39c76f293b734efe26ec2880f18c5fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1360235893,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1360235893,
+    "wof:lastmodified":1536728642,
+    "wof:name":"Kidomaya",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1719,
+    -4.56888,
+    39.1719,
+    -4.56888
+],
+  "geometry": {"coordinates":[39.1719,-4.56888],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209650367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26667,-1.55,37.26667,-1.55",
+    "geom:latitude":-1.55,
+    "geom:longitude":37.26667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Isuvya",
+    "gn:country_code":"KE",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196206,
+    "gn:latitude":-1.55,
+    "gn:longitude":37.26667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Isuvya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196206,
+        "wk:page":"Isuvya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7bcea16a85449a4778f1bd4861c9da4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209650367
+        }
+    ],
+    "wof:id":1209650367,
+    "wof:lastmodified":1537567159,
+    "wof:name":"Isuvya",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26667,
+    -1.55,
+    37.26667,
+    -1.55
+],
+  "geometry": {"coordinates":[37.26667,-1.55],"type":"Point"}
+}

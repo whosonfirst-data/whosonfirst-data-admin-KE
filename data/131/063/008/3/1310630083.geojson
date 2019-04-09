@@ -1,0 +1,67 @@
+{
+  "id": 1310630083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.13427,-2.26164,40.13427,-2.26164",
+    "geom:latitude":-2.26164,
+    "geom:longitude":40.13427,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Dumi",
+    "gn:country_code":"KE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198822,
+    "gn:latitude":-2.26164,
+    "gn:longitude":40.13427,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Dumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198822
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aadc02a44c3578f0d5264a301107ce0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1310630083,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310630083,
+    "wof:lastmodified":1536737272,
+    "wof:name":"Dumi",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.13427,
+    -2.26164,
+    40.13427,
+    -2.26164
+],
+  "geometry": {"coordinates":[40.13427,-2.26164],"type":"Point"}
+}

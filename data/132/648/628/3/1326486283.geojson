@@ -1,0 +1,67 @@
+{
+  "id": 1326486283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33993,-0.68435,37.33993,-0.68435",
+    "geom:latitude":-0.68435,
+    "geom:longitude":37.33993,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Chiba",
+    "gn:country_code":"KE",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199396,
+    "gn:latitude":-0.68435,
+    "gn:longitude":37.33993,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Chiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199396
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8f39a4c478b2884ff7daf25d8b5ba0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1326486283,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1326486283,
+    "wof:lastmodified":1537048304,
+    "wof:name":"Chiba",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33993,
+    -0.68435,
+    37.33993,
+    -0.68435
+],
+  "geometry": {"coordinates":[37.33993,-0.68435],"type":"Point"}
+}

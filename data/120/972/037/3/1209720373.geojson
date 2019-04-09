@@ -1,0 +1,67 @@
+{
+  "id": 1209720373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.69516,-1.28852,36.69516,-1.28852",
+    "geom:latitude":-1.28852,
+    "geom:longitude":36.69516,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mutei",
+    "gn:country_code":"KE",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185418,
+    "gn:latitude":-1.28852,
+    "gn:longitude":36.69516,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Mutei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185418
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"de361d267e503492badf1340a4e623fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":1209720373,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":1209720373,
+    "wof:lastmodified":1536386650,
+    "wof:name":"Mutei",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.69516,
+    -1.28852,
+    36.69516,
+    -1.28852
+],
+  "geometry": {"coordinates":[36.69516,-1.28852],"type":"Point"}
+}

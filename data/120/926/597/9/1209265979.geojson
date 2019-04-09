@@ -1,0 +1,61 @@
+{
+  "id": 1209265979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86544,-0.88518,36.86544,-0.88518",
+    "geom:latitude":-0.88518,
+    "geom:longitude":36.86544,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Chomo",
+    "gn:country_code":"KE",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199322,
+    "gn:latitude":-0.88518,
+    "gn:longitude":36.86544,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Chomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199322
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fe4fe9b85e65e129f1370111fce99f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209265979
+        }
+    ],
+    "wof:id":1209265979,
+    "wof:lastmodified":1536292530,
+    "wof:name":"Chomo",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86544,
+    -0.88518,
+    36.86544,
+    -0.88518
+],
+  "geometry": {"coordinates":[36.86544,-0.88518],"type":"Point"}
+}

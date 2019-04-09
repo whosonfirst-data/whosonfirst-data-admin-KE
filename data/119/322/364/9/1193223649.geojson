@@ -1,0 +1,71 @@
+{
+  "id": 1193223649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5058,-1.66214,37.5058,-1.66214",
+    "geom:latitude":-1.66214,
+    "geom:longitude":37.5058,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kithungo",
+    "gn:country_code":"KE",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191101,
+    "gn:latitude":-1.66214,
+    "gn:longitude":37.5058,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kithungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kithungu",
+        "Kithungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191101
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0e9eb006b41823839d4318f8b335bdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1193223649,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1193223649,
+    "wof:lastmodified":1537653061,
+    "wof:name":"Kithungo",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5058,
+    -1.66214,
+    37.5058,
+    -1.66214
+],
+  "geometry": {"coordinates":[37.5058,-1.66214],"type":"Point"}
+}

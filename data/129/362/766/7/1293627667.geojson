@@ -1,0 +1,67 @@
+{
+  "id": 1293627667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.91667,-0.91667,36.91667,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":36.91667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Rwegetha",
+    "gn:country_code":"KE",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180934,
+    "gn:latitude":-0.91667,
+    "gn:longitude":36.91667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Rwegetha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180934
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a259fc0c6c06675d93d59df088010f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1293627667,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293627667,
+    "wof:lastmodified":1537078969,
+    "wof:name":"Rwegetha",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.91667,
+    -0.91667,
+    36.91667,
+    -0.91667
+],
+  "geometry": {"coordinates":[36.91667,-0.91667],"type":"Point"}
+}

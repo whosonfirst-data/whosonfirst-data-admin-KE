@@ -1,0 +1,67 @@
+{
+  "id": 1243490973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44452,-0.47174,36.44452,-0.47174",
+    "geom:latitude":-0.47174,
+    "geom:longitude":36.44452,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Turasha",
+    "gn:country_code":"KE",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178926,
+    "gn:latitude":-0.47174,
+    "gn:longitude":36.44452,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Turasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890437763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178926
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1e4545ee50984e56a128dbfdb5bca060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890437763,
+            "locality_id":1243490973,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243490973,
+    "wof:lastmodified":1536741055,
+    "wof:name":"Turasha",
+    "wof:parent_id":890437763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44452,
+    -0.47174,
+    36.44452,
+    -0.47174
+],
+  "geometry": {"coordinates":[36.44452,-0.47174],"type":"Point"}
+}

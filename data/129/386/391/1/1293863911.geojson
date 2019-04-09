@@ -1,0 +1,67 @@
+{
+  "id": 1293863911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56261,0.65011,34.56261,0.65011",
+    "geom:latitude":0.65011,
+    "geom:longitude":34.56261,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kabuchai",
+    "gn:country_code":"KE",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497785,
+    "gn:latitude":0.65011,
+    "gn:longitude":34.56261,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kabuchai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091910985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497785
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"98a61bcae72c132164eb3a1505b64f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910985,
+            "locality_id":1293863911,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1293863911,
+    "wof:lastmodified":1536741393,
+    "wof:name":"Kabuchai",
+    "wof:parent_id":1091910985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56261,
+    0.65011,
+    34.56261,
+    0.65011
+],
+  "geometry": {"coordinates":[34.56261,0.65011],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243009409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39417,-2.0594,39.39417,-2.0594",
+    "geom:latitude":-2.0594,
+    "geom:longitude":39.39417,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Desagut",
+    "gn:country_code":"KE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525508,
+    "gn:latitude":-2.0594,
+    "gn:longitude":39.39417,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Desagut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525508
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3ab01ba2750b8dc4e62dac7d88b43f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1243009409,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243009409,
+    "wof:lastmodified":1536939320,
+    "wof:name":"Desagut",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39417,
+    -2.0594,
+    39.39417,
+    -2.0594
+],
+  "geometry": {"coordinates":[39.39417,-2.0594],"type":"Point"}
+}

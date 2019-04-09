@@ -1,0 +1,67 @@
+{
+  "id": 1243485039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88391,2.58105,35.88391,2.58105",
+    "geom:latitude":2.58105,
+    "geom:longitude":35.88391,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kalongoleputh",
+    "gn:country_code":"KE",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11212237,
+    "gn:latitude":2.58105,
+    "gn:longitude":35.88391,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kalongoleputh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11212237
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3dc100724a40470ca97572bb8b53d00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1243485039,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1243485039,
+    "wof:lastmodified":1536749850,
+    "wof:name":"Kalongoleputh",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88391,
+    2.58105,
+    35.88391,
+    2.58105
+],
+  "geometry": {"coordinates":[35.88391,2.58105],"type":"Point"}
+}

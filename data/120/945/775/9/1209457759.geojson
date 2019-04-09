@@ -1,0 +1,62 @@
+{
+  "id": 1209457759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96066,-0.88183,36.96066,-0.88183",
+    "geom:latitude":-0.88183,
+    "geom:longitude":36.96066,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kaguthi",
+    "gn:country_code":"KE",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195493,
+    "gn:latitude":-0.88183,
+    "gn:longitude":36.96066,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kaguthi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195493,
+        "wk:page":"Kaguthi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0d0b450ffb0562032f1999fa0eca6a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209457759
+        }
+    ],
+    "wof:id":1209457759,
+    "wof:lastmodified":1537567156,
+    "wof:name":"Kaguthi",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96066,
+    -0.88183,
+    36.96066,
+    -0.88183
+],
+  "geometry": {"coordinates":[36.96066,-0.88183],"type":"Point"}
+}

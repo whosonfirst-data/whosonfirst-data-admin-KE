@@ -1,0 +1,66 @@
+{
+  "id": 1209573907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95807,-1.00311,36.95807,-1.00311",
+    "geom:latitude":-1.00311,
+    "geom:longitude":36.95807,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mukuruwe",
+    "gn:country_code":"KE",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185817,
+    "gn:latitude":-1.00311,
+    "gn:longitude":36.95807,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Mukuruwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mururuwe",
+        "Mukuruwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185817,
+        "wk:page":"Mururuwe"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9d321f1aab1b916a42b89b1e71e2afc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209573907
+        }
+    ],
+    "wof:id":1209573907,
+    "wof:lastmodified":1537653047,
+    "wof:name":"Mukuruwe",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95807,
+    -1.00311,
+    36.95807,
+    -1.00311
+],
+  "geometry": {"coordinates":[36.95807,-1.00311],"type":"Point"}
+}

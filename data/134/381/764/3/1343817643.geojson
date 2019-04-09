@@ -1,0 +1,67 @@
+{
+  "id": 1343817643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49203,-1.56527,37.49203,-1.56527",
+    "geom:latitude":-1.56527,
+    "geom:longitude":37.49203,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Songeni",
+    "gn:country_code":"KE",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179944,
+    "gn:latitude":-1.56527,
+    "gn:longitude":37.49203,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Songeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179944
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"197eb5ae6fdbae99bac622269c6f9d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1343817643,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1343817643,
+    "wof:lastmodified":1536728930,
+    "wof:name":"Songeni",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49203,
+    -1.56527,
+    37.49203,
+    -1.56527
+],
+  "geometry": {"coordinates":[37.49203,-1.56527],"type":"Point"}
+}

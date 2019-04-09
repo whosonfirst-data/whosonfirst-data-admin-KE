@@ -1,0 +1,68 @@
+{
+  "id": 1343319919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,-0.58333,37.2,-0.58333",
+    "geom:latitude":-0.58333,
+    "geom:longitude":37.2,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gatithi",
+    "gn:country_code":"KE",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197592,
+    "gn:latitude":-0.58333,
+    "gn:longitude":37.2,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gatithi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197592,
+        "wk:page":"Gatithi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"287a59309a1cdcab1cd6d473a774bb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1343319919,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343319919,
+    "wof:lastmodified":1537567164,
+    "wof:name":"Gatithi",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    -0.58333,
+    37.2,
+    -0.58333
+],
+  "geometry": {"coordinates":[37.2,-0.58333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343532755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0591,-0.72265,34.0591,-0.72265",
+    "geom:latitude":-0.72265,
+    "geom:longitude":34.0591,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Nyandiwa",
+    "gn:country_code":"KE",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182844,
+    "gn:latitude":-0.72265,
+    "gn:longitude":34.0591,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nyandiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyandhiwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182844
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bb75a0fe54ec3b631f83dac9b77de10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912585,
+            "locality_id":1343532755,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1343532755,
+    "wof:lastmodified":1537653040,
+    "wof:name":"Nyandiwa",
+    "wof:parent_id":1091912585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0591,
+    -0.72265,
+    34.0591,
+    -0.72265
+],
+  "geometry": {"coordinates":[34.0591,-0.72265],"type":"Point"}
+}

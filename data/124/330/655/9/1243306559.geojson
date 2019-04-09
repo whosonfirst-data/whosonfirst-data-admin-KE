@@ -1,0 +1,68 @@
+{
+  "id": 1243306559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88455,-0.71093,36.88455,-0.71093",
+    "geom:latitude":-0.71093,
+    "geom:longitude":36.88455,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Githambo",
+    "gn:country_code":"KE",
+    "gn:dem":1992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197283,
+    "gn:latitude":-0.71093,
+    "gn:longitude":36.88455,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Githambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197283,
+        "wk:page":"Githambo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ef041e344858a5dfdf6ba2f71d111a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1243306559,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243306559,
+    "wof:lastmodified":1537567162,
+    "wof:name":"Githambo",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88455,
+    -0.71093,
+    36.88455,
+    -0.71093
+],
+  "geometry": {"coordinates":[36.88455,-0.71093],"type":"Point"}
+}

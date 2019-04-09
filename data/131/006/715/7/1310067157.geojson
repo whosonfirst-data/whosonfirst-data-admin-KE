@@ -1,0 +1,70 @@
+{
+  "id": 1310067157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55678,-4.21048,39.55678,-4.21048",
+    "geom:latitude":-4.21048,
+    "geom:longitude":39.55678,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Vumoni",
+    "gn:country_code":"KE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7844062,
+    "gn:latitude":-4.21048,
+    "gn:longitude":39.55678,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Vumoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mivumoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7844062
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3f062f9d38778073b6c46dad34401d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1310067157,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310067157,
+    "wof:lastmodified":1537653093,
+    "wof:name":"Vumoni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55678,
+    -4.21048,
+    39.55678,
+    -4.21048
+],
+  "geometry": {"coordinates":[39.55678,-4.21048],"type":"Point"}
+}

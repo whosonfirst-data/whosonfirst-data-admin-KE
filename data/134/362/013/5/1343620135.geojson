@@ -1,0 +1,71 @@
+{
+  "id": 1343620135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76667,-1.18333,36.76667,-1.18333",
+    "geom:latitude":-1.18333,
+    "geom:longitude":36.76667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Thimbigua",
+    "gn:country_code":"KE",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179318,
+    "gn:latitude":-1.18333,
+    "gn:longitude":36.76667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Thimbigua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thembigwa",
+        "Thimbigua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179318
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ea2b1edf4dee6811cdb3e6ffe8eccd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1343620135,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343620135,
+    "wof:lastmodified":1537653034,
+    "wof:name":"Thimbigua",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76667,
+    -1.18333,
+    36.76667,
+    -1.18333
+],
+  "geometry": {"coordinates":[36.76667,-1.18333],"type":"Point"}
+}

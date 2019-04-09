@@ -1,0 +1,70 @@
+{
+  "id": 1276694137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.09534,2.09399,35.09534,2.09399",
+    "geom:latitude":2.09399,
+    "geom:longitude":35.09534,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kauriong",
+    "gn:country_code":"KE",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193207,
+    "gn:latitude":2.09399,
+    "gn:longitude":35.09534,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kauriong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kauriong\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193207
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"30c6aaa0be5c6a6b077b1bb091816521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1276694137,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276694137,
+    "wof:lastmodified":1537653066,
+    "wof:name":"Kauriong",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.09534,
+    2.09399,
+    35.09534,
+    2.09399
+],
+  "geometry": {"coordinates":[35.09534,2.09399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259541995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61869,-1.00971,36.61869,-1.00971",
+    "geom:latitude":-1.00971,
+    "geom:longitude":36.61869,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Escarpment",
+    "gn:country_code":"KE",
+    "gn:dem":2259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198163,
+    "gn:latitude":-1.00971,
+    "gn:longitude":36.61869,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Escarpment",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198163
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"367a05b56ca30c4a7c91d5b3739aaa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1259541995,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259541995,
+    "wof:lastmodified":1536775400,
+    "wof:name":"Escarpment",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61869,
+    -1.00971,
+    36.61869,
+    -1.00971
+],
+  "geometry": {"coordinates":[36.61869,-1.00971],"type":"Point"}
+}

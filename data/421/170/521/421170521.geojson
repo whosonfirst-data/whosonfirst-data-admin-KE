@@ -1,0 +1,99 @@
+{
+  "id": 421170521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.27365,0.56842,34.27365,0.56842",
+    "geom:latitude":0.56842,
+    "geom:longitude":34.27365,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Amakuni"
+    ],
+    "name:fra_x_preferred":[
+        "Amakuni"
+    ],
+    "name:ita_x_preferred":[
+        "Amakuni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5929\u56fd"
+    ],
+    "name:pol_x_preferred":[
+        "Amakuni"
+    ],
+    "name:unk_x_variant":[
+        "Amukura"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u570b"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":201062,
+    "qs:gn_pop":0,
+    "qs:name":"Amakura",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1192055,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1526815,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":562,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201062,
+        "gp:id":1526815,
+        "qs:id":1192055,
+        "wd:id":"Q452599"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008856,
+    "wof:geomhash":"81787c21bead29c5c728988203d33094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912613,
+            "locality_id":421170521,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":421170521,
+    "wof:lastmodified":1527716464,
+    "wof:name":"Amakura",
+    "wof:parent_id":1091912613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27365,
+    0.56842,
+    34.27365,
+    0.56842
+],
+  "geometry": {"coordinates":[34.27365,0.56842],"type":"Point"}
+}

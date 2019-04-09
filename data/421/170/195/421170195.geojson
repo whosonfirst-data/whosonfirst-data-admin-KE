@@ -1,0 +1,83 @@
+{
+  "id": 421170195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85,-1.28333,36.85,-1.28333",
+    "geom:latitude":-1.28333,
+    "geom:longitude":36.85,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Pumuani"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":181501,
+    "qs:gn_pop":0,
+    "qs:name":"Pumwani",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":142,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":142,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":227491,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528711,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        1091912313,
+        85672951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181501,
+        "gp:id":1528711,
+        "qs:id":227491,
+        "wd:id":"Q7259868",
+        "wk:page":"Pumwani"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008842,
+    "wof:geomhash":"9c65081c4d4bb7854d08fb19c579bd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":-1,
+            "neighbourhood_id":421170195,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421170195,
+    "wof:lastmodified":1531858341,
+    "wof:name":"Pumwani",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85,
+    -1.28333,
+    36.85,
+    -1.28333
+],
+  "geometry": {"coordinates":[36.85,-1.28333],"type":"Point"}
+}

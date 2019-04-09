@@ -1,0 +1,61 @@
+{
+  "id": 1209243847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,-0.45,36.83333,-0.45",
+    "geom:latitude":-0.45,
+    "geom:longitude":36.83333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kiandongoro",
+    "gn:country_code":"KE",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192651,
+    "gn:latitude":-0.45,
+    "gn:longitude":36.83333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiandongoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192651
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f74572a344e46c6fa1126697e7ddfbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209243847
+        }
+    ],
+    "wof:id":1209243847,
+    "wof:lastmodified":1536293231,
+    "wof:name":"Kiandongoro",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    -0.45,
+    36.83333,
+    -0.45
+],
+  "geometry": {"coordinates":[36.83333,-0.45],"type":"Point"}
+}

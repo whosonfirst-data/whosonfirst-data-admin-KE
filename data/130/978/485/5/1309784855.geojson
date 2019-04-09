@@ -1,0 +1,72 @@
+{
+  "id": 1309784855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57685,0.327,35.57685,0.327",
+    "geom:latitude":0.327,
+    "geom:longitude":35.57685,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nyaru",
+    "gn:country_code":"KE",
+    "gn:dem":2592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182741,
+    "gn:latitude":0.327,
+    "gn:longitude":35.57685,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Nyaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyeru",
+        "Nyaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182741,
+        "wk:page":"Nyaru"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"39ae26017ecfcc1e6af9f674e9ae63a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911493,
+            "locality_id":1309784855,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1309784855,
+    "wof:lastmodified":1537653040,
+    "wof:name":"Nyaru",
+    "wof:parent_id":1091911493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57685,
+    0.327,
+    35.57685,
+    0.327
+],
+  "geometry": {"coordinates":[35.57685,0.327],"type":"Point"}
+}

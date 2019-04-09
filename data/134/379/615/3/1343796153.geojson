@@ -1,0 +1,72 @@
+{
+  "id": 1343796153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1974,-2.43333,40.1974,-2.43333",
+    "geom:latitude":-2.43333,
+    "geom:longitude":40.1974,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mwanathamba",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185083,
+    "gn:latitude":-2.43333,
+    "gn:longitude":40.1974,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwanathamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwanathumba",
+        "Mwanathamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185083,
+        "wk:page":"Mwanathumba"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9a8c3a5c7f4e7bfdddf6216b7730d3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1343796153,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343796153,
+    "wof:lastmodified":1537653045,
+    "wof:name":"Mwanathamba",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1974,
+    -2.43333,
+    40.1974,
+    -2.43333
+],
+  "geometry": {"coordinates":[40.1974,-2.43333],"type":"Point"}
+}

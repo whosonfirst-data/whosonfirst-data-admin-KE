@@ -1,0 +1,67 @@
+{
+  "id": 1260380027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86773,0.51153,35.86773,0.51153",
+    "geom:latitude":0.51153,
+    "geom:longitude":35.86773,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kibingor",
+    "gn:country_code":"KE",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192466,
+    "gn:latitude":0.51153,
+    "gn:longitude":35.86773,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kibingor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192466
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5a90c5fe9ac17fc0ca1782a855de3dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1260380027,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1260380027,
+    "wof:lastmodified":1537076535,
+    "wof:name":"Kibingor",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86773,
+    0.51153,
+    35.86773,
+    0.51153
+],
+  "geometry": {"coordinates":[35.86773,0.51153],"type":"Point"}
+}

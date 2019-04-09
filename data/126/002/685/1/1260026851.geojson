@@ -1,0 +1,67 @@
+{
+  "id": 1260026851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76667,-0.06667,36.76667,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":36.76667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Thuthuriki",
+    "gn:country_code":"KE",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179243,
+    "gn:latitude":-0.06667,
+    "gn:longitude":36.76667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Thuthuriki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179243
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e050639a6b36032bab20c28eed4ed92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":1260026851,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1260026851,
+    "wof:lastmodified":1537066695,
+    "wof:name":"Thuthuriki",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76667,
+    -0.06667,
+    36.76667,
+    -0.06667
+],
+  "geometry": {"coordinates":[36.76667,-0.06667],"type":"Point"}
+}

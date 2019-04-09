@@ -1,0 +1,72 @@
+{
+  "id": 1293726913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02122,-0.65194,37.02122,-0.65194",
+    "geom:latitude":-0.65194,
+    "geom:longitude":37.02122,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gitugi",
+    "gn:country_code":"KE",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197185,
+    "gn:latitude":-0.65194,
+    "gn:longitude":37.02122,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gitugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gituge",
+        "Gitugi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197185,
+        "wk:page":"Gituge"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ea1caa2a43656d7b49e03ce9631bf05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1293726913,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293726913,
+    "wof:lastmodified":1537653079,
+    "wof:name":"Gitugi",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02122,
+    -0.65194,
+    37.02122,
+    -0.65194
+],
+  "geometry": {"coordinates":[37.02122,-0.65194],"type":"Point"}
+}

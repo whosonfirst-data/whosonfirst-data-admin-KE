@@ -1,0 +1,71 @@
+{
+  "id": 1243155971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79771,0.42314,35.79771,0.42314",
+    "geom:latitude":0.42314,
+    "geom:longitude":35.79771,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Timboiwo",
+    "gn:country_code":"KE",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179198,
+    "gn:latitude":0.42314,
+    "gn:longitude":35.79771,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Timboiwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timboywo",
+        "Timboiwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179198
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e7cca806b8ade38cb660cf5b37dca8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1243155971,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1243155971,
+    "wof:lastmodified":1537653034,
+    "wof:name":"Timboiwo",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79770999999999,
+    0.42314,
+    35.79770999999999,
+    0.42314
+],
+  "geometry": {"coordinates":[35.79770999999999,0.42314],"type":"Point"}
+}

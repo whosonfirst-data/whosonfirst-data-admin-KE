@@ -1,0 +1,67 @@
+{
+  "id": 1326671305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.00899,3.40951,41.00899,3.40951",
+    "geom:latitude":3.40951,
+    "geom:longitude":41.00899,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Waragalla",
+    "gn:country_code":"KE",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10221379,
+    "gn:latitude":3.40951,
+    "gn:longitude":41.00899,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Waragalla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10221379
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"646ba1f04cae62a601a9380fb9488b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1326671305,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1326671305,
+    "wof:lastmodified":1536784024,
+    "wof:name":"Waragalla",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.00899,
+    3.40951,
+    41.00899,
+    3.40951
+],
+  "geometry": {"coordinates":[41.00899,3.40951],"type":"Point"}
+}

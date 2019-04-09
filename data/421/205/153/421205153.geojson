@@ -1,0 +1,97 @@
+{
+  "id": 421205153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42167,0.67694,34.42167,0.67694",
+    "geom:latitude":0.67694,
+    "geom:longitude":34.42167,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Malakisi"
+    ],
+    "name:eng_x_preferred":[
+        "Malakisi"
+    ],
+    "name:pol_x_preferred":[
+        "Malakisi"
+    ],
+    "name:swe_x_preferred":[
+        "Malikisi"
+    ],
+    "name:unk_x_variant":[
+        "Malakisi"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":187977,
+    "qs:gn_pop":4319,
+    "qs:name":"Malikisi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":257101,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1529281,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091910985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187977,
+        "gp:id":1529281,
+        "qs:id":257101,
+        "wd:id":"Q6741176",
+        "wk:page":"Malakisi"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010214,
+    "wof:geomhash":"d0313de3401542333fbfc061b578bd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910985,
+            "locality_id":421205153,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":421205153,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Malikisi",
+    "wof:parent_id":1091910985,
+    "wof:placetype":"locality",
+    "wof:population":4319,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42167,
+    0.67694,
+    34.42167,
+    0.67694
+],
+  "geometry": {"coordinates":[34.42167,0.67694],"type":"Point"}
+}

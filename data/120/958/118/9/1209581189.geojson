@@ -1,0 +1,68 @@
+{
+  "id": 1209581189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2738,-2.66839,37.2738,-2.66839",
+    "geom:latitude":-2.66839,
+    "geom:longitude":37.2738,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Amboseli Safari Camp",
+    "gn:country_code":"KE",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201050,
+    "gn:latitude":-2.66839,
+    "gn:longitude":37.2738,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Amboseli Safari Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amboseli"
+    ],
+    "name:und_x_variant":[
+        "Amboseli",
+        "Amboseli Safari Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201050
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a7d5c780ca782f3dbb6bc8c208031c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209581189
+        }
+    ],
+    "wof:id":1209581189,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Amboseli Safari Camp",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2738,
+    -2.66839,
+    37.2738,
+    -2.66839
+],
+  "geometry": {"coordinates":[37.2738,-2.66839],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209649453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31304,-0.36546,34.31304,-0.36546",
+    "geom:latitude":-0.36546,
+    "geom:longitude":34.31304,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Migoko",
+    "gn:country_code":"KE",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186734,
+    "gn:latitude":-0.36546,
+    "gn:longitude":34.31304,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Migoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186734,
+        "wk:page":"Migoko"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e6076cdbdcb861d289c169fc67dcd16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209649453
+        }
+    ],
+    "wof:id":1209649453,
+    "wof:lastmodified":1537567139,
+    "wof:name":"Migoko",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31304,
+    -0.36546,
+    34.31304,
+    -0.36546
+],
+  "geometry": {"coordinates":[34.31304,-0.36546],"type":"Point"}
+}

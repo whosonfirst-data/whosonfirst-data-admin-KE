@@ -1,0 +1,73 @@
+{
+  "id": 1260350335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41998,-4.07424,39.41998,-4.07424",
+    "geom:latitude":-4.07424,
+    "geom:longitude":39.41998,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Nzovuni",
+    "gn:country_code":"KE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183930,
+    "gn:latitude":-4.07424,
+    "gn:longitude":39.41998,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nzovuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndsoyuni",
+        "Ndsovuni",
+        "Ndzovuni",
+        "Nzovuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183930
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7aa4984457a950723d73f97a5fe6f137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1260350335,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1260350335,
+    "wof:lastmodified":1537653043,
+    "wof:name":"Nzovuni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41998,
+    -4.07424,
+    39.41998,
+    -4.07424
+],
+  "geometry": {"coordinates":[39.41998,-4.07424],"type":"Point"}
+}

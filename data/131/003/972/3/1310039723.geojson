@@ -1,0 +1,71 @@
+{
+  "id": 1310039723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15018,-0.05144,34.15018,-0.05144",
+    "geom:latitude":-0.05144,
+    "geom:longitude":34.15018,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Nyamonye",
+    "gn:country_code":"KE",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182868,
+    "gn:latitude":-0.05144,
+    "gn:longitude":34.15018,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Nyamonye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamnye",
+        "Nyamonye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091910953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182868
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"40cc9f0a599c9a9bcdc8a950f7a6d3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910953,
+            "locality_id":1310039723,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310039723,
+    "wof:lastmodified":1537653040,
+    "wof:name":"Nyamonye",
+    "wof:parent_id":1091910953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15018,
+    -0.05144,
+    34.15018,
+    -0.05144
+],
+  "geometry": {"coordinates":[34.15018,-0.05144],"type":"Point"}
+}

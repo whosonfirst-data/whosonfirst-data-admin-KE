@@ -1,0 +1,70 @@
+{
+  "id": 1343597377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.27482,-0.33088,34.27482,-0.33088",
+    "geom:latitude":-0.33088,
+    "geom:longitude":34.27482,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Miyare",
+    "gn:country_code":"KE",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186909,
+    "gn:latitude":-0.33088,
+    "gn:longitude":34.27482,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Miyare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091910953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186909
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"554b461e6ff4d63681228ac9c82d43b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910953,
+            "locality_id":1343597377,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1343597377,
+    "wof:lastmodified":1537653051,
+    "wof:name":"Miyare",
+    "wof:parent_id":1091910953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27482,
+    -0.33088,
+    34.27482,
+    -0.33088
+],
+  "geometry": {"coordinates":[34.27482,-0.33088],"type":"Point"}
+}

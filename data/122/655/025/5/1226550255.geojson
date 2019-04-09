@@ -1,0 +1,67 @@
+{
+  "id": 1226550255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83074,0.11094,34.83074,0.11094",
+    "geom:latitude":0.11094,
+    "geom:longitude":34.83074,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shamakhokho",
+    "gn:country_code":"KE",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051211,
+    "gn:latitude":0.11094,
+    "gn:longitude":34.83074,
+    "gn:modification_date":"2011-10-29",
+    "gn:name":"Shamakhokho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051211
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1e3955599744c660cf73ca65a7e329c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":1226550255,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1226550255,
+    "wof:lastmodified":1536990620,
+    "wof:name":"Shamakhokho",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83074000000001,
+    0.11094,
+    34.83074000000001,
+    0.11094
+],
+  "geometry": {"coordinates":[34.83074000000001,0.11094],"type":"Point"}
+}

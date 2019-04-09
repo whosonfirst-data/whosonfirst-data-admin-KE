@@ -1,0 +1,68 @@
+{
+  "id": 1327203581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05,-0.96417,41.05,-0.96417",
+    "geom:latitude":-0.96417,
+    "geom:longitude":41.05,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ilkabere",
+    "gn:country_code":"KE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444975,
+    "gn:latitude":-0.96417,
+    "gn:longitude":41.05,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Ilkabere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444975,
+        "wk:page":"Ilkabere"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3546ba77efa0a4ba14de75a022320c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1327203581,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1327203581,
+    "wof:lastmodified":1537567173,
+    "wof:name":"Ilkabere",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05,
+    -0.96417,
+    41.05,
+    -0.96417
+],
+  "geometry": {"coordinates":[41.05,-0.96417],"type":"Point"}
+}

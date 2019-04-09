@@ -1,0 +1,67 @@
+{
+  "id": 1309746157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.43355,-3.31637,38.43355,-3.31637",
+    "geom:latitude":-3.31637,
+    "geom:longitude":38.43355,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Wongonyi",
+    "gn:country_code":"KE",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178083,
+    "gn:latitude":-3.31637,
+    "gn:longitude":38.43355,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Wongonyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178083
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1f95cee80cc1bbb903e0ece7ea2e5e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1309746157,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1309746157,
+    "wof:lastmodified":1537016460,
+    "wof:name":"Wongonyi",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.43355,
+    -3.31637,
+    38.43355,
+    -3.31637
+],
+  "geometry": {"coordinates":[38.43355,-3.31637],"type":"Point"}
+}

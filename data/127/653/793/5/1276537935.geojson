@@ -1,0 +1,72 @@
+{
+  "id": 1276537935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01499,0.94507,36.01499,0.94507",
+    "geom:latitude":0.94507,
+    "geom:longitude":36.01499,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kinyang",
+    "gn:country_code":"KE",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191768,
+    "gn:latitude":0.94507,
+    "gn:longitude":36.01499,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kinyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nginyang",
+        "Kinyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191768,
+        "wk:page":"Kinyang"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"cddbb3819c38595b63f135350813ddbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1276537935,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276537935,
+    "wof:lastmodified":1537653062,
+    "wof:name":"Kinyang",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01499000000001,
+    0.94507,
+    36.01499000000001,
+    0.94507
+],
+  "geometry": {"coordinates":[36.01499000000001,0.94507],"type":"Point"}
+}

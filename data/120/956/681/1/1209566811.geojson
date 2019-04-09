@@ -1,0 +1,62 @@
+{
+  "id": 1209566811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,-0.7,36.96667,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gitweku",
+    "gn:country_code":"KE",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197160,
+    "gn:latitude":-0.7,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gitweku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197160,
+        "wk:page":"Gitweku"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"357f222c1f248d6acadc8524f88fdad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209566811
+        }
+    ],
+    "wof:id":1209566811,
+    "wof:lastmodified":1537567161,
+    "wof:name":"Gitweku",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    -0.7,
+    36.96667,
+    -0.7
+],
+  "geometry": {"coordinates":[36.96667,-0.7],"type":"Point"}
+}

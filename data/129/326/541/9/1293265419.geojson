@@ -1,0 +1,71 @@
+{
+  "id": 1293265419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54704,-0.37702,37.54704,-0.37702",
+    "geom:latitude":-0.37702,
+    "geom:longitude":37.54704,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Rukuriri",
+    "gn:country_code":"KE",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181005,
+    "gn:latitude":-0.37702,
+    "gn:longitude":37.54704,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Rukuriri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukurire",
+        "Rukuriri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181005
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a50e41d10ce1dd7334484d51b7e21cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1293265419,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1293265419,
+    "wof:lastmodified":1537653037,
+    "wof:name":"Rukuriri",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54704,
+    -0.37702,
+    37.54704,
+    -0.37702
+],
+  "geometry": {"coordinates":[37.54704,-0.37702],"type":"Point"}
+}

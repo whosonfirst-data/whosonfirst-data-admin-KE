@@ -1,0 +1,65 @@
+{
+  "id": 1209658067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0927,-0.83769,37.0927,-0.83769",
+    "geom:latitude":-0.83769,
+    "geom:longitude":37.0927,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ruanganga",
+    "gn:country_code":"KE",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181077,
+    "gn:latitude":-0.83769,
+    "gn:longitude":37.0927,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ruanganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruaganga",
+        "Ruanganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181077
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4e4ff66b7e7a499c0411b6065e106c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209658067
+        }
+    ],
+    "wof:id":1209658067,
+    "wof:lastmodified":1537653037,
+    "wof:name":"Ruanganga",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0927,
+    -0.83769,
+    37.0927,
+    -0.83769
+],
+  "geometry": {"coordinates":[37.0927,-0.83769],"type":"Point"}
+}

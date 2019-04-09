@@ -1,0 +1,72 @@
+{
+  "id": 1276802031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.21023,-2.48175,40.21023,-2.48175",
+    "geom:latitude":-2.48175,
+    "geom:longitude":40.21023,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Furaha",
+    "gn:country_code":"KE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197996,
+    "gn:latitude":-2.48175,
+    "gn:longitude":40.21023,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Furaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Furaka",
+        "Furaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197996,
+        "wk:page":"Furaha"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"77a5c484dde9afa635b078896e347661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1276802031,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276802031,
+    "wof:lastmodified":1537653085,
+    "wof:name":"Furaha",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.21023,
+    -2.48175,
+    40.21023,
+    -2.48175
+],
+  "geometry": {"coordinates":[40.21023,-2.48175],"type":"Point"}
+}

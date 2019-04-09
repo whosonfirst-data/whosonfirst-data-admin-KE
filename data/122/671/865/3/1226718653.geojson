@@ -1,0 +1,68 @@
+{
+  "id": 1226718653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40346,-3.57962,39.40346,-3.57962",
+    "geom:latitude":-3.57962,
+    "geom:longitude":39.40346,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mgamboni",
+    "gn:country_code":"KE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186788,
+    "gn:latitude":-3.57962,
+    "gn:longitude":39.40346,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mgamboni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186788,
+        "wk:page":"Mgamboni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"74dab1610c693fdb519187b8c8139aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1226718653,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226718653,
+    "wof:lastmodified":1537567139,
+    "wof:name":"Mgamboni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40346,
+    -3.57962,
+    39.40346,
+    -3.57962
+],
+  "geometry": {"coordinates":[39.40346,-3.57962],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226290007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05,-3.72861,39.05,-3.72861",
+    "geom:latitude":-3.72861,
+    "geom:longitude":39.05,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mackinnon Road",
+    "gn:country_code":"KE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188469,
+    "gn:latitude":-3.72861,
+    "gn:longitude":39.05,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mackinnon Road",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188469,
+        "wk:page":"Mackinnon_Road"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"59a5120ed410d55f26bca257a7a2f070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1226290007,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226290007,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Mackinnon Road",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05,
+    -3.72861,
+    39.05,
+    -3.72861
+],
+  "geometry": {"coordinates":[39.05,-3.72861],"type":"Point"}
+}

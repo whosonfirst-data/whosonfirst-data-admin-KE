@@ -1,0 +1,71 @@
+{
+  "id": 1292969473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56667,-3.78333,39.56667,-3.78333",
+    "geom:latitude":-3.78333,
+    "geom:longitude":39.56667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kayafungo",
+    "gn:country_code":"KE",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193092,
+    "gn:latitude":-3.78333,
+    "gn:longitude":39.56667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kayafungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayafungu",
+        "Kayafungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193092
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1ef627e8132dc6cc28ff79baac6adf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1292969473,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1292969473,
+    "wof:lastmodified":1537653066,
+    "wof:name":"Kayafungo",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56667,
+    -3.78333,
+    39.56667,
+    -3.78333
+],
+  "geometry": {"coordinates":[39.56667,-3.78333],"type":"Point"}
+}

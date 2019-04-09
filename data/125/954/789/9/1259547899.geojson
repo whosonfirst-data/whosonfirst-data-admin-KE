@@ -1,0 +1,71 @@
+{
+  "id": 1259547899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37166,-0.29184,35.37166,-0.29184",
+    "geom:latitude":-0.29184,
+    "geom:longitude":35.37166,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kapkiam",
+    "gn:country_code":"KE",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194110,
+    "gn:latitude":-0.29184,
+    "gn:longitude":35.37166,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kapkiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapkaim",
+        "Kapkiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194110
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9ce66dbaecdedba857bb66cf765d44da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911533,
+            "locality_id":1259547899,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1259547899,
+    "wof:lastmodified":1537653069,
+    "wof:name":"Kapkiam",
+    "wof:parent_id":1091911533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37166,
+    -0.29184,
+    35.37166,
+    -0.29184
+],
+  "geometry": {"coordinates":[35.37166,-0.29184],"type":"Point"}
+}

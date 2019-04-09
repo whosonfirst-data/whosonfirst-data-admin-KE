@@ -1,0 +1,72 @@
+{
+  "id": 1293840095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,-3.8,39.53333,-3.8",
+    "geom:latitude":-3.8,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mwanamare",
+    "gn:country_code":"KE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185089,
+    "gn:latitude":-3.8,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwanamare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manamare",
+        "Mwanamare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185089,
+        "wk:page":"Manamare"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2363b08f4845fa02314980510cf37e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1293840095,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293840095,
+    "wof:lastmodified":1537653045,
+    "wof:name":"Mwanamare",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    -3.8,
+    39.53333,
+    -3.8
+],
+  "geometry": {"coordinates":[39.53333,-3.8],"type":"Point"}
+}

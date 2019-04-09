@@ -1,0 +1,72 @@
+{
+  "id": 1242776921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72596,-1.24223,36.72596,-1.24223",
+    "geom:latitude":-1.24223,
+    "geom:longitude":36.72596,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kanyongo",
+    "gn:country_code":"KE",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194267,
+    "gn:latitude":-1.24223,
+    "gn:longitude":36.72596,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kanyongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyongon",
+        "Kanyongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194267,
+        "wk:page":"Kanyongo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ef8a49b11dd1a8e947ae207841bdfbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1242776921,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1242776921,
+    "wof:lastmodified":1537653069,
+    "wof:name":"Kanyongo",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72596,
+    -1.24223,
+    36.72596,
+    -1.24223
+],
+  "geometry": {"coordinates":[36.72596,-1.24223],"type":"Point"}
+}

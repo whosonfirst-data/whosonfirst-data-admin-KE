@@ -1,0 +1,67 @@
+{
+  "id": 1293349571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.06355,4.01873,41.06355,4.01873",
+    "geom:latitude":4.01873,
+    "geom:longitude":41.06355,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Rhamu Dimtu",
+    "gn:country_code":"KE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345176,
+    "gn:latitude":4.01873,
+    "gn:longitude":41.06355,
+    "gn:modification_date":"2015-06-19",
+    "gn:name":"Rhamu Dimtu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345176
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"50921a9c7935c8d467fe3751c6e6345a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1293349571,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1293349571,
+    "wof:lastmodified":1536985189,
+    "wof:name":"Rhamu Dimtu",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.06355,
+    4.01873,
+    41.06355,
+    4.01873
+],
+  "geometry": {"coordinates":[41.06355,4.01873],"type":"Point"}
+}

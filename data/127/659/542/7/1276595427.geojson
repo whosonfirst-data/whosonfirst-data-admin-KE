@@ -1,0 +1,68 @@
+{
+  "id": 1276595427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96857,-0.81251,36.96857,-0.81251",
+    "geom:latitude":-0.81251,
+    "geom:longitude":36.96857,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Marumi",
+    "gn:country_code":"KE",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187566,
+    "gn:latitude":-0.81251,
+    "gn:longitude":36.96857,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Marumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187566,
+        "wk:page":"Marumi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ed9990ccc376ceea09408a04ab925e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1276595427,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1276595427,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Marumi",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96857,
+    -0.81251,
+    36.96857,
+    -0.81251
+],
+  "geometry": {"coordinates":[36.96857,-0.81251],"type":"Point"}
+}

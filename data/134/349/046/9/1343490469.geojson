@@ -1,0 +1,68 @@
+{
+  "id": 1343490469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79596,-0.3055,36.79596,-0.3055",
+    "geom:latitude":-0.3055,
+    "geom:longitude":36.79596,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Endarasha",
+    "gn:country_code":"KE",
+    "gn:dem":2374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605151,
+    "gn:latitude":-0.3055,
+    "gn:longitude":36.79596,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Endarasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605151,
+        "wk:page":"Endarasha"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c26f7823a0cdbd1f7e820337e94ec4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1343490469,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343490469,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Endarasha",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79596,
+    -0.3055,
+    36.79596,
+    -0.3055
+],
+  "geometry": {"coordinates":[36.79596,-0.3055],"type":"Point"}
+}

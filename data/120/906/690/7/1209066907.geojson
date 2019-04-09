@@ -1,0 +1,66 @@
+{
+  "id": 1209066907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.7217,-2.31529,40.7217,-2.31529",
+    "geom:latitude":-2.31529,
+    "geom:longitude":40.7217,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ndambwe",
+    "gn:country_code":"KE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184231,
+    "gn:latitude":-2.31529,
+    "gn:longitude":40.7217,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ndambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndhambwe",
+        "Ndambwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184231,
+        "wk:page":"Ndambwe"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"74c8ed05c4309911e076dadb2c841663",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209066907
+        }
+    ],
+    "wof:id":1209066907,
+    "wof:lastmodified":1537653044,
+    "wof:name":"Ndambwe",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.7217,
+    -2.31529,
+    40.7217,
+    -2.31529
+],
+  "geometry": {"coordinates":[40.7217,-2.31529],"type":"Point"}
+}

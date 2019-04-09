@@ -1,0 +1,67 @@
+{
+  "id": 1310194177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75689,-0.00356,35.75689,-0.00356",
+    "geom:latitude":-0.00356,
+    "geom:longitude":35.75689,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Solian",
+    "gn:country_code":"KE",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345245,
+    "gn:latitude":-0.00356,
+    "gn:longitude":35.75689,
+    "gn:modification_date":"2015-06-20",
+    "gn:name":"Solian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345245
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0d7ac9665df64ecc626f16e582401e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911719,
+            "locality_id":1310194177,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310194177,
+    "wof:lastmodified":1536867392,
+    "wof:name":"Solian",
+    "wof:parent_id":1091911719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75689000000001,
+    -0.00356,
+    35.75689000000001,
+    -0.00356
+],
+  "geometry": {"coordinates":[35.75689000000001,-0.00356],"type":"Point"}
+}

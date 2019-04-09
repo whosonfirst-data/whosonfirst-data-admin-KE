@@ -1,0 +1,66 @@
+{
+  "id": 1344203975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37235,-1.88576,41.37235,-1.88576",
+    "geom:latitude":-1.88576,
+    "geom:longitude":41.37235,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Simambaya",
+    "gn:country_code":"KE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180585,
+    "gn:latitude":-1.88576,
+    "gn:longitude":41.37235,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Simambaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shimambaya",
+        "Simambaya",
+        "Sendeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180585
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f2942f35ee5d9adf735474c8fed645f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344203975,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344203975,
+    "wof:lastmodified":1537653036,
+    "wof:name":"Simambaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37235,
+    -1.88576,
+    41.37235,
+    -1.88576
+],
+  "geometry": {"coordinates":[41.37235,-1.88576],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209151057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86323,-0.64686,36.86323,-0.64686",
+    "geom:latitude":-0.64686,
+    "geom:longitude":36.86323,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Nyagatugu",
+    "gn:country_code":"KE",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183043,
+    "gn:latitude":-0.64686,
+    "gn:longitude":36.86323,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Nyagatugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183043,
+        "wk:page":"Nyagatugu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2d592ddfdc67914913e830edd8153bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209151057
+        }
+    ],
+    "wof:id":1209151057,
+    "wof:lastmodified":1537567131,
+    "wof:name":"Nyagatugu",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86323,
+    -0.64686,
+    36.86323,
+    -0.64686
+],
+  "geometry": {"coordinates":[36.86323,-0.64686],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243012953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.68676,0.04549,37.68676,0.04549",
+    "geom:latitude":0.04549,
+    "geom:longitude":37.68676,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kagene",
+    "gn:country_code":"KE",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195878,
+    "gn:latitude":0.04549,
+    "gn:longitude":37.68676,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kagene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaaga",
+        "Kagene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195878,
+        "wk:page":"Kaaga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"45834122f17eb0909cd68432f8b43225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912097,
+            "locality_id":1243012953,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1243012953,
+    "wof:lastmodified":1537653075,
+    "wof:name":"Kagene",
+    "wof:parent_id":1091912097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.68676,
+    0.04549,
+    37.68676,
+    0.04549
+],
+  "geometry": {"coordinates":[37.68676,0.04549],"type":"Point"}
+}

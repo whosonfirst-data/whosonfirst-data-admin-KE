@@ -1,0 +1,71 @@
+{
+  "id": 1226379539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.52432,-0.0636,36.52432,-0.0636",
+    "geom:latitude":-0.0636,
+    "geom:longitude":36.52432,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ndaragwa",
+    "gn:country_code":"KE",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184218,
+    "gn:latitude":-0.0636,
+    "gn:longitude":36.52432,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ndaragwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ildarakwa",
+        "Ndaragwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890437763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184218
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"afe943d53a9ff8085acbd90490290111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890437763,
+            "locality_id":1226379539,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226379539,
+    "wof:lastmodified":1537653043,
+    "wof:name":"Ndaragwa",
+    "wof:parent_id":890437763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.52432,
+    -0.0636,
+    36.52432,
+    -0.0636
+],
+  "geometry": {"coordinates":[36.52432,-0.0636],"type":"Point"}
+}

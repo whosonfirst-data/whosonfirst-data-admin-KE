@@ -1,0 +1,67 @@
+{
+  "id": 1242910515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1367,-2.20812,40.1367,-2.20812",
+    "geom:latitude":-2.20812,
+    "geom:longitude":40.1367,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kuryole",
+    "gn:country_code":"KE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308137,
+    "gn:latitude":-2.20812,
+    "gn:longitude":40.1367,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Kuryole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308137
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f2b6ccc9b6c4488dde83046d3ef36c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1242910515,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1242910515,
+    "wof:lastmodified":1537077950,
+    "wof:name":"Kuryole",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1367,
+    -2.20812,
+    40.1367,
+    -2.20812
+],
+  "geometry": {"coordinates":[40.1367,-2.20812],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226178735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.92543,-1.63164,39.92543,-1.63164",
+    "geom:latitude":-1.63164,
+    "geom:longitude":39.92543,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Gabisi",
+    "gn:country_code":"KE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11433597,
+    "gn:latitude":-1.63164,
+    "gn:longitude":39.92543,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Gabisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433597
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ceac1b710b283e46e1ecc16a89c785ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1226178735,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226178735,
+    "wof:lastmodified":1537028848,
+    "wof:name":"Gabisi",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.92543,
+    -1.63164,
+    39.92543,
+    -1.63164
+],
+  "geometry": {"coordinates":[39.92543,-1.63164],"type":"Point"}
+}

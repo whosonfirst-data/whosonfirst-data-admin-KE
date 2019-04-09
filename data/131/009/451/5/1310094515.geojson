@@ -1,0 +1,73 @@
+{
+  "id": 1310094515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03901,1.17453,36.03901,1.17453",
+    "geom:latitude":1.17453,
+    "geom:longitude":36.03901,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kapedo",
+    "gn:country_code":"KE",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194171,
+    "gn:latitude":1.17453,
+    "gn:longitude":36.03901,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Kapedo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karpedo",
+        "Karpeddo",
+        "Kapedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194171,
+        "wk:page":"Kapedo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"01d2377749d590b8b3c618052bf357ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1310094515,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310094515,
+    "wof:lastmodified":1537653069,
+    "wof:name":"Kapedo",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03901,
+    1.17453,
+    36.03901,
+    1.17453
+],
+  "geometry": {"coordinates":[36.03901,1.17453],"type":"Point"}
+}

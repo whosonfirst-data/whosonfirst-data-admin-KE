@@ -1,0 +1,62 @@
+{
+  "id": 1209682427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.24204,-2.06154,38.24204,-2.06154",
+    "geom:latitude":-2.06154,
+    "geom:longitude":38.24204,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ngwate",
+    "gn:country_code":"KE",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183393,
+    "gn:latitude":-2.06154,
+    "gn:longitude":38.24204,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Ngwate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183393,
+        "wk:page":"Ngwate"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"571873aa3a25ebb1f7941f9a2c99bc9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209682427
+        }
+    ],
+    "wof:id":1209682427,
+    "wof:lastmodified":1537567131,
+    "wof:name":"Ngwate",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.24204,
+    -2.06154,
+    38.24204,
+    -2.06154
+],
+  "geometry": {"coordinates":[38.24204,-2.06154],"type":"Point"}
+}

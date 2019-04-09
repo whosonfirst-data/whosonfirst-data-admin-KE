@@ -1,0 +1,72 @@
+{
+  "id": 1226194033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,-3.95,39.65,-3.95",
+    "geom:latitude":-3.95,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mwakirunge ya Pwani",
+    "gn:country_code":"KE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185146,
+    "gn:latitude":-3.95,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwakirunge ya Pwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwachirunje ya Pwani",
+        "Mwakirunge ya Pwani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185146,
+        "wk:page":"Mwachirunje_ya_Pwani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fe270009f9400df5b3ecd67ffec539a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912207,
+            "locality_id":1226194033,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226194033,
+    "wof:lastmodified":1537653046,
+    "wof:name":"Mwakirunge ya Pwani",
+    "wof:parent_id":1091912207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    -3.95,
+    39.65,
+    -3.95
+],
+  "geometry": {"coordinates":[39.65,-3.95],"type":"Point"}
+}

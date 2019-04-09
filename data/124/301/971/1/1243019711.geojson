@@ -1,0 +1,67 @@
+{
+  "id": 1243019711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84395,-0.61295,36.84395,-0.61295",
+    "geom:latitude":-0.61295,
+    "geom:longitude":36.84395,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kiamuturi",
+    "gn:country_code":"KE",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192680,
+    "gn:latitude":-0.61295,
+    "gn:longitude":36.84395,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiamuturi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192680
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3f3faf5754634d142e56fabf581ac462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1243019711,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243019711,
+    "wof:lastmodified":1536924512,
+    "wof:name":"Kiamuturi",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84395,
+    -0.61295,
+    36.84395,
+    -0.61295
+],
+  "geometry": {"coordinates":[36.84395,-0.61295],"type":"Point"}
+}

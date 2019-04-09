@@ -1,0 +1,73 @@
+{
+  "id": 1344190753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21667,0.18333,34.21667,0.18333",
+    "geom:latitude":0.18333,
+    "geom:longitude":34.21667,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Siranga",
+    "gn:country_code":"KE",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180118,
+    "gn:latitude":0.18333,
+    "gn:longitude":34.21667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Siranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saranja",
+        "Sarunza",
+        "Saranga",
+        "Siranga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180118
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b0b5f1dcac177f3311d786cf6e158b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1344190753,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1344190753,
+    "wof:lastmodified":1537653035,
+    "wof:name":"Siranga",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21667,
+    0.18333,
+    34.21667,
+    0.18333
+],
+  "geometry": {"coordinates":[34.21667,0.18333],"type":"Point"}
+}

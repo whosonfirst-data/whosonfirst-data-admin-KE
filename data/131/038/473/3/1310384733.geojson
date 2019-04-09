@@ -1,0 +1,68 @@
+{
+  "id": 1310384733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99103,0.02725,33.99103,0.02725",
+    "geom:latitude":0.02725,
+    "geom:longitude":33.99103,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Busike",
+    "gn:country_code":"KE",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199984,
+    "gn:latitude":0.02725,
+    "gn:longitude":33.99103,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Busike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199984,
+        "wk:page":"Busike"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a6ea5dca394e32f9617773b4da96e7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":1310384733,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1310384733,
+    "wof:lastmodified":1537567170,
+    "wof:name":"Busike",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99103,
+    0.02725,
+    33.99103,
+    0.02725
+],
+  "geometry": {"coordinates":[33.99103,0.02725],"type":"Point"}
+}

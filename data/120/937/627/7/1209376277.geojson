@@ -1,0 +1,61 @@
+{
+  "id": 1209376277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.446,-4.05794,39.446,-4.05794",
+    "geom:latitude":-4.05794,
+    "geom:longitude":39.446,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mulola",
+    "gn:country_code":"KE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867543,
+    "gn:latitude":-4.05794,
+    "gn:longitude":39.446,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mulola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867543
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e8b4c0000254f796c1af40e62f1a3e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209376277
+        }
+    ],
+    "wof:id":1209376277,
+    "wof:lastmodified":1536288939,
+    "wof:name":"Mulola",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.446,
+    -4.05794,
+    39.446,
+    -4.05794
+],
+  "geometry": {"coordinates":[39.446,-4.05794],"type":"Point"}
+}

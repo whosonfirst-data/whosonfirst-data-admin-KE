@@ -1,0 +1,67 @@
+{
+  "id": 1293329719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55402,-0.35842,35.55402,-0.35842",
+    "geom:latitude":-0.35842,
+    "geom:longitude":35.55402,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Taloa",
+    "gn:country_code":"KE",
+    "gn:dem":2615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179612,
+    "gn:latitude":-0.35842,
+    "gn:longitude":35.55402,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Taloa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179612
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7a3f2f55316d5f3aea4c45e60b862789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":1293329719,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293329719,
+    "wof:lastmodified":1537013708,
+    "wof:name":"Taloa",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55402,
+    -0.35842,
+    35.55402,
+    -0.35842
+],
+  "geometry": {"coordinates":[35.55402,-0.35842],"type":"Point"}
+}

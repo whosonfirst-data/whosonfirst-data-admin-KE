@@ -1,0 +1,67 @@
+{
+  "id": 1209730561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03418,-1.49912,40.03418,-1.49912",
+    "geom:latitude":-1.49912,
+    "geom:longitude":40.03418,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bura",
+    "gn:country_code":"KE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504725,
+    "gn:latitude":-1.49912,
+    "gn:longitude":40.03418,
+    "gn:modification_date":"2013-03-20",
+    "gn:name":"Bura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504725
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0d65248f2d21c610be400fdc6441c02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1209730561,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1209730561,
+    "wof:lastmodified":1536379087,
+    "wof:name":"Bura",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03418,
+    -1.49912,
+    40.03418,
+    -1.49912
+],
+  "geometry": {"coordinates":[40.03418,-1.49912],"type":"Point"}
+}

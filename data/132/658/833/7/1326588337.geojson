@@ -1,0 +1,68 @@
+{
+  "id": 1326588337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85314,-1.09871,36.85314,-1.09871",
+    "geom:latitude":-1.09871,
+    "geom:longitude":36.85314,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Giagithu",
+    "gn:country_code":"KE",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197422,
+    "gn:latitude":-1.09871,
+    "gn:longitude":36.85314,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Giagithu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197422,
+        "wk:page":"Giagithu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4bfdb8afc7bfd53fa4a310ee57ba98d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1326588337,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1326588337,
+    "wof:lastmodified":1537567163,
+    "wof:name":"Giagithu",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85314,
+    -1.09871,
+    36.85314,
+    -1.09871
+],
+  "geometry": {"coordinates":[36.85314,-1.09871],"type":"Point"}
+}

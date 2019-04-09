@@ -1,0 +1,62 @@
+{
+  "id": 1209650001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.93333,-0.43333,36.93333,-0.43333",
+    "geom:latitude":-0.43333,
+    "geom:longitude":36.93333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Gitathi-ini",
+    "gn:country_code":"KE",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197294,
+    "gn:latitude":-0.43333,
+    "gn:longitude":36.93333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gitathi-ini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197294,
+        "wk:page":"Gitathi-ini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"512b2ec03d2e32df39e130bd871095e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209650001
+        }
+    ],
+    "wof:id":1209650001,
+    "wof:lastmodified":1537567162,
+    "wof:name":"Gitathi-ini",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.93333,
+    -0.43333,
+    36.93333,
+    -0.43333
+],
+  "geometry": {"coordinates":[36.93333,-0.43333],"type":"Point"}
+}

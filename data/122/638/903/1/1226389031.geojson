@@ -1,0 +1,68 @@
+{
+  "id": 1226389031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.9224,-2.27233,40.9224,-2.27233",
+    "geom:latitude":-2.27233,
+    "geom:longitude":40.9224,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kikomani",
+    "gn:country_code":"KE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192163,
+    "gn:latitude":-2.27233,
+    "gn:longitude":40.9224,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kikomani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192163,
+        "wk:page":"Kikomani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"443b5f72fbfe383b8bb57ad1c52538ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1226389031,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226389031,
+    "wof:lastmodified":1537567147,
+    "wof:name":"Kikomani",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.9224,
+    -2.27233,
+    40.9224,
+    -2.27233
+],
+  "geometry": {"coordinates":[40.9224,-2.27233],"type":"Point"}
+}

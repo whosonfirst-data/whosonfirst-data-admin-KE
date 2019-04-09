@@ -1,0 +1,67 @@
+{
+  "id": 1277105357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39082,-2.43634,40.39082,-2.43634",
+    "geom:latitude":-2.43634,
+    "geom:longitude":40.39082,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Reketa",
+    "gn:country_code":"KE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889994,
+    "gn:latitude":-2.43634,
+    "gn:longitude":40.39082,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Reketa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889994
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"daac9829d373cb562f85624684ed6496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1277105357,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1277105357,
+    "wof:lastmodified":1536735282,
+    "wof:name":"Reketa",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39082,
+    -2.43634,
+    40.39082,
+    -2.43634
+],
+  "geometry": {"coordinates":[40.39082,-2.43634],"type":"Point"}
+}

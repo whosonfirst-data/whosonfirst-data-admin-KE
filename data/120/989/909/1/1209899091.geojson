@@ -1,0 +1,68 @@
+{
+  "id": 1209899091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55877,-0.45142,37.55877,-0.45142",
+    "geom:latitude":-0.45142,
+    "geom:longitude":37.55877,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gekuuri",
+    "gn:country_code":"KE",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197487,
+    "gn:latitude":-0.45142,
+    "gn:longitude":37.55877,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gekuuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197487,
+        "wk:page":"Gekuuri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"85e901c14f8e4537d8d365c1348da769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1209899091,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1209899091,
+    "wof:lastmodified":1537567163,
+    "wof:name":"Gekuuri",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55877,
+    -0.45142,
+    37.55877,
+    -0.45142
+],
+  "geometry": {"coordinates":[37.55877,-0.45142],"type":"Point"}
+}

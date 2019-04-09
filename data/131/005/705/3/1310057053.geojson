@@ -1,0 +1,72 @@
+{
+  "id": 1310057053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.93333,-0.76667,36.93333,-0.76667",
+    "geom:latitude":-0.76667,
+    "geom:longitude":36.93333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kamukabi",
+    "gn:country_code":"KE",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194641,
+    "gn:latitude":-0.76667,
+    "gn:longitude":36.93333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamukabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamokabi",
+        "Kamukabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194641,
+        "wk:page":"Kamukabi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8ccd68e6d3386559b58809828bdde906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1310057053,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1310057053,
+    "wof:lastmodified":1537653071,
+    "wof:name":"Kamukabi",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.93333,
+    -0.76667,
+    36.93333,
+    -0.76667
+],
+  "geometry": {"coordinates":[36.93333,-0.76667],"type":"Point"}
+}

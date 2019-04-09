@@ -1,0 +1,67 @@
+{
+  "id": 1344113357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67607,-0.8542,36.67607,-0.8542",
+    "geom:latitude":-0.8542,
+    "geom:longitude":36.67607,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kieni",
+    "gn:country_code":"KE",
+    "gn:dem":2453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192321,
+    "gn:latitude":-0.8542,
+    "gn:longitude":36.67607,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kieni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192321
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"233713ee7fd60ccb3e6bf3626b7e033d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1344113357,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1344113357,
+    "wof:lastmodified":1536799504,
+    "wof:name":"Kieni",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67607,
+    -0.8542,
+    36.67607,
+    -0.8542
+],
+  "geometry": {"coordinates":[36.67607,-0.8542],"type":"Point"}
+}

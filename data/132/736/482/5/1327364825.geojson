@@ -1,0 +1,68 @@
+{
+  "id": 1327364825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.09876,-0.48571,37.09876,-0.48571",
+    "geom:latitude":-0.48571,
+    "geom:longitude":37.09876,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Giaitu",
+    "gn:country_code":"KE",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197421,
+    "gn:latitude":-0.48571,
+    "gn:longitude":37.09876,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Giaitu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197421,
+        "wk:page":"Giaitu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"367039819578e4d82e0d46634b58575d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1327364825,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1327364825,
+    "wof:lastmodified":1537567163,
+    "wof:name":"Giaitu",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.09876,
+    -0.48571,
+    37.09876,
+    -0.48571
+],
+  "geometry": {"coordinates":[37.09876,-0.48571],"type":"Point"}
+}

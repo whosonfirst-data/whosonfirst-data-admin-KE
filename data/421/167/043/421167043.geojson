@@ -1,0 +1,93 @@
+{
+  "id": 421167043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97559,0.09388,33.97559,0.09388",
+    "geom:latitude":0.09388,
+    "geom:longitude":33.97559,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bunyala"
+    ],
+    "name:eng_x_preferred":[
+        "Bunyala"
+    ],
+    "name:swe_x_preferred":[
+        "Port Bunyala"
+    ],
+    "name:unk_x_variant":[
+        "Bunyala"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":200061,
+    "qs:gn_pop":6793,
+    "qs:name":"Port Victoria",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Western",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":122724,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528708,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200061,
+        "gp:id":1528708,
+        "qs:id":122724,
+        "wd:id":"Q4997968",
+        "wk:page":"Bunyala"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008712,
+    "wof:geomhash":"28e08f87fd4e82d9a8c2402d519412a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":421167043,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":421167043,
+    "wof:lastmodified":1514468730,
+    "wof:name":"Port Victoria",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:population":6793,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97559,
+    0.09388,
+    33.97559,
+    0.09388
+],
+  "geometry": {"coordinates":[33.97559,0.09388],"type":"Point"}
+}

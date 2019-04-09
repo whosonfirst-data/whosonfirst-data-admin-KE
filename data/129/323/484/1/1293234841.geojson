@@ -1,0 +1,68 @@
+{
+  "id": 1293234841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17808,-2.23416,40.17808,-2.23416",
+    "geom:latitude":-2.23416,
+    "geom:longitude":40.17808,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Hewani",
+    "gn:country_code":"KE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196788,
+    "gn:latitude":-2.23416,
+    "gn:longitude":40.17808,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Hewani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196788,
+        "wk:page":"Hewani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e393b8b7c5885b35d5c743b324fe24b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1293234841,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293234841,
+    "wof:lastmodified":1537567160,
+    "wof:name":"Hewani",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17808,
+    -2.23416,
+    40.17808,
+    -2.23416
+],
+  "geometry": {"coordinates":[40.17808,-2.23416],"type":"Point"}
+}

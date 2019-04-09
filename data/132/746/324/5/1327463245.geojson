@@ -1,0 +1,67 @@
+{
+  "id": 1327463245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48081,-1.57301,39.48081,-1.57301",
+    "geom:latitude":-1.57301,
+    "geom:longitude":39.48081,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Daba",
+    "gn:country_code":"KE",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199229,
+    "gn:latitude":-1.57301,
+    "gn:longitude":39.48081,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Daba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199229
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7dd44507d8da5fcbd5bde7fab38c09c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1327463245,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327463245,
+    "wof:lastmodified":1536635039,
+    "wof:name":"Daba",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48081,
+    -1.57301,
+    39.48081,
+    -1.57301
+],
+  "geometry": {"coordinates":[39.48081,-1.57301],"type":"Point"}
+}

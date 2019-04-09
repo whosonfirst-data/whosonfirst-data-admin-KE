@@ -1,0 +1,64 @@
+{
+  "id": 1209170653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64011,-0.99564,36.64011,-0.99564",
+    "geom:latitude":-0.99564,
+    "geom:longitude":36.64011,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kereita",
+    "gn:country_code":"KE",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192876,
+    "gn:latitude":-0.99564,
+    "gn:longitude":36.64011,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kereita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kerita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192876
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b452033a40641b860d1b3940676ff178",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209170653
+        }
+    ],
+    "wof:id":1209170653,
+    "wof:lastmodified":1537653065,
+    "wof:name":"Kereita",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64011,
+    -0.99564,
+    36.64011,
+    -0.99564
+],
+  "geometry": {"coordinates":[36.64011,-0.99564],"type":"Point"}
+}

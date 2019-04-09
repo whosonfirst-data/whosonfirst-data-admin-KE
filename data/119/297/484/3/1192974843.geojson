@@ -1,0 +1,68 @@
+{
+  "id": 1192974843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65866,-1.17017,36.65866,-1.17017",
+    "geom:latitude":-1.17017,
+    "geom:longitude":36.65866,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mahinga",
+    "gn:country_code":"KE",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188297,
+    "gn:latitude":-1.17017,
+    "gn:longitude":36.65866,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Mahinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188297,
+        "wk:page":"Mahinga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3f009abb183ae12452eb765ac82bddd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1192974843,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1192974843,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Mahinga",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65866,
+    -1.17017,
+    36.65866,
+    -1.17017
+],
+  "geometry": {"coordinates":[36.65866,-1.17017],"type":"Point"}
+}

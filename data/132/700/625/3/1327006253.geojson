@@ -1,0 +1,68 @@
+{
+  "id": 1327006253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36592,-0.50427,34.36592,-0.50427",
+    "geom:latitude":-0.50427,
+    "geom:longitude":34.36592,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lwala",
+    "gn:country_code":"KE",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188546,
+    "gn:latitude":-0.50427,
+    "gn:longitude":34.36592,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Lwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188546,
+        "wk:page":"Lwala"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4aa58cdec566450331506a1c564842d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912585,
+            "locality_id":1327006253,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1327006253,
+    "wof:lastmodified":1537567144,
+    "wof:name":"Lwala",
+    "wof:parent_id":1091912585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36592,
+    -0.50427,
+    34.36592,
+    -0.50427
+],
+  "geometry": {"coordinates":[34.36592,-0.50427],"type":"Point"}
+}

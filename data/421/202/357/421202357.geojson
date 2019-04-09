@@ -1,0 +1,87 @@
+{
+  "id": 421202357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53886,0.26699,36.53886,0.26699",
+    "geom:latitude":0.26699,
+    "geom:longitude":36.53886,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:pol_x_preferred":[
+        "Rumuruti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u0648\u0631\u0648\u062a\u06cc"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":180992,
+    "qs:gn_pop":4501,
+    "qs:name":"Rumuruti",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":221422,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1529332,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180992,
+        "gp:id":1529332,
+        "qs:id":221422,
+        "wd:id":"Q7379442"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010115,
+    "wof:geomhash":"09166e521955447041bdc08a91fce788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":421202357,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421202357,
+    "wof:lastmodified":1527716209,
+    "wof:name":"Rumuruti",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:population":4501,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53886,
+    0.26699,
+    36.53886,
+    0.26699
+],
+  "geometry": {"coordinates":[36.53886,0.26699],"type":"Point"}
+}

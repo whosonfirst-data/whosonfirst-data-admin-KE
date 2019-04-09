@@ -1,0 +1,71 @@
+{
+  "id": 1276185243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91415,-2.29292,40.91415,-2.29292",
+    "geom:latitude":-2.29292,
+    "geom:longitude":40.91415,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Shela",
+    "gn:country_code":"KE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180445,
+    "gn:latitude":-2.29292,
+    "gn:longitude":40.91415,
+    "gn:modification_date":"2014-09-29",
+    "gn:name":"Shela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shella",
+        "Shela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180445
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f6547e95ca788ed405f04f76a44d1e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1276185243,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276185243,
+    "wof:lastmodified":1537653036,
+    "wof:name":"Shela",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91415,
+    -2.29292,
+    40.91415,
+    -2.29292
+],
+  "geometry": {"coordinates":[40.91415,-2.29292],"type":"Point"}
+}

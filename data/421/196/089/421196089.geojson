@@ -1,0 +1,85 @@
+{
+  "id": 421196089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67519,0.64397,37.67519,0.64397",
+    "geom:latitude":0.64397,
+    "geom:longitude":37.67519,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Archers Post"
+    ],
+    "name:eng_x_preferred":[
+        "Archers Post"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":200891,
+    "qs:gn_pop":0,
+    "qs:name":"Archers Post",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":813,
+    "qs:photos_1k":165,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":813,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1081055,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1526827,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":84,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200891,
+        "gp:id":1526827,
+        "qs:id":1081055,
+        "wd:id":"Q4785992",
+        "wk:page":"Archers Post"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009869,
+    "wof:geomhash":"e83100f7e0bdb75d3986354a98872de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911367,
+            "locality_id":421196089,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":421196089,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Archers Post",
+    "wof:parent_id":1091911367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67519,
+    0.64397,
+    37.67519,
+    0.64397
+],
+  "geometry": {"coordinates":[37.67519,0.64397],"type":"Point"}
+}

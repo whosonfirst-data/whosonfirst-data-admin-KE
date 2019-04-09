@@ -1,0 +1,62 @@
+{
+  "id": 1209142471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57854,-3.47803,38.57854,-3.47803",
+    "geom:latitude":-3.47803,
+    "geom:longitude":38.57854,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Mashanda",
+    "gn:country_code":"KE",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187500,
+    "gn:latitude":-3.47803,
+    "gn:longitude":38.57854,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mashanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187500,
+        "wk:page":"Mashanda"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6c2780374f7c65b7c91aa5ff6f54c086",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209142471
+        }
+    ],
+    "wof:id":1209142471,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Mashanda",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57854,
+    -3.47803,
+    38.57854,
+    -3.47803
+],
+  "geometry": {"coordinates":[38.57854,-3.47803],"type":"Point"}
+}

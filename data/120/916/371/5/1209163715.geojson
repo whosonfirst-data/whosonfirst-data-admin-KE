@@ -1,0 +1,62 @@
+{
+  "id": 1209163715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06667,-2.26667,38.06667,-2.26667",
+    "geom:latitude":-2.26667,
+    "geom:longitude":38.06667,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Athi",
+    "gn:country_code":"KE",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200795,
+    "gn:latitude":-2.26667,
+    "gn:longitude":38.06667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Athi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200795,
+        "wk:page":"Athi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4b9045e7d64ea2f63c1dbcf87d5ff080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209163715
+        }
+    ],
+    "wof:id":1209163715,
+    "wof:lastmodified":1537567172,
+    "wof:name":"Athi",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06667,
+    -2.26667,
+    38.06667,
+    -2.26667
+],
+  "geometry": {"coordinates":[38.06667,-2.26667],"type":"Point"}
+}

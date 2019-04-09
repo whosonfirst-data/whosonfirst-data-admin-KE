@@ -1,0 +1,67 @@
+{
+  "id": 1193004543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98333,0.15,33.98333,0.15",
+    "geom:latitude":0.15,
+    "geom:longitude":33.98333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sisenye",
+    "gn:country_code":"KE",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180070,
+    "gn:latitude":0.15,
+    "gn:longitude":33.98333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Sisenye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180070
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d8f792929f60da2fd618c7d63c4d365f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":1193004543,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1193004543,
+    "wof:lastmodified":1536366958,
+    "wof:name":"Sisenye",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98333,
+    0.15,
+    33.98333,
+    0.15
+],
+  "geometry": {"coordinates":[33.98333,0.15],"type":"Point"}
+}

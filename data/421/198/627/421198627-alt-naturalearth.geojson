@@ -1,0 +1,16 @@
+{
+  "id": 421198627,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-ke",
+    "src:geom":"naturalearth",
+    "wof:geomhash":"ad15f799067a2b857d3e62be5de3519b",
+    "wof:id":421198627
+},
+  "bbox": [
+    34.639993854518195,
+    -0.359578838201173,
+    34.639993854518195,
+    -0.359578838201173
+],
+  "geometry": {"coordinates":[34.6399938545182,-0.35957883820117],"type":"Point"}
+}

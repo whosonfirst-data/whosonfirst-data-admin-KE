@@ -1,0 +1,67 @@
+{
+  "id": 1344032231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81349,0.32141,34.81349,0.32141",
+    "geom:latitude":0.32141,
+    "geom:longitude":34.81349,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Shikusa",
+    "gn:country_code":"KE",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180406,
+    "gn:latitude":0.32141,
+    "gn:longitude":34.81349,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Shikusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180406
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3bba84ea2808f089d8a7809dce5212e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911445,
+            "locality_id":1344032231,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1344032231,
+    "wof:lastmodified":1536916956,
+    "wof:name":"Shikusa",
+    "wof:parent_id":1091911445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81349,
+    0.32141,
+    34.81349,
+    0.32141
+],
+  "geometry": {"coordinates":[34.81349,0.32141],"type":"Point"}
+}

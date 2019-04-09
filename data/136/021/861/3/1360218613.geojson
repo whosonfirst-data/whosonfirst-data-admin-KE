@@ -1,0 +1,72 @@
+{
+  "id": 1360218613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86654,-0.46538,36.86654,-0.46538",
+    "geom:latitude":-0.46538,
+    "geom:longitude":36.86654,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Gatumbiru",
+    "gn:country_code":"KE",
+    "gn:dem":2189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197563,
+    "gn:latitude":-0.46538,
+    "gn:longitude":36.86654,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gatumbiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatumbiro",
+        "Gatumbiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197563,
+        "wk:page":"Gatumbiru"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ce60663157c60f3e3219be2a065053e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1360218613,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1360218613,
+    "wof:lastmodified":1537653082,
+    "wof:name":"Gatumbiru",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86654,
+    -0.46538,
+    36.86654,
+    -0.46538
+],
+  "geometry": {"coordinates":[36.86654,-0.46538],"type":"Point"}
+}

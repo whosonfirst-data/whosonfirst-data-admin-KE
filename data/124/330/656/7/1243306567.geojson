@@ -1,0 +1,67 @@
+{
+  "id": 1243306567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,-0.63333,37.0,-0.63333",
+    "geom:latitude":-0.63333,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kora",
+    "gn:country_code":"KE",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190520,
+    "gn:latitude":-0.63333,
+    "gn:longitude":37.0,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190520
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"90bc22900d27170b4f6a0298ea608719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1243306567,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243306567,
+    "wof:lastmodified":1537006547,
+    "wof:name":"Kora",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    -0.63333,
+    37.0,
+    -0.63333
+],
+  "geometry": {"coordinates":[37.0,-0.63333],"type":"Point"}
+}

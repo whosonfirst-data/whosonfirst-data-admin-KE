@@ -1,0 +1,62 @@
+{
+  "id": 1209250815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4872,-2.46925,40.4872,-2.46925",
+    "geom:latitude":-2.46925,
+    "geom:longitude":40.4872,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Matapani",
+    "gn:country_code":"KE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444979,
+    "gn:latitude":-2.46925,
+    "gn:longitude":40.4872,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Matapani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444979,
+        "wk:page":"Matapani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d2fe614436b6c2671d14dd9d37fb4d58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209250815
+        }
+    ],
+    "wof:id":1209250815,
+    "wof:lastmodified":1537567173,
+    "wof:name":"Matapani",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4872,
+    -2.46925,
+    40.4872,
+    -2.46925
+],
+  "geometry": {"coordinates":[40.4872,-2.46925],"type":"Point"}
+}

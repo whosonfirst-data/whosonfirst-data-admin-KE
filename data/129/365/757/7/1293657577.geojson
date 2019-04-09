@@ -1,0 +1,71 @@
+{
+  "id": 1293657577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.33333,-0.5,37.33333,-0.5",
+    "geom:latitude":-0.5,
+    "geom:longitude":37.33333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kathaiya",
+    "gn:country_code":"KE",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193434,
+    "gn:latitude":-0.5,
+    "gn:longitude":37.33333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kathaiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kathaiyia",
+        "Kathaiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193434
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"03a9ff8ab5055ee940075b28c6021f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1293657577,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293657577,
+    "wof:lastmodified":1537653067,
+    "wof:name":"Kathaiya",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.33333,
+    -0.5,
+    37.33333,
+    -0.5
+],
+  "geometry": {"coordinates":[37.33333,-0.5],"type":"Point"}
+}

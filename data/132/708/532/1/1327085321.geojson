@@ -1,0 +1,68 @@
+{
+  "id": 1327085321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4395,-4.49573,39.4395,-4.49573",
+    "geom:latitude":-4.49573,
+    "geom:longitude":39.4395,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Chingwede",
+    "gn:country_code":"KE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199355,
+    "gn:latitude":-4.49573,
+    "gn:longitude":39.4395,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Chingwede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199355,
+        "wk:page":"Chingwede"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a58b5870f7388b699223f582a942dbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1327085321,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327085321,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Chingwede",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4395,
+    -4.49573,
+    39.4395,
+    -4.49573
+],
+  "geometry": {"coordinates":[39.4395,-4.49573],"type":"Point"}
+}

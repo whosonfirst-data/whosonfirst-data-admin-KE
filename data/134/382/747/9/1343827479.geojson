@@ -1,0 +1,72 @@
+{
+  "id": 1343827479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.20318,-1.15364,41.20318,-1.15364",
+    "geom:latitude":-1.15364,
+    "geom:longitude":41.20318,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kolbio",
+    "gn:country_code":"KE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190689,
+    "gn:latitude":-1.15364,
+    "gn:longitude":41.20318,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kolbio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colbio",
+        "Kolbio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190689,
+        "wk:page":"Colbio"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e6f7b5de2a6c957ab1b64118a884b99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1343827479,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1343827479,
+    "wof:lastmodified":1537653060,
+    "wof:name":"Kolbio",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.20318,
+    -1.15364,
+    41.20318,
+    -1.15364
+],
+  "geometry": {"coordinates":[41.20318,-1.15364],"type":"Point"}
+}

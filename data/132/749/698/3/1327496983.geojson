@@ -1,0 +1,71 @@
+{
+  "id": 1327496983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,-0.63333,34.58333,-0.63333",
+    "geom:latitude":-0.63333,
+    "geom:longitude":34.58333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Akelo's Village",
+    "gn:country_code":"KE",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201167,
+    "gn:latitude":-0.63333,
+    "gn:longitude":34.58333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Akelo\u2019s Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akelo\u2019s Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201167,
+        "wk:page":"Akelo%27s_Village"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4ca375cab71f47765c41a8a3f311d318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911319,
+            "locality_id":1327496983,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1327496983,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Akelo's Village",
+    "wof:parent_id":1091911319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    -0.63333,
+    34.58333,
+    -0.63333
+],
+  "geometry": {"coordinates":[34.58333,-0.63333],"type":"Point"}
+}

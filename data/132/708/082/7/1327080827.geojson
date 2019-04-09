@@ -1,0 +1,73 @@
+{
+  "id": 1327080827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.90384,-2.22688,40.90384,-2.22688",
+    "geom:latitude":-2.22688,
+    "geom:longitude":40.90384,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kimara Maganga",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191946,
+    "gn:latitude":-2.22688,
+    "gn:longitude":40.90384,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kimara Maganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbwara Maganga",
+        "Kimara Maganga",
+        "Kimari Maganga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191946,
+        "wk:page":"Mbwara_Maganga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e48e17979177a343d27dc70d1ab992e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1327080827,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327080827,
+    "wof:lastmodified":1537653062,
+    "wof:name":"Kimara Maganga",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.90384,
+    -2.22688,
+    40.90384,
+    -2.22688
+],
+  "geometry": {"coordinates":[40.90384,-2.22688],"type":"Point"}
+}

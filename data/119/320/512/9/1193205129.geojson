@@ -1,0 +1,67 @@
+{
+  "id": 1193205129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4519,1.83357,37.4519,1.83357",
+    "geom:latitude":1.83357,
+    "geom:longitude":37.4519,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Namarei",
+    "gn:country_code":"KE",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714532,
+    "gn:latitude":1.83357,
+    "gn:longitude":37.4519,
+    "gn:modification_date":"2014-02-28",
+    "gn:name":"Namarei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714532
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"45c173eb60f800aebfeb123a1779784a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1193205129,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1193205129,
+    "wof:lastmodified":1536368469,
+    "wof:name":"Namarei",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4519,
+    1.83357,
+    37.4519,
+    1.83357
+],
+  "geometry": {"coordinates":[37.4519,1.83357],"type":"Point"}
+}

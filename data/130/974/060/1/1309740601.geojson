@@ -1,0 +1,67 @@
+{
+  "id": 1309740601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62124,-0.34718,35.62124,-0.34718",
+    "geom:latitude":-0.34718,
+    "geom:longitude":35.62124,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Poulton",
+    "gn:country_code":"KE",
+    "gn:dem":2645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181523,
+    "gn:latitude":-0.34718,
+    "gn:longitude":35.62124,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Poulton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181523
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"42bcd26fbf73154070f2ab562554c887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":1309740601,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1309740601,
+    "wof:lastmodified":1537024146,
+    "wof:name":"Poulton",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62124,
+    -0.34718,
+    35.62124,
+    -0.34718
+],
+  "geometry": {"coordinates":[35.62124,-0.34718],"type":"Point"}
+}

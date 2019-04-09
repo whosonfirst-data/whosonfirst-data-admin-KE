@@ -1,0 +1,68 @@
+{
+  "id": 1310647197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.6766,-2.06981,40.6766,-2.06981",
+    "geom:latitude":-2.06981,
+    "geom:longitude":40.6766,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Nginda",
+    "gn:country_code":"KE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183689,
+    "gn:latitude":-2.06981,
+    "gn:longitude":40.6766,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nginda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183689,
+        "wk:page":"Nginda"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"36bf65948ec916e86bfd45598a7412b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1310647197,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310647197,
+    "wof:lastmodified":1537567132,
+    "wof:name":"Nginda",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.6766,
+    -2.06981,
+    40.6766,
+    -2.06981
+],
+  "geometry": {"coordinates":[40.6766,-2.06981],"type":"Point"}
+}

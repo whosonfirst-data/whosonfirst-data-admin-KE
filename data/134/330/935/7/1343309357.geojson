@@ -1,0 +1,67 @@
+{
+  "id": 1343309357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57237,-4.25301,39.57237,-4.25301",
+    "geom:latitude":-4.25301,
+    "geom:longitude":39.57237,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kapok",
+    "gn:country_code":"KE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7866172,
+    "gn:latitude":-4.25301,
+    "gn:longitude":39.57237,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Kapok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7866172
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b1010b68fdea213c56500f8d0cd13d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1343309357,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343309357,
+    "wof:lastmodified":1536964225,
+    "wof:name":"Kapok",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57237,
+    -4.25301,
+    39.57237,
+    -4.25301
+],
+  "geometry": {"coordinates":[39.57237,-4.25301],"type":"Point"}
+}

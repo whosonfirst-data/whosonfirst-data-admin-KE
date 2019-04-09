@@ -1,0 +1,71 @@
+{
+  "id": 1192969763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83183,-0.6859,36.83183,-0.6859",
+    "geom:latitude":-0.6859,
+    "geom:longitude":36.83183,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Karurumo",
+    "gn:country_code":"KE",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193618,
+    "gn:latitude":-0.6859,
+    "gn:longitude":36.83183,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Karurumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karuruma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193618,
+        "wk:page":"Karuruma"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c7326e30d046874ccea8a4f6a3b4f270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1192969763,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1192969763,
+    "wof:lastmodified":1537653067,
+    "wof:name":"Karurumo",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83183,
+    -0.6859,
+    36.83183,
+    -0.6859
+],
+  "geometry": {"coordinates":[36.83183,-0.6859],"type":"Point"}
+}

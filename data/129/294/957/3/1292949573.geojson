@@ -1,0 +1,68 @@
+{
+  "id": 1292949573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.34248,3.94102,40.34248,3.94102",
+    "geom:latitude":3.94102,
+    "geom:longitude":40.34248,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Banissa",
+    "gn:country_code":"KE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10230091,
+    "gn:latitude":3.94102,
+    "gn:longitude":40.34248,
+    "gn:modification_date":"2015-04-21",
+    "gn:name":"Banissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10230091,
+        "wk:page":"Banissa"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8134338b4e2ddfc9036d40c256f1609d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1292949573,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1292949573,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Banissa",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.34248,
+    3.94102,
+    40.34248,
+    3.94102
+],
+  "geometry": {"coordinates":[40.34248,3.94102],"type":"Point"}
+}

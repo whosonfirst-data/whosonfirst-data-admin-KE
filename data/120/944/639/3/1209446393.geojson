@@ -1,0 +1,64 @@
+{
+  "id": 1209446393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65258,-0.7264,36.65258,-0.7264",
+    "geom:latitude":-0.7264,
+    "geom:longitude":36.65258,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"South Kinangop",
+    "gn:country_code":"KE",
+    "gn:dem":2584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179865,
+    "gn:latitude":-0.7264,
+    "gn:longitude":36.65258,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"South Kinangop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Njabini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179865
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e9add3f034a73cfcfd5de7d75eeabeba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209446393
+        }
+    ],
+    "wof:id":1209446393,
+    "wof:lastmodified":1537653035,
+    "wof:name":"South Kinangop",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65258,
+    -0.7264,
+    36.65258,
+    -0.7264
+],
+  "geometry": {"coordinates":[36.65258,-0.7264],"type":"Point"}
+}

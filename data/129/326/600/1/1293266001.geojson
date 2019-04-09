@@ -1,0 +1,72 @@
+{
+  "id": 1293266001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51419,0.94247,35.51419,0.94247",
+    "geom:latitude":0.94247,
+    "geom:longitude":35.51419,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Cheptongei",
+    "gn:country_code":"KE",
+    "gn:dem":2442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199486,
+    "gn:latitude":0.94247,
+    "gn:longitude":35.51419,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Cheptongei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheptonge",
+        "Cheptongei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199486,
+        "wk:page":"Cheptonge"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8ae9f103a904f20b1a853ac4fb224fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911965,
+            "locality_id":1293266001,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293266001,
+    "wof:lastmodified":1537653088,
+    "wof:name":"Cheptongei",
+    "wof:parent_id":1091911965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51419,
+    0.94247,
+    35.51419,
+    0.94247
+],
+  "geometry": {"coordinates":[35.51419,0.94247],"type":"Point"}
+}

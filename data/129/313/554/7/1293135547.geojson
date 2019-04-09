@@ -1,0 +1,72 @@
+{
+  "id": 1293135547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10401,0.10868,34.10401,0.10868",
+    "geom:latitude":0.10868,
+    "geom:longitude":34.10401,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ebusonga",
+    "gn:country_code":"KE",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198730,
+    "gn:latitude":0.10868,
+    "gn:longitude":34.10401,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ebusonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Busonga",
+        "Ebusonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198730,
+        "wk:page":"Busonga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f28caeccda598c1fb7cf2e4a86833685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1293135547,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1293135547,
+    "wof:lastmodified":1537653086,
+    "wof:name":"Ebusonga",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10401,
+    0.10868,
+    34.10401,
+    0.10868
+],
+  "geometry": {"coordinates":[34.10401,0.10868],"type":"Point"}
+}

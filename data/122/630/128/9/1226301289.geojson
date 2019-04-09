@@ -1,0 +1,68 @@
+{
+  "id": 1226301289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72519,-1.19977,36.72519,-1.19977",
+    "geom:latitude":-1.19977,
+    "geom:longitude":36.72519,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Karura Kanyungu",
+    "gn:country_code":"KE",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193631,
+    "gn:latitude":-1.19977,
+    "gn:longitude":36.72519,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Karura Kanyungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193631,
+        "wk:page":"Karura_Kanyungu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ec7f255ea99eebe3c8b6f0969f3536dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1226301289,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226301289,
+    "wof:lastmodified":1537567150,
+    "wof:name":"Karura Kanyungu",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72519000000001,
+    -1.19977,
+    36.72519000000001,
+    -1.19977
+],
+  "geometry": {"coordinates":[36.72519000000001,-1.19977],"type":"Point"}
+}

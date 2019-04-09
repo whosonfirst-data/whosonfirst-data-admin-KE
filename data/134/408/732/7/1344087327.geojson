@@ -1,0 +1,68 @@
+{
+  "id": 1344087327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66774,-3.84699,38.66774,-3.84699",
+    "geom:latitude":-3.84699,
+    "geom:longitude":38.66774,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Bungule",
+    "gn:country_code":"KE",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200065,
+    "gn:latitude":-3.84699,
+    "gn:longitude":38.66774,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bungule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200065,
+        "wk:page":"Bungule"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8cec53623319f0ef5044e8abfa5e2368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1344087327,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1344087327,
+    "wof:lastmodified":1537567171,
+    "wof:name":"Bungule",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66774,
+    -3.84699,
+    38.66774,
+    -3.84699
+],
+  "geometry": {"coordinates":[38.66774,-3.84699],"type":"Point"}
+}

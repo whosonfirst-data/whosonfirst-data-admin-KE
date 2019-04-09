@@ -1,0 +1,68 @@
+{
+  "id": 1242696603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.93708,-0.31305,34.93708,-0.31305",
+    "geom:latitude":-0.31305,
+    "geom:longitude":34.93708,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pap Onditi",
+    "gn:country_code":"KE",
+    "gn:dem":1172,
+    "gn:elevation":"1171.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7646430,
+    "gn:latitude":-0.31305,
+    "gn:longitude":34.93708,
+    "gn:modification_date":"2011-01-17",
+    "gn:name":"Pap Onditi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7646430
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"29bb705eb6c54f7afc7b76bfff0d576f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912511,
+            "locality_id":1242696603,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1242696603,
+    "wof:lastmodified":1536892038,
+    "wof:name":"Pap Onditi",
+    "wof:parent_id":1091912511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.93708,
+    -0.31305,
+    34.93708,
+    -0.31305
+],
+  "geometry": {"coordinates":[34.93708,-0.31305],"type":"Point"}
+}

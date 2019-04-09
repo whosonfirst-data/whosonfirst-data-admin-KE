@@ -1,0 +1,68 @@
+{
+  "id": 1327364691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.29232,-3.41542,38.29232,-3.41542",
+    "geom:latitude":-3.41542,
+    "geom:longitude":38.29232,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Dabida",
+    "gn:country_code":"KE",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199213,
+    "gn:latitude":-3.41542,
+    "gn:longitude":38.29232,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Dabida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199213,
+        "wk:page":"Dabida"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"95d72ccefa5c5f9f35cfbf6fb9b52ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1327364691,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327364691,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Dabida",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.29232,
+    -3.41542,
+    38.29232,
+    -3.41542
+],
+  "geometry": {"coordinates":[38.29232,-3.41542],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343595151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55081,-0.32266,39.55081,-0.32266",
+    "geom:latitude":-0.32266,
+    "geom:longitude":39.55081,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Karare",
+    "gn:country_code":"KE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444980,
+    "gn:latitude":-0.32266,
+    "gn:longitude":39.55081,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Karare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karere",
+        "Karare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444980,
+        "wk:page":"Karere"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ecbf48a0cfde3434b77b93b84194d1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1343595151,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343595151,
+    "wof:lastmodified":1537653093,
+    "wof:name":"Karare",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55081,
+    -0.32266,
+    39.55081,
+    -0.32266
+],
+  "geometry": {"coordinates":[39.55081,-0.32266],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260030775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.14733,-4.38994,39.14733,-4.38994",
+    "geom:latitude":-4.38994,
+    "geom:longitude":39.14733,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mwamkuchi",
+    "gn:country_code":"KE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185100,
+    "gn:latitude":-4.38994,
+    "gn:longitude":39.14733,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwamkuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185100,
+        "wk:page":"Mwamkuchi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ff56d57989193a39416dfc6c6f286031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1260030775,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1260030775,
+    "wof:lastmodified":1537567134,
+    "wof:name":"Mwamkuchi",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.14733,
+    -4.38994,
+    39.14733,
+    -4.38994
+],
+  "geometry": {"coordinates":[39.14733,-4.38994],"type":"Point"}
+}

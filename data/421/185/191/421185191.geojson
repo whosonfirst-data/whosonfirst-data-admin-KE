@@ -1,0 +1,88 @@
+{
+  "id": 421185191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31667,0.98333,37.31667,0.98333",
+    "geom:latitude":0.98333,
+    "geom:longitude":37.31667,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Wamba"
+    ],
+    "name:eng_x_preferred":[
+        "Wamba"
+    ],
+    "name:ita_x_preferred":[
+        "Wamba"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":178389,
+    "qs:gn_pop":0,
+    "qs:name":"Wamba",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":886340,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1529005,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178389,
+        "gp:id":1529005,
+        "qs:id":886340,
+        "wd:id":"Q4018063",
+        "wk:page":"Wamba, Kenya"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009435,
+    "wof:geomhash":"8b040f7a5e6f242c1d33224f0d03ccdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912581,
+            "locality_id":421185191,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421185191,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Wamba",
+    "wof:parent_id":1091912581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31667,
+    0.98333,
+    37.31667,
+    0.98333
+],
+  "geometry": {"coordinates":[37.31667,0.98333],"type":"Point"}
+}

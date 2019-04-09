@@ -1,0 +1,68 @@
+{
+  "id": 1277030967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63546,-1.13943,36.63546,-1.13943",
+    "geom:latitude":-1.13943,
+    "geom:longitude":36.63546,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamandura",
+    "gn:country_code":"KE",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194863,
+    "gn:latitude":-1.13943,
+    "gn:longitude":36.63546,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kamandura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194863,
+        "wk:page":"Kamandura"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ab0a51d523ae763c3a779a21f33b0014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1277030967,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1277030967,
+    "wof:lastmodified":1537567154,
+    "wof:name":"Kamandura",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63546,
+    -1.13943,
+    36.63546,
+    -1.13943
+],
+  "geometry": {"coordinates":[36.63546,-1.13943],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242721085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63333,-3.98333,39.63333,-3.98333",
+    "geom:latitude":-3.98333,
+    "geom:longitude":39.63333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mwandoni",
+    "gn:country_code":"KE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185069,
+    "gn:latitude":-3.98333,
+    "gn:longitude":39.63333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwandoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185069
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"339be277769328bf9cff879d5bc6ff2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912207,
+            "locality_id":1242721085,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1242721085,
+    "wof:lastmodified":1536855960,
+    "wof:name":"Mwandoni",
+    "wof:parent_id":1091912207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63333,
+    -3.98333,
+    39.63333,
+    -3.98333
+],
+  "geometry": {"coordinates":[39.63333,-3.98333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343607123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.126,-2.36714,38.126,-2.36714",
+    "geom:latitude":-2.36714,
+    "geom:longitude":38.126,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Masimbani",
+    "gn:country_code":"KE",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187478,
+    "gn:latitude":-2.36714,
+    "gn:longitude":38.126,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Masimbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187478,
+        "wk:page":"Masimbani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0defe311226f83dc5f9de2d8347da446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1343607123,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1343607123,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Masimbani",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.126,
+    -2.36714,
+    38.126,
+    -2.36714
+],
+  "geometry": {"coordinates":[38.126,-2.36714],"type":"Point"}
+}

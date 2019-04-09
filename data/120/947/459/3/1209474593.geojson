@@ -1,0 +1,62 @@
+{
+  "id": 1209474593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11609,-2.69977,38.11609,-2.69977",
+    "geom:latitude":-2.69977,
+    "geom:longitude":38.11609,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Mangelete",
+    "gn:country_code":"KE",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187865,
+    "gn:latitude":-2.69977,
+    "gn:longitude":38.11609,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mangelete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187865,
+        "wk:page":"Mangelete"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"266ce35eb4dc077c84b43a314465158f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209474593
+        }
+    ],
+    "wof:id":1209474593,
+    "wof:lastmodified":1537567142,
+    "wof:name":"Mangelete",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11609,
+    -2.69977,
+    38.11609,
+    -2.69977
+],
+  "geometry": {"coordinates":[38.11609,-2.69977],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193171635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.88453,-0.52286,34.88453,-0.52286",
+    "geom:latitude":-0.52286,
+    "geom:longitude":34.88453,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bonyunyu",
+    "gn:country_code":"KE",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200287,
+    "gn:latitude":-0.52286,
+    "gn:longitude":34.88453,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Bonyunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bunyunya",
+        "Bonyunyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200287,
+        "wk:page":"Bonyunyu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2cf6fa89ac051baeb13ef9a028ebf92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912493,
+            "locality_id":1193171635,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1193171635,
+    "wof:lastmodified":1537653090,
+    "wof:name":"Bonyunyu",
+    "wof:parent_id":1091912493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.88453,
+    -0.52286,
+    34.88453,
+    -0.52286
+],
+  "geometry": {"coordinates":[34.88453,-0.52286],"type":"Point"}
+}

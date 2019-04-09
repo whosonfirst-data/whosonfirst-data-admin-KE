@@ -1,0 +1,73 @@
+{
+  "id": 1209952931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31323,-1.5791,37.31323,-1.5791",
+    "geom:latitude":-1.5791,
+    "geom:longitude":37.31323,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Makaveti",
+    "gn:country_code":"KE",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188155,
+    "gn:latitude":-1.5791,
+    "gn:longitude":37.31323,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Makaveti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makabete",
+        "Makabeti",
+        "Makaveti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188155,
+        "wk:page":"Makabete"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f0710ae50f3dd94b421c96636e357ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":1209952931,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1209952931,
+    "wof:lastmodified":1537653056,
+    "wof:name":"Makaveti",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31323,
+    -1.5791,
+    37.31323,
+    -1.5791
+],
+  "geometry": {"coordinates":[37.31323,-1.5791],"type":"Point"}
+}

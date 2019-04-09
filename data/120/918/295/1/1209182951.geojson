@@ -1,0 +1,62 @@
+{
+  "id": 1209182951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84419,-0.96975,36.84419,-0.96975",
+    "geom:latitude":-0.96975,
+    "geom:longitude":36.84419,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gikure",
+    "gn:country_code":"KE",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197343,
+    "gn:latitude":-0.96975,
+    "gn:longitude":36.84419,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gikure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197343,
+        "wk:page":"Gikure"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fba51bac7b0d8e7a1070d47aa9ddd3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209182951
+        }
+    ],
+    "wof:id":1209182951,
+    "wof:lastmodified":1537567162,
+    "wof:name":"Gikure",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84419000000001,
+    -0.96975,
+    36.84419000000001,
+    -0.96975
+],
+  "geometry": {"coordinates":[36.84419000000001,-0.96975],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 890455637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.50588,-4.42402,39.50588,-4.42402",
+    "geom:latitude":-4.42402,
+    "geom:longitude":39.50588,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:pop":5222,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Gasi"
+    ],
+    "name:eng_x_preferred":[
+        "Gasi"
+    ],
+    "name:swe_x_preferred":[
+        "Gazi"
+    ],
+    "name:unk_x_variant":[
+        "Gasi"
+    ],
+    "qs:name":"Gazi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197514,
+        "gp:id":1527170,
+        "qs:id":545931,
+        "wd:id":"Q5526462"
+    },
+    "wof:country":"KE",
+    "wof:created":1469052965,
+    "wof:geomhash":"f4038d07095e1e11cc405028bf0d65d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":890455637,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":890455637,
+    "wof:lastmodified":1553816404,
+    "wof:name":"Gazi",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:population":5222,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.50588,
+    -4.42402,
+    39.50588,
+    -4.42402
+],
+  "geometry": {"coordinates":[39.50588,-4.42402],"type":"Point"}
+}

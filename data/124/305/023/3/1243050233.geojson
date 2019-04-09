@@ -1,0 +1,71 @@
+{
+  "id": 1243050233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.78333,-1.16667,40.78333,-1.16667",
+    "geom:latitude":-1.16667,
+    "geom:longitude":40.78333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Elaa",
+    "gn:country_code":"KE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198663,
+    "gn:latitude":-1.16667,
+    "gn:longitude":40.78333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Elaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ela",
+        "Elaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198663
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1fd16d2a2b9c273e9530b1ed03d046f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1243050233,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1243050233,
+    "wof:lastmodified":1537653086,
+    "wof:name":"Elaa",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.78333,
+    -1.16667,
+    40.78333,
+    -1.16667
+],
+  "geometry": {"coordinates":[40.78333,-1.16667],"type":"Point"}
+}

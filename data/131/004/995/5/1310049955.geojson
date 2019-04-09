@@ -1,0 +1,67 @@
+{
+  "id": 1310049955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6,-0.76667,34.6,-0.76667",
+    "geom:latitude":-0.76667,
+    "geom:longitude":34.6,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Paulo",
+    "gn:country_code":"KE",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181640,
+    "gn:latitude":-0.76667,
+    "gn:longitude":34.6,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Paulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181640
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"56cfb552ab9ef6475d8d2bab39be3805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1310049955,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310049955,
+    "wof:lastmodified":1537073555,
+    "wof:name":"Paulo",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6,
+    -0.76667,
+    34.6,
+    -0.76667
+],
+  "geometry": {"coordinates":[34.6,-0.76667],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421190761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.811752,-1.282031,36.811752,-1.282031",
+    "geom:latitude":-1.282031,
+    "geom:longitude":36.811752,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kenyatta University"
+    ],
+    "name:fra_x_preferred":[
+        "Universit\u00e9 Kenyatta"
+    ],
+    "name:nld_x_preferred":[
+        "Kenyatta University"
+    ],
+    "name:spa_x_preferred":[
+        "Universidad Keniata"
+    ],
+    "name:swa_x_preferred":[
+        "Chuo Kikuu cha Kenyatta"
+    ],
+    "name:swe_x_preferred":[
+        "Kenyatta universitet"
+    ],
+    "name:zho_x_preferred":[
+        "\u80af\u96c5\u5854\u5927\u5b66"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kenyatta University",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":414,
+    "qs:photos_1k":84,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":414,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120385,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":10644689,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1352,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":10644689,
+        "qs:id":1120385,
+        "wd:id":"Q46756"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009668,
+    "wof:geomhash":"fbcce8785de2c7213f70028eff24ccdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":421190761,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421190761,
+    "wof:lastmodified":1527716394,
+    "wof:name":"Kenyatta University",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.811752,
+    -1.282031,
+    36.811752,
+    -1.282031
+],
+  "geometry": {"coordinates":[36.811752,-1.282031],"type":"Point"}
+}

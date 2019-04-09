@@ -1,0 +1,67 @@
+{
+  "id": 1276695581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68758,-1.47913,39.68758,-1.47913",
+    "geom:latitude":-1.47913,
+    "geom:longitude":39.68758,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mutiboko",
+    "gn:country_code":"KE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185339,
+    "gn:latitude":-1.47913,
+    "gn:longitude":39.68758,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Mutiboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185339
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e185e060225b9883de70a5364ff99098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1276695581,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276695581,
+    "wof:lastmodified":1536790642,
+    "wof:name":"Mutiboko",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68758,
+    -1.47913,
+    39.68758,
+    -1.47913
+],
+  "geometry": {"coordinates":[39.68758,-1.47913],"type":"Point"}
+}

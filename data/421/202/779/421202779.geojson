@@ -1,0 +1,82 @@
+{
+  "id": 421202779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12816,-4.10598,39.12816,-4.10598",
+    "geom:latitude":-4.10598,
+    "geom:longitude":39.12816,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Nyalani"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":182965,
+    "qs:gn_pop":0,
+    "qs:name":"Nyali",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":227490,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528625,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182965,
+        "gp:id":1528625,
+        "qs:id":227490,
+        "wd:id":"Q7070823",
+        "wk:page":"Nyalani"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010129,
+    "wof:geomhash":"52ee7279e40c38dae06aada2fcd20114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":421202779,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421202779,
+    "wof:lastmodified":1527716208,
+    "wof:name":"Nyali",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12816,
+    -4.10598,
+    39.12816,
+    -4.10598
+],
+  "geometry": {"coordinates":[39.12816,-4.10598],"type":"Point"}
+}

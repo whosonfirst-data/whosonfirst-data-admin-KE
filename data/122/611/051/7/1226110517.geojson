@@ -1,0 +1,68 @@
+{
+  "id": 1226110517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.4,-0.55,37.4,-0.55",
+    "geom:latitude":-0.55,
+    "geom:longitude":37.4,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Difatha",
+    "gn:country_code":"KE",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198967,
+    "gn:latitude":-0.55,
+    "gn:longitude":37.4,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Difatha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198967,
+        "wk:page":"Difatha"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"74ce5ffe9d074916dd74efdb91c5f477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1226110517,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226110517,
+    "wof:lastmodified":1537567168,
+    "wof:name":"Difatha",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.4,
+    -0.55,
+    37.4,
+    -0.55
+],
+  "geometry": {"coordinates":[37.4,-0.55],"type":"Point"}
+}

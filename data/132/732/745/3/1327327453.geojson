@@ -1,0 +1,68 @@
+{
+  "id": 1327327453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92206,0.78735,35.92206,0.78735",
+    "geom:latitude":0.78735,
+    "geom:longitude":35.92206,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yatya",
+    "gn:country_code":"KE",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":177982,
+    "gn:latitude":0.78735,
+    "gn:longitude":35.92206,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Yatya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":177982,
+        "wk:page":"Yatya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"22a2fa9a6d940a7e4eeeb21bc4504083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1327327453,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327327453,
+    "wof:lastmodified":1537567128,
+    "wof:name":"Yatya",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92205999999999,
+    0.78735,
+    35.92205999999999,
+    0.78735
+],
+  "geometry": {"coordinates":[35.92205999999999,0.78735],"type":"Point"}
+}

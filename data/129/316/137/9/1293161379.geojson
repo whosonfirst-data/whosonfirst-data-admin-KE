@@ -1,0 +1,73 @@
+{
+  "id": 1293161379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.13398,-2.07743,41.13398,-2.07743",
+    "geom:latitude":-2.07743,
+    "geom:longitude":41.13398,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Bajumwali",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200699,
+    "gn:latitude":-2.07743,
+    "gn:longitude":41.13398,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bajumwali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajumali",
+        "Mbajumali",
+        "Bajumwali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200699,
+        "wk:page":"Bajumwali"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c4d00f6105adc82a2cd9c1e430133276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1293161379,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293161379,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Bajumwali",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.13398,
+    -2.07743,
+    41.13398,
+    -2.07743
+],
+  "geometry": {"coordinates":[41.13398,-2.07743],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344225899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86844,-1.07559,36.86844,-1.07559",
+    "geom:latitude":-1.07559,
+    "geom:longitude":36.86844,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nginduri",
+    "gn:country_code":"KE",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183686,
+    "gn:latitude":-1.07559,
+    "gn:longitude":36.86844,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Nginduri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngunduri",
+        "Nginduri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183686,
+        "wk:page":"Nginduri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"697f81a3768fafe655bcc0bdfc169c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1344225899,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1344225899,
+    "wof:lastmodified":1537653042,
+    "wof:name":"Nginduri",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86844,
+    -1.07559,
+    36.86844,
+    -1.07559
+],
+  "geometry": {"coordinates":[36.86844,-1.07559],"type":"Point"}
+}

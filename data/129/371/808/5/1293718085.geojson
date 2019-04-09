@@ -1,0 +1,67 @@
+{
+  "id": 1293718085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.98081,2.34132,34.98081,2.34132",
+    "geom:latitude":2.34132,
+    "geom:longitude":34.98081,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sasak",
+    "gn:country_code":"KE",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180667,
+    "gn:latitude":2.34132,
+    "gn:longitude":34.98081,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sasak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180667
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7f5b0ea8570945214824f3941975db38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1293718085,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293718085,
+    "wof:lastmodified":1536952252,
+    "wof:name":"Sasak",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.98081,
+    2.34132,
+    34.98081,
+    2.34132
+],
+  "geometry": {"coordinates":[34.98081,2.34132],"type":"Point"}
+}

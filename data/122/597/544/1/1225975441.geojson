@@ -1,0 +1,71 @@
+{
+  "id": 1225975441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,-0.58333,37.0,-0.58333",
+    "geom:latitude":-0.58333,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Mutitu",
+    "gn:country_code":"KE",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185308,
+    "gn:latitude":-0.58333,
+    "gn:longitude":37.0,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mutitu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutito",
+        "Mutitu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185308
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9637d5d23341c9a4e8477d35f6c7f4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1225975441,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1225975441,
+    "wof:lastmodified":1537653046,
+    "wof:name":"Mutitu",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    -0.58333,
+    37.0,
+    -0.58333
+],
+  "geometry": {"coordinates":[37.0,-0.58333],"type":"Point"}
+}

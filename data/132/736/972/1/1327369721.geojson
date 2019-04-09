@@ -1,0 +1,71 @@
+{
+  "id": 1327369721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67946,-0.47006,35.67946,-0.47006",
+    "geom:latitude":-0.47006,
+    "geom:longitude":35.67946,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Keringet",
+    "gn:country_code":"KE",
+    "gn:dem":2641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186445,
+    "gn:latitude":-0.47006,
+    "gn:longitude":35.67946,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Keringet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukuki",
+        "Mkuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186445
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8b26193805e60d6be3955176d3b01ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":1327369721,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327369721,
+    "wof:lastmodified":1537653050,
+    "wof:name":"Keringet",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67946,
+    -0.47006,
+    35.67946,
+    -0.47006
+],
+  "geometry": {"coordinates":[35.67946,-0.47006],"type":"Point"}
+}

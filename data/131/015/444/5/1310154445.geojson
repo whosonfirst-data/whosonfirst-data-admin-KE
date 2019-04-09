@@ -1,0 +1,68 @@
+{
+  "id": 1310154445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26332,4.05713,40.26332,4.05713",
+    "geom:latitude":4.05713,
+    "geom:longitude":40.26332,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Hara Hurile",
+    "gn:country_code":"KE",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196852,
+    "gn:latitude":4.05713,
+    "gn:longitude":40.26332,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Hara Hurile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196852,
+        "wk:page":"Hara_Hurile"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"50d93732456a69ab2347a87975f53cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911881,
+            "locality_id":1310154445,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1310154445,
+    "wof:lastmodified":1537567160,
+    "wof:name":"Hara Hurile",
+    "wof:parent_id":1091911881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26332,
+    4.05713,
+    40.26332,
+    4.05713
+],
+  "geometry": {"coordinates":[40.26332,4.05713],"type":"Point"}
+}

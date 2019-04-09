@@ -1,0 +1,74 @@
+{
+  "id": 1260122807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06695,-0.63477,37.06695,-0.63477",
+    "geom:latitude":-0.63477,
+    "geom:longitude":37.06695,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gathukeini",
+    "gn:country_code":"KE",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197615,
+    "gn:latitude":-0.63477,
+    "gn:longitude":37.06695,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gathukeini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kathukeini",
+        "Kathukeni",
+        "Gathukiini",
+        "Gathukeini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197615,
+        "wk:page":"Gathukiini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e126efd89ab4ed98a2a6d6e32a573e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1260122807,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260122807,
+    "wof:lastmodified":1537653082,
+    "wof:name":"Gathukeini",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06695,
+    -0.63477,
+    37.06695,
+    -0.63477
+],
+  "geometry": {"coordinates":[37.06695,-0.63477],"type":"Point"}
+}

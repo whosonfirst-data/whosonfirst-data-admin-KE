@@ -1,0 +1,67 @@
+{
+  "id": 1276162131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.05,-0.73333,37.05,-0.73333",
+    "geom:latitude":-0.73333,
+    "geom:longitude":37.05,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Karuru One",
+    "gn:country_code":"KE",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193612,
+    "gn:latitude":-0.73333,
+    "gn:longitude":37.05,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Karuru One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193612
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"429281ef931e07b321428098d37638ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1276162131,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1276162131,
+    "wof:lastmodified":1537007462,
+    "wof:name":"Karuru One",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.05,
+    -0.73333,
+    37.05,
+    -0.73333
+],
+  "geometry": {"coordinates":[37.05,-0.73333],"type":"Point"}
+}

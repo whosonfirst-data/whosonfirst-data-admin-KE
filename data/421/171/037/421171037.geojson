@@ -1,0 +1,82 @@
+{
+  "id": 421171037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08333,-0.3,36.08333,-0.3",
+    "geom:latitude":-0.3,
+    "geom:longitude":36.08333,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Lake View Estate Crescent"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":189773,
+    "qs:gn_pop":0,
+    "qs:name":"Lake View Estate",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":295,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":295,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1205955,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528007,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-26.223,
+    "wd:longitude":28.025,
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":189773,
+        "gp:id":1528007,
+        "qs:id":1205955
+    },
+    "wof:country":"KE",
+    "wof:created":1459008879,
+    "wof:geomhash":"31bfede06d43db579c53c8c0809c81b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":421171037,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421171037,
+    "wof:lastmodified":1527726485,
+    "wof:name":"Lake View Estate",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08333,
+    -0.3,
+    36.08333,
+    -0.3
+],
+  "geometry": {"coordinates":[36.08333,-0.3],"type":"Point"}
+}

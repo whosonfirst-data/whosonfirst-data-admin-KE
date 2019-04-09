@@ -1,0 +1,66 @@
+{
+  "id": 1209082637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,0.31667,34.08333,0.31667",
+    "geom:latitude":0.31667,
+    "geom:longitude":34.08333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namyoso",
+    "gn:country_code":"KE",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184486,
+    "gn:latitude":0.31667,
+    "gn:longitude":34.08333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Namyoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namiaso",
+        "Namyoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184486,
+        "wk:page":"Namiaso"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"516002d3cf4f9c566990077ddf05d036",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209082637
+        }
+    ],
+    "wof:id":1209082637,
+    "wof:lastmodified":1537653044,
+    "wof:name":"Namyoso",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    0.31667,
+    34.08333,
+    0.31667
+],
+  "geometry": {"coordinates":[34.08333,0.31667],"type":"Point"}
+}

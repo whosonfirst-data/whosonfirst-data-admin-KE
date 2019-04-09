@@ -1,0 +1,72 @@
+{
+  "id": 1343389975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.10014,-0.57658,37.10014,-0.57658",
+    "geom:latitude":-0.57658,
+    "geom:longitude":37.10014,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Karundu",
+    "gn:country_code":"KE",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193659,
+    "gn:latitude":-0.57658,
+    "gn:longitude":37.10014,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Karundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kerundu",
+        "Karundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193659,
+        "wk:page":"Karundu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"72c8fb49875c5e0a1758b47313b1e31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1343389975,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1343389975,
+    "wof:lastmodified":1537653067,
+    "wof:name":"Karundu",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.10014,
+    -0.57658,
+    37.10014,
+    -0.57658
+],
+  "geometry": {"coordinates":[37.10014,-0.57658],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293802687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23333,0.2,35.23333,0.2",
+    "geom:latitude":0.2,
+    "geom:longitude":35.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arwos",
+    "gn:country_code":"KE",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200843,
+    "gn:latitude":0.2,
+    "gn:longitude":35.23333,
+    "gn:modification_date":"2000-11-15",
+    "gn:name":"Arwos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200843
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"43b4ce430a5767c5c1029fb6f06af709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912403,
+            "locality_id":1293802687,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293802687,
+    "wof:lastmodified":1536828800,
+    "wof:name":"Arwos",
+    "wof:parent_id":1091912403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23333,
+    0.2,
+    35.23333,
+    0.2
+],
+  "geometry": {"coordinates":[35.23333,0.2],"type":"Point"}
+}

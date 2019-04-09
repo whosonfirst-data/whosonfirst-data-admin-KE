@@ -1,0 +1,72 @@
+{
+  "id": 1293456347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.65302,-1.20274,37.65302,-1.20274",
+    "geom:latitude":-1.20274,
+    "geom:longitude":37.65302,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Mwambathana",
+    "gn:country_code":"KE",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185105,
+    "gn:latitude":-1.20274,
+    "gn:longitude":37.65302,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Mwambathana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumbethana",
+        "Mwambathana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185105,
+        "wk:page":"Mwambathana"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ca68b7706b52fc08f12277b1b0a71913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":1293456347,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1293456347,
+    "wof:lastmodified":1537653045,
+    "wof:name":"Mwambathana",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.65302,
+    -1.20274,
+    37.65302,
+    -1.20274
+],
+  "geometry": {"coordinates":[37.65302,-1.20274],"type":"Point"}
+}

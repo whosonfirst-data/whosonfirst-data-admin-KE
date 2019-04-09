@@ -1,0 +1,71 @@
+{
+  "id": 1276507925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31082,0.15887,36.31082,0.15887",
+    "geom:latitude":0.15887,
+    "geom:longitude":36.31082,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gituandaga",
+    "gn:country_code":"KE",
+    "gn:dem":2383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197188,
+    "gn:latitude":0.15887,
+    "gn:longitude":36.31082,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gituandaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitundaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197188,
+        "wk:page":"Gituandaga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a28410193ed9f0a42236158aa3eca076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":1276507925,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276507925,
+    "wof:lastmodified":1537653079,
+    "wof:name":"Gituandaga",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31082,
+    0.15887,
+    36.31082,
+    0.15887
+],
+  "geometry": {"coordinates":[36.31082,0.15887],"type":"Point"}
+}

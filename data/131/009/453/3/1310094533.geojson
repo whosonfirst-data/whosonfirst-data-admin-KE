@@ -1,0 +1,72 @@
+{
+  "id": 1310094533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88923,0.14208,35.88923,0.14208",
+    "geom:latitude":0.14208,
+    "geom:longitude":35.88923,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Emining",
+    "gn:country_code":"KE",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198460,
+    "gn:latitude":0.14208,
+    "gn:longitude":35.88923,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Emining",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emening",
+        "Emining"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198460,
+        "wk:page":"Emening"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"918d934d0f2b4ecad4f74d3d64f3b03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911719,
+            "locality_id":1310094533,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310094533,
+    "wof:lastmodified":1537653086,
+    "wof:name":"Emining",
+    "wof:parent_id":1091911719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88923,
+    0.14208,
+    35.88923,
+    0.14208
+],
+  "geometry": {"coordinates":[35.88923,0.14208],"type":"Point"}
+}

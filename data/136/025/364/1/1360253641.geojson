@@ -1,0 +1,68 @@
+{
+  "id": 1360253641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.54086,-3.78233,39.54086,-3.78233",
+    "geom:latitude":-3.78233,
+    "geom:longitude":39.54086,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gotani",
+    "gn:country_code":"KE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197045,
+    "gn:latitude":-3.78233,
+    "gn:longitude":39.54086,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gotani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197045,
+        "wk:page":"Gotani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8beee125d1bb42d56bc380d215fe024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1360253641,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1360253641,
+    "wof:lastmodified":1537567160,
+    "wof:name":"Gotani",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.54086,
+    -3.78233,
+    39.54086,
+    -3.78233
+],
+  "geometry": {"coordinates":[39.54086,-3.78233],"type":"Point"}
+}

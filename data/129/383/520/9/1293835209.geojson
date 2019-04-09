@@ -1,0 +1,68 @@
+{
+  "id": 1293835209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06808,-0.71718,37.06808,-0.71718",
+    "geom:latitude":-0.71718,
+    "geom:longitude":37.06808,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mukangu",
+    "gn:country_code":"KE",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185896,
+    "gn:latitude":-0.71718,
+    "gn:longitude":37.06808,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Mukangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185896,
+        "wk:page":"Mukangu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8d843298e79763fedb9fd73ff9223e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1293835209,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293835209,
+    "wof:lastmodified":1537567137,
+    "wof:name":"Mukangu",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06808,
+    -0.71718,
+    37.06808,
+    -0.71718
+],
+  "geometry": {"coordinates":[37.06808,-0.71718],"type":"Point"}
+}

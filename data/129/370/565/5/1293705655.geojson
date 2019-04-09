@@ -1,0 +1,72 @@
+{
+  "id": 1293705655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53021,0.0855,35.53021,0.0855",
+    "geom:latitude":0.0855,
+    "geom:longitude":35.53021,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Timboroa",
+    "gn:country_code":"KE",
+    "gn:dem":2776,
+    "gn:elevation":"1998.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7729812,
+    "gn:latitude":0.0855,
+    "gn:longitude":35.53021,
+    "gn:modification_date":"2011-03-14",
+    "gn:name":"Timboroa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timbaroa",
+        "Tomborou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7729812
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f84090da41e37bc58eeb21271f2a145d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "locality_id":1293705655,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293705655,
+    "wof:lastmodified":1537653093,
+    "wof:name":"Timboroa",
+    "wof:parent_id":1091912837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53021,
+    0.0855,
+    35.53021,
+    0.0855
+],
+  "geometry": {"coordinates":[35.53021,0.0855],"type":"Point"}
+}

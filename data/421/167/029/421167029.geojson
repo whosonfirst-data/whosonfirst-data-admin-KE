@@ -1,0 +1,103 @@
+{
+  "id": 421167029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94052,0.23206,37.94052,0.23206",
+    "geom:latitude":0.23206,
+    "geom:longitude":37.94052,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Maua"
+    ],
+    "name:dut_x_preferred":[
+        "Maua"
+    ],
+    "name:eng_x_preferred":[
+        "Maua"
+    ],
+    "name:ger_x_preferred":[
+        "Maua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30a2"
+    ],
+    "name:pol_x_preferred":[
+        "Maua"
+    ],
+    "name:swe_x_preferred":[
+        "Maua"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":187231,
+    "qs:gn_pop":10804,
+    "qs:name":"Maua",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122700,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528233,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187231,
+        "gp:id":1528233,
+        "qs:id":122700,
+        "wd:id":"Q690356",
+        "wk:page":"Maua"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008711,
+    "wof:geomhash":"3472401fa4b128c320d886bd0f8b62f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912127,
+            "locality_id":421167029,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":421167029,
+    "wof:lastmodified":1527716159,
+    "wof:name":"Maua",
+    "wof:parent_id":1091912127,
+    "wof:placetype":"locality",
+    "wof:population":10804,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94052,
+    0.23206,
+    37.94052,
+    0.23206
+],
+  "geometry": {"coordinates":[37.94052,0.23206],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1126007873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12941,-1.7426,37.12941,-1.7426",
+    "geom:latitude":-1.7426,
+    "geom:longitude":37.12941,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2004,
+    "gn:population":2004,
+    "iso:country":"KE",
+    "lbl:latitude":-1.7426,
+    "lbl:longitude":37.12941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Konza"
+    ],
+    "name:eng_x_preferred":[
+        "Konza"
+    ],
+    "name:ger_x_preferred":[
+        "Konza"
+    ],
+    "name:nob_x_preferred":[
+        "Konza"
+    ],
+    "name:pol_x_preferred":[
+        "Konza"
+    ],
+    "name:spa_x_preferred":[
+        "Konza"
+    ],
+    "name:swe_x_preferred":[
+        "Konza"
+    ],
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":190544,
+    "qs_pg:gn_pop":2004,
+    "qs_pg:name":"Konza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":545082,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190544,
+        "qs_pg:id":545082,
+        "wd:id":"Q6430460"
+    },
+    "wof:country":"KE",
+    "wof:created":1497300085,
+    "wof:geomhash":"95d2bcc111cd42dcd57f828b30d63911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1126007873,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1126007873,
+    "wof:lastmodified":1534379373,
+    "wof:name":"Konza",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:population":2004,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141907097
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12941,
+    -1.7426,
+    37.12941,
+    -1.7426
+],
+  "geometry": {"coordinates":[37.12941,-1.7426],"type":"Point"}
+}

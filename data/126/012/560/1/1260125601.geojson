@@ -1,0 +1,72 @@
+{
+  "id": 1260125601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96631,-2.40935,37.96631,-2.40935",
+    "geom:latitude":-2.40935,
+    "geom:longitude":37.96631,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kibwezi",
+    "gn:country_code":"KE",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192372,
+    "gn:latitude":-2.40935,
+    "gn:longitude":37.96631,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kibwezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libwezi",
+        "Kibwezi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192372,
+        "wk:page":"Kibwezi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"27fee4b532fafa54c6abf016f4ef82f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1260125601,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1260125601,
+    "wof:lastmodified":1537653063,
+    "wof:name":"Kibwezi",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96631,
+    -2.40935,
+    37.96631,
+    -2.40935
+],
+  "geometry": {"coordinates":[37.96631,-2.40935],"type":"Point"}
+}

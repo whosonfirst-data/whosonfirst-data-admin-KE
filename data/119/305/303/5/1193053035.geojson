@@ -1,0 +1,67 @@
+{
+  "id": 1193053035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.12136,1.20312,35.12136,1.20312",
+    "geom:latitude":1.20312,
+    "geom:longitude":35.12136,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Talau",
+    "gn:country_code":"KE",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179619,
+    "gn:latitude":1.20312,
+    "gn:longitude":35.12136,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Talau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179619
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e2173f722dbd7be321169c48567f7dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1193053035,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1193053035,
+    "wof:lastmodified":1536364678,
+    "wof:name":"Talau",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.12136,
+    1.20312,
+    35.12136,
+    1.20312
+],
+  "geometry": {"coordinates":[35.12136,1.20312],"type":"Point"}
+}

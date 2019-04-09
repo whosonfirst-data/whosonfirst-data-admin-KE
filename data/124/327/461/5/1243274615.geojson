@@ -1,0 +1,67 @@
+{
+  "id": 1243274615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.2698,-2.01243,41.2698,-2.01243",
+    "geom:latitude":-2.01243,
+    "geom:longitude":41.2698,
+    "gn:asciiname":"Kiwayu",
+    "gn:country_code":"KE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199179,
+    "gn:latitude":-2.01243,
+    "gn:longitude":41.2698,
+    "gn:modification_date":"2012-02-16",
+    "gn:name":"Kiwayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199179,
+        "wk:page":"Kiwayu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1e3bf8033f3e14d9c689c8c5a2932a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1243274615,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243274615,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Kiwayu",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.2698,
+    -2.01243,
+    41.2698,
+    -2.01243
+],
+  "geometry": {"coordinates":[41.2698,-2.01243],"type":"Point"}
+}

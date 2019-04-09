@@ -1,0 +1,67 @@
+{
+  "id": 1309952445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.79968,-2.02405,40.79968,-2.02405",
+    "geom:latitude":-2.02405,
+    "geom:longitude":40.79968,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Noju",
+    "gn:country_code":"KE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525377,
+    "gn:latitude":-2.02405,
+    "gn:longitude":40.79968,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Noju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525377
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"99f5325bed36b11db9d47e735839e074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1309952445,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1309952445,
+    "wof:lastmodified":1536720221,
+    "wof:name":"Noju",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.79968,
+    -2.02405,
+    40.79968,
+    -2.02405
+],
+  "geometry": {"coordinates":[40.79968,-2.02405],"type":"Point"}
+}

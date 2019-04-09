@@ -1,0 +1,105 @@
+{
+  "id": 890442935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45206,-4.17375,39.45206,-4.17375",
+    "geom:latitude":-4.17375,
+    "geom:longitude":39.45206,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:pop":4883,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5938\u52d2"
+    ],
+    "name:dut_x_preferred":[
+        "Kwale"
+    ],
+    "name:eng_x_preferred":[
+        "Kwale"
+    ],
+    "name:fre_x_preferred":[
+        "Kwale"
+    ],
+    "name:ger_x_preferred":[
+        "Kwale"
+    ],
+    "name:ita_x_preferred":[
+        "Kwale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ef\u30ec"
+    ],
+    "name:nob_x_preferred":[
+        "Kwale"
+    ],
+    "name:pol_x_preferred":[
+        "Kwale"
+    ],
+    "name:spa_x_preferred":[
+        "Kwale"
+    ],
+    "name:swe_x_preferred":[
+        "Kwale"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u52d2"
+    ],
+    "qs:name":"Kwale",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":511,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190108,
+        "gp:id":1527991,
+        "qs:id":369088,
+        "wd:id":"Q635215",
+        "wk:page":"Kwale"
+    },
+    "wof:country":"KE",
+    "wof:created":1469052389,
+    "wof:geomhash":"741571ff22e06960f9478d6e21d7e3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":890442935,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":890442935,
+    "wof:lastmodified":1527792856,
+    "wof:name":"Kwale",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:population":4883,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45206,
+    -4.17375,
+    39.45206,
+    -4.17375
+],
+  "geometry": {"coordinates":[39.45206,-4.17375],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343395123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38847,-3.37459,38.38847,-3.37459",
+    "geom:latitude":-3.37459,
+    "geom:longitude":38.38847,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Figini",
+    "gn:country_code":"KE",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198050,
+    "gn:latitude":-3.37459,
+    "gn:longitude":38.38847,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Figini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198050,
+        "wk:page":"Figini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8884efca35a600aa260290085eb28f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1343395123,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343395123,
+    "wof:lastmodified":1537567167,
+    "wof:name":"Figini",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38847,
+    -3.37459,
+    38.38847,
+    -3.37459
+],
+  "geometry": {"coordinates":[38.38847,-3.37459],"type":"Point"}
+}

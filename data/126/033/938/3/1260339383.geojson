@@ -1,0 +1,67 @@
+{
+  "id": 1260339383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04852,-4.17008,39.04852,-4.17008",
+    "geom:latitude":-4.17008,
+    "geom:longitude":39.04852,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mbwaleni",
+    "gn:country_code":"KE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8307180,
+    "gn:latitude":-4.17008,
+    "gn:longitude":39.04852,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Mbwaleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307180
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"69cd4a10a9fb64bb62554eecc73d51e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1260339383,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1260339383,
+    "wof:lastmodified":1536636023,
+    "wof:name":"Mbwaleni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04852,
+    -4.17008,
+    39.04852,
+    -4.17008
+],
+  "geometry": {"coordinates":[39.04852,-4.17008],"type":"Point"}
+}

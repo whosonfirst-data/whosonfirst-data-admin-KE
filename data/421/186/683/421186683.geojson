@@ -1,0 +1,112 @@
+{
+  "id": 421186683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60951,-0.00416,34.60951,-0.00416",
+    "geom:latitude":-0.00416,
+    "geom:longitude":34.60951,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u064a\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0441\u0435\u043d\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u897f\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "Maseno"
+    ],
+    "name:eng_x_preferred":[
+        "Maseno"
+    ],
+    "name:fra_x_preferred":[
+        "Maseno"
+    ],
+    "name:fre_x_preferred":[
+        "Maseno"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bb\u30ce"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0435\u043d\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Maseno"
+    ],
+    "name:swe_x_preferred":[
+        "Maseno"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":187506,
+    "qs:gn_pop":0,
+    "qs:name":"Maseno",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nyanza",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1075482,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528201,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187506,
+        "gp:id":1528201,
+        "qs:id":1075482,
+        "wd:id":"Q3043500",
+        "wk:page":"Maseno"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009488,
+    "wof:geomhash":"948577efd024632ca44bc955826a9d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911657,
+            "locality_id":421186683,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":421186683,
+    "wof:lastmodified":1527716317,
+    "wof:name":"Maseno",
+    "wof:parent_id":1091911657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60951,
+    -0.00416,
+    34.60951,
+    -0.00416
+],
+  "geometry": {"coordinates":[34.60951,-0.00416],"type":"Point"}
+}

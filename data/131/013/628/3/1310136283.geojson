@@ -1,0 +1,68 @@
+{
+  "id": 1310136283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16667,1.5,35.16667,1.5",
+    "geom:latitude":1.5,
+    "geom:longitude":35.16667,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Chepunyal",
+    "gn:country_code":"KE",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199470,
+    "gn:latitude":1.5,
+    "gn:longitude":35.16667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Chepunyal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199470,
+        "wk:page":"Chepunyal"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b7ac817ee655fbe9c437cb75dbc288ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912907,
+            "locality_id":1310136283,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310136283,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Chepunyal",
+    "wof:parent_id":1091912907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16667,
+    1.5,
+    35.16667,
+    1.5
+],
+  "geometry": {"coordinates":[35.16667,1.5],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292939637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17872,-1.98515,40.17872,-1.98515",
+    "geom:latitude":-1.98515,
+    "geom:longitude":40.17872,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kitole",
+    "gn:country_code":"KE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433626,
+    "gn:latitude":-1.98515,
+    "gn:longitude":40.17872,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kitole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433626
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0352cac9953d7ce74d4d82038b6c90e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1292939637,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1292939637,
+    "wof:lastmodified":1537076814,
+    "wof:name":"Kitole",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17872,
+    -1.98515,
+    40.17872,
+    -1.98515
+],
+  "geometry": {"coordinates":[40.17872,-1.98515],"type":"Point"}
+}

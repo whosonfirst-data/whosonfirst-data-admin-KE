@@ -1,0 +1,68 @@
+{
+  "id": 1192969311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55218,-3.9636,39.55218,-3.9636",
+    "geom:latitude":-3.9636,
+    "geom:longitude":39.55218,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mazeras",
+    "gn:country_code":"KE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187150,
+    "gn:latitude":-3.9636,
+    "gn:longitude":39.55218,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mazeras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187150,
+        "wk:page":"Mazeras"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0ccae6c02aa9d6973a2abf100937ce91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1192969311,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1192969311,
+    "wof:lastmodified":1537567140,
+    "wof:name":"Mazeras",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55218,
+    -3.9636,
+    39.55218,
+    -3.9636
+],
+  "geometry": {"coordinates":[39.55218,-3.9636],"type":"Point"}
+}

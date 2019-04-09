@@ -1,0 +1,96 @@
+{
+  "id": 890439149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85662,-3.68367,39.85662,-3.68367",
+    "geom:latitude":-3.68367,
+    "geom:longitude":39.85662,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:pop":10760,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u043a\u0430\u0443\u043d\u0433\u0443"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u5361\u6eab\u53e4"
+    ],
+    "name:dut_x_preferred":[
+        "Takaungu"
+    ],
+    "name:eng_x_preferred":[
+        "Takaungu"
+    ],
+    "name:pol_x_preferred":[
+        "Takaungu"
+    ],
+    "name:rum_x_preferred":[
+        "Takaungu"
+    ],
+    "name:spa_x_preferred":[
+        "Takaungu"
+    ],
+    "name:swa_x_preferred":[
+        "Takaungu"
+    ],
+    "name:swe_x_preferred":[
+        "Takaungu"
+    ],
+    "qs:name":"Takaungu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179634,
+        "gp:id":1528335,
+        "qs:id":537322,
+        "wd:id":"Q3236500",
+        "wk:page":"Takaungu"
+    },
+    "wof:country":"KE",
+    "wof:created":1469052223,
+    "wof:geomhash":"c84f29bd6a42acaaa1d53db252b8829c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":890439149,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":890439149,
+    "wof:lastmodified":1527729733,
+    "wof:name":"Takaungu",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:population":10760,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85662,
+    -3.68367,
+    39.85662,
+    -3.68367
+],
+  "geometry": {"coordinates":[39.85662,-3.68367],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226790361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2257,4.31115,36.2257,4.31115",
+    "geom:latitude":4.31115,
+    "geom:longitude":36.2257,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ileret",
+    "gn:country_code":"KE",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10345216,
+    "gn:latitude":4.31115,
+    "gn:longitude":36.2257,
+    "gn:modification_date":"2015-06-19",
+    "gn:name":"Ileret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345216
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ffd8d045499726d74fb6c8b472858381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1226790361,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226790361,
+    "wof:lastmodified":1536651116,
+    "wof:name":"Ileret",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2257,
+    4.31115,
+    36.2257,
+    4.31115
+],
+  "geometry": {"coordinates":[36.2257,4.31115],"type":"Point"}
+}

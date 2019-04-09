@@ -1,0 +1,67 @@
+{
+  "id": 1226093029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12956,-4.3744,39.12956,-4.3744",
+    "geom:latitude":-4.3744,
+    "geom:longitude":39.12956,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Maduduni",
+    "gn:country_code":"KE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308066,
+    "gn:latitude":-4.3744,
+    "gn:longitude":39.12956,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Maduduni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308066
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bc86fe9ff29a784fe3d4e830c2636b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1226093029,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226093029,
+    "wof:lastmodified":1536657136,
+    "wof:name":"Maduduni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12956,
+    -4.3744,
+    39.12956,
+    -4.3744
+],
+  "geometry": {"coordinates":[39.12956,-4.3744],"type":"Point"}
+}

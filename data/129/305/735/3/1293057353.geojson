@@ -1,0 +1,67 @@
+{
+  "id": 1293057353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05117,-3.22137,40.05117,-3.22137",
+    "geom:latitude":-3.22137,
+    "geom:longitude":40.05117,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mere",
+    "gn:country_code":"KE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186860,
+    "gn:latitude":-3.22137,
+    "gn:longitude":40.05117,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186860
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0b5fb787e76ca14054c332061cb7f38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1293057353,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293057353,
+    "wof:lastmodified":1536910762,
+    "wof:name":"Mere",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05117,
+    -3.22137,
+    40.05117,
+    -3.22137
+],
+  "geometry": {"coordinates":[40.05117,-3.22137],"type":"Point"}
+}

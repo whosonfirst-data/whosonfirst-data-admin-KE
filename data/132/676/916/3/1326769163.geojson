@@ -1,0 +1,67 @@
+{
+  "id": 1326769163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.8,-0.83333,36.8,-0.83333",
+    "geom:latitude":-0.83333,
+    "geom:longitude":36.8,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Karangi",
+    "gn:country_code":"KE",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193854,
+    "gn:latitude":-0.83333,
+    "gn:longitude":36.8,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Karangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193854
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4e3a959d39e72c93865cfd67e760a428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1326769163,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1326769163,
+    "wof:lastmodified":1536641578,
+    "wof:name":"Karangi",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.8,
+    -0.83333,
+    36.8,
+    -0.83333
+],
+  "geometry": {"coordinates":[36.8,-0.83333],"type":"Point"}
+}

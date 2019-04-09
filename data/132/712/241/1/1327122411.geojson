@@ -1,0 +1,67 @@
+{
+  "id": 1327122411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39438,-0.86038,35.39438,-0.86038",
+    "geom:latitude":-0.86038,
+    "geom:longitude":35.39438,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Longisa",
+    "gn:country_code":"KE",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188959,
+    "gn:latitude":-0.86038,
+    "gn:longitude":35.39438,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Longisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188959
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f0902cc50bae4154f910dd5db33fbf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910907,
+            "locality_id":1327122411,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327122411,
+    "wof:lastmodified":1536628823,
+    "wof:name":"Longisa",
+    "wof:parent_id":1091910907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39438,
+    -0.86038,
+    35.39438,
+    -0.86038
+],
+  "geometry": {"coordinates":[35.39438,-0.86038],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310488739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.391,0.5632,34.391,0.5632",
+    "geom:latitude":0.5632,
+    "geom:longitude":34.391,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Myanga",
+    "gn:country_code":"KE",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184884,
+    "gn:latitude":0.5632,
+    "gn:longitude":34.391,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Myanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mianga",
+        "Myanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091910985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184884,
+        "wk:page":"Mianga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9940786fdac191269cea783c3051538e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910985,
+            "locality_id":1310488739,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1310488739,
+    "wof:lastmodified":1537653044,
+    "wof:name":"Myanga",
+    "wof:parent_id":1091910985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.391,
+    0.5632,
+    34.391,
+    0.5632
+],
+  "geometry": {"coordinates":[34.391,0.5632],"type":"Point"}
+}

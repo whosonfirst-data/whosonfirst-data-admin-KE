@@ -1,0 +1,68 @@
+{
+  "id": 1242943869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47923,0.56263,35.47923,0.56263",
+    "geom:latitude":0.56263,
+    "geom:longitude":35.47923,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Kapteren",
+    "gn:country_code":"KE",
+    "gn:dem":2430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193949,
+    "gn:latitude":0.56263,
+    "gn:longitude":35.47923,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kapteren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193949,
+        "wk:page":"Kapteren"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7af14255883fdf1e2200173fd61b48db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "locality_id":1242943869,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1242943869,
+    "wof:lastmodified":1537567151,
+    "wof:name":"Kapteren",
+    "wof:parent_id":1091912837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47923,
+    0.56263,
+    35.47923,
+    0.56263
+],
+  "geometry": {"coordinates":[35.47923,0.56263],"type":"Point"}
+}

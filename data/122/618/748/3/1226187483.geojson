@@ -1,0 +1,70 @@
+{
+  "id": 1226187483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72218,2.76107,36.72218,2.76107",
+    "geom:latitude":2.76107,
+    "geom:longitude":36.72218,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Elmolo Village",
+    "gn:country_code":"KE",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559218,
+    "gn:latitude":2.76107,
+    "gn:longitude":36.72218,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Elmolo Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Elmolo Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559218
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f1c5703dd889ed4037d510e5b796bf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1226187483,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226187483,
+    "wof:lastmodified":1537653095,
+    "wof:name":"Elmolo Village",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72218,
+    2.76107,
+    36.72218,
+    2.76107
+],
+  "geometry": {"coordinates":[36.72218,2.76107],"type":"Point"}
+}

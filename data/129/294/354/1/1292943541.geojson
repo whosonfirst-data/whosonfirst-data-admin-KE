@@ -1,0 +1,68 @@
+{
+  "id": 1292943541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.06667,-0.81667,37.06667,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":37.06667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ichagaki",
+    "gn:country_code":"KE",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196681,
+    "gn:latitude":-0.81667,
+    "gn:longitude":37.06667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ichagaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196681,
+        "wk:page":"Ichagaki"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"db2a8a5a4e8953875495c0a64618180d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1292943541,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1292943541,
+    "wof:lastmodified":1537567160,
+    "wof:name":"Ichagaki",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.06667,
+    -0.81667,
+    37.06667,
+    -0.81667
+],
+  "geometry": {"coordinates":[37.06667,-0.81667],"type":"Point"}
+}

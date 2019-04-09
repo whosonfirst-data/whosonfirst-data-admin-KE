@@ -1,0 +1,68 @@
+{
+  "id": 1243128379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59319,-3.87598,39.59319,-3.87598",
+    "geom:latitude":-3.87598,
+    "geom:longitude":39.59319,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kabieni",
+    "gn:country_code":"KE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195773,
+    "gn:latitude":-3.87598,
+    "gn:longitude":39.59319,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kabieni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195773,
+        "wk:page":"Kabieni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5842e76af953f2c39b1d58b92d88bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1243128379,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243128379,
+    "wof:lastmodified":1537567157,
+    "wof:name":"Kabieni",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59319,
+    -3.87598,
+    39.59319,
+    -3.87598
+],
+  "geometry": {"coordinates":[39.59319,-3.87598],"type":"Point"}
+}

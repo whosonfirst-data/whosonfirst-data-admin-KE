@@ -1,0 +1,67 @@
+{
+  "id": 1193241479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02396,1.08262,38.02396,1.08262",
+    "geom:latitude":1.08262,
+    "geom:longitude":38.02396,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Kom",
+    "gn:country_code":"KE",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190661,
+    "gn:latitude":1.08262,
+    "gn:longitude":38.02396,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190661
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f59db9a4051cea33e7981dbe41076216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912581,
+            "locality_id":1193241479,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1193241479,
+    "wof:lastmodified":1536377947,
+    "wof:name":"Kom",
+    "wof:parent_id":1091912581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02396,
+    1.08262,
+    38.02396,
+    1.08262
+],
+  "geometry": {"coordinates":[38.02396,1.08262],"type":"Point"}
+}

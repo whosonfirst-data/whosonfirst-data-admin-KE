@@ -1,0 +1,64 @@
+{
+  "id": 1209041313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.05246,1.78788,35.05246,1.78788",
+    "geom:latitude":1.78788,
+    "geom:longitude":35.05246,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kanyao",
+    "gn:country_code":"KE",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190253,
+    "gn:latitude":1.78788,
+    "gn:longitude":35.05246,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kanyao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunyao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190253
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"40f8238b70d1317ecb612b69b75edb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209041313
+        }
+    ],
+    "wof:id":1209041313,
+    "wof:lastmodified":1537653060,
+    "wof:name":"Kanyao",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.05246,
+    1.78788,
+    35.05246,
+    1.78788
+],
+  "geometry": {"coordinates":[35.05246,1.78788],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276932583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3864,-0.64341,37.3864,-0.64341",
+    "geom:latitude":-0.64341,
+    "geom:longitude":37.3864,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mathigaine",
+    "gn:country_code":"KE",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187344,
+    "gn:latitude":-0.64341,
+    "gn:longitude":37.3864,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mathigaine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahigaini",
+        "Mathigaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187344,
+        "wk:page":"Mahigaini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f3843e13e76f69661990126cbddeed73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1276932583,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1276932583,
+    "wof:lastmodified":1537653053,
+    "wof:name":"Mathigaine",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3864,
+    -0.64341,
+    37.3864,
+    -0.64341
+],
+  "geometry": {"coordinates":[37.3864,-0.64341],"type":"Point"}
+}

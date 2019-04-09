@@ -1,0 +1,67 @@
+{
+  "id": 1242712495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85,0.0833,34.85,0.0833",
+    "geom:latitude":0.0833,
+    "geom:longitude":34.85,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Serem",
+    "gn:country_code":"KE",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11610333,
+    "gn:latitude":0.0833,
+    "gn:longitude":34.85,
+    "gn:modification_date":"2017-07-18",
+    "gn:name":"Serem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11610333
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"36916c9843b442db8d9a734240c45db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":1242712495,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1242712495,
+    "wof:lastmodified":1536868273,
+    "wof:name":"Serem",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85,
+    0.0833,
+    34.85,
+    0.0833
+],
+  "geometry": {"coordinates":[34.85,0.0833],"type":"Point"}
+}

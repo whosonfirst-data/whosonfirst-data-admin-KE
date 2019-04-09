@@ -1,0 +1,62 @@
+{
+  "id": 1209041553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.96667,-0.56667,36.96667,-0.56667",
+    "geom:latitude":-0.56667,
+    "geom:longitude":36.96667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kiamuya",
+    "gn:country_code":"KE",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192678,
+    "gn:latitude":-0.56667,
+    "gn:longitude":36.96667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiamuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192678,
+        "wk:page":"Kiamuya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"87b16120836041f28f5b0a3a3ca36bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209041553
+        }
+    ],
+    "wof:id":1209041553,
+    "wof:lastmodified":1537567148,
+    "wof:name":"Kiamuya",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.96667,
+    -0.56667,
+    36.96667,
+    -0.56667
+],
+  "geometry": {"coordinates":[36.96667,-0.56667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293830401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.78661,-2.04785,40.78661,-2.04785",
+    "geom:latitude":-2.04785,
+    "geom:longitude":40.78661,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Bargoni",
+    "gn:country_code":"KE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200583,
+    "gn:latitude":-2.04785,
+    "gn:longitude":40.78661,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bargoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barigoni",
+        "Bargoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200583,
+        "wk:page":"Bargoni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"344759cb6687ed789ac71d891b6436f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1293830401,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293830401,
+    "wof:lastmodified":1537653091,
+    "wof:name":"Bargoni",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.78661,
+    -2.04785,
+    40.78661,
+    -2.04785
+],
+  "geometry": {"coordinates":[40.78661,-2.04785],"type":"Point"}
+}

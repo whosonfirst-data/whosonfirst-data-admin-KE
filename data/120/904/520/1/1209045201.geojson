@@ -1,0 +1,62 @@
+{
+  "id": 1209045201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88736,-0.87917,36.88736,-0.87917",
+    "geom:latitude":-0.87917,
+    "geom:longitude":36.88736,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kiriaini",
+    "gn:country_code":"KE",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191482,
+    "gn:latitude":-0.87917,
+    "gn:longitude":36.88736,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kiriaini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191482,
+        "wk:page":"Kiriaini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f4ac3c0d7b87ceacfa3694f0263aaa08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209045201
+        }
+    ],
+    "wof:id":1209045201,
+    "wof:lastmodified":1537567147,
+    "wof:name":"Kiriaini",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88736,
+    -0.87917,
+    36.88736,
+    -0.87917
+],
+  "geometry": {"coordinates":[36.88736,-0.87917],"type":"Point"}
+}

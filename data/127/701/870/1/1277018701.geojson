@@ -1,0 +1,68 @@
+{
+  "id": 1277018701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1,0.11667,34.1,0.11667",
+    "geom:latitude":0.11667,
+    "geom:longitude":34.1,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Nyadorera",
+    "gn:country_code":"KE",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183053,
+    "gn:latitude":0.11667,
+    "gn:longitude":34.1,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nyadorera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183053,
+        "wk:page":"Nyadorera"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1a5d785cca1aa3cc8843fc04f8579058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1277018701,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1277018701,
+    "wof:lastmodified":1537567131,
+    "wof:name":"Nyadorera",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1,
+    0.11667,
+    34.1,
+    0.11667
+],
+  "geometry": {"coordinates":[34.1,0.11667],"type":"Point"}
+}

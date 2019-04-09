@@ -1,0 +1,72 @@
+{
+  "id": 1309939951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2832,0.10554,34.2832,0.10554",
+    "geom:latitude":0.10554,
+    "geom:longitude":34.2832,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ndere",
+    "gn:country_code":"KE",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184162,
+    "gn:latitude":0.10554,
+    "gn:longitude":34.2832,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ndere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baroseno",
+        "Ndere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184162,
+        "wk:page":"Baroseno"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6785f561691e938f7fa2f71d7a455aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1309939951,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1309939951,
+    "wof:lastmodified":1537653043,
+    "wof:name":"Ndere",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2832,
+    0.10554,
+    34.2832,
+    0.10554
+],
+  "geometry": {"coordinates":[34.2832,0.10554],"type":"Point"}
+}

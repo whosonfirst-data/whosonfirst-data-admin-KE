@@ -1,0 +1,68 @@
+{
+  "id": 1293250685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6,-3.81667,39.6,-3.81667",
+    "geom:latitude":-3.81667,
+    "geom:longitude":39.6,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Nyundo",
+    "gn:country_code":"KE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182659,
+    "gn:latitude":-3.81667,
+    "gn:longitude":39.6,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nyundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182659,
+        "wk:page":"Nyundo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0a104de6df98fc7974549302f647de81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1293250685,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293250685,
+    "wof:lastmodified":1537567130,
+    "wof:name":"Nyundo",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6,
+    -3.81667,
+    39.6,
+    -3.81667
+],
+  "geometry": {"coordinates":[39.6,-3.81667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125764539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.5262,-2.52565,40.5262,-2.52565",
+    "geom:latitude":-2.52565,
+    "geom:longitude":40.5262,
+    "gn:gn_country":"KE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4114,
+    "gn:population":4114,
+    "iso:country":"KE",
+    "lbl:latitude":-2.52565,
+    "lbl:longitude":40.5262,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"KE",
+    "qs_pg:gn_country":"KE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":191675,
+    "qs_pg:gn_pop":4114,
+    "qs_pg:name":"Kipini",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":545238,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191675,
+        "qs_pg:id":545238
+    },
+    "wof:country":"KE",
+    "wof:created":1497289804,
+    "wof:geomhash":"1892b7b062b636826447a6698e464d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1125764539,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1125764539,
+    "wof:lastmodified":1509390609,
+    "wof:name":"Kipini",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:population":4114,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.5262,
+    -2.52565,
+    40.5262,
+    -2.52565
+],
+  "geometry": {"coordinates":[40.5262,-2.52565],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276732771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51667,-0.41522,37.51667,-0.41522",
+    "geom:latitude":-0.41522,
+    "geom:longitude":37.51667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kibogi",
+    "gn:country_code":"KE",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192439,
+    "gn:latitude":-0.41522,
+    "gn:longitude":37.51667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kibogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192439
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fff92301586fe1f790ee2331783bf6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1276732771,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1276732771,
+    "wof:lastmodified":1536740552,
+    "wof:name":"Kibogi",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51667,
+    -0.41522,
+    37.51667,
+    -0.41522
+],
+  "geometry": {"coordinates":[37.51667,-0.41522],"type":"Point"}
+}

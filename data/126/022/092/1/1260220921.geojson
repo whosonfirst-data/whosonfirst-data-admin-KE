@@ -1,0 +1,67 @@
+{
+  "id": 1260220921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64854,-0.38936,35.64854,-0.38936",
+    "geom:latitude":-0.38936,
+    "geom:longitude":35.64854,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Waterer",
+    "gn:country_code":"KE",
+    "gn:dem":2667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178240,
+    "gn:latitude":-0.38936,
+    "gn:longitude":35.64854,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Waterer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178240
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"eee1ce781685a17c40bed7148d0b210b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":1260220921,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1260220921,
+    "wof:lastmodified":1536797039,
+    "wof:name":"Waterer",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64854000000001,
+    -0.38936,
+    35.64854000000001,
+    -0.38936
+],
+  "geometry": {"coordinates":[35.64854000000001,-0.38936],"type":"Point"}
+}

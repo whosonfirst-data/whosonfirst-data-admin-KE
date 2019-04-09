@@ -1,0 +1,67 @@
+{
+  "id": 1259601747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85994,-3.6281,39.85994,-3.6281",
+    "geom:latitude":-3.6281,
+    "geom:longitude":39.85994,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kilifi Creek",
+    "gn:country_code":"KE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8223921,
+    "gn:latitude":-3.6281,
+    "gn:longitude":39.85994,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Kilifi Creek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8223921
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"02e143dd7d51b87f8eb8666324a609d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1259601747,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259601747,
+    "wof:lastmodified":1536688566,
+    "wof:name":"Kilifi Creek",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85994,
+    -3.6281,
+    39.85994,
+    -3.6281
+],
+  "geometry": {"coordinates":[39.85994,-3.6281],"type":"Point"}
+}

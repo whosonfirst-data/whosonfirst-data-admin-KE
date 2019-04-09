@@ -1,0 +1,71 @@
+{
+  "id": 1259758459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5563,-2.40945,36.5563,-2.40945",
+    "geom:latitude":-2.40945,
+    "geom:longitude":36.5563,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Meto",
+    "gn:country_code":"KE",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186799,
+    "gn:latitude":-2.40945,
+    "gn:longitude":36.5563,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Meto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metu",
+        "Meto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186799
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a51b2a4df22ec0b604df261a91b171c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1259758459,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1259758459,
+    "wof:lastmodified":1537653051,
+    "wof:name":"Meto",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5563,
+    -2.40945,
+    36.5563,
+    -2.40945
+],
+  "geometry": {"coordinates":[36.5563,-2.40945],"type":"Point"}
+}

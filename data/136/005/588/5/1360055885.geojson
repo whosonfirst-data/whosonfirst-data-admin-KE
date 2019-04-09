@@ -1,0 +1,68 @@
+{
+  "id": 1360055885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.5335,-0.61925,37.5335,-0.61925",
+    "geom:latitude":-0.61925,
+    "geom:longitude":37.5335,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gachoka",
+    "gn:country_code":"KE",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197949,
+    "gn:latitude":-0.61925,
+    "gn:longitude":37.5335,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gachoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197949,
+        "wk:page":"Gachoka"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"45abffe084b180ca4d9898e1c07ae20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912055,
+            "locality_id":1360055885,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1360055885,
+    "wof:lastmodified":1537567166,
+    "wof:name":"Gachoka",
+    "wof:parent_id":1091912055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.5335,
+    -0.61925,
+    37.5335,
+    -0.61925
+],
+  "geometry": {"coordinates":[37.5335,-0.61925],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226723795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54074,0.37894,35.54074,0.37894",
+    "geom:latitude":0.37894,
+    "geom:longitude":35.54074,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Chepkorio",
+    "gn:country_code":"KE",
+    "gn:dem":2559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199563,
+    "gn:latitude":0.37894,
+    "gn:longitude":35.54074,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Chepkorio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199563,
+        "wk:page":"Chepkorio"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fb666ef85777822d1184e1ce9d961a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911493,
+            "locality_id":1226723795,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1226723795,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Chepkorio",
+    "wof:parent_id":1091911493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54074,
+    0.37894,
+    35.54074,
+    0.37894
+],
+  "geometry": {"coordinates":[35.54074,0.37894],"type":"Point"}
+}

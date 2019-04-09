@@ -1,0 +1,67 @@
+{
+  "id": 1243605037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27433,-4.43076,39.27433,-4.43076",
+    "geom:latitude":-4.43076,
+    "geom:longitude":39.27433,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mabafweni",
+    "gn:country_code":"KE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867823,
+    "gn:latitude":-4.43076,
+    "gn:longitude":39.27433,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Mabafweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867823
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"550e66d9d58e1887ff8252f703d5380b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1243605037,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243605037,
+    "wof:lastmodified":1537070991,
+    "wof:name":"Mabafweni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27433,
+    -4.43076,
+    39.27433,
+    -4.43076
+],
+  "geometry": {"coordinates":[39.27433,-4.43076],"type":"Point"}
+}

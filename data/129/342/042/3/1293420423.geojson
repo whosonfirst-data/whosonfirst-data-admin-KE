@@ -1,0 +1,72 @@
+{
+  "id": 1293420423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19235,-2.45518,40.19235,-2.45518",
+    "geom:latitude":-2.45518,
+    "geom:longitude":40.19235,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Golbanti",
+    "gn:country_code":"KE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197106,
+    "gn:latitude":-2.45518,
+    "gn:longitude":40.19235,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Golbanti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borobini",
+        "Golbanti Mission",
+        "Golbanti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197106
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c28e1f90e59232f198f54294157bf7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1293420423,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293420423,
+    "wof:lastmodified":1537653079,
+    "wof:name":"Golbanti",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19235,
+    -2.45518,
+    40.19235,
+    -2.45518
+],
+  "geometry": {"coordinates":[40.19235,-2.45518],"type":"Point"}
+}

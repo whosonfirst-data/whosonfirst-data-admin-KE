@@ -1,0 +1,67 @@
+{
+  "id": 1293723287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.99119,2.53503,34.99119,2.53503",
+    "geom:latitude":2.53503,
+    "geom:longitude":34.99119,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Kolitak",
+    "gn:country_code":"KE",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209766,
+    "gn:latitude":2.53503,
+    "gn:longitude":34.99119,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kolitak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209766
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"49a3d1a20847cb97226d871e964f2cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1293723287,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293723287,
+    "wof:lastmodified":1536945004,
+    "wof:name":"Kolitak",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.99119,
+    2.53503,
+    34.99119,
+    2.53503
+],
+  "geometry": {"coordinates":[34.99119,2.53503],"type":"Point"}
+}

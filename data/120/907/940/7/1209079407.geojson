@@ -1,0 +1,61 @@
+{
+  "id": 1209079407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50941,-0.44315,37.50941,-0.44315",
+    "geom:latitude":-0.44315,
+    "geom:longitude":37.50941,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kianjuki",
+    "gn:country_code":"KE",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192592,
+    "gn:latitude":-0.44315,
+    "gn:longitude":37.50941,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kianjuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192592
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"743f5bb3ad03d0b102c955424840ae7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209079407
+        }
+    ],
+    "wof:id":1209079407,
+    "wof:lastmodified":1536298388,
+    "wof:name":"Kianjuki",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50941,
+    -0.44315,
+    37.50941,
+    -0.44315
+],
+  "geometry": {"coordinates":[37.50941,-0.44315],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209090013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03453,0.10405,36.03453,0.10405",
+    "geom:latitude":0.10405,
+    "geom:longitude":36.03453,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mugurin",
+    "gn:country_code":"KE",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185974,
+    "gn:latitude":0.10405,
+    "gn:longitude":36.03453,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mugurin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugerin",
+        "Mugurin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185974,
+        "wk:page":"Mugurin"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e5de9ca98dba4bb52497da8e797839b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209090013
+        }
+    ],
+    "wof:id":1209090013,
+    "wof:lastmodified":1537653048,
+    "wof:name":"Mugurin",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03453,
+    0.10405,
+    36.03453,
+    0.10405
+],
+  "geometry": {"coordinates":[36.03453,0.10405],"type":"Point"}
+}

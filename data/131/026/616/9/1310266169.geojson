@@ -1,0 +1,72 @@
+{
+  "id": 1310266169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26949,-3.6774,39.26949,-3.6774",
+    "geom:latitude":-3.6774,
+    "geom:longitude":39.26949,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Maruvessa",
+    "gn:country_code":"KE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187556,
+    "gn:latitude":-3.6774,
+    "gn:longitude":39.26949,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Maruvessa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maruvesa",
+        "Maruvessa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187556,
+        "wk:page":"Maruvesa"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e4931de3a3b586fc341a5f5d5ce885a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1310266169,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310266169,
+    "wof:lastmodified":1537653054,
+    "wof:name":"Maruvessa",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26949000000001,
+    -3.6774,
+    39.26949000000001,
+    -3.6774
+],
+  "geometry": {"coordinates":[39.26949000000001,-3.6774],"type":"Point"}
+}

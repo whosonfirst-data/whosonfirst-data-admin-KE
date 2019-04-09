@@ -1,0 +1,61 @@
+{
+  "id": 1209136889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.70271,-0.32608,37.70271,-0.32608",
+    "geom:latitude":-0.32608,
+    "geom:longitude":37.70271,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Mariani",
+    "gn:country_code":"KE",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187655,
+    "gn:latitude":-0.32608,
+    "gn:longitude":37.70271,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mariani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187655
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b2ec6c1fdd25a3c6fa23157b23349a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209136889
+        }
+    ],
+    "wof:id":1209136889,
+    "wof:lastmodified":1536296632,
+    "wof:name":"Mariani",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.70271,
+    -0.32608000000000004,
+    37.70271,
+    -0.32608000000000004
+],
+  "geometry": {"coordinates":[37.70271,-0.32608],"type":"Point"}
+}

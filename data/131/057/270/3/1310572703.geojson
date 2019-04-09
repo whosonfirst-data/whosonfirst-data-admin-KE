@@ -1,0 +1,70 @@
+{
+  "id": 1310572703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47175,-0.42444,34.47175,-0.42444",
+    "geom:latitude":-0.42444,
+    "geom:longitude":34.47175,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Huma Lime",
+    "gn:country_code":"KE",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196741,
+    "gn:latitude":-0.42444,
+    "gn:longitude":34.47175,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Huma Lime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Homa Lime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        890427529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196741
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4e4ff8d604deed6d7354db639895d292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890427529,
+            "locality_id":1310572703,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1310572703,
+    "wof:lastmodified":1537653078,
+    "wof:name":"Huma Lime",
+    "wof:parent_id":890427529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47175,
+    -0.42444,
+    34.47175,
+    -0.42444
+],
+  "geometry": {"coordinates":[34.47175,-0.42444],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226100593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9009,-0.99536,36.9009,-0.99536",
+    "geom:latitude":-0.99536,
+    "geom:longitude":36.9009,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gituru",
+    "gn:country_code":"KE",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196061,
+    "gn:latitude":-0.99536,
+    "gn:longitude":36.9009,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gituru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ituru",
+        "Gituru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196061,
+        "wk:page":"Ituru"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f967377d69252ac578c5ad055ab94334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1226100593,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226100593,
+    "wof:lastmodified":1537653076,
+    "wof:name":"Gituru",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9009,
+    -0.99536,
+    36.9009,
+    -0.99536
+],
+  "geometry": {"coordinates":[36.9009,-0.99536],"type":"Point"}
+}

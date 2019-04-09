@@ -1,0 +1,71 @@
+{
+  "id": 1226273635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.27026,-2.50554,40.27026,-2.50554",
+    "geom:latitude":-2.50554,
+    "geom:longitude":40.27026,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Nduru",
+    "gn:country_code":"KE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183951,
+    "gn:latitude":-2.50554,
+    "gn:longitude":40.27026,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Nduru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fitina",
+        "Nduru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183951
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2d73205d68b16e0ace9cada8a4b66afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1226273635,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226273635,
+    "wof:lastmodified":1537653043,
+    "wof:name":"Nduru",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.27026,
+    -2.50554,
+    40.27026,
+    -2.50554
+],
+  "geometry": {"coordinates":[40.27026,-2.50554],"type":"Point"}
+}

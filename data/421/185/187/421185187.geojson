@@ -1,0 +1,115 @@
+{
+  "id": 421185187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36402,-3.40193,38.36402,-3.40193",
+    "geom:latitude":-3.40193,
+    "geom:longitude":38.36402,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:dut_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:eng_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:fra_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:fre_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:ita_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:pol_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:ron_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:rum_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:swa_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:swe_x_preferred":[
+        "Wundanyi"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":178073,
+    "qs:gn_pop":12501,
+    "qs:name":"Wundanyi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":886339,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1529046,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178073,
+        "gp:id":1529046,
+        "qs:id":886339,
+        "wd:id":"Q3056743",
+        "wk:page":"Wundanyi"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009435,
+    "wof:geomhash":"230ad5e39602cebade6eb5df9025c3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":421185187,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421185187,
+    "wof:lastmodified":1527726505,
+    "wof:name":"Wundanyi",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:population":12501,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36402,
+    -3.40193,
+    38.36402,
+    -3.40193
+],
+  "geometry": {"coordinates":[38.36402,-3.40193],"type":"Point"}
+}

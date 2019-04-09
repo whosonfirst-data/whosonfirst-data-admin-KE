@@ -1,0 +1,68 @@
+{
+  "id": 1260122799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76775,-0.73234,36.76775,-0.73234",
+    "geom:latitude":-0.73234,
+    "geom:longitude":36.76775,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gatare",
+    "gn:country_code":"KE",
+    "gn:dem":2538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197710,
+    "gn:latitude":-0.73234,
+    "gn:longitude":36.76775,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197710,
+        "wk:page":"Gatare"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e5e63a2732ba9106ec77453c596f86a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1260122799,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1260122799,
+    "wof:lastmodified":1537567165,
+    "wof:name":"Gatare",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76775,
+    -0.73234,
+    36.76775,
+    -0.73234
+],
+  "geometry": {"coordinates":[36.76775,-0.73234],"type":"Point"}
+}

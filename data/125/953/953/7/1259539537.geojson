@@ -1,0 +1,72 @@
+{
+  "id": 1259539537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2885,-0.66007,37.2885,-0.66007",
+    "geom:latitude":-0.66007,
+    "geom:longitude":37.2885,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kandongu",
+    "gn:country_code":"KE",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194497,
+    "gn:latitude":-0.66007,
+    "gn:longitude":37.2885,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kandongu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandongo",
+        "Kandongu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194497,
+        "wk:page":"Kandongo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ad8469bfa9db95874c962b5b9076da46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1259539537,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259539537,
+    "wof:lastmodified":1537653070,
+    "wof:name":"Kandongu",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2885,
+    -0.66007,
+    37.2885,
+    -0.66007
+],
+  "geometry": {"coordinates":[37.2885,-0.66007],"type":"Point"}
+}

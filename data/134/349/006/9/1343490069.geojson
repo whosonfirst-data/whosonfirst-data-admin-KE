@@ -1,0 +1,72 @@
+{
+  "id": 1343490069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89318,-1.00645,39.89318,-1.00645",
+    "geom:latitude":-1.00645,
+    "geom:longitude":39.89318,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Tuni",
+    "gn:country_code":"KE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178938,
+    "gn:latitude":-1.00645,
+    "gn:longitude":39.89318,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Funi",
+        "Funi Dela",
+        "Tuni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178938
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d7a660328529ff2a8285559590b9ae46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1343490069,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343490069,
+    "wof:lastmodified":1537653034,
+    "wof:name":"Tuni",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89318,
+    -1.00645,
+    39.89318,
+    -1.00645
+],
+  "geometry": {"coordinates":[39.89318,-1.00645],"type":"Point"}
+}

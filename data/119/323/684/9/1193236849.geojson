@@ -1,0 +1,68 @@
+{
+  "id": 1193236849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71667,-1.18333,36.71667,-1.18333",
+    "geom:latitude":-1.18333,
+    "geom:longitude":36.71667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Muyaka",
+    "gn:country_code":"KE",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185206,
+    "gn:latitude":-1.18333,
+    "gn:longitude":36.71667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Muyaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185206,
+        "wk:page":"Muyaka"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a20259c31d1845da41c330118e1ecc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1193236849,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1193236849,
+    "wof:lastmodified":1537567135,
+    "wof:name":"Muyaka",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71667,
+    -1.18333,
+    36.71667,
+    -1.18333
+],
+  "geometry": {"coordinates":[36.71667,-1.18333],"type":"Point"}
+}

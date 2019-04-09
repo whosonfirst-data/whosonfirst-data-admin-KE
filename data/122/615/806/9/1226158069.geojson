@@ -1,0 +1,67 @@
+{
+  "id": 1226158069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1,-2.9,40.1,-2.9",
+    "geom:latitude":-2.9,
+    "geom:longitude":40.1,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fundisa",
+    "gn:country_code":"KE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198011,
+    "gn:latitude":-2.9,
+    "gn:longitude":40.1,
+    "gn:modification_date":"2000-11-15",
+    "gn:name":"Fundisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198011
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"77e83fdf1f6e5586dcb737b83865921c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1226158069,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226158069,
+    "wof:lastmodified":1537057348,
+    "wof:name":"Fundisa",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1,
+    -2.9,
+    40.1,
+    -2.9
+],
+  "geometry": {"coordinates":[40.1,-2.9],"type":"Point"}
+}

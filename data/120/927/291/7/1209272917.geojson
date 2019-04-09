@@ -1,0 +1,61 @@
+{
+  "id": 1209272917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85494,-1.02696,36.85494,-1.02696",
+    "geom:latitude":-1.02696,
+    "geom:longitude":36.85494,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kigongo",
+    "gn:country_code":"KE",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192273,
+    "gn:latitude":-1.02696,
+    "gn:longitude":36.85494,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kigongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192273
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a21af209ec187fb072d48025889c3474",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209272917
+        }
+    ],
+    "wof:id":1209272917,
+    "wof:lastmodified":1536292296,
+    "wof:name":"Kigongo",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85494,
+    -1.02696,
+    36.85494,
+    -1.02696
+],
+  "geometry": {"coordinates":[36.85494,-1.02696],"type":"Point"}
+}

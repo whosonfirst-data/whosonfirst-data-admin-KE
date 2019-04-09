@@ -1,0 +1,67 @@
+{
+  "id": 1293150065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0758,-2.59459,38.0758,-2.59459",
+    "geom:latitude":-2.59459,
+    "geom:longitude":38.0758,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kambu",
+    "gn:country_code":"KE",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194797,
+    "gn:latitude":-2.59459,
+    "gn:longitude":38.0758,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194797
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e05b47195ed6b44d9b4f9b11db047679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1293150065,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1293150065,
+    "wof:lastmodified":1536777256,
+    "wof:name":"Kambu",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0758,
+    -2.59459,
+    38.0758,
+    -2.59459
+],
+  "geometry": {"coordinates":[38.0758,-2.59459],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360121107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81375,-1.29726,39.81375,-1.29726",
+    "geom:latitude":-1.29726,
+    "geom:longitude":39.81375,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Vaji",
+    "gn:country_code":"KE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11433546,
+    "gn:latitude":-1.29726,
+    "gn:longitude":39.81375,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Vaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433546
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6b581e6f49ed1708a0c74fd9e620c697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1360121107,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1360121107,
+    "wof:lastmodified":1536893329,
+    "wof:name":"Vaji",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81375,
+    -1.29726,
+    39.81375,
+    -1.29726
+],
+  "geometry": {"coordinates":[39.81375,-1.29726],"type":"Point"}
+}

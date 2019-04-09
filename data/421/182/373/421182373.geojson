@@ -1,0 +1,97 @@
+{
+  "id": 421182373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90357,-1.25743,36.90357,-1.25743",
+    "geom:latitude":-1.25743,
+    "geom:longitude":36.90357,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Jedinstvena borba protiv kriminala"
+    ],
+    "name:dut_x_preferred":[
+        "Dandora"
+    ],
+    "name:eng_x_preferred":[
+        "Dandora"
+    ],
+    "name:fre_x_preferred":[
+        "Dandora"
+    ],
+    "name:ita_x_preferred":[
+        "Dandora"
+    ],
+    "name:swa_x_preferred":[
+        "Dandora"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":199108,
+    "qs:gn_pop":0,
+    "qs:name":"Dandora",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":340,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":340,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":906577,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1526992,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199108,
+        "gp:id":1526992,
+        "qs:id":906577,
+        "wd:id":"Q3701493",
+        "wk:page":"Dandora"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009327,
+    "wof:geomhash":"2e1e799976ccb219aa9dace956acf027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":421182373,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421182373,
+    "wof:lastmodified":1527726465,
+    "wof:name":"Dandora",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90357,
+    -1.25743,
+    36.90357,
+    -1.25743
+],
+  "geometry": {"coordinates":[36.90357,-1.25743],"type":"Point"}
+}

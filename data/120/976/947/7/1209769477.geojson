@@ -1,0 +1,67 @@
+{
+  "id": 1209769477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64668,1.74879,37.64668,1.74879",
+    "geom:latitude":1.74879,
+    "geom:longitude":37.64668,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Lengima",
+    "gn:country_code":"KE",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101808,
+    "gn:latitude":1.74879,
+    "gn:longitude":37.64668,
+    "gn:modification_date":"2016-03-16",
+    "gn:name":"Lengima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101808
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1e4caab1b93838ea6381cba77040e6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912007,
+            "locality_id":1209769477,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1209769477,
+    "wof:lastmodified":1536384939,
+    "wof:name":"Lengima",
+    "wof:parent_id":1091912007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64668,
+    1.74879,
+    37.64668,
+    1.74879
+],
+  "geometry": {"coordinates":[37.64668,1.74879],"type":"Point"}
+}

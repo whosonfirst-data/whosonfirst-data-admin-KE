@@ -1,0 +1,70 @@
+{
+  "id": 1327066447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97869,2.51267,34.97869,2.51267",
+    "geom:latitude":2.51267,
+    "geom:longitude":34.97869,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Loiya",
+    "gn:country_code":"KE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188724,
+    "gn:latitude":2.51267,
+    "gn:longitude":34.97869,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Loiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188724
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d7752bc6f0f888ba408f8cf0c4f4053f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1327066447,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327066447,
+    "wof:lastmodified":1537653058,
+    "wof:name":"Loiya",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97869,
+    2.51267,
+    34.97869,
+    2.51267
+],
+  "geometry": {"coordinates":[34.97869,2.51267],"type":"Point"}
+}

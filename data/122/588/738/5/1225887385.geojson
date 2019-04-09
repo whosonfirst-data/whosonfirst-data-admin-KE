@@ -1,0 +1,68 @@
+{
+  "id": 1225887385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03333,-0.68333,37.03333,-0.68333",
+    "geom:latitude":-0.68333,
+    "geom:longitude":37.03333,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Githunguri",
+    "gn:country_code":"KE",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197224,
+    "gn:latitude":-0.68333,
+    "gn:longitude":37.03333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Githunguri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197224,
+        "wk:page":"Githunguri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"60ce78b992a8683cf6c15f92585c86e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1225887385,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1225887385,
+    "wof:lastmodified":1537567161,
+    "wof:name":"Githunguri",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03333,
+    -0.68333,
+    37.03333,
+    -0.68333
+],
+  "geometry": {"coordinates":[37.03333,-0.68333],"type":"Point"}
+}

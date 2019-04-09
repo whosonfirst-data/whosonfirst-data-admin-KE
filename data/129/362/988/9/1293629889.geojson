@@ -1,0 +1,67 @@
+{
+  "id": 1293629889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.82706,0.21197,37.82706,0.21197",
+    "geom:latitude":0.21197,
+    "geom:longitude":37.82706,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kitheo",
+    "gn:country_code":"KE",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11497835,
+    "gn:latitude":0.21197,
+    "gn:longitude":37.82706,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kitheo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497835
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b829e61fbc65450244857ed1e16d099b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912127,
+            "locality_id":1293629889,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1293629889,
+    "wof:lastmodified":1537075804,
+    "wof:name":"Kitheo",
+    "wof:parent_id":1091912127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.82706,
+    0.21197,
+    37.82706,
+    0.21197
+],
+  "geometry": {"coordinates":[37.82706,0.21197],"type":"Point"}
+}

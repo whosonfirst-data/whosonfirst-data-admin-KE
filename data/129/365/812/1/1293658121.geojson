@@ -1,0 +1,67 @@
+{
+  "id": 1293658121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86667,-0.93333,36.86667,-0.93333",
+    "geom:latitude":-0.93333,
+    "geom:longitude":36.86667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Bavigito",
+    "gn:country_code":"KE",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200513,
+    "gn:latitude":-0.93333,
+    "gn:longitude":36.86667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Bavigito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200513
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7eeb2cf59085bbc62ff0a45a74c07604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1293658121,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293658121,
+    "wof:lastmodified":1537036774,
+    "wof:name":"Bavigito",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86667,
+    -0.93333,
+    36.86667,
+    -0.93333
+],
+  "geometry": {"coordinates":[36.86667,-0.93333],"type":"Point"}
+}

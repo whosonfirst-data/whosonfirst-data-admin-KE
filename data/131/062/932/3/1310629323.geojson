@@ -1,0 +1,81 @@
+{
+  "id": 1310629323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03341,-1.48256,40.03341,-1.48256",
+    "geom:latitude":-1.48256,
+    "geom:longitude":40.03341,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Hola",
+    "gn:country_code":"KE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":196752,
+    "gn:latitude":-1.48256,
+    "gn:longitude":40.03341,
+    "gn:modification_date":"2015-11-26",
+    "gn:name":"Hola",
+    "gn:population":6932,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hola"
+    ],
+    "name:eng_x_variant":[
+        "Galole"
+    ],
+    "name:und_x_variant":[
+        "Galole",
+        "Hola"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196752,
+        "wk:page":"Hola%2C_Kenya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"909eb2711a4302e23b86487eb0c6e8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1310629323,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310629323,
+    "wof:lastmodified":1537653078,
+    "wof:name":"Hola",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:population":6932,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03341,
+    -1.48256,
+    40.03341,
+    -1.48256
+],
+  "geometry": {"coordinates":[40.03341,-1.48256],"type":"Point"}
+}

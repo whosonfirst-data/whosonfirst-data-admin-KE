@@ -1,0 +1,97 @@
+{
+  "id": 421173595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94531,-0.77584,34.94531,-0.77584",
+    "geom:latitude":-0.77584,
+    "geom:longitude":34.94531,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0440\u043e\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Keroka"
+    ],
+    "name:eng_x_preferred":[
+        "Keroka"
+    ],
+    "name:pol_x_preferred":[
+        "Keroka"
+    ],
+    "name:swe_x_preferred":[
+        "Keroka"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":192869,
+    "qs:gn_pop":4143,
+    "qs:name":"Keroka",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nyanza",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":512260,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527681,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192869,
+        "gp:id":1527681,
+        "qs:id":512260,
+        "wd:id":"Q6394255",
+        "wk:page":"Keroka"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008991,
+    "wof:geomhash":"becf8b08e0e5baff996120ae5ff77064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911163,
+            "locality_id":421173595,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":421173595,
+    "wof:lastmodified":1527716254,
+    "wof:name":"Keroka",
+    "wof:parent_id":1091911163,
+    "wof:placetype":"locality",
+    "wof:population":4143,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94531,
+    -0.77584,
+    34.94531,
+    -0.77584
+],
+  "geometry": {"coordinates":[34.94531,-0.77584],"type":"Point"}
+}

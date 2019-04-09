@@ -1,0 +1,67 @@
+{
+  "id": 1276383697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36667,-1.93333,37.36667,-1.93333",
+    "geom:latitude":-1.93333,
+    "geom:longitude":37.36667,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Enguli",
+    "gn:country_code":"KE",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198290,
+    "gn:latitude":-1.93333,
+    "gn:longitude":37.36667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Enguli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198290
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f4a77a5d21ca7da1cafcf1beae53e600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1276383697,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1276383697,
+    "wof:lastmodified":1536711406,
+    "wof:name":"Enguli",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36667,
+    -1.93333,
+    37.36667,
+    -1.93333
+],
+  "geometry": {"coordinates":[37.36667,-1.93333],"type":"Point"}
+}

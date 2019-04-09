@@ -1,0 +1,71 @@
+{
+  "id": 1310656621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.30921,-0.43037,37.30921,-0.43037",
+    "geom:latitude":-0.43037,
+    "geom:longitude":37.30921,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kavote",
+    "gn:country_code":"KE",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195657,
+    "gn:latitude":-0.43037,
+    "gn:longitude":37.30921,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kavote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabuti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195657,
+        "wk:page":"Kabuti"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"130ff28327b8469b0f3fb7dcf19c51bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1310656621,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1310656621,
+    "wof:lastmodified":1537653074,
+    "wof:name":"Kavote",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.30921,
+    -0.43037,
+    37.30921,
+    -0.43037
+],
+  "geometry": {"coordinates":[37.30921,-0.43037],"type":"Point"}
+}

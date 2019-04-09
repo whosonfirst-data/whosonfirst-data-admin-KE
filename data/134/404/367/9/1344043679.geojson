@@ -1,0 +1,68 @@
+{
+  "id": 1344043679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03333,0.06667,34.03333,0.06667",
+    "geom:latitude":0.06667,
+    "geom:longitude":34.03333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bumudondo",
+    "gn:country_code":"KE",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200076,
+    "gn:latitude":0.06667,
+    "gn:longitude":34.03333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Bumudondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200076,
+        "wk:page":"Bumudondo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3e663b08dafd510e9b56a91d1a74d278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":1344043679,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1344043679,
+    "wof:lastmodified":1537567171,
+    "wof:name":"Bumudondo",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03333,
+    0.06667,
+    34.03333,
+    0.06667
+],
+  "geometry": {"coordinates":[34.03333,0.06667],"type":"Point"}
+}

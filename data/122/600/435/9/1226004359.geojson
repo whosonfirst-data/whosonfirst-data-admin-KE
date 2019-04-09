@@ -1,0 +1,70 @@
+{
+  "id": 1226004359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.99595,-2.59481,37.99595,-2.59481",
+    "geom:latitude":-2.59481,
+    "geom:longitude":37.99595,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kombayoo",
+    "gn:country_code":"KE",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190628,
+    "gn:latitude":-2.59481,
+    "gn:longitude":37.99595,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kombayoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komboyoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190628
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5418cc1802a9d2def712315ce8bdbc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1226004359,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226004359,
+    "wof:lastmodified":1537653060,
+    "wof:name":"Kombayoo",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.99595,
+    -2.59481,
+    37.99595,
+    -2.59481
+],
+  "geometry": {"coordinates":[37.99595,-2.59481],"type":"Point"}
+}

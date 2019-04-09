@@ -1,0 +1,72 @@
+{
+  "id": 1226583869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58333,-1.3,34.58333,-1.3",
+    "geom:latitude":-1.3,
+    "geom:longitude":34.58333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Nyabasi",
+    "gn:country_code":"KE",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":183096,
+    "gn:latitude":-1.3,
+    "gn:longitude":34.58333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nyabasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyabassi",
+        "Nyabasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183096,
+        "wk:page":"Nyabasi"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"02378053694a77002d542e250d51c042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911753,
+            "locality_id":1226583869,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1226583869,
+    "wof:lastmodified":1537653041,
+    "wof:name":"Nyabasi",
+    "wof:parent_id":1091911753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58333,
+    -1.3,
+    34.58333,
+    -1.3
+],
+  "geometry": {"coordinates":[34.58333,-1.3],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421174105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53738,-4.3455,39.53738,-4.3455",
+    "geom:latitude":-4.3455,
+    "geom:longitude":39.53738,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mwabunga"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":185183,
+    "qs:gn_pop":0,
+    "qs:name":"Mwabungu",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":378,
+    "qs:photos_1k":77,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":378,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":317039,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528441,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185183,
+        "gp:id":1528441,
+        "qs:id":317039
+    },
+    "wof:country":"KE",
+    "wof:created":1459009020,
+    "wof:geomhash":"4ea3979adcee292e999185ae40aa3792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":421174105,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421174105,
+    "wof:lastmodified":1501212798,
+    "wof:name":"Mwabungu",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53738,
+    -4.3455,
+    39.53738,
+    -4.3455
+],
+  "geometry": {"coordinates":[39.53738,-4.3455],"type":"Point"}
+}

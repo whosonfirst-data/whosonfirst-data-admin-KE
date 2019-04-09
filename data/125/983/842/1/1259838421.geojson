@@ -1,0 +1,68 @@
+{
+  "id": 1259838421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01689,-0.39101,35.01689,-0.39101",
+    "geom:latitude":-0.39101,
+    "geom:longitude":35.01689,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Sondu",
+    "gn:country_code":"KE",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179949,
+    "gn:latitude":-0.39101,
+    "gn:longitude":35.01689,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Sondu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179949,
+        "wk:page":"Sondu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"325d51bbe2129142cbd611e70408bc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911533,
+            "locality_id":1259838421,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1259838421,
+    "wof:lastmodified":1537567129,
+    "wof:name":"Sondu",
+    "wof:parent_id":1091911533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01689,
+    -0.39101,
+    35.01689,
+    -0.39101
+],
+  "geometry": {"coordinates":[35.01689,-0.39101],"type":"Point"}
+}

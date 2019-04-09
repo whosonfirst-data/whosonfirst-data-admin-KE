@@ -1,0 +1,70 @@
+{
+  "id": 1259519979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32375,-0.24936,34.32375,-0.24936",
+    "geom:latitude":-0.24936,
+    "geom:longitude":34.32375,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Pap Godero",
+    "gn:country_code":"KE",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181609,
+    "gn:latitude":-0.24936,
+    "gn:longitude":34.32375,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Pap Godero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pep Gadera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091910953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181609
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"53e1559dbec9ff1109753f44a58cdd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910953,
+            "locality_id":1259519979,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1259519979,
+    "wof:lastmodified":1537653038,
+    "wof:name":"Pap Godero",
+    "wof:parent_id":1091910953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32375,
+    -0.24936,
+    34.32375,
+    -0.24936
+],
+  "geometry": {"coordinates":[34.32375,-0.24936],"type":"Point"}
+}

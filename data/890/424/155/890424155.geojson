@@ -1,0 +1,99 @@
+{
+  "id": 890424155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38175,-4.64756,39.38175,-4.64756",
+    "geom:latitude":-4.64756,
+    "geom:longitude":39.38175,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:pop":2374,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5e0c\u83ab\u5c3c"
+    ],
+    "name:dut_x_preferred":[
+        "Shimoni"
+    ],
+    "name:eng_x_preferred":[
+        "Shimoni"
+    ],
+    "name:fin_x_preferred":[
+        "Shimoni"
+    ],
+    "name:fre_x_preferred":[
+        "Shimoni"
+    ],
+    "name:ita_x_preferred":[
+        "Shimoni"
+    ],
+    "name:pol_x_preferred":[
+        "Shimoni"
+    ],
+    "name:rum_x_preferred":[
+        "Shimoni"
+    ],
+    "name:swa_x_preferred":[
+        "Shimoni"
+    ],
+    "name:swe_x_preferred":[
+        "Shimoni"
+    ],
+    "qs:name":"Shimoni",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1200,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180389,
+        "gp:id":1528819,
+        "qs:id":1248774,
+        "wd:id":"Q2395680",
+        "wk:page":"Shimoni"
+    },
+    "wof:country":"KE",
+    "wof:created":1469051532,
+    "wof:geomhash":"f35438d8a91a19f25e11a698380e14da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":890424155,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":890424155,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Shimoni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:population":2374,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38175,
+    -4.64756,
+    39.38175,
+    -4.64756
+],
+  "geometry": {"coordinates":[39.38175,-4.64756],"type":"Point"}
+}

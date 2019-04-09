@@ -1,0 +1,74 @@
+{
+  "id": 1243610447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.70449,-3.78048,39.70449,-3.78048",
+    "geom:latitude":-3.78048,
+    "geom:longitude":39.70449,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bandari la Salama",
+    "gn:country_code":"KE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200649,
+    "gn:latitude":-3.78048,
+    "gn:longitude":39.70449,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Bandari la Salama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandari La Salaama",
+        "Banda ra Salama",
+        "Bandari Ra Salama",
+        "Bandari la Salama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200649,
+        "wk:page":"Banda_Ra_Salama"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"26ef135819ec7a6a32e48ab3c57ac7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1243610447,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243610447,
+    "wof:lastmodified":1537653091,
+    "wof:name":"Bandari la Salama",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.70449,
+    -3.78048,
+    39.70449,
+    -3.78048
+],
+  "geometry": {"coordinates":[39.70449,-3.78048],"type":"Point"}
+}

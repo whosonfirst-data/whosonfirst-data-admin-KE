@@ -1,0 +1,67 @@
+{
+  "id": 1193105685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46442,-3.64759,39.46442,-3.64759",
+    "geom:latitude":-3.64759,
+    "geom:longitude":39.46442,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tindini",
+    "gn:country_code":"KE",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":179185,
+    "gn:latitude":-3.64759,
+    "gn:longitude":39.46442,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Tindini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179185
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f2a8ca3fcad9ca46260a76ffab963c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1193105685,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1193105685,
+    "wof:lastmodified":1536378745,
+    "wof:name":"Tindini",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46442,
+    -3.64759,
+    39.46442,
+    -3.64759
+],
+  "geometry": {"coordinates":[39.46442,-3.64759],"type":"Point"}
+}

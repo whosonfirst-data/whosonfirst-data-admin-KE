@@ -1,0 +1,70 @@
+{
+  "id": 1226487923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.99697,-2.53893,37.99697,-2.53893",
+    "geom:latitude":-2.53893,
+    "geom:longitude":37.99697,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Utithi",
+    "gn:country_code":"KE",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178625,
+    "gn:latitude":-2.53893,
+    "gn:longitude":37.99697,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Utithi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uthithi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178625
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"68408b95d868e3f1c6d7c61640813451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":1226487923,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226487923,
+    "wof:lastmodified":1537653034,
+    "wof:name":"Utithi",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.99697000000001,
+    -2.53893,
+    37.99697000000001,
+    -2.53893
+],
+  "geometry": {"coordinates":[37.99697000000001,-2.53893],"type":"Point"}
+}

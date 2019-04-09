@@ -1,0 +1,124 @@
+{
+  "id": 421187727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.6566,-1.36175,36.6566,-1.36175",
+    "geom:latitude":-1.36175,
+    "geom:longitude":36.6566,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ngong"
+    ],
+    "name:dut_x_preferred":[
+        "Ngong"
+    ],
+    "name:eng_x_preferred":[
+        "Ngong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u0648\u0646\u06af\u060c \u06a9\u0646\u06cc\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Ngong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30b4\u30f3\u30b0"
+    ],
+    "name:nld_x_preferred":[
+        "Ngong"
+    ],
+    "name:nob_x_preferred":[
+        "Ngong"
+    ],
+    "name:nor_x_preferred":[
+        "Ngong"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u06af\u0648\u0646\u06af\u060c \u06a9\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ngong"
+    ],
+    "name:spa_x_preferred":[
+        "Ngong"
+    ],
+    "name:swa_x_preferred":[
+        "Ngong"
+    ],
+    "name:swe_x_preferred":[
+        "Ngong"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":183595,
+    "qs:gn_pop":9519,
+    "qs:name":"Ngong",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":933,
+    "qs:photos_1k":189,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":933,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":7559,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528579,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":419,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183595,
+        "gp:id":1528579,
+        "qs:id":7559,
+        "wd:id":"Q1279716",
+        "wk:page":"Ngong, Kenya"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009522,
+    "wof:geomhash":"de67d4a08f6cf8797aed932ac2cd5740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":421187727,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421187727,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Ngong",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:population":9519,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.6566,
+    -1.36175,
+    36.6566,
+    -1.36175
+],
+  "geometry": {"coordinates":[36.6566,-1.36175],"type":"Point"}
+}

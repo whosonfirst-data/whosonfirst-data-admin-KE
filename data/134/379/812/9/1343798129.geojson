@@ -1,0 +1,67 @@
+{
+  "id": 1343798129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32399,-3.40591,38.32399,-3.40591",
+    "geom:latitude":-3.40591,
+    "geom:longitude":38.32399,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Yale",
+    "gn:country_code":"KE",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178035,
+    "gn:latitude":-3.40591,
+    "gn:longitude":38.32399,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Yale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178035
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d0d21f705455ace0da9d7175ea235d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1343798129,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343798129,
+    "wof:lastmodified":1536756700,
+    "wof:name":"Yale",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32399,
+    -3.40591,
+    38.32399,
+    -3.40591
+],
+  "geometry": {"coordinates":[38.32399,-3.40591],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209373329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,-0.91667,36.88333,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":36.88333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kairi Ka Igamba",
+    "gn:country_code":"KE",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195348,
+    "gn:latitude":-0.91667,
+    "gn:longitude":36.88333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kairi Ka Igamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195348,
+        "wk:page":"Kairi_Ka_Igamba"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2334f4dfd60c76ee0c783f8bc6238a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209373329
+        }
+    ],
+    "wof:id":1209373329,
+    "wof:lastmodified":1537567155,
+    "wof:name":"Kairi Ka Igamba",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    -0.91667,
+    36.88333,
+    -0.91667
+],
+  "geometry": {"coordinates":[36.88333,-0.91667],"type":"Point"}
+}

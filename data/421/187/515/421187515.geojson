@@ -1,0 +1,87 @@
+{
+  "id": 421187515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57638,-4.23934,39.57638,-4.23934",
+    "geom:latitude":-4.23934,
+    "geom:longitude":39.57638,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Tiwi"
+    ],
+    "name:eng_x_preferred":[
+        "Tiwi"
+    ],
+    "name:spa_x_preferred":[
+        "Tiwi"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":179136,
+    "qs:gn_pop":0,
+    "qs:name":"Tiwi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":444,
+    "qs:photos_1k":90,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":444,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083608,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528932,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":179136,
+        "gp:id":1528932,
+        "qs:id":1083608,
+        "wd:id":"Q7810480"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009515,
+    "wof:geomhash":"ef4d9bff85c8c27ae3906e0a5cfc7b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":421187515,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421187515,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Tiwi",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57638,
+    -4.23934,
+    39.57638,
+    -4.23934
+],
+  "geometry": {"coordinates":[39.57638,-4.23934],"type":"Point"}
+}

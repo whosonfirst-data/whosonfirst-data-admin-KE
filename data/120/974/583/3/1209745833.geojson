@@ -1,0 +1,67 @@
+{
+  "id": 1209745833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.46854,-2.50049,40.46854,-2.50049",
+    "geom:latitude":-2.50049,
+    "geom:longitude":40.46854,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kilunguni",
+    "gn:country_code":"KE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7890026,
+    "gn:latitude":-2.50049,
+    "gn:longitude":40.46854,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kilunguni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7890026
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e32ae1e2de97cb81fb8f76e9c25273c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1209745833,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1209745833,
+    "wof:lastmodified":1536395045,
+    "wof:name":"Kilunguni",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.46854,
+    -2.50049,
+    40.46854,
+    -2.50049
+],
+  "geometry": {"coordinates":[40.46854,-2.50049],"type":"Point"}
+}

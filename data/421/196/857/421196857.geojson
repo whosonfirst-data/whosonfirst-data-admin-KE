@@ -1,0 +1,87 @@
+{
+  "id": 421196857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79341,-3.89732,39.79341,-3.89732",
+    "geom:latitude":-3.89732,
+    "geom:longitude":39.79341,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kikambala"
+    ],
+    "name:eng_x_preferred":[
+        "Kikambala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ab\u30f3\u30d0\u30e9"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":192186,
+    "qs:gn_pop":0,
+    "qs:name":"Kikambala",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":209,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":209,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":896421,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527803,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192186,
+        "gp:id":1527803,
+        "qs:id":896421,
+        "wd:id":"Q6406207"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009895,
+    "wof:geomhash":"673513327744921ed20ac65cd958ca76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":421196857,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421196857,
+    "wof:lastmodified":1527716362,
+    "wof:name":"Kikambala",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79341,
+    -3.89732,
+    39.79341,
+    -3.89732
+],
+  "geometry": {"coordinates":[39.79341,-3.89732],"type":"Point"}
+}

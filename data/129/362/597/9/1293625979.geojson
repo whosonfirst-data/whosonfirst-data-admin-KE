@@ -1,0 +1,70 @@
+{
+  "id": 1293625979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19556,-2.64629,40.19556,-2.64629",
+    "geom:latitude":-2.64629,
+    "geom:longitude":40.19556,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Kurawa",
+    "gn:country_code":"KE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193814,
+    "gn:latitude":-2.64629,
+    "gn:longitude":40.19556,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kurawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193814
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"33847a69e2ff1c5eb4f98dcc02d884de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1293625979,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293625979,
+    "wof:lastmodified":1537653068,
+    "wof:name":"Kurawa",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19556,
+    -2.64629,
+    40.19556,
+    -2.64629
+],
+  "geometry": {"coordinates":[40.19556,-2.64629],"type":"Point"}
+}

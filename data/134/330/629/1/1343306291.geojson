@@ -1,0 +1,73 @@
+{
+  "id": 1343306291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43499,-0.96876,34.43499,-0.96876",
+    "geom:latitude":-0.96876,
+    "geom:longitude":34.43499,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Jaleny Village",
+    "gn:country_code":"KE",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":196011,
+    "gn:latitude":-0.96876,
+    "gn:longitude":34.43499,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Jaleny Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaleny\u2019s Village",
+        "Jaleny",
+        "Jaleny Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":196011,
+        "wk:page":"Jaleny"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0ca3d440fd72595bc28cbf400e47d03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1343306291,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1343306291,
+    "wof:lastmodified":1537653076,
+    "wof:name":"Jaleny Village",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43499,
+    -0.96876,
+    34.43499,
+    -0.96876
+],
+  "geometry": {"coordinates":[34.43499,-0.96876],"type":"Point"}
+}

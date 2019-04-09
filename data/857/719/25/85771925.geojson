@@ -1,0 +1,110 @@
+{
+  "id": 85771925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14864428.023693,
+    "geom:bbox":"36.876017,-1.301073,36.876017,-1.301073",
+    "geom:latitude":-1.301073,
+    "geom:longitude":36.876017,
+    "gn:latitude":-1.3,
+    "gn:longitude":36.86667,
+    "iso:country":"KE",
+    "lbl:latitude":-1.301073,
+    "lbl:longitude":36.876017,
+    "mps:latitude":-1.303976,
+    "mps:longitude":36.86731,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Mbotela"
+    ],
+    "name:unk_x_variant":[
+        "Mbotela"
+    ],
+    "qs:gn_adm0_cc":"KE",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":184745,
+    "qs:gn_nam_loc":"Nairobi, Nairobi Area, KE",
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"Mbotela",
+    "qs:local_max":8042,
+    "qs:local_sum":16965,
+    "qs:localhoods":12,
+    "qs:name":"Mbotela",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:name_local":"Nairobi",
+    "qs:photo_max":53,
+    "qs:photo_sum":159,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424863,
+    "qs:woe_adm1":2345940,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1528488,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672951,
+        102191573,
+        85632329,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186982,
+        "gp:id":1528257,
+        "qs:id":221253
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5cd975b49979f00036415c8f044f861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":-1,
+            "neighbourhood_id":85771925,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":85771925,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379373,
+    "wof:name":"Mbotela",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[
+        1126092885
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.876017,
+    -1.301073,
+    36.876017,
+    -1.301073
+],
+  "geometry": {"coordinates":[36.876017,-1.301073],"type":"Point"}
+}

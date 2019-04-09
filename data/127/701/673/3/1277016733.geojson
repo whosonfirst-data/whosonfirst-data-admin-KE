@@ -1,0 +1,68 @@
+{
+  "id": 1277016733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83599,2.33364,35.83599,2.33364",
+    "geom:latitude":2.33364,
+    "geom:longitude":35.83599,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Loperot",
+    "gn:country_code":"KE",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188891,
+    "gn:latitude":2.33364,
+    "gn:longitude":35.83599,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Loperot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188891,
+        "wk:page":"Loperot"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d55d1195e932e07038b22b976adfea1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1277016733,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1277016733,
+    "wof:lastmodified":1537567145,
+    "wof:name":"Loperot",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83599,
+    2.33364,
+    35.83599,
+    2.33364
+],
+  "geometry": {"coordinates":[35.83599,2.33364],"type":"Point"}
+}

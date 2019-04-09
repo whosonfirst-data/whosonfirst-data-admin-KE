@@ -1,0 +1,67 @@
+{
+  "id": 1260154879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,-0.4,35.1,-0.4",
+    "geom:latitude":-0.4,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kiptere",
+    "gn:country_code":"KE",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191552,
+    "gn:latitude":-0.4,
+    "gn:longitude":35.1,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiptere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191552
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"665aa066c1adb8a08d91d7916f011ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911533,
+            "locality_id":1260154879,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1260154879,
+    "wof:lastmodified":1536886789,
+    "wof:name":"Kiptere",
+    "wof:parent_id":1091911533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    -0.4,
+    35.1,
+    -0.4
+],
+  "geometry": {"coordinates":[35.1,-0.4],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259544925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.10193,-4.42346,39.10193,-4.42346",
+    "geom:latitude":-4.42346,
+    "geom:longitude":39.10193,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mteza",
+    "gn:country_code":"KE",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186105,
+    "gn:latitude":-4.42346,
+    "gn:longitude":39.10193,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mteza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186105,
+        "wk:page":"Mteza"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e0359e6c8f4f35b569eca4a6e6d0db4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1259544925,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1259544925,
+    "wof:lastmodified":1537567137,
+    "wof:name":"Mteza",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.10193,
+    -4.42346,
+    39.10193,
+    -4.42346
+],
+  "geometry": {"coordinates":[39.10193,-4.42346],"type":"Point"}
+}

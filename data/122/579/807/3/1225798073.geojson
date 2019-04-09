@@ -1,0 +1,67 @@
+{
+  "id": 1225798073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56667,-0.93333,34.56667,-0.93333",
+    "geom:latitude":-0.93333,
+    "geom:longitude":34.56667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Okoth",
+    "gn:country_code":"KE",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182450,
+    "gn:latitude":-0.93333,
+    "gn:longitude":34.56667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Okoth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182450
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"d15c396ba2b6945de156c8de570f37a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1225798073,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1225798073,
+    "wof:lastmodified":1537079452,
+    "wof:name":"Okoth",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56667,
+    -0.93333,
+    34.56667,
+    -0.93333
+],
+  "geometry": {"coordinates":[34.56667,-0.93333],"type":"Point"}
+}

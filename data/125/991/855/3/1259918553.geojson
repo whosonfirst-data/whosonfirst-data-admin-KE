@@ -1,0 +1,71 @@
+{
+  "id": 1259918553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.02736,-0.75168,37.02736,-0.75168",
+    "geom:latitude":-0.75168,
+    "geom:longitude":37.02736,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gathiru",
+    "gn:country_code":"KE",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197692,
+    "gn:latitude":-0.75168,
+    "gn:longitude":37.02736,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gathiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gathairu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197692,
+        "wk:page":"Gathairu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"79bb7577c3c71a9e6d3c11d1ba0f5303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1259918553,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259918553,
+    "wof:lastmodified":1537653083,
+    "wof:name":"Gathiru",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.02736,
+    -0.75168,
+    37.02736,
+    -0.75168
+],
+  "geometry": {"coordinates":[37.02736,-0.75168],"type":"Point"}
+}

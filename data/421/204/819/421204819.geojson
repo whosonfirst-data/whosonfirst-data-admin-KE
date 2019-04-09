@@ -1,0 +1,90 @@
+{
+  "id": 421204819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39652,-0.70706,34.39652,-0.70706",
+    "geom:latitude":-0.70706,
+    "geom:longitude":34.39652,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Mirogi"
+    ],
+    "name:eng_x_preferred":[
+        "Mirogi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0648\u06af\u06cc"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0631\u0648\u06af\u06cc"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":186608,
+    "qs:gn_pop":0,
+    "qs:name":"Mirogi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nyanza",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":249411,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528298,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186608,
+        "gp:id":1528298,
+        "qs:id":249411,
+        "wd:id":"Q10859152"
+    },
+    "wof:country":"KE",
+    "wof:created":1459010199,
+    "wof:geomhash":"276fabc9101e262be8c47f6f686f590a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911319,
+            "locality_id":421204819,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":421204819,
+    "wof:lastmodified":1527716179,
+    "wof:name":"Mirogi",
+    "wof:parent_id":1091911319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39652,
+    -0.70706,
+    34.39652,
+    -0.70706
+],
+  "geometry": {"coordinates":[34.39652,-0.70706],"type":"Point"}
+}

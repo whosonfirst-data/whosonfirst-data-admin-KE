@@ -1,0 +1,71 @@
+{
+  "id": 1276158155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58661,0.02333,34.58661,0.02333",
+    "geom:latitude":0.02333,
+    "geom:longitude":34.58661,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Luanda",
+    "gn:country_code":"KE",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188715,
+    "gn:latitude":0.02333,
+    "gn:longitude":34.58661,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Luanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lwanda",
+        "Luanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188715
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ff03fcec00893feae0c643d89ba1afd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":1276158155,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1276158155,
+    "wof:lastmodified":1537653058,
+    "wof:name":"Luanda",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58661,
+    0.02333,
+    34.58661,
+    0.02333
+],
+  "geometry": {"coordinates":[34.58661,0.02333],"type":"Point"}
+}

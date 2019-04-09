@@ -1,0 +1,68 @@
+{
+  "id": 1259651873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23333,-0.56667,37.23333,-0.56667",
+    "geom:latitude":-0.56667,
+    "geom:longitude":37.23333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kamathuri",
+    "gn:country_code":"KE",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194834,
+    "gn:latitude":-0.56667,
+    "gn:longitude":37.23333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kamathuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194834,
+        "wk:page":"Kamathuri"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aea94671ac03f5a1af0ea138201a9303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1259651873,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259651873,
+    "wof:lastmodified":1537567154,
+    "wof:name":"Kamathuri",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23333,
+    -0.56667,
+    37.23333,
+    -0.56667
+],
+  "geometry": {"coordinates":[37.23333,-0.56667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226352877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18504,-0.4549,38.18504,-0.4549",
+    "geom:latitude":-0.4549,
+    "geom:longitude":38.18504,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mataka",
+    "gn:country_code":"KE",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6691851,
+    "gn:latitude":-0.4549,
+    "gn:longitude":38.18504,
+    "gn:modification_date":"2008-04-16",
+    "gn:name":"Mataka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kavoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691851
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2bdabcedf468d92ec0c9dfaeca6219ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912293,
+            "locality_id":1226352877,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1226352877,
+    "wof:lastmodified":1537653093,
+    "wof:name":"Mataka",
+    "wof:parent_id":1091912293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18504,
+    -0.4549,
+    38.18504,
+    -0.4549
+],
+  "geometry": {"coordinates":[38.18504,-0.4549],"type":"Point"}
+}

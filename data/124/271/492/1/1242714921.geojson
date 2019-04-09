@@ -1,0 +1,67 @@
+{
+  "id": 1242714921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64968,0.0429,34.64968,0.0429",
+    "geom:latitude":0.0429,
+    "geom:longitude":34.64968,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Iboona",
+    "gn:country_code":"KE",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427992,
+    "gn:latitude":0.0429,
+    "gn:longitude":34.64968,
+    "gn:modification_date":"2017-01-18",
+    "gn:name":"Iboona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427992
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4e0298da63a3f7485a7fbd353339ec2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":1242714921,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1242714921,
+    "wof:lastmodified":1536864551,
+    "wof:name":"Iboona",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64968,
+    0.0429,
+    34.64968,
+    0.0429
+],
+  "geometry": {"coordinates":[34.64968,0.0429],"type":"Point"}
+}

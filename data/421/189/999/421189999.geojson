@@ -1,0 +1,86 @@
+{
+  "id": 421189999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.77536,-1.37569,36.77536,-1.37569",
+    "geom:latitude":-1.37569,
+    "geom:longitude":36.77536,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Mbagathi"
+    ],
+    "name:eng_x_preferred":[
+        "Mbagathi"
+    ],
+    "name:est_x_preferred":[
+        "Mbagathi"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mbagathi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":588,
+    "qs:photos_1k":119,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":588,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118206,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1529290,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1529290,
+        "qs:id":1118206,
+        "wd:id":"Q6799574"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009643,
+    "wof:geomhash":"b9c21b5b6df4b38675aad7fe280a8ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":421189999,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421189999,
+    "wof:lastmodified":1527716263,
+    "wof:name":"Mbagathi",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.77536,
+    -1.37569,
+    36.77536,
+    -1.37569
+],
+  "geometry": {"coordinates":[36.77536,-1.37569],"type":"Point"}
+}

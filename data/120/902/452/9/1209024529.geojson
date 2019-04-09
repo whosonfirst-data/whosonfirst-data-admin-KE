@@ -1,0 +1,62 @@
+{
+  "id": 1209024529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05,0.35,36.05,0.35",
+    "geom:latitude":0.35,
+    "geom:longitude":36.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lorwok",
+    "gn:country_code":"KE",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188825,
+    "gn:latitude":0.35,
+    "gn:longitude":36.05,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lorwok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188825,
+        "wk:page":"Lorwok"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"895e9000ccbde8791934e3e23d5038d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209024529
+        }
+    ],
+    "wof:id":1209024529,
+    "wof:lastmodified":1537567145,
+    "wof:name":"Lorwok",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05,
+    0.35,
+    36.05,
+    0.35
+],
+  "geometry": {"coordinates":[36.05,0.35],"type":"Point"}
+}

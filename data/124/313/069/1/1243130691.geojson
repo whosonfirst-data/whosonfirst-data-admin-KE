@@ -1,0 +1,67 @@
+{
+  "id": 1243130691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63091,-0.98294,36.63091,-0.98294",
+    "geom:latitude":-0.98294,
+    "geom:longitude":36.63091,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kimende",
+    "gn:country_code":"KE",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191924,
+    "gn:latitude":-0.98294,
+    "gn:longitude":36.63091,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kimende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191924
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"24ded131d59fb97a1cbce673378d1085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1243130691,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1243130691,
+    "wof:lastmodified":1536764277,
+    "wof:name":"Kimende",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63091,
+    -0.98294,
+    36.63091,
+    -0.98294
+],
+  "geometry": {"coordinates":[36.63091,-0.98294],"type":"Point"}
+}

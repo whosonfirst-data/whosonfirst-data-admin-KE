@@ -1,0 +1,68 @@
+{
+  "id": 1360021281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31611,0.0275,34.31611,0.0275",
+    "geom:latitude":0.0275,
+    "geom:longitude":34.31611,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Baragulu",
+    "gn:country_code":"KE",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200617,
+    "gn:latitude":0.0275,
+    "gn:longitude":34.31611,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Baragulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200617,
+        "wk:page":"Baragulu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"afd4e35ef3d3ac70b69dbc9de4a8aee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1360021281,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1360021281,
+    "wof:lastmodified":1537567172,
+    "wof:name":"Baragulu",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31610999999999,
+    0.0275,
+    34.31610999999999,
+    0.0275
+],
+  "geometry": {"coordinates":[34.31610999999999,0.0275],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209571665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93839,-3.18376,39.93839,-3.18376",
+    "geom:latitude":-3.18376,
+    "geom:longitude":39.93839,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dagamra",
+    "gn:country_code":"KE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199183,
+    "gn:latitude":-3.18376,
+    "gn:longitude":39.93839,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dagamra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199183,
+        "wk:page":"Dagamra"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"270a0ed118a352a36e03aac69783465b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209571665
+        }
+    ],
+    "wof:id":1209571665,
+    "wof:lastmodified":1537567169,
+    "wof:name":"Dagamra",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93839000000001,
+    -3.18376,
+    39.93839000000001,
+    -3.18376
+],
+  "geometry": {"coordinates":[39.93839000000001,-3.18376],"type":"Point"}
+}

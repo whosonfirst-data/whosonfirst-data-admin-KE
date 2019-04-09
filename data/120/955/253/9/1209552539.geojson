@@ -1,0 +1,64 @@
+{
+  "id": 1209552539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43028,-2.05644,39.43028,-2.05644",
+    "geom:latitude":-2.05644,
+    "geom:longitude":39.43028,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Assa",
+    "gn:country_code":"KE",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200840,
+    "gn:latitude":-2.05644,
+    "gn:longitude":39.43028,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Assa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200840
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"252e67186cc7ad61370c119f1e617e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209552539
+        }
+    ],
+    "wof:id":1209552539,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Assa",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43028,
+    -2.05644,
+    39.43028,
+    -2.05644
+],
+  "geometry": {"coordinates":[39.43028,-2.05644],"type":"Point"}
+}

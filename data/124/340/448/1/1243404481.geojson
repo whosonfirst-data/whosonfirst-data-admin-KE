@@ -1,0 +1,62 @@
+{
+  "id": 1243404481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.29676,-1.96971,41.29676,-1.96971",
+    "geom:latitude":-1.96971,
+    "geom:longitude":41.29676,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mkokoni",
+    "gn:country_code":"KE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186467,
+    "gn:latitude":-1.96971,
+    "gn:longitude":41.29676,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Mkokoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186467,
+        "wk:page":"Mkokoni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fdd57d68e9d1310e400954ee8b139c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243404481,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243404481,
+    "wof:lastmodified":1537567138,
+    "wof:name":"Mkokoni",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.29676,
+    -1.96971,
+    41.29676,
+    -1.96971
+],
+  "geometry": {"coordinates":[41.29676,-1.96971],"type":"Point"}
+}

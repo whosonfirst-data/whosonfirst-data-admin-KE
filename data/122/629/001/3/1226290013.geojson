@@ -1,0 +1,72 @@
+{
+  "id": 1226290013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03976,-4.48019,39.03976,-4.48019",
+    "geom:latitude":-4.48019,
+    "geom:longitude":39.03976,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Livundoni",
+    "gn:country_code":"KE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":189349,
+    "gn:latitude":-4.48019,
+    "gn:longitude":39.03976,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Livundoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Livwindoni",
+        "Livundoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":189349,
+        "wk:page":"Livundoni"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"723bbb74730b971c5da328fcdc1e8908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1226290013,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1226290013,
+    "wof:lastmodified":1537653059,
+    "wof:name":"Livundoni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03976,
+    -4.48019,
+    39.03976,
+    -4.48019
+],
+  "geometry": {"coordinates":[39.03976,-4.48019],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326464551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15762,-2.33892,40.15762,-2.33892",
+    "geom:latitude":-2.33892,
+    "geom:longitude":40.15762,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Mafomba",
+    "gn:country_code":"KE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889818,
+    "gn:latitude":-2.33892,
+    "gn:longitude":40.15762,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mafomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889818
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b762f01b861ff01a5fd7dcc88f387af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1326464551,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1326464551,
+    "wof:lastmodified":1537078362,
+    "wof:name":"Mafomba",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15762,
+    -2.33892,
+    40.15762,
+    -2.33892
+],
+  "geometry": {"coordinates":[40.15762,-2.33892],"type":"Point"}
+}

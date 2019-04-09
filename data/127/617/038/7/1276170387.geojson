@@ -1,0 +1,71 @@
+{
+  "id": 1276170387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81604,-2.30859,40.81604,-2.30859",
+    "geom:latitude":-2.30859,
+    "geom:longitude":40.81604,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kipungani",
+    "gn:country_code":"KE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191527,
+    "gn:latitude":-2.30859,
+    "gn:longitude":40.81604,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kipungani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibirikani",
+        "Kipungani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191527
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2d2ae0110af37f39073f42dedc38be51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1276170387,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276170387,
+    "wof:lastmodified":1537653062,
+    "wof:name":"Kipungani",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81604,
+    -2.30859,
+    40.81604,
+    -2.30859
+],
+  "geometry": {"coordinates":[40.81604,-2.30859],"type":"Point"}
+}

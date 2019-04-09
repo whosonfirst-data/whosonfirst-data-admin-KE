@@ -1,0 +1,65 @@
+{
+  "id": 1293844537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.97508,-1.93117,40.97508,-1.93117",
+    "geom:latitude":-1.93117,
+    "geom:longitude":40.97508,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kiangwe",
+    "gn:country_code":"KE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192613,
+    "gn:latitude":-1.93117,
+    "gn:longitude":40.97508,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kiangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192613,
+        "wk:page":"Kiangwe"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2e8f6fef60fae91af143e32f3b7b67e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "locality_id":1293844537,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293844537,
+    "wof:lastmodified":1537567148,
+    "wof:name":"Kiangwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.97508,
+    -1.93117,
+    40.97508,
+    -1.93117
+],
+  "geometry": {"coordinates":[40.97508,-1.93117],"type":"Point"}
+}

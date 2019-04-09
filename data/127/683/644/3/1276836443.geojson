@@ -1,0 +1,72 @@
+{
+  "id": 1276836443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.11476,-2.12488,38.11476,-2.12488",
+    "geom:latitude":-2.12488,
+    "geom:longitude":38.11476,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kituti",
+    "gn:country_code":"KE",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190988,
+    "gn:latitude":-2.12488,
+    "gn:longitude":38.11476,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kituti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwangini",
+        "Kitute",
+        "Kituti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190988
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9a45a387cc9bdb48baacb0caaf420424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911681,
+            "locality_id":1276836443,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1276836443,
+    "wof:lastmodified":1537653061,
+    "wof:name":"Kituti",
+    "wof:parent_id":1091911681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.11476,
+    -2.12488,
+    38.11476,
+    -2.12488
+],
+  "geometry": {"coordinates":[38.11476,-2.12488],"type":"Point"}
+}

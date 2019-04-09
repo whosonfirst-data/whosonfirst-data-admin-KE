@@ -1,0 +1,72 @@
+{
+  "id": 1310637799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08559,-1.09573,36.08559,-1.09573",
+    "geom:latitude":-1.09573,
+    "geom:longitude":36.08559,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ntulelei",
+    "gn:country_code":"KE",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184011,
+    "gn:latitude":-1.09573,
+    "gn:longitude":36.08559,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ntulelei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndulele",
+        "Ndulelei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184011,
+        "wk:page":"Ndulele"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"54218c7d9027cd50ed010f88c6c6e67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912451,
+            "locality_id":1310637799,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310637799,
+    "wof:lastmodified":1537653043,
+    "wof:name":"Ntulelei",
+    "wof:parent_id":1091912451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08559,
+    -1.09573,
+    36.08559,
+    -1.09573
+],
+  "geometry": {"coordinates":[36.08559,-1.09573],"type":"Point"}
+}

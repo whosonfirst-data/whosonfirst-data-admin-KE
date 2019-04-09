@@ -1,0 +1,67 @@
+{
+  "id": 1225899733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66833,-0.65575,34.66833,-0.65575",
+    "geom:latitude":-0.65575,
+    "geom:longitude":34.66833,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Riana",
+    "gn:country_code":"KE",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181248,
+    "gn:latitude":-0.65575,
+    "gn:longitude":34.66833,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Riana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091911163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181248
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9ff7f95a23d3bb8dc260e47c84967106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911163,
+            "locality_id":1225899733,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1225899733,
+    "wof:lastmodified":1536936767,
+    "wof:name":"Riana",
+    "wof:parent_id":1091911163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66833,
+    -0.65575,
+    34.66833,
+    -0.65575
+],
+  "geometry": {"coordinates":[34.66833,-0.65575],"type":"Point"}
+}

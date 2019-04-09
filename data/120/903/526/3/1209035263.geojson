@@ -1,0 +1,61 @@
+{
+  "id": 1209035263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,-0.41667,36.88333,-0.41667",
+    "geom:latitude":-0.41667,
+    "geom:longitude":36.88333,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kiumbi",
+    "gn:country_code":"KE",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190964,
+    "gn:latitude":-0.41667,
+    "gn:longitude":36.88333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kiumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190964
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ef59bb29023e34f6c269a609dad8f657",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209035263
+        }
+    ],
+    "wof:id":1209035263,
+    "wof:lastmodified":1536299721,
+    "wof:name":"Kiumbi",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    -0.41667,
+    36.88333,
+    -0.41667
+],
+  "geometry": {"coordinates":[36.88333,-0.41667],"type":"Point"}
+}

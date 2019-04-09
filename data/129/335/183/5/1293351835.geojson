@@ -1,0 +1,67 @@
+{
+  "id": 1293351835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07051,-4.1329,39.07051,-4.1329",
+    "geom:latitude":-4.1329,
+    "geom:longitude":39.07051,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Busa",
+    "gn:country_code":"KE",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200000,
+    "gn:latitude":-4.1329,
+    "gn:longitude":39.07051,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Busa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200000
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4f07a68d1f3c9dcbba694d5952fd0e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1293351835,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293351835,
+    "wof:lastmodified":1536982051,
+    "wof:name":"Busa",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07051,
+    -4.1329,
+    39.07051,
+    -4.1329
+],
+  "geometry": {"coordinates":[39.07051,-4.1329],"type":"Point"}
+}

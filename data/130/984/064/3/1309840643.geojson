@@ -1,0 +1,67 @@
+{
+  "id": 1309840643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03333,-1.93333,39.03333,-1.93333",
+    "geom:latitude":-1.93333,
+    "geom:longitude":39.03333,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Jara",
+    "gn:country_code":"KE",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195991,
+    "gn:latitude":-1.93333,
+    "gn:longitude":39.03333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Jara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195991
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ff28327319b1deb3782d520752e04c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1309840643,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1309840643,
+    "wof:lastmodified":1536880150,
+    "wof:name":"Jara",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03333,
+    -1.93333,
+    39.03333,
+    -1.93333
+],
+  "geometry": {"coordinates":[39.03333,-1.93333],"type":"Point"}
+}

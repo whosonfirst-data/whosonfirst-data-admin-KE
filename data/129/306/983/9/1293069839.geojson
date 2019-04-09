@@ -1,0 +1,67 @@
+{
+  "id": 1293069839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.7,-1.23333,36.7,-1.23333",
+    "geom:latitude":-1.23333,
+    "geom:longitude":36.7,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Rukubi",
+    "gn:country_code":"KE",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":181007,
+    "gn:latitude":-1.23333,
+    "gn:longitude":36.7,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Rukubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":181007
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e0702db6e8f080317f00d8b08041e793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1293069839,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293069839,
+    "wof:lastmodified":1536892016,
+    "wof:name":"Rukubi",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.7,
+    -1.23333,
+    36.7,
+    -1.23333
+],
+  "geometry": {"coordinates":[36.7,-1.23333],"type":"Point"}
+}

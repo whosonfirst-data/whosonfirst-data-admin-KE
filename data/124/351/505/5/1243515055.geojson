@@ -1,0 +1,68 @@
+{
+  "id": 1243515055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.70363,-2.41883,40.70363,-2.41883",
+    "geom:latitude":-2.41883,
+    "geom:longitude":40.70363,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Msuakini",
+    "gn:country_code":"KE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186130,
+    "gn:latitude":-2.41883,
+    "gn:longitude":40.70363,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Msuakini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186130,
+        "wk:page":"Msuakini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2eea9f705a0eb5ea8aaf87a9d6ba9094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1243515055,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1243515055,
+    "wof:lastmodified":1537567137,
+    "wof:name":"Msuakini",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.70363,
+    -2.41883,
+    40.70363,
+    -2.41883
+],
+  "geometry": {"coordinates":[40.70363,-2.41883],"type":"Point"}
+}

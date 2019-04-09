@@ -1,0 +1,71 @@
+{
+  "id": 1293230993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0566,-0.06731,34.0566,-0.06731",
+    "geom:latitude":-0.06731,
+    "geom:longitude":34.0566,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Usenge",
+    "gn:country_code":"KE",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605149,
+    "gn:latitude":-0.06731,
+    "gn:longitude":34.0566,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Usenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usengi",
+        "Usenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091910953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605149
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bd1101763c8db5d8d7fc45d943bc77d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910953,
+            "locality_id":1293230993,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1293230993,
+    "wof:lastmodified":1537653094,
+    "wof:name":"Usenge",
+    "wof:parent_id":1091910953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0566,
+    -0.06731,
+    34.0566,
+    -0.06731
+],
+  "geometry": {"coordinates":[34.0566,-0.06731],"type":"Point"}
+}

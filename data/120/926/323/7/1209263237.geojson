@@ -1,0 +1,61 @@
+{
+  "id": 1209263237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49908,3.52541,41.49908,3.52541",
+    "geom:latitude":3.52541,
+    "geom:longitude":41.49908,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Arabia",
+    "gn:country_code":"KE",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444981,
+    "gn:latitude":3.52541,
+    "gn:longitude":41.49908,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Arabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444981
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0031f16bf9c67cf5ad13b37d0749823b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209263237
+        }
+    ],
+    "wof:id":1209263237,
+    "wof:lastmodified":1536292623,
+    "wof:name":"Arabia",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49908,
+    3.52541,
+    41.49908,
+    3.52541
+],
+  "geometry": {"coordinates":[41.49908,3.52541],"type":"Point"}
+}

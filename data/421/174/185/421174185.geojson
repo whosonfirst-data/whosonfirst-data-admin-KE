@@ -1,0 +1,106 @@
+{
+  "id": 421174185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2,-0.66667,37.2,-0.66667",
+    "geom:latitude":-0.66667,
+    "geom:longitude":37.2,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Sagana"
+    ],
+    "name:eng_x_preferred":[
+        "Sagana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ac\u30ca"
+    ],
+    "name:nob_x_preferred":[
+        "Sagana"
+    ],
+    "name:nor_x_preferred":[
+        "Sagana"
+    ],
+    "name:pol_x_preferred":[
+        "Sagana"
+    ],
+    "name:swa_x_preferred":[
+        "Sagana"
+    ],
+    "name:swe_x_preferred":[
+        "Sagana"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":180868,
+    "qs:gn_pop":3297,
+    "qs:name":"Sagana",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Central",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":317655,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528774,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":294,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180868,
+        "gp:id":1528774,
+        "qs:id":317655,
+        "wd:id":"Q7193402",
+        "wk:page":"Sagana"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009022,
+    "wof:geomhash":"1c3af0b4b9a8bc59b2a7c798b9017fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":421174185,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":421174185,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Sagana",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:population":3297,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2,
+    -0.66667,
+    37.2,
+    -0.66667
+],
+  "geometry": {"coordinates":[37.2,-0.66667],"type":"Point"}
+}

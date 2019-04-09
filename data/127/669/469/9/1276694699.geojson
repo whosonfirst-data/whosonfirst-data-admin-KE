@@ -1,0 +1,67 @@
+{
+  "id": 1276694699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07723,-0.95966,36.07723,-0.95966",
+    "geom:latitude":-0.95966,
+    "geom:longitude":36.07723,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ildamat",
+    "gn:country_code":"KE",
+    "gn:dem":2389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605155,
+    "gn:latitude":-0.95966,
+    "gn:longitude":36.07723,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Ildamat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605155
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"72e285736d27b40aff1213a5323fd28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912451,
+            "locality_id":1276694699,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1276694699,
+    "wof:lastmodified":1536791766,
+    "wof:name":"Ildamat",
+    "wof:parent_id":1091912451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07723,
+    -0.95966,
+    36.07723,
+    -0.95966
+],
+  "geometry": {"coordinates":[36.07723,-0.95966],"type":"Point"}
+}

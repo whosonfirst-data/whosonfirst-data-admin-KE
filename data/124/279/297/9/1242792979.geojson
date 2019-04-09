@@ -1,0 +1,71 @@
+{
+  "id": 1242792979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83294,3.52113,35.83294,3.52113",
+    "geom:latitude":3.52113,
+    "geom:longitude":35.83294,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kalokol",
+    "gn:country_code":"KE",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504691,
+    "gn:latitude":3.52113,
+    "gn:longitude":35.83294,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"Kalokol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalokol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504691,
+        "wk:page":"Kalokol"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"5a85ebd49f08f3881fdbbeee06d546e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1242792979,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1242792979,
+    "wof:lastmodified":1537653094,
+    "wof:name":"Kalokol",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83294,
+    3.52113,
+    35.83294,
+    3.52113
+],
+  "geometry": {"coordinates":[35.83294,3.52113],"type":"Point"}
+}

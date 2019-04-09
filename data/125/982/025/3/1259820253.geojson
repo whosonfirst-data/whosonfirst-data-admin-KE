@@ -1,0 +1,67 @@
+{
+  "id": 1259820253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43528,0.12194,34.43528,0.12194",
+    "geom:latitude":0.12194,
+    "geom:longitude":34.43528,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Malanga",
+    "gn:country_code":"KE",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188011,
+    "gn:latitude":0.12194,
+    "gn:longitude":34.43528,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Malanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188011
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dc1d169acf82b2568ee8f409c16449bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912583,
+            "locality_id":1259820253,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1259820253,
+    "wof:lastmodified":1536869176,
+    "wof:name":"Malanga",
+    "wof:parent_id":1091912583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43528,
+    0.12194,
+    34.43528,
+    0.12194
+],
+  "geometry": {"coordinates":[34.43528,0.12194],"type":"Point"}
+}

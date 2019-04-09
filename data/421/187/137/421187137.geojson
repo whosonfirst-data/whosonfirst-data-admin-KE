@@ -1,0 +1,100 @@
+{
+  "id": 421187137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88333,-1.25,36.88333,-1.25",
+    "geom:latitude":-1.25,
+    "geom:longitude":36.88333,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:dut_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:eng_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:fre_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:ger_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:ita_x_preferred":[
+        "Kariobangi"
+    ],
+    "name:swa_x_preferred":[
+        "Kariobangi"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":193717,
+    "qs:gn_pop":0,
+    "qs:name":"Kariobangi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Nairobi Area",
+    "qs:photos":334,
+    "qs:photos_1k":68,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":334,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1081059,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527605,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":728,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672951,
+        1091912313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193717,
+        "gp:id":1527605,
+        "qs:id":1081059,
+        "wd:id":"Q1143939",
+        "wk:page":"Kariobangi"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009503,
+    "wof:geomhash":"3db89c7c4b6a8aac088716d3e86d25a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912313,
+            "locality_id":421187137,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":421187137,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Kariobangi",
+    "wof:parent_id":1091912313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88333,
+    -1.25,
+    36.88333,
+    -1.25
+],
+  "geometry": {"coordinates":[36.88333,-1.25],"type":"Point"}
+}

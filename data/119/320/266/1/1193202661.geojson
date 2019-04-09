@@ -1,0 +1,72 @@
+{
+  "id": 1193202661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.90704,-0.70703,36.90704,-0.70703",
+    "geom:latitude":-0.70703,
+    "geom:longitude":36.90704,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Matheriti",
+    "gn:country_code":"KE",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187365,
+    "gn:latitude":-0.70703,
+    "gn:longitude":36.90704,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Matheriti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mathariti",
+        "Matheriti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187365,
+        "wk:page":"Mathariti"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2e70c073d10d8cb74ec1d814f1f70301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1193202661,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1193202661,
+    "wof:lastmodified":1537653053,
+    "wof:name":"Matheriti",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.90704,
+    -0.70703,
+    36.90704,
+    -0.70703
+],
+  "geometry": {"coordinates":[36.90704,-0.70703],"type":"Point"}
+}

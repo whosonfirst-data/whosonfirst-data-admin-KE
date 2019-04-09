@@ -1,0 +1,67 @@
+{
+  "id": 1276178497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.01667,-1.31667,38.01667,-1.31667",
+    "geom:latitude":-1.31667,
+    "geom:longitude":38.01667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kwa Ukungu",
+    "gn:country_code":"KE",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190010,
+    "gn:latitude":-1.31667,
+    "gn:longitude":38.01667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kwa Ukungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190010
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"52ff6385b849346ccabdb2aba47f3f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911681,
+            "locality_id":1276178497,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1276178497,
+    "wof:lastmodified":1536985646,
+    "wof:name":"Kwa Ukungu",
+    "wof:parent_id":1091911681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.01667,
+    -1.31667,
+    38.01667,
+    -1.31667
+],
+  "geometry": {"coordinates":[38.01667,-1.31667],"type":"Point"}
+}

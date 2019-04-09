@@ -1,0 +1,72 @@
+{
+  "id": 1327215959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06082,-0.04319,39.06082,-0.04319",
+    "geom:latitude":-0.04319,
+    "geom:longitude":39.06082,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Mbalambala",
+    "gn:country_code":"KE",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187115,
+    "gn:latitude":-0.04319,
+    "gn:longitude":39.06082,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mbalambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahadale",
+        "Mbalambala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672969,
+        1091911249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187115,
+        "wk:page":"Bahadale"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aff85fff1fc88db2666acc846372fd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911249,
+            "locality_id":1327215959,
+            "region_id":85672969
+        }
+    ],
+    "wof:id":1327215959,
+    "wof:lastmodified":1537653052,
+    "wof:name":"Mbalambala",
+    "wof:parent_id":1091911249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06082,
+    -0.04319,
+    39.06082,
+    -0.04319
+],
+  "geometry": {"coordinates":[39.06082,-0.04319],"type":"Point"}
+}

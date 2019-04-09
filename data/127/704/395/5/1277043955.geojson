@@ -1,0 +1,67 @@
+{
+  "id": 1277043955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76913,-2.94817,39.76913,-2.94817",
+    "geom:latitude":-2.94817,
+    "geom:longitude":39.76913,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jirikokole",
+    "gn:country_code":"KE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7845090,
+    "gn:latitude":-2.94817,
+    "gn:longitude":39.76913,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Jirikokole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7845090
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"db2fb1d70c942fae0dedfc75e9ed2ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1277043955,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1277043955,
+    "wof:lastmodified":1536820433,
+    "wof:name":"Jirikokole",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76913,
+    -2.94817,
+    39.76913,
+    -2.94817
+],
+  "geometry": {"coordinates":[39.76913,-2.94817],"type":"Point"}
+}

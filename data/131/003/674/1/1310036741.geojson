@@ -1,0 +1,67 @@
+{
+  "id": 1310036741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.86395,-1.69734,39.86395,-1.69734",
+    "geom:latitude":-1.69734,
+    "geom:longitude":39.86395,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Korobo",
+    "gn:country_code":"KE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11433595,
+    "gn:latitude":-1.69734,
+    "gn:longitude":39.86395,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Korobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433595
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"fb81178f538a1a03cf96c37f8743f5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1310036741,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310036741,
+    "wof:lastmodified":1537092473,
+    "wof:name":"Korobo",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.86395,
+    -1.69734,
+    39.86395,
+    -1.69734
+],
+  "geometry": {"coordinates":[39.86395,-1.69734],"type":"Point"}
+}

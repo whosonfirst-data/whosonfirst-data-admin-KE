@@ -1,0 +1,97 @@
+{
+  "id": 421192649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48265,-4.4619,39.48265,-4.4619",
+    "geom:latitude":-4.4619,
+    "geom:longitude":39.48265,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Msambweni"
+    ],
+    "name:dut_x_preferred":[
+        "Msambweni"
+    ],
+    "name:eng_x_preferred":[
+        "Msambweni"
+    ],
+    "name:fre_x_preferred":[
+        "Msambweni"
+    ],
+    "name:ger_x_preferred":[
+        "Msambweni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b5\u30f3\u30d6\u30a6\u30a7\u30cb"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":186139,
+    "qs:gn_pop":0,
+    "qs:name":"Msambweni",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":105,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1170267,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528345,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1512,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186139,
+        "gp:id":1528345,
+        "qs:id":1170267,
+        "wd:id":"Q1951532",
+        "wk:page":"Msambweni"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009744,
+    "wof:geomhash":"b4cd0053a3ec1c75a6de5c06a6eab717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":421192649,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421192649,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Msambweni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48265,
+    -4.4619,
+    39.48265,
+    -4.4619
+],
+  "geometry": {"coordinates":[39.48265,-4.4619],"type":"Point"}
+}

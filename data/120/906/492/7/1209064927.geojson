@@ -1,0 +1,62 @@
+{
+  "id": 1209064927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.61762,-0.94263,36.61762,-0.94263",
+    "geom:latitude":-0.94263,
+    "geom:longitude":36.61762,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gichiengo",
+    "gn:country_code":"KE",
+    "gn:dem":2485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197384,
+    "gn:latitude":-0.94263,
+    "gn:longitude":36.61762,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gichiengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197384,
+        "wk:page":"Gichiengo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"48e1c63f7adedf56e377ce3d1c574132",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209064927
+        }
+    ],
+    "wof:id":1209064927,
+    "wof:lastmodified":1537567163,
+    "wof:name":"Gichiengo",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.61762,
+    -0.94263,
+    36.61762,
+    -0.94263
+],
+  "geometry": {"coordinates":[36.61762,-0.94263],"type":"Point"}
+}

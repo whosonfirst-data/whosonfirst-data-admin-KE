@@ -1,0 +1,67 @@
+{
+  "id": 1292959353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76838,-1.21661,36.76838,-1.21661",
+    "geom:latitude":-1.21661,
+    "geom:longitude":36.76838,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kihara",
+    "gn:country_code":"KE",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192249,
+    "gn:latitude":-1.21661,
+    "gn:longitude":36.76838,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kihara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192249
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"0e66c543359c15f7fbe3e5470811025a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1292959353,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1292959353,
+    "wof:lastmodified":1537049433,
+    "wof:name":"Kihara",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76838,
+    -1.21661,
+    36.76838,
+    -1.21661
+],
+  "geometry": {"coordinates":[36.76838,-1.21661],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 421174693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73743,-0.2479,35.73743,-0.2479",
+    "geom:latitude":-0.2479,
+    "geom:longitude":35.73743,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Molo"
+    ],
+    "name:eng_x_preferred":[
+        "Molo"
+    ],
+    "name:fin_x_preferred":[
+        "Molo"
+    ],
+    "name:ger_x_preferred":[
+        "Molo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30ed"
+    ],
+    "name:kik_x_preferred":[
+        "Molo"
+    ],
+    "name:pol_x_preferred":[
+        "Molo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Molo"
+    ],
+    "name:swa_x_preferred":[
+        "Molo"
+    ],
+    "name:swe_x_preferred":[
+        "Molo"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":186315,
+    "qs:gn_pop":27896,
+    "qs:name":"Molo",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":894784,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528334,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":301,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186315,
+        "gp:id":1528334,
+        "qs:id":894784,
+        "wd:id":"Q3506442",
+        "wk:page":"Molo, Kenya"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009040,
+    "wof:geomhash":"7409204e26d8367253cdafdac57fd00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912365,
+            "locality_id":421174693,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421174693,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Molo",
+    "wof:parent_id":1091912365,
+    "wof:placetype":"locality",
+    "wof:population":27896,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73743,
+    -0.2479,
+    35.73743,
+    -0.2479
+],
+  "geometry": {"coordinates":[35.73743,-0.2479],"type":"Point"}
+}

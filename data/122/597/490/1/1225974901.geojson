@@ -1,0 +1,67 @@
+{
+  "id": 1225974901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61217,-0.91755,35.61217,-0.91755",
+    "geom:latitude":-0.91755,
+    "geom:longitude":35.61217,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Eotoud",
+    "gn:country_code":"KE",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198213,
+    "gn:latitude":-0.91755,
+    "gn:longitude":35.61217,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Eotoud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198213
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"23d9d63175dd520eb26c999904076b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912451,
+            "locality_id":1225974901,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1225974901,
+    "wof:lastmodified":1536826464,
+    "wof:name":"Eotoud",
+    "wof:parent_id":1091912451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61217,
+    -0.91755,
+    35.61217,
+    -0.91755
+],
+  "geometry": {"coordinates":[35.61217,-0.91755],"type":"Point"}
+}

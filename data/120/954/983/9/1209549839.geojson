@@ -1,0 +1,66 @@
+{
+  "id": 1209549839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87052,-0.85449,39.87052,-0.85449",
+    "geom:latitude":-0.85449,
+    "geom:longitude":39.87052,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Nanigi East",
+    "gn:country_code":"KE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184444,
+    "gn:latitude":-0.85449,
+    "gn:longitude":39.87052,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Nanigi East",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanig",
+        "Nani",
+        "Nanigi East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184444
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9d6cecae3d7348840533f97db78d3943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209549839
+        }
+    ],
+    "wof:id":1209549839,
+    "wof:lastmodified":1537653044,
+    "wof:name":"Nanigi East",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87052,
+    -0.85449,
+    39.87052,
+    -0.85449
+],
+  "geometry": {"coordinates":[39.87052,-0.85449],"type":"Point"}
+}

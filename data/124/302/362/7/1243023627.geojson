@@ -1,0 +1,72 @@
+{
+  "id": 1243023627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85081,-0.93018,34.85081,-0.93018",
+    "geom:latitude":-0.93018,
+    "geom:longitude":34.85081,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Nyangusu",
+    "gn:country_code":"KE",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":182791,
+    "gn:latitude":-0.93018,
+    "gn:longitude":34.85081,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Nyangusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyangoso",
+        "Nyangusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":182791,
+        "wk:page":"Nyangoso"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e735a3c126faa248709c636382542991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912717,
+            "locality_id":1243023627,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1243023627,
+    "wof:lastmodified":1537653040,
+    "wof:name":"Nyangusu",
+    "wof:parent_id":1091912717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85081,
+    -0.93018,
+    34.85081,
+    -0.93018
+],
+  "geometry": {"coordinates":[34.85081,-0.93018],"type":"Point"}
+}

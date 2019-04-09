@@ -1,0 +1,68 @@
+{
+  "id": 1293936461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.53333,-0.93333,34.53333,-0.93333",
+    "geom:latitude":-0.93333,
+    "geom:longitude":34.53333,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Dianga",
+    "gn:country_code":"KE",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":199006,
+    "gn:latitude":-0.93333,
+    "gn:longitude":34.53333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":199006,
+        "wk:page":"Dianga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"bd764d9665e1da2df003dd15701655aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912205,
+            "locality_id":1293936461,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1293936461,
+    "wof:lastmodified":1537567168,
+    "wof:name":"Dianga",
+    "wof:parent_id":1091912205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53333,
+    -0.93333,
+    34.53333,
+    -0.93333
+],
+  "geometry": {"coordinates":[34.53333,-0.93333],"type":"Point"}
+}

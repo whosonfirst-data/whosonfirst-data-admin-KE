@@ -1,0 +1,67 @@
+{
+  "id": 1277036203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46021,-4.14198,39.46021,-4.14198",
+    "geom:latitude":-4.14198,
+    "geom:longitude":39.46021,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kitsantse",
+    "gn:country_code":"KE",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191049,
+    "gn:latitude":-4.14198,
+    "gn:longitude":39.46021,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kitsantse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191049
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"92eff2075f20653e45f47ff78a03bf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1277036203,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1277036203,
+    "wof:lastmodified":1536830677,
+    "wof:name":"Kitsantse",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46021,
+    -4.14198,
+    39.46021,
+    -4.14198
+],
+  "geometry": {"coordinates":[39.46021,-4.14198],"type":"Point"}
+}

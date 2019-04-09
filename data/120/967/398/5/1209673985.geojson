@@ -1,0 +1,62 @@
+{
+  "id": 1209673985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.78994,-0.90508,36.78994,-0.90508",
+    "geom:latitude":-0.90508,
+    "geom:longitude":36.78994,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamunyaka",
+    "gn:country_code":"KE",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194621,
+    "gn:latitude":-0.90508,
+    "gn:longitude":36.78994,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kamunyaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194621,
+        "wk:page":"Kamunyaka"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"4521baad310a26619c9d62f5e75f26cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209673985
+        }
+    ],
+    "wof:id":1209673985,
+    "wof:lastmodified":1537567153,
+    "wof:name":"Kamunyaka",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.78994,
+    -0.90508,
+    36.78994,
+    -0.90508
+],
+  "geometry": {"coordinates":[36.78994,-0.90508],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293039449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21796,-0.81802,37.21796,-0.81802",
+    "geom:latitude":-0.81802,
+    "geom:longitude":37.21796,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Maranjau",
+    "gn:country_code":"KE",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187705,
+    "gn:latitude":-0.81802,
+    "gn:longitude":37.21796,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Maranjau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maranjua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187705,
+        "wk:page":"Maranjau"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"238a29299eebda380f4e9ae0349d8e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911931,
+            "locality_id":1293039449,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1293039449,
+    "wof:lastmodified":1537653054,
+    "wof:name":"Maranjau",
+    "wof:parent_id":1091911931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21796,
+    -0.81802,
+    37.21796,
+    -0.81802
+],
+  "geometry": {"coordinates":[37.21796,-0.81802],"type":"Point"}
+}

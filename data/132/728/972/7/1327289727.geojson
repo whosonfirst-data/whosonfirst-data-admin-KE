@@ -1,0 +1,71 @@
+{
+  "id": 1327289727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37043,-0.55591,37.37043,-0.55591",
+    "geom:latitude":-0.55591,
+    "geom:longitude":37.37043,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Samsons Corner",
+    "gn:country_code":"KE",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180761,
+    "gn:latitude":-0.55591,
+    "gn:longitude":37.37043,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Samsons Corner",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samsons Kona",
+        "Samsons Corner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180761
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"b8264459acaa6a1e98c26153f1563953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1327289727,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1327289727,
+    "wof:lastmodified":1537653037,
+    "wof:name":"Samsons Corner",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37043,
+    -0.55591,
+    37.37043,
+    -0.55591
+],
+  "geometry": {"coordinates":[37.37043,-0.55591],"type":"Point"}
+}

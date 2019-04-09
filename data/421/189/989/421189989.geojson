@@ -1,0 +1,75 @@
+{
+  "id": 421189989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.26,-2.652879,37.26,-2.652879",
+    "geom:latitude":-2.652879,
+    "geom:longitude":37.26,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ol Tukai",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":2384,
+    "qs:photos_1k":483,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2384,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118172,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528663,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1528663,
+        "qs:id":1118172
+    },
+    "wof:country":"KE",
+    "wof:created":1459009643,
+    "wof:geomhash":"21bf1f49fb2318e9f800bf9424ba9fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":421189989,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421189989,
+    "wof:lastmodified":1500012743,
+    "wof:name":"Ol Tukai",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.26,
+    -2.652879,
+    37.26,
+    -2.652879
+],
+  "geometry": {"coordinates":[37.26,-2.652879],"type":"Point"}
+}

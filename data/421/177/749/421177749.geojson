@@ -1,0 +1,81 @@
+{
+  "id": 421177749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48212,-4.47807,39.48212,-4.47807",
+    "geom:latitude":-4.47807,
+    "geom:longitude":39.48212,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Kisima Chande"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":191292,
+    "qs:gn_pop":0,
+    "qs:name":"Kisimachande",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":130,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":130,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1205954,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527900,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191292,
+        "gp:id":1527900,
+        "qs:id":1205954,
+        "wd:id":"Q6416726"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009159,
+    "wof:geomhash":"c655c5b2d175b814cd6bad8003e551b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":421177749,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421177749,
+    "wof:lastmodified":1527716481,
+    "wof:name":"Kisimachande",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48212,
+    -4.47807,
+    39.48212,
+    -4.47807
+],
+  "geometry": {"coordinates":[39.48212,-4.47807],"type":"Point"}
+}

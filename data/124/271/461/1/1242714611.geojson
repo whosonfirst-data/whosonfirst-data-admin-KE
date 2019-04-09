@@ -1,0 +1,68 @@
+{
+  "id": 1242714611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86667,-0.4,36.86667,-0.4",
+    "geom:latitude":-0.4,
+    "geom:longitude":36.86667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Kahigaini",
+    "gn:country_code":"KE",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195464,
+    "gn:latitude":-0.4,
+    "gn:longitude":36.86667,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kahigaini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195464,
+        "wk:page":"Kahigaini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"a8cb69420a19da72ee8a1ecce7ba23b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912541,
+            "locality_id":1242714611,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1242714611,
+    "wof:lastmodified":1537567155,
+    "wof:name":"Kahigaini",
+    "wof:parent_id":1091912541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86667,
+    -0.4,
+    36.86667,
+    -0.4
+],
+  "geometry": {"coordinates":[36.86667,-0.4],"type":"Point"}
+}

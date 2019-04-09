@@ -1,0 +1,72 @@
+{
+  "id": 1293036053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53223,0.18862,35.53223,0.18862",
+    "geom:latitude":0.18862,
+    "geom:longitude":35.53223,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kapchorwa",
+    "gn:country_code":"KE",
+    "gn:dem":2590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194185,
+    "gn:latitude":0.18862,
+    "gn:longitude":35.53223,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kapchorwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapchorewe",
+        "Kapchorwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194185,
+        "wk:page":"Kapchorewe"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"17961e58d0d8fd962e64331f831abae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912837,
+            "locality_id":1293036053,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293036053,
+    "wof:lastmodified":1537653069,
+    "wof:name":"Kapchorwa",
+    "wof:parent_id":1091912837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53223,
+    0.18862,
+    35.53223,
+    0.18862
+],
+  "geometry": {"coordinates":[35.53223,0.18862],"type":"Point"}
+}

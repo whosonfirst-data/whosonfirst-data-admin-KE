@@ -1,0 +1,72 @@
+{
+  "id": 1193057115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01898,-0.95279,37.01898,-0.95279",
+    "geom:latitude":-0.95279,
+    "geom:longitude":37.01898,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kiunyu",
+    "gn:country_code":"KE",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190950,
+    "gn:latitude":-0.95279,
+    "gn:longitude":37.01898,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kiunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiunya",
+        "Kiunyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190950,
+        "wk:page":"Kiunya"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f3886904bb4474c0133e7f95e818dc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1193057115,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1193057115,
+    "wof:lastmodified":1537653061,
+    "wof:name":"Kiunyu",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01898,
+    -0.95279,
+    37.01898,
+    -0.95279
+],
+  "geometry": {"coordinates":[37.01898,-0.95279],"type":"Point"}
+}

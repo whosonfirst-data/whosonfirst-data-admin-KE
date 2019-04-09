@@ -1,0 +1,68 @@
+{
+  "id": 1225827993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58333,-0.41667,37.58333,-0.41667",
+    "geom:latitude":-0.41667,
+    "geom:longitude":37.58333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Gakwegore",
+    "gn:country_code":"KE",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197858,
+    "gn:latitude":-0.41667,
+    "gn:longitude":37.58333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Gakwegore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197858,
+        "wk:page":"Gakwegore"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8314baf790ff4528d3cef8486568dfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1225827993,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1225827993,
+    "wof:lastmodified":1537567166,
+    "wof:name":"Gakwegore",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58333,
+    -0.41667,
+    37.58333,
+    -0.41667
+],
+  "geometry": {"coordinates":[37.58333,-0.41667],"type":"Point"}
+}

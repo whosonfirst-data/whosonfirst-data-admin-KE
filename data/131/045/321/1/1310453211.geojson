@@ -1,0 +1,68 @@
+{
+  "id": 1310453211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86183,-0.62522,36.86183,-0.62522",
+    "geom:latitude":-0.62522,
+    "geom:longitude":36.86183,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Gacharageini",
+    "gn:country_code":"KE",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197983,
+    "gn:latitude":-0.62522,
+    "gn:longitude":36.86183,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gacharageini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197983,
+        "wk:page":"Gacharageini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"aa8d500fd0acbf135996443236856eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1310453211,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1310453211,
+    "wof:lastmodified":1537567167,
+    "wof:name":"Gacharageini",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86183,
+    -0.62522,
+    36.86183,
+    -0.62522
+],
+  "geometry": {"coordinates":[36.86183,-0.62522],"type":"Point"}
+}

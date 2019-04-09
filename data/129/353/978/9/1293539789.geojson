@@ -1,0 +1,68 @@
+{
+  "id": 1293539789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8375,-1.77583,40.8375,-1.77583",
+    "geom:latitude":-1.77583,
+    "geom:longitude":40.8375,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Milimani",
+    "gn:country_code":"KE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444978,
+    "gn:latitude":-1.77583,
+    "gn:longitude":40.8375,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Milimani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444978,
+        "wk:page":"Milimani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ef47344714e809cd3eb4fc0ae91341f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1293539789,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1293539789,
+    "wof:lastmodified":1537567173,
+    "wof:name":"Milimani",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8375,
+    -1.77583,
+    40.8375,
+    -1.77583
+],
+  "geometry": {"coordinates":[40.8375,-1.77583],"type":"Point"}
+}

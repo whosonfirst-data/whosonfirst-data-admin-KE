@@ -1,0 +1,71 @@
+{
+  "id": 1276497003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12726,-4.44171,39.12726,-4.44171",
+    "geom:latitude":-4.44171,
+    "geom:longitude":39.12726,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mwakalanga",
+    "gn:country_code":"KE",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188178,
+    "gn:latitude":-4.44171,
+    "gn:longitude":39.12726,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwakalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makalanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188178,
+        "wk:page":"Makalanga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8d163e98709eae469e2b099fc27e1c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1276497003,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276497003,
+    "wof:lastmodified":1537653056,
+    "wof:name":"Mwakalanga",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12726,
+    -4.44171,
+    39.12726,
+    -4.44171
+],
+  "geometry": {"coordinates":[39.12726,-4.44171],"type":"Point"}
+}

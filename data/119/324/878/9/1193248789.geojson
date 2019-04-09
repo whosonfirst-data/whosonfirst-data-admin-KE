@@ -1,0 +1,68 @@
+{
+  "id": 1193248789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45746,-0.54129,37.45746,-0.54129",
+    "geom:latitude":-0.54129,
+    "geom:longitude":37.45746,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Matakari",
+    "gn:country_code":"KE",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187431,
+    "gn:latitude":-0.54129,
+    "gn:longitude":37.45746,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Matakari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187431,
+        "wk:page":"Matakari"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"564ea5ff992e6eebbad0b4128d7502a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911207,
+            "locality_id":1193248789,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1193248789,
+    "wof:lastmodified":1537567141,
+    "wof:name":"Matakari",
+    "wof:parent_id":1091911207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45746,
+    -0.54129,
+    37.45746,
+    -0.54129
+],
+  "geometry": {"coordinates":[37.45746,-0.54129],"type":"Point"}
+}

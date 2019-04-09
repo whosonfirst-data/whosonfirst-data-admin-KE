@@ -1,0 +1,68 @@
+{
+  "id": 1259731093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.25,-0.98333,38.25,-0.98333",
+    "geom:latitude":-0.98333,
+    "geom:longitude":38.25,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kalitini",
+    "gn:country_code":"KE",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195003,
+    "gn:latitude":-0.98333,
+    "gn:longitude":38.25,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kalitini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195003,
+        "wk:page":"Kalitini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"afb817031a880d620a72d359d55096a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912293,
+            "locality_id":1259731093,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1259731093,
+    "wof:lastmodified":1537567154,
+    "wof:name":"Kalitini",
+    "wof:parent_id":1091912293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.25,
+    -0.98333,
+    38.25,
+    -0.98333
+],
+  "geometry": {"coordinates":[38.25,-0.98333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310490521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66554,0.56723,35.66554,0.56723",
+    "geom:latitude":0.56723,
+    "geom:longitude":35.66554,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kabluk",
+    "gn:country_code":"KE",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":195750,
+    "gn:latitude":0.56723,
+    "gn:longitude":35.66554,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kabluk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":195750,
+        "wk:page":"Kabluk"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"66f0746ed495c8c7389909aebe492041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1310490521,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310490521,
+    "wof:lastmodified":1537567157,
+    "wof:name":"Kabluk",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66554,
+    0.56723,
+    35.66554,
+    0.56723
+],
+  "geometry": {"coordinates":[35.66554,0.56723],"type":"Point"}
+}

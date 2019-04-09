@@ -1,0 +1,73 @@
+{
+  "id": 1309866841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16299,0.39608,37.16299,0.39608",
+    "geom:latitude":0.39608,
+    "geom:longitude":37.16299,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Don Dol",
+    "gn:country_code":"KE",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":198880,
+    "gn:latitude":0.39608,
+    "gn:longitude":37.16299,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Don Dol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ildolidol",
+        "Dol Dol",
+        "Don Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":198880,
+        "wk:page":"Dol_Dol"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6bb80f144f161610bff1f6b78b4a7f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911809,
+            "locality_id":1309866841,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1309866841,
+    "wof:lastmodified":1537653087,
+    "wof:name":"Don Dol",
+    "wof:parent_id":1091911809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16299,
+    0.39608,
+    37.16299,
+    0.39608
+],
+  "geometry": {"coordinates":[37.16299,0.39608],"type":"Point"}
+}

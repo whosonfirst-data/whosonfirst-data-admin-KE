@@ -1,0 +1,68 @@
+{
+  "id": 1209874637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83333,-0.88333,36.83333,-0.88333",
+    "geom:latitude":-0.88333,
+    "geom:longitude":36.83333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Karugutu",
+    "gn:country_code":"KE",
+    "gn:dem":1970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193670,
+    "gn:latitude":-0.88333,
+    "gn:longitude":36.83333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Karugutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193670,
+        "wk:page":"Karugutu"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"c0244076f2bb2331f2d6d703641ec734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912681,
+            "locality_id":1209874637,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1209874637,
+    "wof:lastmodified":1537567150,
+    "wof:name":"Karugutu",
+    "wof:parent_id":1091912681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83333,
+    -0.88333,
+    36.83333,
+    -0.88333
+],
+  "geometry": {"coordinates":[36.83333,-0.88333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209249209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.16999,0.003,34.16999,0.003",
+    "geom:latitude":0.003,
+    "geom:longitude":34.16999,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yimbo East",
+    "gn:country_code":"KE",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523376,
+    "gn:latitude":0.003,
+    "gn:longitude":34.16999,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Yimbo East",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523376
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"40b2db207a9fd3316f890f0889eb342b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209249209
+        }
+    ],
+    "wof:id":1209249209,
+    "wof:lastmodified":1536293060,
+    "wof:name":"Yimbo East",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.16999000000001,
+    0.003,
+    34.16999000000001,
+    0.003
+],
+  "geometry": {"coordinates":[34.16999000000001,0.003],"type":"Point"}
+}

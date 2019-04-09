@@ -1,0 +1,106 @@
+{
+  "id": 421167037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.34705,-1.29792,37.34705,-1.29792",
+    "geom:latitude":-1.29792,
+    "geom:longitude":37.34705,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kangundo"
+    ],
+    "name:eng_x_preferred":[
+        "Kangundo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30b0\u30f3\u30c9"
+    ],
+    "name:pol_x_preferred":[
+        "Kangundo"
+    ],
+    "name:spa_x_preferred":[
+        "Kangundo"
+    ],
+    "name:swe_x_preferred":[
+        "Kangundo"
+    ],
+    "name:unk_x_variant":[
+        "Kangundu"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0646\u06af\u0648\u0646\u062f\u0648"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":194406,
+    "qs:gn_pop":10094,
+    "qs:name":"Kangundo",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Eastern",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":122705,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527541,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194406,
+        "gp:id":1527541,
+        "qs:id":122705,
+        "wd:id":"Q6362919",
+        "wk:page":"Kangundo"
+    },
+    "wof:country":"KE",
+    "wof:created":1459008711,
+    "wof:geomhash":"73e6c126752a75d9b48082e7a110c7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":421167037,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":421167037,
+    "wof:lastmodified":1553816355,
+    "wof:name":"Kangundo",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:population":10094,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.34705,
+    -1.29792,
+    37.34705,
+    -1.29792
+],
+  "geometry": {"coordinates":[37.34705,-1.29792],"type":"Point"}
+}

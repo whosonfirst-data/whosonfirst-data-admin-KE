@@ -1,0 +1,67 @@
+{
+  "id": 1310580541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31556,0.32667,34.31556,0.32667",
+    "geom:latitude":0.32667,
+    "geom:longitude":34.31556,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Marach",
+    "gn:country_code":"KE",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187754,
+    "gn:latitude":0.32667,
+    "gn:longitude":34.31556,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Marach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187754
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"1e054b7ec5524b2e5143cb624734743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":1310580541,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1310580541,
+    "wof:lastmodified":1536808398,
+    "wof:name":"Marach",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31556,
+    0.32667,
+    34.31556,
+    0.32667
+],
+  "geometry": {"coordinates":[34.31556,0.32667],"type":"Point"}
+}

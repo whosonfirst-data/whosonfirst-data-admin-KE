@@ -1,0 +1,62 @@
+{
+  "id": 1209275737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35043,-4.42536,39.35043,-4.42536",
+    "geom:latitude":-4.42536,
+    "geom:longitude":39.35043,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mwaluvanga",
+    "gn:country_code":"KE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185117,
+    "gn:latitude":-4.42536,
+    "gn:longitude":39.35043,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Mwaluvanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185117,
+        "wk:page":"Mwaluvanga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dddda7c4a37c12158a3beae59db81bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209275737
+        }
+    ],
+    "wof:id":1209275737,
+    "wof:lastmodified":1537567135,
+    "wof:name":"Mwaluvanga",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35043,
+    -4.42536,
+    39.35043,
+    -4.42536
+],
+  "geometry": {"coordinates":[39.35043,-4.42536],"type":"Point"}
+}

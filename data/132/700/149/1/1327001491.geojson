@@ -1,0 +1,67 @@
+{
+  "id": 1327001491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11869,0.27878,34.11869,0.27878",
+    "geom:latitude":0.27878,
+    "geom:longitude":34.11869,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Funyula",
+    "gn:country_code":"KE",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10377832,
+    "gn:latitude":0.27878,
+    "gn:longitude":34.11869,
+    "gn:modification_date":"2015-07-20",
+    "gn:name":"Funyula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091911075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10377832
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"941077f64bda53ef7afa7dbf695e40ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911075,
+            "locality_id":1327001491,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1327001491,
+    "wof:lastmodified":1536805024,
+    "wof:name":"Funyula",
+    "wof:parent_id":1091911075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11869,
+    0.27878,
+    34.11869,
+    0.27878
+],
+  "geometry": {"coordinates":[34.11869,0.27878],"type":"Point"}
+}

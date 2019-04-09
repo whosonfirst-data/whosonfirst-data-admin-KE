@@ -1,0 +1,68 @@
+{
+  "id": 1259535021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.95667,-0.6636,36.95667,-0.6636",
+    "geom:latitude":-0.6636,
+    "geom:longitude":36.95667,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Mihuti",
+    "gn:country_code":"KE",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186716,
+    "gn:latitude":-0.6636,
+    "gn:longitude":36.95667,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Mihuti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091912291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186716,
+        "wk:page":"Mihuti"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e5c76aa5ad13c79c5a2cc35028219fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912291,
+            "locality_id":1259535021,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259535021,
+    "wof:lastmodified":1537567139,
+    "wof:name":"Mihuti",
+    "wof:parent_id":1091912291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.95667,
+    -0.6636,
+    36.95667,
+    -0.6636
+],
+  "geometry": {"coordinates":[36.95667,-0.6636],"type":"Point"}
+}

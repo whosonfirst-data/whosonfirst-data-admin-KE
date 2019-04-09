@@ -1,0 +1,68 @@
+{
+  "id": 1310279059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0566,-0.29677,35.0566,-0.29677",
+    "geom:latitude":-0.29677,
+    "geom:longitude":35.0566,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kap Sarok",
+    "gn:country_code":"KE",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194019,
+    "gn:latitude":-0.29677,
+    "gn:longitude":35.0566,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kap Sarok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194019,
+        "wk:page":"Kap_Sarok"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e22d588b16b078eb96892da17f8a2dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911533,
+            "locality_id":1310279059,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1310279059,
+    "wof:lastmodified":1537567151,
+    "wof:name":"Kap Sarok",
+    "wof:parent_id":1091911533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0566,
+    -0.29677,
+    35.0566,
+    -0.29677
+],
+  "geometry": {"coordinates":[35.0566,-0.29677],"type":"Point"}
+}

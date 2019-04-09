@@ -1,0 +1,85 @@
+{
+  "id": 421183511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12919,0.58546,36.12919,0.58546",
+    "geom:latitude":0.58546,
+    "geom:longitude":36.12919,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Nosuguro"
+    ],
+    "name:eng_x_preferred":[
+        "Nosuguro"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":183180,
+    "qs:gn_pop":0,
+    "qs:name":"Nosuguro",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":979677,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1528606,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":8,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":183180,
+        "gp:id":1528606,
+        "qs:id":979677,
+        "wd:id":"Q7062000",
+        "wk:page":"Nosuguro"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009372,
+    "wof:geomhash":"92586632cc2817a95e130cbb85ddaaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":421183511,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421183511,
+    "wof:lastmodified":1527716492,
+    "wof:name":"Nosuguro",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12919,
+    0.58546,
+    36.12919,
+    0.58546
+],
+  "geometry": {"coordinates":[36.12919,0.58546],"type":"Point"}
+}

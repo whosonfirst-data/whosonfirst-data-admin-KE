@@ -1,0 +1,68 @@
+{
+  "id": 1343318235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08333,-3.25,40.08333,-3.25",
+    "geom:latitude":-3.25,
+    "geom:longitude":40.08333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kijiwetanga",
+    "gn:country_code":"KE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":192189,
+    "gn:latitude":-3.25,
+    "gn:longitude":40.08333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kijiwetanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192189,
+        "wk:page":"Kijiwetanga"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"9093112f97bfa4599c5243026a692782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1343318235,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1343318235,
+    "wof:lastmodified":1537567147,
+    "wof:name":"Kijiwetanga",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08333,
+    -3.25,
+    40.08333,
+    -3.25
+],
+  "geometry": {"coordinates":[40.08333,-3.25],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277127561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47678,-4.48334,39.47678,-4.48334",
+    "geom:latitude":-4.48334,
+    "geom:longitude":39.47678,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Msambweni",
+    "gn:country_code":"KE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":186140,
+    "gn:latitude":-4.48334,
+    "gn:longitude":39.47678,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Msambweni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Msambweni Government Hospital",
+        "Msambweni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":186140
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"135f92eb9949f46bbc5d39c137d42cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1277127561,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1277127561,
+    "wof:lastmodified":1537653049,
+    "wof:name":"Msambweni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47678,
+    -4.48334,
+    39.47678,
+    -4.48334
+],
+  "geometry": {"coordinates":[39.47678,-4.48334],"type":"Point"}
+}

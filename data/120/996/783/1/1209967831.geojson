@@ -1,0 +1,68 @@
+{
+  "id": 1209967831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46683,-4.15744,39.46683,-4.15744",
+    "geom:latitude":-4.15744,
+    "geom:longitude":39.46683,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Golini",
+    "gn:country_code":"KE",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":197103,
+    "gn:latitude":-4.15744,
+    "gn:longitude":39.46683,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Golini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":197103,
+        "wk:page":"Golini"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"676d1d7b892c8264b8b8f79d82f45112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1209967831,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1209967831,
+    "wof:lastmodified":1537567161,
+    "wof:name":"Golini",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46683,
+    -4.15744,
+    39.46683,
+    -4.15744
+],
+  "geometry": {"coordinates":[39.46683,-4.15744],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344015039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00756,-0.32866,35.00756,-0.32866",
+    "geom:latitude":-0.32866,
+    "geom:longitude":35.00756,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Asawo",
+    "gn:country_code":"KE",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":200834,
+    "gn:latitude":-0.32866,
+    "gn:longitude":35.00756,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Asawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assawa",
+        "Asawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672955,
+        1091912511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200834
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"784b37ef3b25cd183cae3db33bdd84ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912511,
+            "locality_id":1344015039,
+            "region_id":85672955
+        }
+    ],
+    "wof:id":1344015039,
+    "wof:lastmodified":1537653092,
+    "wof:name":"Asawo",
+    "wof:parent_id":1091912511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00756,
+    -0.32866,
+    35.00756,
+    -0.32866
+],
+  "geometry": {"coordinates":[35.00756,-0.32866],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276801831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57623,-3.50957,38.57623,-3.50957",
+    "geom:latitude":-3.50957,
+    "geom:longitude":38.57623,
+    "gn:admin1_code":"47.0",
+    "gn:asciiname":"Sagala",
+    "gn:country_code":"KE",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":180874,
+    "gn:latitude":-3.50957,
+    "gn:longitude":38.57623,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Sagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagalla",
+        "Sagala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        890442857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":180874
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2eb2d7aa0196812fb6a122cdc4c58d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890442857,
+            "locality_id":1276801831,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276801831,
+    "wof:lastmodified":1537653037,
+    "wof:name":"Sagala",
+    "wof:parent_id":890442857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57623,
+    -3.50957,
+    38.57623,
+    -3.50957
+],
+  "geometry": {"coordinates":[38.57623,-3.50957],"type":"Point"}
+}

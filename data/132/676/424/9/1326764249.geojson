@@ -1,0 +1,71 @@
+{
+  "id": 1326764249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58529,-1.52995,39.58529,-1.52995",
+    "geom:latitude":-1.52995,
+    "geom:longitude":39.58529,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Wayu",
+    "gn:country_code":"KE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":178205,
+    "gn:latitude":-1.52995,
+    "gn:longitude":39.58529,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Wayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wagu",
+        "Wayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178205
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ea4812cfdabc67c02c4df5cf27f1f516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912587,
+            "locality_id":1326764249,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1326764249,
+    "wof:lastmodified":1537653033,
+    "wof:name":"Wayu",
+    "wof:parent_id":1091912587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58529,
+    -1.52995,
+    39.58529,
+    -1.52995
+],
+  "geometry": {"coordinates":[39.58529,-1.52995],"type":"Point"}
+}

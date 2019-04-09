@@ -1,0 +1,67 @@
+{
+  "id": 1327081603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35195,-4.46065,39.35195,-4.46065",
+    "geom:latitude":-4.46065,
+    "geom:longitude":39.35195,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kivuleni",
+    "gn:country_code":"KE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867829,
+    "gn:latitude":-4.46065,
+    "gn:longitude":39.35195,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Kivuleni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867829
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"7edb5f330f77873d39e291a821ce7d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1327081603,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1327081603,
+    "wof:lastmodified":1536689687,
+    "wof:name":"Kivuleni",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35195,
+    -4.46065,
+    39.35195,
+    -4.46065
+],
+  "geometry": {"coordinates":[39.35195,-4.46065],"type":"Point"}
+}

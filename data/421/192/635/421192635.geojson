@@ -1,0 +1,97 @@
+{
+  "id": 421192635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.71667,-4.0,39.71667,-4.0",
+    "geom:latitude":-4.0,
+    "geom:longitude":39.71667,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bamburi"
+    ],
+    "name:dut_x_preferred":[
+        "Bamburi"
+    ],
+    "name:eng_x_preferred":[
+        "Bamburi"
+    ],
+    "name:ger_x_preferred":[
+        "Bamburi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30d6\u30ea"
+    ],
+    "name:swa_x_preferred":[
+        "Bamburi"
+    ],
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":200656,
+    "qs:gn_pop":0,
+    "qs:name":"Bamburi",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Coast",
+    "qs:photos":1026,
+    "qs:photos_1k":208,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1026,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1169097,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1526846,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091912207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":200656,
+        "gp:id":1526846,
+        "qs:id":1169097,
+        "wd:id":"Q805977",
+        "wk:page":"Bamburi"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009743,
+    "wof:geomhash":"5ecfc945caddcb952cc8ac4589254a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912207,
+            "locality_id":421192635,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":421192635,
+    "wof:lastmodified":1527716110,
+    "wof:name":"Bamburi",
+    "wof:parent_id":1091912207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.71667,
+    -4.0,
+    39.71667,
+    -4.0
+],
+  "geometry": {"coordinates":[39.71667,-4.0],"type":"Point"}
+}

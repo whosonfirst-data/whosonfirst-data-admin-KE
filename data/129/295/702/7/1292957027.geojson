@@ -1,0 +1,67 @@
+{
+  "id": 1292957027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74877,-3.93938,39.74877,-3.93938",
+    "geom:latitude":-3.93938,
+    "geom:longitude":39.74877,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mtwapa",
+    "gn:country_code":"KE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11002530,
+    "gn:latitude":-3.93938,
+    "gn:longitude":39.74877,
+    "gn:modification_date":"2015-12-30",
+    "gn:name":"Mtwapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11002530
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"923befa951b2cb820364a6d38e67b4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911611,
+            "locality_id":1292957027,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1292957027,
+    "wof:lastmodified":1537052607,
+    "wof:name":"Mtwapa",
+    "wof:parent_id":1091911611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74877,
+    -3.93938,
+    39.74877,
+    -3.93938
+],
+  "geometry": {"coordinates":[39.74877,-3.93938],"type":"Point"}
+}

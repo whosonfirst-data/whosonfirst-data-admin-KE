@@ -1,0 +1,96 @@
+{
+  "id": 890445287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62882,-1.78079,37.62882,-1.78079",
+    "geom:latitude":-1.78079,
+    "geom:longitude":37.62882,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:pop":6133,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6c83\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Wote"
+    ],
+    "name:eng_x_preferred":[
+        "Wote"
+    ],
+    "name:ita_x_preferred":[
+        "Wote"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30c6"
+    ],
+    "name:nob_x_preferred":[
+        "Wote"
+    ],
+    "name:pol_x_preferred":[
+        "Wote"
+    ],
+    "name:swa_x_preferred":[
+        "Wote"
+    ],
+    "name:swe_x_preferred":[
+        "Wote"
+    ],
+    "qs:name":"Wote",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":178077,
+        "gp:id":1528134,
+        "qs:id":1237923,
+        "wd:id":"Q7193508",
+        "wk:page":"Wote"
+    },
+    "wof:country":"KE",
+    "wof:created":1469052504,
+    "wof:geomhash":"0e81969b351a4e851c7ff213fa952b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911875,
+            "locality_id":890445287,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":890445287,
+    "wof:lastmodified":1527792868,
+    "wof:name":"Wote",
+    "wof:parent_id":1091911875,
+    "wof:placetype":"locality",
+    "wof:population":6133,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62882,
+    -1.78079,
+    37.62882,
+    -1.78079
+],
+  "geometry": {"coordinates":[37.62882,-1.78079],"type":"Point"}
+}

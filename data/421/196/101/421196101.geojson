@@ -1,0 +1,78 @@
+{
+  "id": 421196101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5048,0.30092,35.5048,0.30092",
+    "geom:latitude":0.30092,
+    "geom:longitude":35.5048,
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"KE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":191665,
+    "qs:gn_pop":0,
+    "qs:name":"Kipkabus",
+    "qs:name_adm0":"Kenya",
+    "qs:name_adm1":"Rift Valley",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1158087,
+    "qs:woe_adm0":23424863,
+    "qs:woe_id":1527863,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191665,
+        "gp:id":1527863,
+        "qs:id":1158087,
+        "wd:id":"Q6414626"
+    },
+    "wof:country":"KE",
+    "wof:created":1459009869,
+    "wof:geomhash":"db91e21c3848a33772f02f61900175a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911493,
+            "locality_id":421196101,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":421196101,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Kipkabus",
+    "wof:parent_id":1091911493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5048,
+    0.30092,
+    35.5048,
+    0.30092
+],
+  "geometry": {"coordinates":[35.5048,0.30092],"type":"Point"}
+}

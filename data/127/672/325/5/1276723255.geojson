@@ -1,0 +1,72 @@
+{
+  "id": 1276723255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22369,-4.64767,39.22369,-4.64767",
+    "geom:latitude":-4.64767,
+    "geom:longitude":39.22369,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kaufumbani",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":193232,
+    "gn:latitude":-4.64767,
+    "gn:longitude":39.22369,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kaufumbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ufumbani",
+        "Kaufumbani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":193232,
+        "wk:page":"Kaufumbani"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"6df2a4bfd1f76948f9eb2013a69122a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911773,
+            "locality_id":1276723255,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1276723255,
+    "wof:lastmodified":1537653066,
+    "wof:name":"Kaufumbani",
+    "wof:parent_id":1091911773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22369000000001,
+    -4.64767,
+    39.22369000000001,
+    -4.64767
+],
+  "geometry": {"coordinates":[39.22369000000001,-4.64767],"type":"Point"}
+}

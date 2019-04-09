@@ -1,0 +1,71 @@
+{
+  "id": 1326606455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30403,0.51765,34.30403,0.51765",
+    "geom:latitude":0.51765,
+    "geom:longitude":34.30403,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kwangamor",
+    "gn:country_code":"KE",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":190040,
+    "gn:latitude":0.51765,
+    "gn:longitude":34.30403,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kwangamor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwangamur",
+        "Kwangamor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672967,
+        1091912613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":190040
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"49c9d572c4d9a3f44e897ec5618a04ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912613,
+            "locality_id":1326606455,
+            "region_id":85672967
+        }
+    ],
+    "wof:id":1326606455,
+    "wof:lastmodified":1537653059,
+    "wof:name":"Kwangamor",
+    "wof:parent_id":1091912613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30403,
+    0.51765,
+    34.30403,
+    0.51765
+],
+  "geometry": {"coordinates":[34.30403,0.51765],"type":"Point"}
+}

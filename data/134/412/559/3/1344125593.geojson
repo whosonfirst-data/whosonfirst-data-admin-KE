@@ -1,0 +1,67 @@
+{
+  "id": 1344125593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9869,-2.92763,39.9869,-2.92763",
+    "geom:latitude":-2.92763,
+    "geom:longitude":39.9869,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Korobani",
+    "gn:country_code":"KE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7845096,
+    "gn:latitude":-2.92763,
+    "gn:longitude":39.9869,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Korobani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7845096
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"53d48e7df7064e5f2c1eef05090ae576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911877,
+            "locality_id":1344125593,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1344125593,
+    "wof:lastmodified":1536782205,
+    "wof:name":"Korobani",
+    "wof:parent_id":1091911877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9869,
+    -2.92763,
+    39.9869,
+    -2.92763
+],
+  "geometry": {"coordinates":[39.9869,-2.92763],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259438817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.2236,-0.49048,37.2236,-0.49048",
+    "geom:latitude":-0.49048,
+    "geom:longitude":37.2236,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kamuiru",
+    "gn:country_code":"KE",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194643,
+    "gn:latitude":-0.49048,
+    "gn:longitude":37.2236,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kamuiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        890431357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194643,
+        "wk:page":"Kamuiru"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ad4988ed31550323ac17ab46e1b176c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890431357,
+            "locality_id":1259438817,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1259438817,
+    "wof:lastmodified":1537567153,
+    "wof:name":"Kamuiru",
+    "wof:parent_id":890431357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.2236,
+    -0.49048,
+    37.2236,
+    -0.49048
+],
+  "geometry": {"coordinates":[37.2236,-0.49048],"type":"Point"}
+}

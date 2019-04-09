@@ -1,0 +1,62 @@
+{
+  "id": 1209377505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.51,-2.925,37.51,-2.925",
+    "geom:latitude":-2.925,
+    "geom:longitude":37.51,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Loitokitok",
+    "gn:country_code":"KE",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11257910,
+    "gn:latitude":-2.925,
+    "gn:longitude":37.51,
+    "gn:modification_date":"2016-09-23",
+    "gn:name":"Loitokitok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11257910,
+        "wk:page":"Loitokitok"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"e28a7390ba9733459320260f13472ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209377505
+        }
+    ],
+    "wof:id":1209377505,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Loitokitok",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.51,
+    -2.925,
+    37.51,
+    -2.925
+],
+  "geometry": {"coordinates":[37.51,-2.925],"type":"Point"}
+}

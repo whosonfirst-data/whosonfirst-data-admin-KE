@@ -1,0 +1,62 @@
+{
+  "id": 1209649495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00836,-0.60661,36.00836,-0.60661",
+    "geom:latitude":-0.60661,
+    "geom:longitude":36.00836,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mau Narok",
+    "gn:country_code":"KE",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187221,
+    "gn:latitude":-0.60661,
+    "gn:longitude":36.00836,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Mau Narok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187221,
+        "wk:page":"Mau_Narok"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"8cd8819c5d29bd90358e5b7033ce2183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632329,
+            "locality_id":1209649495
+        }
+    ],
+    "wof:id":1209649495,
+    "wof:lastmodified":1537567140,
+    "wof:name":"Mau Narok",
+    "wof:parent_id":85632329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00836,
+    -0.60661,
+    36.00836,
+    -0.60661
+],
+  "geometry": {"coordinates":[36.00836,-0.60661],"type":"Point"}
+}

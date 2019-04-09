@@ -1,0 +1,72 @@
+{
+  "id": 1209751691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16314,-1.04444,36.16314,-1.04444",
+    "geom:latitude":-1.04444,
+    "geom:longitude":36.16314,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Nairagi Enkare",
+    "gn:country_code":"KE",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":184749,
+    "gn:latitude":-1.04444,
+    "gn:longitude":36.16314,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Nairagi Enkare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nairagie Ngare",
+        "Nairagi Enkare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":184749,
+        "wk:page":"Nairagie_Ngare"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f17918ac4c910e34770a5891f655c3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912451,
+            "locality_id":1209751691,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1209751691,
+    "wof:lastmodified":1537653044,
+    "wof:name":"Nairagi Enkare",
+    "wof:parent_id":1091912451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16314000000001,
+    -1.04444,
+    36.16314000000001,
+    -1.04444
+],
+  "geometry": {"coordinates":[36.16314000000001,-1.04444],"type":"Point"}
+}

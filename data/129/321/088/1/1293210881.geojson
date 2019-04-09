@@ -1,0 +1,68 @@
+{
+  "id": 1293210881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87949,-2.66757,37.87949,-2.66757",
+    "geom:latitude":-2.66757,
+    "geom:longitude":37.87949,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chyulu Hills",
+    "gn:country_code":"KE",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199185,
+    "gn:latitude":-2.66757,
+    "gn:longitude":37.87949,
+    "gn:modification_date":"2012-02-16",
+    "gn:name":"Chyulu Hills",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091911399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199185,
+        "wk:page":"Chyulu_Hills"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dab0b47b2eec95c436c422762e6cc65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911399,
+            "locality_id":1293210881,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1293210881,
+    "wof:lastmodified":1537567174,
+    "wof:name":"Chyulu Hills",
+    "wof:parent_id":1091911399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87949,
+    -2.66757,
+    37.87949,
+    -2.66757
+],
+  "geometry": {"coordinates":[37.87949,-2.66757],"type":"Point"}
+}

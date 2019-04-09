@@ -1,0 +1,67 @@
+{
+  "id": 1310351811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8995,-2.2787,40.8995,-2.2787",
+    "geom:latitude":-2.2787,
+    "geom:longitude":40.8995,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Mtambo",
+    "gn:country_code":"KE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525354,
+    "gn:latitude":-2.2787,
+    "gn:longitude":40.8995,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mtambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672943,
+        1091911825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525354
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"60924217eeabc02b819b21fbf1ced26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911825,
+            "locality_id":1310351811,
+            "region_id":85672943
+        }
+    ],
+    "wof:id":1310351811,
+    "wof:lastmodified":1536640335,
+    "wof:name":"Mtambo",
+    "wof:parent_id":1091911825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8995,
+    -2.2787,
+    40.8995,
+    -2.2787
+],
+  "geometry": {"coordinates":[40.8995,-2.2787],"type":"Point"}
+}

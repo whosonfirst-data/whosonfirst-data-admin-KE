@@ -1,0 +1,70 @@
+{
+  "id": 1259746333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.20499,0.31883,38.20499,0.31883",
+    "geom:latitude":0.31883,
+    "geom:longitude":38.20499,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kinna",
+    "gn:country_code":"KE",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":191800,
+    "gn:latitude":0.31883,
+    "gn:longitude":38.20499,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kinna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kinna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091911367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":191800
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"86c1a490dbfda6a6c612d677c30e22f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911367,
+            "locality_id":1259746333,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1259746333,
+    "wof:lastmodified":1537653062,
+    "wof:name":"Kinna",
+    "wof:parent_id":1091911367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.20499,
+    0.31883,
+    38.20499,
+    0.31883
+],
+  "geometry": {"coordinates":[38.20499,0.31883],"type":"Point"}
+}

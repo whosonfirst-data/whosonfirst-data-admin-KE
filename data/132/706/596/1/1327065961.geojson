@@ -1,0 +1,71 @@
+{
+  "id": 1327065961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2838,2.43407,35.2838,2.43407",
+    "geom:latitude":2.43407,
+    "geom:longitude":35.2838,
+    "gn:admin1_code":"51",
+    "gn:asciiname":"Lomorueseik",
+    "gn:country_code":"KE",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221234,
+    "gn:latitude":2.43407,
+    "gn:longitude":35.2838,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Lomorueseik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamueseyuk",
+        "Lomorueseyik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221234
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"2b1596e25437a8609d9e0d5d1ae1bf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1327065961,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1327065961,
+    "wof:lastmodified":1537653094,
+    "wof:name":"Lomorueseik",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2838,
+    2.43407,
+    35.2838,
+    2.43407
+],
+  "geometry": {"coordinates":[35.2838,2.43407],"type":"Point"}
+}

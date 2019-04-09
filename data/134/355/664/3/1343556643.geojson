@@ -1,0 +1,68 @@
+{
+  "id": 1343556643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02733,0.71086,36.02733,0.71086",
+    "geom:latitude":0.71086,
+    "geom:longitude":36.02733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Loruk",
+    "gn:country_code":"KE",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":188836,
+    "gn:latitude":0.71086,
+    "gn:longitude":36.02733,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Loruk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091910859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":188836,
+        "wk:page":"Loruk"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"26f3610fb25b387661f07c2c8ed32313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091910859,
+            "locality_id":1343556643,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1343556643,
+    "wof:lastmodified":1537567145,
+    "wof:name":"Loruk",
+    "wof:parent_id":1091910859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02733,
+    0.71086,
+    36.02733,
+    0.71086
+],
+  "geometry": {"coordinates":[36.02733,0.71086],"type":"Point"}
+}

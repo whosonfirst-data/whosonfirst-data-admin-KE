@@ -1,0 +1,67 @@
+{
+  "id": 1243393683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9954,1.1014,34.9954,1.1014",
+    "geom:latitude":1.1014,
+    "geom:longitude":34.9954,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kipsongo",
+    "gn:country_code":"KE",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288137,
+    "gn:latitude":1.1014,
+    "gn:longitude":34.9954,
+    "gn:modification_date":"2016-11-18",
+    "gn:name":"Kipsongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288137
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"3cd51addbedb8f138722d8529d72c787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912757,
+            "locality_id":1243393683,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1243393683,
+    "wof:lastmodified":1536881093,
+    "wof:name":"Kipsongo",
+    "wof:parent_id":1091912757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9954,
+    1.1014,
+    34.9954,
+    1.1014
+],
+  "geometry": {"coordinates":[34.9954,1.1014],"type":"Point"}
+}

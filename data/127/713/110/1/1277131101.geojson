@@ -1,0 +1,68 @@
+{
+  "id": 1277131101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53333,-0.81667,38.53333,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":38.53333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kaningo",
+    "gn:country_code":"KE",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":194382,
+    "gn:latitude":-0.81667,
+    "gn:longitude":38.53333,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kaningo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672959,
+        1091912293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":194382,
+        "wk:page":"Kaningo"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"24fb9ebe3dfb94ee67919eeffd54ac3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912293,
+            "locality_id":1277131101,
+            "region_id":85672959
+        }
+    ],
+    "wof:id":1277131101,
+    "wof:lastmodified":1537567152,
+    "wof:name":"Kaningo",
+    "wof:parent_id":1091912293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53333,
+    -0.81667,
+    38.53333,
+    -0.81667
+],
+  "geometry": {"coordinates":[38.53333,-0.81667],"type":"Point"}
+}

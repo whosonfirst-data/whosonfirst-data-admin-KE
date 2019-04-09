@@ -1,0 +1,72 @@
+{
+  "id": 1226614557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.74399,-1.16169,36.74399,-1.16169",
+    "geom:latitude":-1.16169,
+    "geom:longitude":36.74399,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Muthurua",
+    "gn:country_code":"KE",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":185348,
+    "gn:latitude":-1.16169,
+    "gn:longitude":36.74399,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Muthurua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
+    "iso:country":"KE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muthurwa",
+        "Muthurua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672947,
+        1091911571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185348,
+        "wk:page":"Muthurwa"
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"26d75aac4cb9b98d60e5f3c3dddd1113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911571,
+            "locality_id":1226614557,
+            "region_id":85672947
+        }
+    ],
+    "wof:id":1226614557,
+    "wof:lastmodified":1537653046,
+    "wof:name":"Muthurua",
+    "wof:parent_id":1091911571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.74399,
+    -1.16169,
+    36.74399,
+    -1.16169
+],
+  "geometry": {"coordinates":[36.74399,-1.16169],"type":"Point"}
+}

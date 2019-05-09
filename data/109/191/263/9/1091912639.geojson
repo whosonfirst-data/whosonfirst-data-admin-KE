@@ -10,6 +10,12 @@
     "geom:latitude":-0.135363,
     "geom:longitude":38.023025,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Tharaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.120868,
     "lbl:longitude":38.040304,
     "meso:admin_1":"EASTERN",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091912639,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717978,
     "wof:name":"Tharaka",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

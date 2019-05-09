@@ -10,6 +10,12 @@
     "geom:latitude":-2.047279,
     "geom:longitude":40.777607,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Lamu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.156393,
     "lbl:longitude":40.533296,
     "meso:admin_1":"COAST",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911825,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717976,
     "wof:name":"Lamu",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

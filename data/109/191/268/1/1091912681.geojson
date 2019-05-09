@@ -10,6 +10,12 @@
     "geom:latitude":-1.007492,
     "geom:longitude":37.017672,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Thika District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.085311,
     "lbl:longitude":37.043758,
     "meso:admin_1":"CENTRAL",
@@ -30,11 +36,12 @@
         "Thika"
     ],
     "name:eng_x_preferred":[
-        "Thika District"
+        "Thika"
     ],
     "name:eng_x_variant":[
         "Thika",
-        "Kiambu"
+        "Kiambu",
+        "Thika"
     ],
     "name:ita_x_preferred":[
         "Distretto di Thika"
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":1091912681,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1555220359,
     "wof:name":"Thika",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

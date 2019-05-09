@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Taita Taveta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.476875,
     "lbl:longitude":38.352162,
     "meso:admin_1":"COAST",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890442857,
-    "wof:lastmodified":1536617384,
+    "wof:lastmodified":1553717603,
     "wof:name":"Taita Taveta",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

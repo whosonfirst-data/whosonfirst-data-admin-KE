@@ -10,6 +10,12 @@
     "geom:latitude":1.326791,
     "geom:longitude":37.11726,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Samburu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.294305,
     "lbl:longitude":37.043589,
     "meso:admin_1":"RIFT VALLEY",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912581,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717978,
     "wof:name":"Samburu",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.602379,
     "geom:longitude":34.274766,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Teso District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.56945,
     "lbl:longitude":34.258069,
     "meso:admin_1":"WESTERN",
@@ -30,11 +36,12 @@
         "Teso"
     ],
     "name:eng_x_preferred":[
-        "Teso District"
+        "Teso"
     ],
     "name:eng_x_variant":[
         "Teso",
-        "Busia"
+        "Busia",
+        "Teso"
     ],
     "name:ger_x_preferred":[
         "Teso District"
@@ -78,7 +85,7 @@
         }
     ],
     "wof:id":1091912613,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1555220359,
     "wof:name":"Teso",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

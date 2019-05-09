@@ -10,6 +10,12 @@
     "geom:latitude":0.536243,
     "geom:longitude":35.320844,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Uasin Gishu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.559812,
     "lbl:longitude":35.315526,
     "meso:admin_1":"RIFT VALLEY",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912837,
-    "wof:lastmodified":1536615018,
+    "wof:lastmodified":1553717977,
     "wof:name":"Uasin Gishu",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

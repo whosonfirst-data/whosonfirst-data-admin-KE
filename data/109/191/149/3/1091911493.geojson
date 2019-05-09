@@ -10,6 +10,12 @@
     "geom:latitude":0.489195,
     "geom:longitude":35.572029,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Keiyo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.468163,
     "lbl:longitude":35.545953,
     "meso:admin_1":"RIFT VALLEY",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1091911493,
-    "wof:lastmodified":1536615014,
+    "wof:lastmodified":1553717974,
     "wof:name":"Keiyo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

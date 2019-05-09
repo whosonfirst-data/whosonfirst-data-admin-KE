@@ -10,6 +10,12 @@
     "geom:latitude":-1.288343,
     "geom:longitude":37.407023,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Machakos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.307179,
     "lbl:longitude":37.440667,
     "meso:admin_1":"EASTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911873,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717974,
     "wof:name":"Machakos",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

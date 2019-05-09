@@ -10,6 +10,12 @@
     "geom:latitude":-0.486039,
     "geom:longitude":40.182566,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Garissa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.490077,
     "lbl:longitude":40.40076,
     "meso:admin_1":"NORTH EASTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911249,
-    "wof:lastmodified":1536615014,
+    "wof:lastmodified":1553717974,
     "wof:name":"Garissa",
     "wof:parent_id":85672969,
     "wof:placetype":"county",

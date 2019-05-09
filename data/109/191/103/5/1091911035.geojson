@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113451,
-    "geom:area_square_m":1402775745.310585,
+    "geom:area_square_m":1402775745.310619,
     "geom:bbox":"35.0526859015,-0.722384561351,35.5870208347,-0.365248590785",
     "geom:latitude":-0.549085,
     "geom:longitude":35.298104,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Buret District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.534793,
     "lbl:longitude":35.319817,
     "meso:admin_1":"RIFT VALLEY",
@@ -30,11 +36,12 @@
         "Buret"
     ],
     "name:eng_x_preferred":[
-        "Buret District"
+        "Buret"
     ],
     "name:eng_x_variant":[
         "Buret",
-        "Bomet"
+        "Bomet",
+        "Buret"
     ],
     "name:ger_x_preferred":[
         "Buret District"
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":1091911035,
-    "wof:lastmodified":1553816440,
+    "wof:lastmodified":1555220358,
     "wof:name":"Buret",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

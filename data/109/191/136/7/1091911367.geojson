@@ -10,6 +10,12 @@
     "geom:latitude":1.014149,
     "geom:longitude":38.539842,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Isiolo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.039394,
     "lbl:longitude":38.559276,
     "meso:admin_1":"EASTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911367,
-    "wof:lastmodified":1536615014,
+    "wof:lastmodified":1553717974,
     "wof:name":"Isiolo",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

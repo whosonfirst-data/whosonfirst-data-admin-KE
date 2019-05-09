@@ -10,6 +10,12 @@
     "geom:latitude":-0.290032,
     "geom:longitude":37.657562,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Meru South District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.320766,
     "lbl:longitude":37.733775,
     "meso:admin_1":"EASTERN",
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1091912169,
-    "wof:lastmodified":1536615016,
+    "wof:lastmodified":1553717975,
     "wof:name":"Meru South",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

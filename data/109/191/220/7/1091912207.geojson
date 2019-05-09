@@ -10,6 +10,12 @@
     "geom:latitude":-4.015233,
     "geom:longitude":39.653721,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Mombasa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.999937,
     "lbl:longitude":39.669073,
     "meso:admin_1":"COAST",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912207,
-    "wof:lastmodified":1536615016,
+    "wof:lastmodified":1553717976,
     "wof:name":"Mombasa",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

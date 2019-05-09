@@ -10,6 +10,12 @@
     "geom:latitude":1.725039,
     "geom:longitude":35.245421,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "West Pokot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.530396,
     "lbl:longitude":35.287653,
     "meso:admin_1":"RIFT VALLEY",
@@ -26,6 +32,9 @@
     "mps:longitude":35.287653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "West Pokot"
+    ],
     "name:eng_x_variant":[
         "West Pokot"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1091912907,
-    "wof:lastmodified":1536615018,
+    "wof:lastmodified":1555220359,
     "wof:name":"West Pokot",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

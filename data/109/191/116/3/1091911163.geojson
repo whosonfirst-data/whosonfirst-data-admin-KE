@@ -10,6 +10,12 @@
     "geom:latitude":-0.696215,
     "geom:longitude":34.817561,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Central Kisii District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.617878,
     "lbl:longitude":34.754802,
     "meso:admin_1":"NYANZA",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091911163,
-    "wof:lastmodified":1536615014,
+    "wof:lastmodified":1553717973,
     "wof:name":"Central Kisii",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

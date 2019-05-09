@@ -10,6 +10,12 @@
     "geom:latitude":0.327531,
     "geom:longitude":36.77272,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Laikipia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.253797,
     "lbl:longitude":36.829971,
     "meso:admin_1":"RIFT VALLEY",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911809,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717974,
     "wof:name":"Laikipia",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

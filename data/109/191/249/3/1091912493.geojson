@@ -10,6 +10,12 @@
     "geom:latitude":-0.637753,
     "geom:longitude":34.967874,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Nyamira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.657474,
     "lbl:longitude":34.965658,
     "meso:admin_1":"NYANZA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912493,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717977,
     "wof:name":"Nyamira",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

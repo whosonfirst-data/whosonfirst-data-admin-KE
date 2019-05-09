@@ -10,6 +10,12 @@
     "geom:latitude":0.188556,
     "geom:longitude":35.114353,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Nandi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.171313,
     "lbl:longitude":35.119569,
     "meso:admin_1":"RIFT VALLEY",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091912403,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717977,
     "wof:name":"Nandi",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

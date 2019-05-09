@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107392,
-    "geom:area_square_m":1327893199.799908,
+    "geom:area_square_m":1327893199.799851,
     "geom:bbox":"34.3911461172,-0.602040800224,35.028944274,-0.236218631583",
     "geom:latitude":-0.401464,
     "geom:longitude":34.665511,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":300000,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Rachuonyo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.389744,
     "lbl:longitude":34.670333,
     "meso:admin_1":"NYANZA",
@@ -36,11 +42,12 @@
         "Rachuonyo"
     ],
     "name:eng_x_preferred":[
-        "Rachuonyo District"
+        "Rachuonyo"
     ],
     "name:eng_x_variant":[
         "Rachuonyo",
-        "Homa Bay"
+        "Homa Bay",
+        "Rachuonyo"
     ],
     "name:fre_x_preferred":[
         "Rachuonyo"
@@ -95,7 +102,7 @@
         }
     ],
     "wof:id":890427529,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555220348,
     "wof:name":"Rachuonyo",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

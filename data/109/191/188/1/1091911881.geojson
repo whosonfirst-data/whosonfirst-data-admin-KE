@@ -10,6 +10,12 @@
     "geom:latitude":3.438789,
     "geom:longitude":40.736963,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Mandera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.486308,
     "lbl:longitude":40.721137,
     "meso:admin_1":"NORTH EASTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911881,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717977,
     "wof:name":"Mandera",
     "wof:parent_id":85672969,
     "wof:placetype":"county",

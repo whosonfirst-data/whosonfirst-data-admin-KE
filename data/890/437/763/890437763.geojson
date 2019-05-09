@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Nyandarua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.216065,
     "lbl:longitude":36.434784,
     "meso:admin_1":"CENTRAL",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890437763,
-    "wof:lastmodified":1536617383,
+    "wof:lastmodified":1553717601,
     "wof:name":"Nyandarua",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

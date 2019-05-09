@@ -10,6 +10,12 @@
     "geom:latitude":-4.144184,
     "geom:longitude":39.155341,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Kwale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.204912,
     "lbl:longitude":39.213537,
     "meso:admin_1":"COAST",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911773,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717974,
     "wof:name":"Kwale",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

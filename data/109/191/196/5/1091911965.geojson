@@ -10,6 +10,12 @@
     "geom:latitude":1.084439,
     "geom:longitude":35.508176,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Marakwet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.06912,
     "lbl:longitude":35.512381,
     "meso:admin_1":"RIFT VALLEY",
@@ -33,11 +39,12 @@
         "Marakwet"
     ],
     "name:eng_x_preferred":[
-        "Marakwet District"
+        "Marakwet"
     ],
     "name:eng_x_variant":[
         "Marakwet",
-        "West Pokot"
+        "West Pokot",
+        "Marakwet"
     ],
     "name:fre_x_preferred":[
         "district de Marakwet"
@@ -84,7 +91,7 @@
         }
     ],
     "wof:id":1091911965,
-    "wof:lastmodified":1536615016,
+    "wof:lastmodified":1555220359,
     "wof:name":"Marakwet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.254148,
     "geom:longitude":35.453029,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Turkana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.400507,
     "lbl:longitude":35.317796,
     "meso:admin_1":"RIFT VALLEY",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912795,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717978,
     "wof:name":"Turkana",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

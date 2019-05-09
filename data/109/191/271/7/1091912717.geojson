@@ -10,6 +10,12 @@
     "geom:latitude":-1.159987,
     "geom:longitude":34.899852,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Trans Mara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.134947,
     "lbl:longitude":34.867685,
     "meso:admin_1":"RIFT VALLEY",
@@ -30,11 +36,12 @@
         "Trans-Mara"
     ],
     "name:eng_x_preferred":[
-        "Trans Mara District"
+        "Trans Mara"
     ],
     "name:eng_x_variant":[
         "Trans Mara",
-        "Narok"
+        "Narok",
+        "Trans Mara"
     ],
     "name:ger_x_preferred":[
         "Trans Mara District"
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":1091912717,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1555220359,
     "wof:name":"Trans Mara",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

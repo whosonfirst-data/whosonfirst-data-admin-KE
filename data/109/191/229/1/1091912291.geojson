@@ -10,6 +10,12 @@
     "geom:latitude":-0.676735,
     "geom:longitude":36.973483,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Muranga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.675926,
     "lbl:longitude":36.978707,
     "meso:admin_1":"CENTRAL",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091912291,
-    "wof:lastmodified":1536615016,
+    "wof:lastmodified":1553717977,
     "wof:name":"Muranga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

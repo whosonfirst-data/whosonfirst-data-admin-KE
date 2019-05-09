@@ -10,6 +10,12 @@
     "geom:latitude":-2.165767,
     "geom:longitude":37.802346,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Makueni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.872307,
     "lbl:longitude":37.631847,
     "meso:admin_1":"EASTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091911875,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1553717974,
     "wof:name":"Makueni",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

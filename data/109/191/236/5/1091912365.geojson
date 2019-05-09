@@ -10,6 +10,12 @@
     "geom:latitude":-0.462609,
     "geom:longitude":36.080438,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Nakuru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.306822,
     "lbl:longitude":35.990811,
     "meso:admin_1":"RIFT VALLEY",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912365,
-    "wof:lastmodified":1536615016,
+    "wof:lastmodified":1553717977,
     "wof:name":"Nakuru",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

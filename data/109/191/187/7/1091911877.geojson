@@ -10,6 +10,12 @@
     "geom:latitude":-2.933772,
     "geom:longitude":39.756977,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Malindi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.890832,
     "lbl:longitude":39.810034,
     "meso:admin_1":"COAST",
@@ -30,11 +36,12 @@
         "Malindi"
     ],
     "name:eng_x_preferred":[
-        "Malindi District"
+        "Malindi"
     ],
     "name:eng_x_variant":[
         "Malindi",
-        "Kilifi"
+        "Kilifi",
+        "Malindi"
     ],
     "name:ger_x_preferred":[
         "Malindi District"
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":1091911877,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1555220359,
     "wof:name":"Malindi",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.339389,
     "geom:longitude":36.956235,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Nyeri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.432706,
     "lbl:longitude":36.892583,
     "meso:admin_1":"CENTRAL",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912541,
-    "wof:lastmodified":1536615017,
+    "wof:lastmodified":1553717977,
     "wof:name":"Nyeri",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

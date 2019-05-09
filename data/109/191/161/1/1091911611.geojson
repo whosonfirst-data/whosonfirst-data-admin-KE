@@ -10,6 +10,12 @@
     "geom:latitude":-3.558911,
     "geom:longitude":39.571754,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Kilifi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.546527,
     "lbl:longitude":39.571744,
     "meso:admin_1":"COAST",
@@ -26,6 +32,9 @@
     "mps:longitude":39.571744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kilifi"
+    ],
     "name:eng_x_variant":[
         "Kilifi"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1091911611,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1555220358,
     "wof:name":"Kilifi",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

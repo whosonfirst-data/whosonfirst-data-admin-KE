@@ -10,6 +10,12 @@
     "geom:latitude":-0.845069,
     "geom:longitude":34.741129,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Gucha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.847788,
     "lbl:longitude":34.741169,
     "meso:admin_1":"NYANZA",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1091911277,
-    "wof:lastmodified":1536615014,
+    "wof:lastmodified":1553717973,
     "wof:name":"Gucha",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

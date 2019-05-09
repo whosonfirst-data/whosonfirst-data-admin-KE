@@ -10,6 +10,12 @@
     "geom:latitude":0.107758,
     "geom:longitude":35.870927,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Koibatek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.08128,
     "lbl:longitude":35.789415,
     "meso:admin_1":"RIFT VALLEY",
@@ -30,11 +36,12 @@
         "Koibatek"
     ],
     "name:eng_x_preferred":[
-        "Koibatek District"
+        "Koibatek"
     ],
     "name:eng_x_variant":[
         "Koibatek",
-        "Baringo"
+        "Baringo",
+        "Koibatek"
     ],
     "name:ger_x_preferred":[
         "Koibatek District"
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":1091911719,
-    "wof:lastmodified":1536615015,
+    "wof:lastmodified":1555220358,
     "wof:name":"Koibatek",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.079637,
     "geom:longitude":34.722086,
     "iso:country":"KE",
+    "label:eng_x_preferred_longname":[
+        "Vihiga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.068392,
     "lbl:longitude":34.722016,
     "meso:admin_1":"WESTERN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091912851,
-    "wof:lastmodified":1536615018,
+    "wof:lastmodified":1553717977,
     "wof:name":"Vihiga",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

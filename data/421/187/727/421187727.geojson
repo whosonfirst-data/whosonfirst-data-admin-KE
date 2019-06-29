@@ -16,17 +16,11 @@
     "name:deu_x_preferred":[
         "Ngong"
     ],
-    "name:dut_x_preferred":[
-        "Ngong"
-    ],
     "name:eng_x_preferred":[
         "Ngong"
     ],
     "name:fas_x_preferred":[
         "\u0646\u06af\u0648\u0646\u06af\u060c \u06a9\u0646\u06cc\u0627"
-    ],
-    "name:ger_x_preferred":[
-        "Ngong"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30b4\u30f3\u30b0"
@@ -39,9 +33,6 @@
     ],
     "name:nor_x_preferred":[
         "Ngong"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u06af\u0648\u0646\u06af\u060c \u06a9\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Ngong"
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421187727,
-    "wof:lastmodified":1527716253,
+    "wof:lastmodified":1561777173,
     "wof:name":"Ngong",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

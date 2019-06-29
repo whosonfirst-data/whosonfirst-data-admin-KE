@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Mbagathi"
-    ],
     "name:eng_x_preferred":[
         "Mbagathi"
     ],
     "name:est_x_preferred":[
+        "Mbagathi"
+    ],
+    "name:nld_x_preferred":[
         "Mbagathi"
     ],
     "name:unk_x_variant":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":421180997,
-    "wof:lastmodified":1514468704,
+    "wof:lastmodified":1561777172,
     "wof:name":"Empakasi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

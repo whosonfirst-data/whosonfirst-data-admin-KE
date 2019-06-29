@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Mwingi"
-    ],
     "name:eng_x_preferred":[
         "Mwingi"
     ],
@@ -189,7 +186,7 @@
         }
     ],
     "wof:id":421195821,
-    "wof:lastmodified":1527716119,
+    "wof:lastmodified":1561777170,
     "wof:name":"Mwingi",
     "wof:parent_id":1091912293,
     "wof:placetype":"locality",

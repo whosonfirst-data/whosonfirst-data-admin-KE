@@ -19,10 +19,7 @@
     "name:cat_x_preferred":[
         "Kilifi"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5229\u83f2"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kilifi"
     ],
     "name:eng_x_preferred":[
@@ -31,13 +28,7 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0644\u06cc\u0641\u06cc\u060c \u06a9\u0646\u06cc\u0627"
     ],
-    "name:fre_x_preferred":[
-        "Kilifi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10da\u10d8\u10e4\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilifi"
     ],
     "name:ita_x_preferred":[
@@ -49,16 +40,16 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10da\u10d8\u10e4\u10d8"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kilifi"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0644\u06cc\u0641\u06cc\u060c \u06a9\u0646\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Kilifi"
     ],
     "name:pol_x_preferred":[
         "Kilifi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kilifi"
     ],
     "name:rus_x_preferred":[
@@ -213,7 +204,7 @@
         }
     ],
     "wof:id":890443513,
-    "wof:lastmodified":1527787072,
+    "wof:lastmodified":1561777177,
     "wof:name":"Kilifi",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

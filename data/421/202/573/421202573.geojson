@@ -16,29 +16,26 @@
     "name:cat_x_preferred":[
         "Muranga"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u62c9\u96c5"
-    ],
-    "name:dut_x_preferred":[
-        "Murang'a"
+    "name:deu_x_preferred":[
+        "Murang\u2019a"
     ],
     "name:eng_x_preferred":[
         "Murang'a"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Murang'a"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10e0\u10d0\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Murang\u2019a"
     ],
     "name:ita_x_preferred":[
         "Muranga"
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30e9\u30f3\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10e0\u10d0\u10dc\u10d2\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Murang'a"
     ],
     "name:nob_x_preferred":[
         "Murang'a"
@@ -49,7 +46,7 @@
     "name:por_x_preferred":[
         "Murang'a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Muranga"
     ],
     "name:spa_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Murang\u2019a"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u62c9\u96c5"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421202573,
-    "wof:lastmodified":1514468704,
+    "wof:lastmodified":1561777171,
     "wof:name":"Fort Hall",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

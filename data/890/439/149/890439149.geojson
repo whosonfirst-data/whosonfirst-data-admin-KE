@@ -18,19 +18,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0430\u0443\u043d\u0433\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5361\u6eab\u53e4"
-    ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Takaungu"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Takaungu"
     ],
     "name:pol_x_preferred":[
         "Takaungu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Takaungu"
     ],
     "name:spa_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:swe_x_preferred":[
         "Takaungu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5361\u6eab\u53e4"
     ],
     "qs:name":"Takaungu",
     "qs:photos_9r":0,
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890439149,
-    "wof:lastmodified":1527729733,
+    "wof:lastmodified":1561777177,
     "wof:name":"Takaungu",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

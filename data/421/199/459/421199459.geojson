@@ -16,17 +16,8 @@
     "name:cat_x_preferred":[
         "Kapenguria"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5f6d\u53e4\u91cc\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Kapenguria"
-    ],
     "name:eng_x_preferred":[
         "Kapenguria"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10de\u10d4\u10dc\u10d2\u10e3\u10e0\u10d8\u10d0"
     ],
     "name:ita_x_preferred":[
         "Kapenguria"
@@ -36,6 +27,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10de\u10d4\u10dc\u10d2\u10e3\u10e0\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Kapenguria"
     ],
     "name:nob_x_preferred":[
         "Kapenguria"
@@ -47,9 +41,6 @@
         "Kapenguria"
     ],
     "name:ron_x_preferred":[
-        "Kapenguria"
-    ],
-    "name:rum_x_preferred":[
         "Kapenguria"
     ],
     "name:spa_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421199459,
-    "wof:lastmodified":1527716418,
+    "wof:lastmodified":1561777175,
     "wof:name":"Kapenguria",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

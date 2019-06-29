@@ -16,26 +16,20 @@
     "name:deu_x_preferred":[
         "Ukunda"
     ],
-    "name:dut_x_preferred":[
-        "Ukunda"
-    ],
     "name:eng_x_preferred":[
         "Ukunda"
     ],
     "name:fra_x_preferred":[
         "Ukunda"
     ],
-    "name:fre_x_preferred":[
-        "Ukunda"
-    ],
     "name:fry_x_preferred":[
-        "Ukunda"
-    ],
-    "name:ger_x_preferred":[
         "Ukunda"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30af\u30f3\u30c0"
+    ],
+    "name:nld_x_preferred":[
+        "Ukunda"
     ],
     "name:nob_x_preferred":[
         "Ukunda"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421200077,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1561777175,
     "wof:name":"Ukunda",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

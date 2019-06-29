@@ -23,9 +23,6 @@
     "name:afr_x_preferred":[
         "Nairobi"
     ],
-    "name:alb_x_preferred":[
-        "Nairobi"
-    ],
     "name:amh_x_preferred":[
         "\u1293\u12ed\u122e\u1262"
     ],
@@ -34,9 +31,6 @@
     ],
     "name:arg_x_preferred":[
         "Nairobi"
-    ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0575\u0580\u0578\u0562\u056b"
     ],
     "name:arz_x_preferred":[
         "\u0646\u0627\u064a\u0631\u0648\u0628\u0649"
@@ -49,9 +43,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
-    ],
-    "name:baq_x_preferred":[
-        "Nairobi"
     ],
     "name:bcl_x_preferred":[
         "Nairobi"
@@ -74,9 +65,6 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1014\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1018\u102e\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
     ],
@@ -89,25 +77,19 @@
     "name:che_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5948\u6d1b\u6bd4"
-    ],
     "name:ckb_x_preferred":[
         "\u0646\u0627\u06cc\u0631\u06c6\u0628\u06cc"
     ],
     "name:cor_x_preferred":[
         "Nairobi"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Nairobi"
     ],
     "name:dan_x_preferred":[
         "Nairobi"
     ],
     "name:deu_x_preferred":[
-        "Nairobi"
-    ],
-    "name:dut_x_preferred":[
         "Nairobi"
     ],
     "name:ell_x_preferred":[
@@ -140,17 +122,8 @@
     "name:fra_x_preferred":[
         "Nairobi"
     ],
-    "name:fre_x_preferred":[
-        "Nairobi"
-    ],
     "name:fry_x_preferred":[
         "Nairoby"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10d8\u10e0\u10dd\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Nairobi"
     ],
     "name:gla_x_preferred":[
         "Nairobi"
@@ -160,9 +133,6 @@
     ],
     "name:glg_x_preferred":[
         "Nairobi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03ca\u03c1\u03cc\u03bc\u03c0\u03b9"
     ],
     "name:gsw_x_preferred":[
         "Nairobi"
@@ -196,9 +166,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0575\u0580\u0578\u0562\u056b"
-    ],
-    "name:ice_x_preferred":[
-        "Na\u00edr\u00f3b\u00ed"
     ],
     "name:ido_x_preferred":[
         "Nairobi"
@@ -290,20 +257,11 @@
     "name:ltz_x_preferred":[
         "Nairobi"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0430\u0458\u0440\u043e\u0431\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d28\u0d2f\u0d4d\u0d31\u0d4b\u0d2c\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Nairobi"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0948\u0930\u094b\u092c\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Nairobi"
     ],
     "name:mhr_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
@@ -317,8 +275,14 @@
     "name:mon_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
     ],
+    "name:mri_x_preferred":[
+        "Nairobi"
+    ],
     "name:mrj_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Nairobi"
     ],
     "name:mya_x_preferred":[
         "\u1014\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1018\u102e\u1019\u103c\u102d\u102f\u1037"
@@ -371,9 +335,6 @@
     "name:pap_x_preferred":[
         "Nairobi"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06cc\u0631\u0648\u0628\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Nair\u00f2bi"
     ],
@@ -394,9 +355,6 @@
     ],
     "name:rue_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0456"
-    ],
-    "name:rum_x_preferred":[
-        "Nairobi"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
@@ -419,9 +377,6 @@
     "name:slk_x_preferred":[
         "Nairobi"
     ],
-    "name:slo_x_preferred":[
-        "Nairobi"
-    ],
     "name:slv_x_preferred":[
         "Nairobi"
     ],
@@ -435,6 +390,9 @@
         "Nayroobi"
     ],
     "name:spa_x_preferred":[
+        "Nairobi"
+    ],
+    "name:sqi_x_preferred":[
         "Nairobi"
     ],
     "name:srd_x_preferred":[
@@ -473,9 +431,6 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e19\u0e42\u0e23\u0e1a\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f53\u0f60\u0f72\u0f0b\u0f62\u0f7c\u0f0b\u0f56\u0f72\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Na\u00fdrobi"
     ],
@@ -513,9 +468,6 @@
         "Nairobi"
     ],
     "name:war_x_preferred":[
-        "Nairobi"
-    ],
-    "name:wel_x_preferred":[
         "Nairobi"
     ],
     "name:wol_x_preferred":[
@@ -684,7 +636,7 @@
         }
     ],
     "wof:id":421174401,
-    "wof:lastmodified":1552519482,
+    "wof:lastmodified":1561777172,
     "wof:name":"Nairobi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

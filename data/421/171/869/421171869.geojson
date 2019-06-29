@@ -25,41 +25,26 @@
     "name:ces_x_preferred":[
         "Dadaab"
     ],
-    "name:chi_x_preferred":[
-        "\u9054\u9054\u963f\u5e03"
-    ],
-    "name:cze_x_preferred":[
-        "Dadaab"
-    ],
     "name:dan_x_preferred":[
         "Dadaab"
     ],
     "name:deu_x_preferred":[
         "Dadaab"
     ],
-    "name:dut_x_preferred":[
-        "Dadaab"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bc\u03c0\u03b1\u03ac\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Dadaab"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u062f\u0627\u0628"
     ],
     "name:fin_x_preferred":[
         "Dadaab"
     ],
     "name:fra_x_preferred":[
         "Dadaab"
-    ],
-    "name:fre_x_preferred":[
-        "Dadaab"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10d3\u10d0\u10d0\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dadaab"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bc\u03c0\u03b1\u03ac\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0aa6\u0abe\u0aac"
@@ -97,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u0926\u093e\u0926\u093e\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dadaab"
     ],
     "name:nld_x_preferred":[
@@ -106,9 +91,6 @@
     "name:nob_x_preferred":[
         "Dadaab"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u062f\u0627\u0628"
-    ],
     "name:pol_x_preferred":[
         "Dadaab"
     ],
@@ -116,9 +98,6 @@
         "Dadaab"
     ],
     "name:ron_x_preferred":[
-        "Dadaab"
-    ],
-    "name:rum_x_preferred":[
         "Dadaab"
     ],
     "name:rus_x_preferred":[
@@ -207,7 +186,7 @@
         }
     ],
     "wof:id":421171869,
-    "wof:lastmodified":1527726485,
+    "wof:lastmodified":1561777176,
     "wof:name":"Dadaab",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

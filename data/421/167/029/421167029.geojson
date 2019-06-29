@@ -16,17 +16,14 @@
     "name:deu_x_preferred":[
         "Maua"
     ],
-    "name:dut_x_preferred":[
-        "Maua"
-    ],
     "name:eng_x_preferred":[
-        "Maua"
-    ],
-    "name:ger_x_preferred":[
         "Maua"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Maua"
     ],
     "name:pol_x_preferred":[
         "Maua"
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421167029,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1561777170,
     "wof:name":"Maua",
     "wof:parent_id":1091912127,
     "wof:placetype":"locality",

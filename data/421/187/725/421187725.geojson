@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Limuru"
     ],
-    "name:dut_x_preferred":[
-        "Limuru"
-    ],
     "name:eng_x_preferred":[
         "Limuru"
     ],
-    "name:fre_x_preferred":[
-        "Limuru"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10e3\u10e0\u10e3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Limuru"
     ],
     "name:jpn_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10db\u10e3\u10e0\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Limuru"
     ],
     "name:pol_x_preferred":[
         "Limuru"
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":421187725,
-    "wof:lastmodified":1527716247,
+    "wof:lastmodified":1561777172,
     "wof:name":"Limuru",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

@@ -13,9 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Ahero"
-    ],
     "name:eng_x_preferred":[
         "Ahero"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":421173597,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561777173,
     "wof:name":"Ahero",
     "wof:parent_id":1091912511,
     "wof:placetype":"locality",

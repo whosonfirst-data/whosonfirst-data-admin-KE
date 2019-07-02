@@ -19,23 +19,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u897f\u8afe"
-    ],
-    "name:dut_x_preferred":[
-        "Maseno"
-    ],
     "name:eng_x_preferred":[
         "Maseno"
     ],
     "name:fra_x_preferred":[
         "Maseno"
     ],
-    "name:fre_x_preferred":[
-        "Maseno"
-    ],
     "name:jpn_x_preferred":[
         "\u30de\u30bb\u30ce"
+    ],
+    "name:nld_x_preferred":[
+        "Maseno"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u043e"
@@ -45,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Maseno"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u897f\u8afe"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -93,7 +90,7 @@
         }
     ],
     "wof:id":421186683,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1561777173,
     "wof:name":"Maseno",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

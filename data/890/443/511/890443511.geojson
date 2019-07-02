@@ -25,14 +25,14 @@
     "name:cat_x_preferred":[
         "Kisii town"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u897f"
-    ],
     "name:dan_x_preferred":[
         "Kisii"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kisii"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kisii"
@@ -46,17 +46,8 @@
     "name:fin_x_preferred":[
         "Kisii"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kisii"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e1\u10d8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kisii"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab8\u0ac0"
@@ -94,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0938\u0940\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kisii"
+    ],
+    "name:nld_x_preferred":[
         "Kisii"
     ],
     "name:nob_x_preferred":[
         "Kisii"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0633\u06cc\u060c \u06a9\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Kisii"
@@ -109,7 +100,7 @@
     "name:por_x_preferred":[
         "Kisii"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kisii"
     ],
     "name:rus_x_preferred":[
@@ -280,7 +271,7 @@
         }
     ],
     "wof:id":890443511,
-    "wof:lastmodified":1527787063,
+    "wof:lastmodified":1561777177,
     "wof:name":"Kisii",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

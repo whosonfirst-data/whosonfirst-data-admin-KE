@@ -22,22 +22,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0435\u0440\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u6cf0\u96f7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Butere"
     ],
     "name:eng_x_preferred":[
         "Butere"
     ],
-    "name:fre_x_preferred":[
-        "Butere"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e2\u10d4\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Butere"
     ],
     "name:ita_x_preferred":[
@@ -46,7 +37,13 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30e5\u30fc\u30bf\u30fc"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d4\u10e0\u10d4"
+    ],
     "name:kik_x_preferred":[
+        "Butere"
+    ],
+    "name:nld_x_preferred":[
         "Butere"
     ],
     "name:pol_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Butere"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6cf0\u96f7"
     ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125782185,
-    "wof:lastmodified":1514468702,
+    "wof:lastmodified":1561777179,
     "wof:name":"Butere",
     "wof:parent_id":1091911121,
     "wof:placetype":"locality",

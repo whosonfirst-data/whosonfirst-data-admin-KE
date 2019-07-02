@@ -35,20 +35,14 @@
     "name:ces_x_preferred":[
         "Nakuru"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u5e93\u9c81"
-    ],
-    "name:cze_x_preferred":[
-        "Nakuru"
-    ],
     "name:dan_x_preferred":[
         "Nakuru"
     ],
     "name:deu_x_preferred":[
         "Nakuru"
     ],
-    "name:dut_x_preferred":[
-        "Nakuru"
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03ba\u03bf\u03cd\u03c1\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Nakuru"
@@ -64,18 +58,6 @@
     ],
     "name:fra_x_preferred":[
         "Nakuru"
-    ],
-    "name:fre_x_preferred":[
-        "Nakuru"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10d9\u10e3\u10e0\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Nakuru"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03ba\u03bf\u03cd\u03c1\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a95\u0ac1\u0ab0\u0ac1"
@@ -119,16 +101,13 @@
     "name:lit_x_preferred":[
         "Nakuru"
     ],
-    "name:mao_x_preferred":[
-        "Nakuru"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0915\u0941\u0930\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
         "Nakuru"
     ],
-    "name:mri_x_preferred":[
+    "name:msa_x_preferred":[
         "Nakuru"
     ],
     "name:nld_x_preferred":[
@@ -140,9 +119,6 @@
     "name:nor_x_preferred":[
         "Nakuru"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u06a9\u0648\u0631\u0648\u060c \u06a9\u0646\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Nakuru"
     ],
@@ -150,9 +126,6 @@
         "Nakuru"
     ],
     "name:ron_x_preferred":[
-        "Nakuru"
-    ],
-    "name:rum_x_preferred":[
         "Nakuru"
     ],
     "name:rus_x_preferred":[
@@ -352,7 +325,7 @@
         }
     ],
     "wof:id":421198615,
-    "wof:lastmodified":1527716356,
+    "wof:lastmodified":1561777174,
     "wof:name":"Nakuru",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

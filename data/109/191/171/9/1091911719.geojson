@@ -32,8 +32,8 @@
     "mps:longitude":35.789415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Koibatek"
+    "name:deu_x_preferred":[
+        "Koibatek District"
     ],
     "name:eng_x_preferred":[
         "Koibatek"
@@ -43,8 +43,8 @@
         "Baringo",
         "Koibatek"
     ],
-    "name:ger_x_preferred":[
-        "Koibatek District"
+    "name:nld_x_preferred":[
+        "Koibatek"
     ],
     "name:swa_x_preferred":[
         "Wilaya ya Koibatek"
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1091911719,
-    "wof:lastmodified":1555220358,
+    "wof:lastmodified":1561777169,
     "wof:name":"Koibatek",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

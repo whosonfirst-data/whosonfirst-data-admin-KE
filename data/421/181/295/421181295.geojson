@@ -23,16 +23,10 @@
     "name:cat_x_preferred":[
         "Wajir"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5409\u723e"
-    ],
     "name:dan_x_preferred":[
         "Wajir"
     ],
     "name:deu_x_preferred":[
-        "Wajir"
-    ],
-    "name:dut_x_preferred":[
         "Wajir"
     ],
     "name:eng_x_preferred":[
@@ -45,15 +39,6 @@
         "Wajir"
     ],
     "name:fra_x_preferred":[
-        "Wajir"
-    ],
-    "name:fre_x_preferred":[
-        "Wajir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10ef\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Wajir"
     ],
     "name:ita_x_preferred":[
@@ -80,16 +65,10 @@
     "name:oci_x_preferred":[
         "Wajir"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u062c\u06cc\u0631\u060c \u06a9\u0646\u06cc\u0627"
-    ],
     "name:pol_x_preferred":[
         "Wajir"
     ],
     "name:ron_x_preferred":[
-        "Wajir"
-    ],
-    "name:rum_x_preferred":[
         "Wajir"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +238,7 @@
         }
     ],
     "wof:id":421181295,
-    "wof:lastmodified":1527716323,
+    "wof:lastmodified":1561777174,
     "wof:name":"Wajir",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

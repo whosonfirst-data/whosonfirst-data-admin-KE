@@ -19,23 +19,17 @@
     "name:deu_x_preferred":[
         "Kilgoris"
     ],
-    "name:dut_x_preferred":[
-        "Kilgoris"
-    ],
     "name:eng_x_preferred":[
         "Kilgoris"
     ],
     "name:fra_x_preferred":[
         "Kilgoris"
     ],
-    "name:fre_x_preferred":[
-        "Kilgoris"
-    ],
-    "name:ger_x_preferred":[
-        "Kilgoris"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05dc\u05d2\u05d5\u05e8\u05d9\u05e1"
+    ],
+    "name:nld_x_preferred":[
+        "Kilgoris"
     ],
     "name:nob_x_preferred":[
         "Kilgoris"
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421204817,
-    "wof:lastmodified":1527716179,
+    "wof:lastmodified":1561777171,
     "wof:name":"Kilkoris",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

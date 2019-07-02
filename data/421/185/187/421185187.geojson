@@ -16,28 +16,22 @@
     "name:cat_x_preferred":[
         "Wundanyi"
     ],
-    "name:dut_x_preferred":[
-        "Wundanyi"
-    ],
     "name:eng_x_preferred":[
         "Wundanyi"
     ],
     "name:fra_x_preferred":[
         "Wundanyi"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Wundanyi"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Wundanyi"
     ],
     "name:pol_x_preferred":[
         "Wundanyi"
     ],
     "name:ron_x_preferred":[
-        "Wundanyi"
-    ],
-    "name:rum_x_preferred":[
         "Wundanyi"
     ],
     "name:swa_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":421185187,
-    "wof:lastmodified":1527726505,
+    "wof:lastmodified":1561777176,
     "wof:name":"Wundanyi",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

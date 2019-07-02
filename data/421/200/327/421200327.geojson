@@ -16,13 +16,13 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u062f\u064a\u0627\u0646\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Londiani"
     ],
     "name:eng_x_preferred":[
         "Londiani"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Londiani"
     ],
     "name:pol_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421200327,
-    "wof:lastmodified":1527716429,
+    "wof:lastmodified":1561777175,
     "wof:name":"Londiani",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

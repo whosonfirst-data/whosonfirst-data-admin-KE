@@ -16,16 +16,13 @@
     "name:bul_x_preferred":[
         "\u041e\u0433\u0435\u043c\u0431\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ogembo"
     ],
     "name:eng_x_preferred":[
         "Ogembo"
     ],
-    "name:fre_x_preferred":[
-        "Ogembo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ogembo"
     ],
     "name:nld_x_preferred":[
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":421174343,
-    "wof:lastmodified":1527716232,
+    "wof:lastmodified":1561777172,
     "wof:name":"Ogembo",
     "wof:parent_id":1091911277,
     "wof:placetype":"locality",

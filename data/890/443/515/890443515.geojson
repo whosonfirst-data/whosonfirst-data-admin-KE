@@ -25,17 +25,14 @@
     "name:cat_x_preferred":[
         "Kericho"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u91cc\u55ac"
-    ],
     "name:dan_x_preferred":[
         "Kericho"
     ],
     "name:deu_x_preferred":[
         "Kericho"
     ],
-    "name:dut_x_preferred":[
-        "Kericho"
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03c1\u03af\u03c4\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kericho"
@@ -43,23 +40,14 @@
     "name:epo_x_preferred":[
         "Kericho"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0686\u0648\u060c \u06a9\u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kericho"
     ],
     "name:fra_x_preferred":[
         "Kericho"
-    ],
-    "name:fre_x_preferred":[
-        "Kericho"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10e0\u10d8\u10e9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Kericho"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c1\u03af\u03c4\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab0\u0ac0\u0a95\u0acb"
@@ -82,6 +70,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc6\u0cb0\u0cbf\u0c9a\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10e0\u10d8\u10e9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ucf00\ub9ac\ucd08"
     ],
@@ -94,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0930\u093f\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Kericho"
+    ],
+    "name:nld_x_preferred":[
         "Kericho"
     ],
     "name:nob_x_preferred":[
         "Kericho"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u06cc\u0686\u0648\u060c \u06a9\u0646\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Kericho"
@@ -109,7 +100,7 @@
     "name:por_x_preferred":[
         "Kericho"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kericho"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Kericho"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u91cc\u55ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -279,7 +273,7 @@
         }
     ],
     "wof:id":890443515,
-    "wof:lastmodified":1527787073,
+    "wof:lastmodified":1561777178,
     "wof:name":"Kericho",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

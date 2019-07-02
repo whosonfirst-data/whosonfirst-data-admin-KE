@@ -16,22 +16,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u0430\u0440\u043d\u0435\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5df4\u5167\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Kabarnet"
-    ],
-    "name:dut_x_preferred":[
         "Kabarnet"
     ],
     "name:eng_x_preferred":[
         "Kabarnet"
     ],
-    "name:fre_x_preferred":[
-        "Kabarnet"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kabarnet"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30cd\u30c3\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Kabarnet"
     ],
     "name:pol_x_preferred":[
         "Kabarnet"
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":421196847,
-    "wof:lastmodified":1527716367,
+    "wof:lastmodified":1561777174,
     "wof:name":"Kabarnet",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

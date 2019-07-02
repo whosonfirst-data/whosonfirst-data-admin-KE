@@ -19,16 +19,13 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0646\u062f\u0648"
     ],
-    "name:dut_x_preferred":[
-        "Kendu Bay"
-    ],
     "name:eng_x_preferred":[
         "Kendu Bay"
     ],
     "name:fra_x_preferred":[
         "Kendu Bay"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Kendu Bay"
     ],
     "name:pol_x_preferred":[
@@ -189,7 +186,7 @@
         }
     ],
     "wof:id":421198627,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561777174,
     "wof:name":"Kendu Bay",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

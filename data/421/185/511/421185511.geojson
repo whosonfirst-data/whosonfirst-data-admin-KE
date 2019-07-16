@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Bunyore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u044c\u043e\u0440\u0435"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":200056,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421185511,
-    "wof:lastmodified":1527726506,
+    "wof:lastmodified":1563305686,
     "wof:name":"Bunyore",
     "wof:parent_id":1091912851,
     "wof:placetype":"locality",

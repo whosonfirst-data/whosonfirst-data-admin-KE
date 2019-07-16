@@ -28,7 +28,13 @@
     "name:ast_x_preferred":[
         "Luanda"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0622\u0646\u062f\u0627"
+    ],
     "name:aze_x_preferred":[
+        "Luanda"
+    ],
+    "name:bcl_x_preferred":[
         "Luanda"
     ],
     "name:bel_x_preferred":[
@@ -55,6 +61,9 @@
     "name:cat_x_preferred":[
         "Luanda"
     ],
+    "name:cdo_x_preferred":[
+        "Luanda"
+    ],
     "name:ceb_x_preferred":[
         "Luanda"
     ],
@@ -79,8 +88,14 @@
     "name:deu_x_preferred":[
         "Luanda"
     ],
+    "name:diq_x_preferred":[
+        "Luanda"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Luanda"
     ],
     "name:epo_x_preferred":[
         "Luando"
@@ -103,8 +118,14 @@
     "name:frp_x_preferred":[
         "Luanda"
     ],
+    "name:frr_x_preferred":[
+        "Luanda"
+    ],
     "name:fry_x_preferred":[
         "L\u00fbanda"
+    ],
+    "name:fry_x_variant":[
+        "Luanda"
     ],
     "name:gla_x_preferred":[
         "Luanda"
@@ -115,8 +136,17 @@
     "name:glg_x_preferred":[
         "Luanda"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac1\u0a86\u0aa8\u0acd\u0aa1\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Luanda"
+    ],
     "name:hat_x_preferred":[
         "Louanda"
+    ],
+    "name:hau_x_preferred":[
+        "Luanda"
     ],
     "name:hbs_x_preferred":[
         "Luanda"
@@ -148,6 +178,9 @@
     "name:ile_x_preferred":[
         "Luanda"
     ],
+    "name:ilo_x_preferred":[
+        "Luanda"
+    ],
     "name:ind_x_preferred":[
         "Luanda"
     ],
@@ -163,8 +196,20 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30a2\u30f3\u30c0"
     ],
+    "name:kab_x_preferred":[
+        "Luanda"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc1\u0cb5\u0cbe\u0c82\u0ca1"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10e3\u10d0\u10dc\u10d3\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0434\u0430"
+    ],
+    "name:kbp_x_preferred":[
+        "Luwandaa"
     ],
     "name:kir_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0434\u0430"
@@ -199,6 +244,9 @@
     "name:ltz_x_preferred":[
         "Luanda"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d41\u0d35\u0d3e\u0d7b\u0d21"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0906\u0902\u0921\u093e"
     ],
@@ -207,6 +255,9 @@
     ],
     "name:mlg_x_preferred":[
         "Luanda"
+    ],
+    "name:mon_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0434\u0430"
     ],
     "name:mri_x_preferred":[
         "Luanda"
@@ -220,13 +271,28 @@
     "name:mwl_x_preferred":[
         "Luanda"
     ],
+    "name:nah_x_preferred":[
+        "Luanda"
+    ],
+    "name:nan_x_preferred":[
+        "Luanda"
+    ],
     "name:nld_x_preferred":[
         "Luanda"
     ],
     "name:nno_x_preferred":[
         "Luanda"
     ],
+    "name:nob_x_preferred":[
+        "Luanda"
+    ],
     "name:nor_x_preferred":[
+        "Luanda"
+    ],
+    "name:nov_x_preferred":[
+        "Luanda"
+    ],
+    "name:nya_x_preferred":[
         "Luanda"
     ],
     "name:oci_x_preferred":[
@@ -253,7 +319,13 @@
     "name:por_x_preferred":[
         "Luanda"
     ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u0622\u0646\u062f\u0627"
+    ],
     "name:que_x_preferred":[
+        "Luanda"
+    ],
+    "name:roh_x_preferred":[
         "Luanda"
     ],
     "name:ron_x_preferred":[
@@ -264,6 +336,9 @@
     ],
     "name:sco_x_preferred":[
         "Luanda"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd4\u0dc0\u0db1\u0dca\u0da9\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Luanda"
@@ -276,6 +351,9 @@
     ],
     "name:som_x_preferred":[
         "Luwanda"
+    ],
+    "name:som_x_variant":[
+        "Luanda"
     ],
     "name:spa_x_preferred":[
         "Luanda"
@@ -292,8 +370,14 @@
     "name:swe_x_preferred":[
         "Luanda"
     ],
+    "name:szl_x_preferred":[
+        "Luanda"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bc1\u0bb5\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c41\u0c35\u0c3e\u0c02\u0c21\u0c3e"
     ],
     "name:tet_x_preferred":[
         "Luanda"
@@ -306,6 +390,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e39\u0e2d\u0e31\u0e19\u0e14\u0e32"
+    ],
+    "name:tuk_x_preferred":[
+        "Luanda"
     ],
     "name:tur_x_preferred":[
         "Luanda"
@@ -340,10 +427,19 @@
     "name:wol_x_preferred":[
         "Luanda"
     ],
+    "name:wuu_x_preferred":[
+        "\u7f57\u5b89\u8fbe"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10e3\u10d0\u10dc\u10d3\u10d0"
+    ],
     "name:yid_x_preferred":[
         "\u05dc\u05d5\u05d0\u05e0\u05d3\u05e2"
     ],
     "name:yor_x_preferred":[
+        "Luanda"
+    ],
+    "name:yue_x_preferred":[
         "Luanda"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -353,6 +449,9 @@
         "\u7f57\u5b89\u8fbe"
     ],
     "name:zho_yue_x_preferred":[
+        "Luanda"
+    ],
+    "name:zul_x_preferred":[
         "Luanda"
     ],
     "qs:gn_country":"KE",
@@ -402,7 +501,7 @@
         }
     ],
     "wof:id":421167031,
-    "wof:lastmodified":1527716155,
+    "wof:lastmodified":1563305639,
     "wof:name":"Luanda",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

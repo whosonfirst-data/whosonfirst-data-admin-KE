@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Malikisi"
+    ],
     "name:eng_x_preferred":[
         "Malakisi"
     ],
@@ -20,6 +23,9 @@
         "Malakisi"
     ],
     "name:pol_x_preferred":[
+        "Malakisi"
+    ],
+    "name:swa_x_preferred":[
         "Malakisi"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421205153,
-    "wof:lastmodified":1561777171,
+    "wof:lastmodified":1563305649,
     "wof:name":"Malikisi",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

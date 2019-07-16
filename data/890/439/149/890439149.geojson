@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0430\u0443\u043d\u0433\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Takaungu"
+    ],
     "name:eng_x_preferred":[
         "Takaungu"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890439149,
-    "wof:lastmodified":1561777177,
+    "wof:lastmodified":1563305691,
     "wof:name":"Takaungu",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

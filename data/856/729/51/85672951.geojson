@@ -23,11 +23,128 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0627\u064a\u0631\u0648\u0628\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0439\u0440\u043e\u0431\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u0987\u09b0\u09cb\u09ac\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Nairobi"
+    ],
+    "name:dan_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:deu_x_preferred":[
+        "Nairobi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03ca\u03c1\u03cc\u03bc\u03c0\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Nairobi Area"
     ],
+    "name:eng_x_variant":[
+        "Nairobi County"
+    ],
+    "name:epo_x_preferred":[
+        "Kantono Najrobio"
+    ],
+    "name:est_x_preferred":[
+        "Nairobi maakond"
+    ],
+    "name:fin_x_preferred":[
+        "Nairobin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "Nairobi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac8\u0ab0\u0acb\u0aac\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0948\u0930\u094b\u092c\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a4\u30ed\u30d3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc8\u0cb0\u0ccb\u0cac\u0cbf \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uc774\ub85c\ube44 \ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Nairobi province"
+    ],
+    "name:lit_x_preferred":[
+        "Nairobio sritis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0948\u0930\u094b\u092c\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:nan_x_preferred":[
+        "Nairobi K\u016bn"
+    ],
+    "name:nld_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:nob_x_preferred":[
+        "Nairobi fylke"
+    ],
+    "name:pol_x_preferred":[
+        "Powiat Nairobi"
+    ],
+    "name:por_x_preferred":[
+        "Nairobi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0439\u0440\u043e\u0431\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dba\u0dd2\u0dbb\u0ddd\u0db6\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Nairobi"
+    ],
+    "name:swe_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc8\u0bb0\u0bcb\u0baa\u0bbf \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c48\u0c30\u0c4b\u0c2c\u0c3f \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e19\u0e42\u0e23\u0e1a\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Nairobi County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433 \u041d\u0430\u0439\u0440\u043e\u0431\u0456"
+    ],
     "name:unk_x_variant":[
         "Nairobi Area"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0631\u0648\u0628\u06cc \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Nairobi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u7f85\u7562\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KEN",
@@ -141,7 +258,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1553550387,
+    "wof:lastmodified":1563305385,
     "wof:name":"Nairobi",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0442\u0435\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Litein"
+    ],
     "name:eng_x_preferred":[
         "Litein"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890442933,
-    "wof:lastmodified":1561777178,
+    "wof:lastmodified":1563305701,
     "wof:name":"Litein",
     "wof:parent_id":1091911035,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u064a"
     ],
+    "name:deu_x_preferred":[
+        "Mwingi"
+    ],
     "name:eng_x_preferred":[
+        "Mwingi"
+    ],
+    "name:fra_x_preferred":[
         "Mwingi"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u06af\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u6eab\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":421195821,
-    "wof:lastmodified":1561777170,
+    "wof:lastmodified":1563305634,
     "wof:name":"Mwingi",
     "wof:parent_id":1091912293,
     "wof:placetype":"locality",

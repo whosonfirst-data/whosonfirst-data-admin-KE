@@ -53,11 +53,21 @@
     "name:arz_x_preferred":[
         "\u0643\u064a\u0646\u064a\u0627"
     ],
+    "name:asm_x_preferred":[
+        "\u0995\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
     "name:ast_x_preferred":[
         "Kenya"
     ],
     "name:ast_x_variant":[
-        "Ke\u00f1a"
+        "Ke\u00f1a",
+        "Kenia"
+    ],
+    "name:aym_x_preferred":[
+        "Kinya"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0646\u06cc\u0627"
     ],
     "name:aze_x_preferred":[
         "Keniya"
@@ -80,14 +90,14 @@
     "name:bel_x_preferred":[
         "\u041a\u0435\u043d\u0456\u044f"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0435\u043d\u0456\u044f"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:ben_x_variant":[
         "\u0995\u09c7\u09a8\u09bf\u09df\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u0940\u0928\u093f\u092f\u093e"
     ],
     "name:bjn_x_preferred":[
         "Kenya"
@@ -158,6 +168,9 @@
     "name:deu_x_variant":[
         "Republik Kenia"
     ],
+    "name:din_x_preferred":[
+        "Kenya"
+    ],
     "name:diq_x_preferred":[
         "Kenya"
     ],
@@ -166,6 +179,12 @@
     ],
     "name:dsb_x_preferred":[
         "Kenija"
+    ],
+    "name:dsb_x_variant":[
+        "Kenia"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u0947\u0928\u094d\u092f\u093e"
     ],
     "name:dzo_x_preferred":[
         "\u0f40\u0f7a\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0b"
@@ -224,7 +243,6 @@
         "Kenia"
     ],
     "name:fin_x_variant":[
-        "Kenia",
         "Keniaan",
         "Keniassa",
         "Keniasta"
@@ -240,6 +258,9 @@
     ],
     "name:fry_x_preferred":[
         "Kenia"
+    ],
+    "name:fry_x_variant":[
+        "Kenya"
     ],
     "name:ful_x_preferred":[
         "Kenya"
@@ -271,6 +292,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0915\u0947\u0928\u093f\u092f\u093e"
+    ],
+    "name:grn_x_preferred":[
+        "K\u00e9\u00f1a"
+    ],
+    "name:gsw_x_preferred":[
+        "Kenia"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0acd\u0aaf\u0abe"
@@ -308,10 +335,16 @@
     "name:hsb_x_preferred":[
         "Kenija"
     ],
+    "name:hsb_x_variant":[
+        "Kenia"
+    ],
     "name:hun_x_preferred":[
         "Kenya"
     ],
     "name:hye_x_preferred":[
+        "\u0554\u0565\u0576\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u0554\u0565\u0576\u056b\u0561"
     ],
     "name:ibo_x_preferred":[
@@ -350,6 +383,9 @@
     "name:jbo_x_preferred":[
         "kenias"
     ],
+    "name:jbo_x_variant":[
+        "lo gugdeku'e"
+    ],
     "name:jpn_x_preferred":[
         "\u30b1\u30cb\u30a2"
     ],
@@ -374,6 +410,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0435\u043d\u0438\u044f"
+    ],
+    "name:kbp_x_preferred":[
+        "Keniya"
     ],
     "name:khm_x_preferred":[
         "\u1780\u17c1\u1793\u1799\u17c9\u17b6"
@@ -411,6 +450,9 @@
     "name:lez_x_preferred":[
         "\u041a\u0435\u043d\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Cenia"
+    ],
     "name:lij_x_preferred":[
         "Kenya"
     ],
@@ -432,6 +474,9 @@
     "name:lrc_x_preferred":[
         "\u06a9\u0626\u0646\u06cc\u0627"
     ],
+    "name:lrc_x_variant":[
+        "\u06a9\u0646\u06cc\u0627"
+    ],
     "name:ltg_x_preferred":[
         "Keneja"
     ],
@@ -443,6 +488,12 @@
     ],
     "name:lug_x_preferred":[
         "Kenya"
+    ],
+    "name:lzh_x_preferred":[
+        "\u80af\u4e9e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0947\u0928\u094d\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d46\u0d28\u0d3f\u0d2f"
@@ -489,6 +540,12 @@
     "name:mzn_x_preferred":[
         "\u06a9\u0646\u06cc\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Quenia"
+    ],
+    "name:nan_x_preferred":[
+        "Kenya"
+    ],
     "name:nap_x_preferred":[
         "Kenya"
     ],
@@ -531,6 +588,9 @@
     "name:oci_x_preferred":[
         "Kenya"
     ],
+    "name:olo_x_preferred":[
+        "Kenii"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b47\u0b28\u0b3f\u0b06"
     ],
@@ -545,6 +605,9 @@
     ],
     "name:pag_x_preferred":[
         "Kenia"
+    ],
+    "name:pag_x_variant":[
+        "Kenya"
     ],
     "name:pam_x_preferred":[
         "Kenya"
@@ -594,8 +657,14 @@
     "name:ron_x_preferred":[
         "Kenya"
     ],
+    "name:rue_x_preferred":[
+        "\u041a\u0435\u043d\u0456\u044f"
+    ],
     "name:run_x_preferred":[
         "Kenya"
+    ],
+    "name:rup_x_preferred":[
+        "Kenia"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0438\u044f"
@@ -614,6 +683,9 @@
     ],
     "name:sco_x_preferred":[
         "Kenyae"
+    ],
+    "name:sgs_x_preferred":[
+        "K\u0117n\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf\u0dc0"
@@ -705,6 +777,9 @@
     "name:tur_x_preferred":[
         "Kenya"
     ],
+    "name:udm_x_preferred":[
+        "\u041a\u0435\u043d\u0438\u044f"
+    ],
     "name:uig_x_preferred":[
         "\u0643\u06d0\u0646\u0649\u064a\u06d5"
     ],
@@ -742,6 +817,9 @@
     "name:vol_x_preferred":[
         "Keny\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Kenya"
+    ],
     "name:war_x_preferred":[
         "Kenya"
     ],
@@ -765,6 +843,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Kenya"
+    ],
+    "name:yue_x_preferred":[
+        "\u80af\u96c5"
     ],
     "name:zha_x_preferred":[
         "Kenya"
@@ -937,7 +1018,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1561777160,
+    "wof:lastmodified":1563305382,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

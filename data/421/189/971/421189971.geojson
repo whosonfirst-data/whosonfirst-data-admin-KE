@@ -19,10 +19,25 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627\u0645\u064a\u063a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u06a9\u0627\u0645\u0642\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043a\u0430\u043c\u0435\u0433\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0995\u09be\u09ae\u09c7\u0997\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Kakamega"
+    ],
     "name:cat_x_preferred":[
+        "Kakamega"
+    ],
+    "name:ceb_x_preferred":[
+        "Kakamega"
+    ],
+    "name:cos_x_preferred":[
         "Kakamega"
     ],
     "name:dan_x_preferred":[
@@ -45,6 +60,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u06a9\u0627\u0645\u06af\u0627\u060c \u06a9\u0646\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u06a9\u0627\u0645\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Kakamega"
@@ -94,6 +112,9 @@
     "name:msa_x_preferred":[
         "Kakamega"
     ],
+    "name:nds_x_preferred":[
+        "Kakamega"
+    ],
     "name:nld_x_preferred":[
         "Kakamega"
     ],
@@ -115,9 +136,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043a\u0430\u043c\u0435\u0433\u0430"
     ],
-    "name:rus_x_variant":[
-        "\u041a\u0430\u043a\u0430\u043c\u0435\u0433\u0430"
-    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0d9a\u0db8\u0dd9\u0d9c\u0dcf"
     ],
@@ -131,6 +149,9 @@
         "Kakamega"
     ],
     "name:swe_x_preferred":[
+        "Kakamega"
+    ],
+    "name:tah_x_preferred":[
         "Kakamega"
     ],
     "name:tam_x_preferred":[
@@ -211,7 +232,7 @@
         }
     ],
     "wof:id":421189971,
-    "wof:lastmodified":1561777173,
+    "wof:lastmodified":1563305662,
     "wof:name":"Kakamega",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

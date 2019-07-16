@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0443\u0433\u0443\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Keruguya"
+    ],
     "name:deu_x_preferred":[
         "Kerugoya"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890443517,
-    "wof:lastmodified":1561777177,
+    "wof:lastmodified":1563305696,
     "wof:name":"Keruguya",
     "wof:parent_id":890431357,
     "wof:placetype":"locality",

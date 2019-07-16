@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Siaya"
+    ],
+    "name:deu_x_preferred":[
+        "Siaya"
+    ],
     "name:eng_x_preferred":[
         "Siaya"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421177245,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305679,
     "wof:name":"Siaya",
     "wof:parent_id":1091912583,
     "wof:placetype":"locality",

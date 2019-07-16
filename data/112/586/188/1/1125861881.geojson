@@ -22,6 +22,12 @@
     "name:cat_x_preferred":[
         "Narok"
     ],
+    "name:ceb_x_preferred":[
+        "Narok"
+    ],
+    "name:dan_x_preferred":[
+        "Narok"
+    ],
     "name:deu_x_preferred":[
         "Narok"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0631\u0648\u06a9\u060c \u06a9\u0646\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u0648\u06a9"
     ],
     "name:fin_x_preferred":[
         "Narok"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1125861881,
-    "wof:lastmodified":1561777179,
+    "wof:lastmodified":1563305705,
     "wof:name":"Narok",
     "wof:parent_id":1091912451,
     "wof:placetype":"locality",

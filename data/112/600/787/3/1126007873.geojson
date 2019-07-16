@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Konza"
+    ],
     "name:deu_x_preferred":[
         "Konza"
     ],
@@ -35,6 +38,9 @@
         "Konza"
     ],
     "name:spa_x_preferred":[
+        "Konza"
+    ],
+    "name:swa_x_preferred":[
         "Konza"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1126007873,
-    "wof:lastmodified":1561777179,
+    "wof:lastmodified":1563305708,
     "wof:name":"Konza",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

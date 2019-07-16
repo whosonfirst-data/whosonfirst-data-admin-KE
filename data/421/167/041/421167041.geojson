@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chepareria"
+    ],
     "name:eng_x_preferred":[
         "Cheberia"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421167041,
-    "wof:lastmodified":1561777170,
+    "wof:lastmodified":1563305637,
     "wof:name":"Chepareria",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

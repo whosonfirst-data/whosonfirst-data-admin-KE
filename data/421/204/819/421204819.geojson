@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u0631\u0648\u0642\u06cc"
+    ],
     "name:eng_x_preferred":[
         "Mirogi"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421204819,
-    "wof:lastmodified":1561777171,
+    "wof:lastmodified":1563305643,
     "wof:name":"Mirogi",
     "wof:parent_id":1091911319,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Chuka"
+    ],
     "name:eng_x_preferred":[
         "Chuka"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421177265,
-    "wof:lastmodified":1561777176,
+    "wof:lastmodified":1563305681,
     "wof:name":"Chuka",
     "wof:parent_id":1091912169,
     "wof:placetype":"locality",

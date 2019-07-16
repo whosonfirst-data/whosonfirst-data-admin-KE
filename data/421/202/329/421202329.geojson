@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0431\u0438\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mbita"
+    ],
     "name:eng_x_preferred":[
         "Mbita Point"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421202329,
-    "wof:lastmodified":1561777171,
+    "wof:lastmodified":1563305648,
     "wof:name":"Mbita",
     "wof:parent_id":1091912585,
     "wof:placetype":"locality",

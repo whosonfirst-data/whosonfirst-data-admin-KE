@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Maseno"
+    ],
     "name:eng_x_preferred":[
         "Maseno"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421186683,
-    "wof:lastmodified":1561777173,
+    "wof:lastmodified":1563305665,
     "wof:name":"Maseno",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

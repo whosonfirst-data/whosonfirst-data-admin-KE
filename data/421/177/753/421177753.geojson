@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Naro Moru"
+    ],
     "name:eng_x_preferred":[
         "Naro Moru"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421177753,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305679,
     "wof:name":"Naro Moru",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

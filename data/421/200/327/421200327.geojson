@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u062f\u064a\u0627\u0646\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Londiani"
+    ],
     "name:deu_x_preferred":[
         "Londiani"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421200327,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305676,
     "wof:name":"Londiani",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

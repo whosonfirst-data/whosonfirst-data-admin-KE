@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Wundanyi"
     ],
+    "name:ceb_x_preferred":[
+        "Wundanyi"
+    ],
     "name:eng_x_preferred":[
         "Wundanyi"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421185187,
-    "wof:lastmodified":1561777176,
+    "wof:lastmodified":1563305686,
     "wof:name":"Wundanyi",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

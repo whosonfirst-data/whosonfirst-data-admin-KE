@@ -19,6 +19,9 @@
     "name:swa_x_preferred":[
         "Embakasi"
     ],
+    "name:swe_x_preferred":[
+        "Embakasi"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":198516,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421171939,
-    "wof:lastmodified":1527726481,
+    "wof:lastmodified":1563305684,
     "wof:name":"Embakasi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

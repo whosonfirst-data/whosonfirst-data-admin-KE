@@ -16,6 +16,12 @@
     "name:cat_x_preferred":[
         "Kilgoris"
     ],
+    "name:ceb_x_preferred":[
+        "Kilgoris"
+    ],
+    "name:dan_x_preferred":[
+        "Kilgoris"
+    ],
     "name:deu_x_preferred":[
         "Kilgoris"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421204817,
-    "wof:lastmodified":1561777171,
+    "wof:lastmodified":1563305643,
     "wof:name":"Kilkoris",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

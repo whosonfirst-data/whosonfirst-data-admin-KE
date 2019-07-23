@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Kajiado"
     ],
+    "name:ceb_x_preferred":[
+        "Kajiado"
+    ],
     "name:eng_x_preferred":[
         "Kajiado"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890443519,
-    "wof:lastmodified":1561777177,
+    "wof:lastmodified":1563305696,
     "wof:name":"Kajiado",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

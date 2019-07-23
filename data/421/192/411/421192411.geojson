@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Makuyu"
+    ],
     "name:eng_x_preferred":[
         "Makuyu"
     ],
@@ -23,6 +26,9 @@
         "Makuyu"
     ],
     "name:spa_x_preferred":[
+        "Makuyu"
+    ],
+    "name:swa_x_preferred":[
         "Makuyu"
     ],
     "name:swe_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":421192411,
-    "wof:lastmodified":1561777170,
+    "wof:lastmodified":1563305634,
     "wof:name":"Makuyu",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

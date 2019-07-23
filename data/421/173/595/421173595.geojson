@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u043e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Keroka"
+    ],
     "name:eng_x_preferred":[
         "Keroka"
     ],
@@ -23,6 +26,9 @@
         "Keroka"
     ],
     "name:pol_x_preferred":[
+        "Keroka"
+    ],
+    "name:swa_x_preferred":[
         "Keroka"
     ],
     "name:swe_x_preferred":[
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":421173595,
-    "wof:lastmodified":1561777173,
+    "wof:lastmodified":1563305659,
     "wof:name":"Keroka",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

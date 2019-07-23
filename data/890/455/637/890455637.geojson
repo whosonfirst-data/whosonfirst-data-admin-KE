@@ -15,6 +15,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gazi"
+    ],
+    "name:deu_x_preferred":[
+        "Gazi"
+    ],
     "name:eng_x_preferred":[
         "Gasi"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890455637,
-    "wof:lastmodified":1561777177,
+    "wof:lastmodified":1563305692,
     "wof:name":"Gazi",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

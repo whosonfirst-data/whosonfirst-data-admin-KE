@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0433\u0435\u043c\u0431\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ogembo"
+    ],
     "name:deu_x_preferred":[
         "Ogembo"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421174343,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1563305655,
     "wof:name":"Ogembo",
     "wof:parent_id":1091911277,
     "wof:placetype":"locality",

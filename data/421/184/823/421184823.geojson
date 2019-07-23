@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06a9\u0648\u062a\u0627\u0646\u0648"
+    ],
     "name:eng_x_preferred":[
         "Makutano"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421184823,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305677,
     "wof:name":"Makutano (2)",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Westlands"
     ],
+    "name:epo_x_preferred":[
+        "Uestlando"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30b9\u30c8\u30e9\u30f3\u30ba"
     ],
@@ -27,6 +30,15 @@
     ],
     "name:swe_x_preferred":[
         "Westlands"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679 \u0644\u06cc\u0646\u0688\u0632"
+    ],
+    "name:vie_x_preferred":[
+        "Westlands"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5730"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPLX",
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":421170115,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305678,
     "wof:name":"Westlands",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

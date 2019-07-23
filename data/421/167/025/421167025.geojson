@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041e\u044e\u0433\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Oyugis"
+    ],
     "name:eng_x_preferred":[
         "Oyugis"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421167025,
-    "wof:lastmodified":1561777170,
+    "wof:lastmodified":1563305637,
     "wof:name":"Oyugis",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

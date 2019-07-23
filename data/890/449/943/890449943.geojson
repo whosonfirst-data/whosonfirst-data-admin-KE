@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:ceb_x_preferred":[
+        "Sotik"
+    ],
     "name:eng_x_preferred":[
         "Chamagel"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890449943,
-    "wof:lastmodified":1561777177,
+    "wof:lastmodified":1563305690,
     "wof:name":"Sotik",
     "wof:parent_id":1091911035,
     "wof:placetype":"locality",

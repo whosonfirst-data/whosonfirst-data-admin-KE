@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kipkabus"
+    ],
+    "name:nld_x_preferred":[
+        "Kipkabus"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":191665,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421196101,
-    "wof:lastmodified":1527716366,
+    "wof:lastmodified":1563305669,
     "wof:name":"Kipkabus",
     "wof:parent_id":1091911493,
     "wof:placetype":"locality",

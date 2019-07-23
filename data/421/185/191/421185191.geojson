@@ -22,6 +22,9 @@
     "name:nld_x_preferred":[
         "Wamba"
     ],
+    "name:spa_x_preferred":[
+        "Wamba"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":178389,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":421185191,
-    "wof:lastmodified":1561777176,
+    "wof:lastmodified":1563305687,
     "wof:name":"Wamba",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

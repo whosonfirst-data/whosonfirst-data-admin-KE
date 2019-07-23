@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0645\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0645\u0628\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u043c\u0443"
     ],
@@ -24,6 +27,9 @@
         "\u09b2\u09be\u09ae\u09c1"
     ],
     "name:cat_x_preferred":[
+        "Lamu"
+    ],
+    "name:ceb_x_preferred":[
         "Lamu"
     ],
     "name:dan_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:eus_x_preferred":[
         "Lamu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0645\u0628\u0648"
     ],
     "name:fin_x_preferred":[
         "Lamu"
@@ -89,6 +98,9 @@
     "name:lit_x_preferred":[
         "Lamu"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d2e\u0d41"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u092e\u0942"
     ],
@@ -109,6 +121,9 @@
     ],
     "name:por_x_preferred":[
         "Antiga Cidade de Lamu"
+    ],
+    "name:por_x_variant":[
+        "Lamu"
     ],
     "name:ron_x_preferred":[
         "Lamu"
@@ -139,6 +154,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c2e\u0c41"
+    ],
+    "name:tgl_x_preferred":[
+        "Lamu"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e21\u0e39"
@@ -308,7 +326,7 @@
         }
     ],
     "wof:id":421174021,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1563305654,
     "wof:name":"Lamu",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Limuru"
     ],
+    "name:ceb_x_preferred":[
+        "Limuru"
+    ],
     "name:deu_x_preferred":[
         "Limuru"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421187725,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1563305657,
     "wof:name":"Limuru",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

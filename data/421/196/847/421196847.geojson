@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u0430\u0440\u043d\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Kabarnet"
+    ],
     "name:deu_x_preferred":[
         "Kabarnet"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421196847,
-    "wof:lastmodified":1561777174,
+    "wof:lastmodified":1563305670,
     "wof:name":"Kabarnet",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

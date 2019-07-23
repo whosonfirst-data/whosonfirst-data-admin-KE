@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Molo"
+    ],
     "name:deu_x_preferred":[
         "Molo"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421174693,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1563305653,
     "wof:name":"Molo",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

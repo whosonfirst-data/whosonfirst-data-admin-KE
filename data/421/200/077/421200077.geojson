@@ -40,6 +40,9 @@
     "name:spa_x_preferred":[
         "Ukunda"
     ],
+    "name:swa_x_preferred":[
+        "Ukunda"
+    ],
     "name:unk_x_variant":[
         "Ukundu"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421200077,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305675,
     "wof:name":"Ukunda",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

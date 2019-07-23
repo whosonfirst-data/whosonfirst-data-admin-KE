@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sandai"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0ba3\u0bcd\u0b9f\u0bc8"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":180747,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":421183513,
-    "wof:lastmodified":1527717699,
+    "wof:lastmodified":1563305681,
     "wof:name":"Sandai",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

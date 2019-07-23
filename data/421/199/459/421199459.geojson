@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Kapenguria"
     ],
+    "name:ceb_x_preferred":[
+        "Kapenguria"
+    ],
     "name:eng_x_preferred":[
         "Kapenguria"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421199459,
-    "wof:lastmodified":1561777175,
+    "wof:lastmodified":1563305674,
     "wof:name":"Kapenguria",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

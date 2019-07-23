@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bomet"
+    ],
     "name:deu_x_preferred":[
         "Bomet"
     ],
@@ -21,6 +24,9 @@
     ],
     "name:fra_x_preferred":[
         "Bomet"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05de\u05d8"
     ],
     "name:ita_x_preferred":[
         "Bomet"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":421191665,
-    "wof:lastmodified":1561777174,
+    "wof:lastmodified":1563305671,
     "wof:name":"Bomet",
     "wof:parent_id":1091910907,
     "wof:placetype":"locality",

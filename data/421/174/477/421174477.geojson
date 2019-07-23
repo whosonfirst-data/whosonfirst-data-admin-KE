@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0442\u0445\u0430\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Othaya"
+    ],
     "name:deu_x_preferred":[
         "Othaya"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421174477,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1563305650,
     "wof:name":"Othaya",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

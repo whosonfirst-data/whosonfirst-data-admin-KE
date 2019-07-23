@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Watamu"
     ],
+    "name:pol_x_preferred":[
+        "Watamu"
+    ],
     "name:ron_x_preferred":[
         "Watamu"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202035,
-    "wof:lastmodified":1561777171,
+    "wof:lastmodified":1563305648,
     "wof:name":"Watamu",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

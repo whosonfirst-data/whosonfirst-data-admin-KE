@@ -25,11 +25,20 @@
     "name:cat_x_preferred":[
         "Voi"
     ],
+    "name:ceb_x_preferred":[
+        "Voi"
+    ],
+    "name:dan_x_preferred":[
+        "Voi"
+    ],
     "name:deu_x_preferred":[
         "Voi"
     ],
     "name:eng_x_preferred":[
         "Voi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
         "Voi"
@@ -60,6 +69,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Voi"
     ],
     "name:swa_x_preferred":[
         "Voi"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":1125860097,
-    "wof:lastmodified":1561777179,
+    "wof:lastmodified":1563305704,
     "wof:name":"Voi",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

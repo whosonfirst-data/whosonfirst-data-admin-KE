@@ -23,14 +23,146 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bre_x_preferred":[
+        "Central"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "prov\u00edncia Central"
+    ],
+    "name:dan_x_preferred":[
+        "Centralprovinsen"
+    ],
+    "name:deu_x_preferred":[
+        "Central"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Central"
+    ],
+    "name:eng_x_variant":[
+        "Central Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Central Province"
+    ],
+    "name:fra_x_preferred":[
+        "Province centrale"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "K\u00f6z\u00e9ps\u0151 tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Central"
+    ],
+    "name:ita_x_preferred":[
+        "provincia centrale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e2d\u592e\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ca7\u0ccd\u0caf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kik_x_preferred":[
+        "Gatagati mkoa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\ubd80\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Centr\u0101l\u0101 province"
+    ],
+    "name:lit_x_preferred":[
+        "Centrin\u0117 provincija"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0927\u094d\u092f\u0935\u0930\u094d\u0924\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Central Province"
+    ],
+    "name:nld_x_preferred":[
+        "Kati"
+    ],
+    "name:nob_x_preferred":[
+        "Central Province"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0634\u06a9\u0627\u0631\u0644\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Centralna"
+    ],
+    "name:por_x_preferred":[
+        "Prov\u00edncia Central"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Central\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia Central"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430"
     ],
     "name:swe_x_preferred":[
         "Centralprovinsen"
     ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25 \u0e42\u0e1e\u0e27\u0e34\u0e49\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Central Province"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+    ],
     "name:unk_x_variant":[
         "Central Province"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1"
+    ],
+    "name:yor_x_preferred":[
+        "\u00ccgb\u00e9r\u00edko \u00c0rin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KEN",
@@ -141,7 +273,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1553550416,
+    "wof:lastmodified":1563305391,
     "wof:name":"Central",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

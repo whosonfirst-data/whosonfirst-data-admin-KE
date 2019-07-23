@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0643\u0646\u062f\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Kendu Bay"
+    ],
     "name:eng_x_preferred":[
         "Kendu Bay"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1141907147,
-    "wof:lastmodified":1561777181,
+    "wof:lastmodified":1563305821,
     "wof:name":"Kendu Bay",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

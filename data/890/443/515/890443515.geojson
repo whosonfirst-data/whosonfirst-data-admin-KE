@@ -43,6 +43,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0631\u06cc\u0686\u0648\u060c \u06a9\u0646\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u06cc\u0686\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kericho"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":890443515,
-    "wof:lastmodified":1561777178,
+    "wof:lastmodified":1563305698,
     "wof:name":"Kericho",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

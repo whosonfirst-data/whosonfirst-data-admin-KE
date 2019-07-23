@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0435\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Butere"
+    ],
     "name:deu_x_preferred":[
         "Butere"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125782185,
-    "wof:lastmodified":1561777179,
+    "wof:lastmodified":1563305709,
     "wof:name":"Butere",
     "wof:parent_id":1091911121,
     "wof:placetype":"locality",

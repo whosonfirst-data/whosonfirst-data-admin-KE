@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kiganjo"
+    ],
     "name:und_x_variant":[
         "Kiganio",
         "Kiganjo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209754191,
-    "wof:lastmodified":1537653063,
+    "wof:lastmodified":1564174919,
     "wof:name":"Kiganjo",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

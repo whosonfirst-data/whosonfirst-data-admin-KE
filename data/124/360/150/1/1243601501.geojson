@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vuga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243601501,
-    "wof:lastmodified":1537075940,
+    "wof:lastmodified":1564175069,
     "wof:name":"Vuga",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

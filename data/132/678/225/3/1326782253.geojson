@@ -29,6 +29,9 @@
         "Mwachirunge",
         "Mwakirunge"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0627\u06a9\u06cc\u0631\u0648\u0646\u06af\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1326782253,
-    "wof:lastmodified":1537653046,
+    "wof:lastmodified":1564174715,
     "wof:name":"Mwakirunge",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

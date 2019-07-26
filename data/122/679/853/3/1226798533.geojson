@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kik_x_preferred":[
+        "Emali"
+    ],
+    "name:swa_x_preferred":[
+        "Emali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1226798533,
-    "wof:lastmodified":1537567167,
+    "wof:lastmodified":1564175152,
     "wof:name":"Emali",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

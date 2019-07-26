@@ -38,6 +38,27 @@
     "name:eng_x_variant":[
         "Nyamira"
     ],
+    "name:fra_x_preferred":[
+        "Nyamira"
+    ],
+    "name:ita_x_preferred":[
+        "Nyamira"
+    ],
+    "name:nld_x_preferred":[
+        "Nyamira"
+    ],
+    "name:pol_x_preferred":[
+        "Nyamira"
+    ],
+    "name:spa_x_preferred":[
+        "Nyamira"
+    ],
+    "name:swa_x_preferred":[
+        "Nyamira"
+    ],
+    "name:swe_x_preferred":[
+        "Nyamira"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1091912493,
-    "wof:lastmodified":1553717977,
+    "wof:lastmodified":1564175016,
     "wof:name":"Nyamira",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

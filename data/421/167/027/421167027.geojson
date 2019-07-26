@@ -16,6 +16,18 @@
     "name:cat_x_preferred":[
         "Nandi Hills"
     ],
+    "name:ceb_x_preferred":[
+        "Nandi Hills"
+    ],
+    "name:deu_x_preferred":[
+        "Nandi Hills"
+    ],
+    "name:spa_x_preferred":[
+        "Nandi Hills"
+    ],
+    "name:swe_x_preferred":[
+        "Nandi Hills"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":184471,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":421167027,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1564175036,
     "wof:name":"Nandi Hills",
     "wof:parent_id":1091912403,
     "wof:placetype":"locality",

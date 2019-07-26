@@ -30,6 +30,9 @@
         "Jaleny",
         "Jaleny Village"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0646\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343306291,
-    "wof:lastmodified":1537653076,
+    "wof:lastmodified":1564174739,
     "wof:name":"Jaleny Village",
     "wof:parent_id":1091912205,
     "wof:placetype":"locality",

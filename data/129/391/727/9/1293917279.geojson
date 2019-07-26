@@ -25,6 +25,36 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Umoja"
+    ],
+    "name:cym_x_preferred":[
+        "Umoja"
+    ],
+    "name:deu_x_preferred":[
+        "Umoja"
+    ],
+    "name:fra_x_preferred":[
+        "Umoja"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0cae\u0cca\u0c9c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u043e\u0434\u0436\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Umoja"
+    ],
+    "name:swa_x_preferred":[
+        "Umoja"
+    ],
+    "name:swe_x_preferred":[
+        "Umoja"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0bae\u0bcb\u0b9c\u0bbe \u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1293917279,
-    "wof:lastmodified":1537567174,
+    "wof:lastmodified":1564174785,
     "wof:name":"Umoja",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

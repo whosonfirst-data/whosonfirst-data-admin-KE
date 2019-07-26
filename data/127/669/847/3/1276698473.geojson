@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kamira"
+    ],
     "name:und_x_variant":[
         "Karrira",
         "Kamira"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276698473,
-    "wof:lastmodified":1537653071,
+    "wof:lastmodified":1564174848,
     "wof:name":"Kamira",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

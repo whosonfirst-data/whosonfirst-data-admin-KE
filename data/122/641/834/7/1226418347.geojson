@@ -29,6 +29,9 @@
         "Barata",
         "Mado Yaka"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0648 \u06cc\u0627\u06a9\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226418347,
-    "wof:lastmodified":1537653057,
+    "wof:lastmodified":1564175151,
     "wof:name":"Mado Yaka",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

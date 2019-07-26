@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Idsowe"
+    ],
+    "name:swe_x_preferred":[
+        "Idsowe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326959437,
-    "wof:lastmodified":1537567160,
+    "wof:lastmodified":1564174703,
     "wof:name":"Idsowe",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

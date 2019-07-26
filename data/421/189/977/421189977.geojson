@@ -31,6 +31,9 @@
     "name:hun_x_preferred":[
         "Lanet"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0576\u0565"
+    ],
     "name:ita_x_preferred":[
         "Lanet"
     ],
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421189977,
-    "wof:lastmodified":1527716266,
+    "wof:lastmodified":1564175038,
     "wof:name":"Lanet",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

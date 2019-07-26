@@ -25,9 +25,18 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mado Gashi"
+    ],
+    "name:swe_x_preferred":[
+        "Mado Gashi"
+    ],
     "name:und_x_variant":[
         "Muddo Gashi",
         "Mado Gashi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0648 \u06af\u0627\u0634\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260156903,
-    "wof:lastmodified":1537653057,
+    "wof:lastmodified":1564174941,
     "wof:name":"Mado Gashi",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

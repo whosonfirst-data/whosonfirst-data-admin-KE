@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Juja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243469395,
-    "wof:lastmodified":1536773006,
+    "wof:lastmodified":1564175057,
     "wof:name":"Juja",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

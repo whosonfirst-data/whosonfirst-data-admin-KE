@@ -30,6 +30,9 @@
         "Nyambogi",
         "Myabogi"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0627\u0628\u0648\u06af\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260242157,
-    "wof:lastmodified":1537653040,
+    "wof:lastmodified":1564174940,
     "wof:name":"Myabogi",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

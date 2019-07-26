@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4b\u0d27\u0d48"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310448233,
-    "wof:lastmodified":1537567171,
+    "wof:lastmodified":1564174978,
     "wof:name":"Bodhei",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

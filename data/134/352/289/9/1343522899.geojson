@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0628\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343522899,
-    "wof:lastmodified":1537567158,
+    "wof:lastmodified":1564174742,
     "wof:name":"Jambe",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

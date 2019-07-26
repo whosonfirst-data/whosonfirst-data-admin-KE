@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jumba la Mtwana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276273313,
-    "wof:lastmodified":1537567157,
+    "wof:lastmodified":1564174844,
     "wof:name":"Jumba la Mtwana",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

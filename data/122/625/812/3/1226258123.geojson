@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Kipsigak"
+    ],
+    "name:swe_x_preferred":[
+        "Kipsigak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226258123,
-    "wof:lastmodified":1536916213,
+    "wof:lastmodified":1564175145,
     "wof:name":"Kipsigak",
     "wof:parent_id":1091912403,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kik_x_preferred":[
+        "Ihuririo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276474199,
-    "wof:lastmodified":1537567159,
+    "wof:lastmodified":1564174865,
     "wof:name":"Ihuririo",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Karuna"
+    ],
+    "name:spa_x_preferred":[
+        "Karu\u1e47\u0101"
+    ],
+    "name:swe_x_preferred":[
+        "Karuna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1360319901,
-    "wof:lastmodified":1536603826,
+    "wof:lastmodified":1564174995,
     "wof:name":"Karuna",
     "wof:parent_id":1091912837,
     "wof:placetype":"locality",

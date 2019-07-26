@@ -32,11 +32,95 @@
     "mps:longitude":37.440667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u06a9\u0648\u0633"
+    ],
+    "name:cat_x_preferred":[
+        "Machakos"
+    ],
+    "name:dan_x_preferred":[
+        "Machakos"
+    ],
+    "name:deu_x_preferred":[
+        "Machakos"
+    ],
     "name:eng_x_preferred":[
         "Machakos"
     ],
     "name:eng_x_variant":[
         "Machakos"
+    ],
+    "name:epo_x_preferred":[
+        "Machakos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u06a9\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Machakos"
+    ],
+    "name:hrv_x_preferred":[
+        "Machakos"
+    ],
+    "name:ita_x_preferred":[
+        "Machakos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30b3\u30b9"
+    ],
+    "name:kal_x_preferred":[
+        "Machakos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e9\u10d0\u10d9\u10dd\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ucc28\ucf54\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Ma\u010dakosas"
+    ],
+    "name:mri_x_preferred":[
+        "Machakos"
+    ],
+    "name:nld_x_preferred":[
+        "Machakos"
+    ],
+    "name:nor_x_preferred":[
+        "Machakos"
+    ],
+    "name:pol_x_preferred":[
+        "Machakos"
+    ],
+    "name:ron_x_preferred":[
+        "Machakos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0447\u0430\u043a\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Machakos"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u043a\u043e\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Machakos"
+    ],
+    "name:swe_x_preferred":[
+        "Machakos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u0627\u06a9\u0648\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Machakos"
+    ],
+    "name:war_x_preferred":[
+        "Machakos"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u67e5\u79d1\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +157,7 @@
         }
     ],
     "wof:id":1091911873,
-    "wof:lastmodified":1553717974,
+    "wof:lastmodified":1564175010,
     "wof:name":"Machakos",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

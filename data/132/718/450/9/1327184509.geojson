@@ -25,6 +25,15 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mangai"
+    ],
+    "name:ron_x_preferred":[
+        "Mangai"
+    ],
+    "name:swe_x_preferred":[
+        "Mangai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327184509,
-    "wof:lastmodified":1537037279,
+    "wof:lastmodified":1564174734,
     "wof:name":"Mangai",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u0645"
+    ],
+    "name:jpn_x_preferred":[
+        "\u58eb\u6797\u6d3e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub9bc\ud30c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e23\u0e34\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Sarim"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u6797\u6d3e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259355433,
-    "wof:lastmodified":1537040995,
+    "wof:lastmodified":1564175103,
     "wof:name":"Sarim",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

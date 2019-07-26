@@ -25,6 +25,30 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:ita_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:nor_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:pol_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:spa_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:swa_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:swe_x_preferred":[
+        "Ol Kalou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u723e\u5361\u6d1b\u70cf"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1276366669,
-    "wof:lastmodified":1537567174,
+    "wof:lastmodified":1564174877,
     "wof:name":"Ol Kalou",
     "wof:parent_id":890437763,
     "wof:placetype":"locality",

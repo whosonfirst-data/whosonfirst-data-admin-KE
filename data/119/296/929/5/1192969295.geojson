@@ -25,6 +25,15 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0627\u0632\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0627\u0632\u06cc"
+    ],
+    "name:hrv_x_preferred":[
+        "Shirazi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1192969295,
-    "wof:lastmodified":1537567129,
+    "wof:lastmodified":1564174933,
     "wof:name":"Shirazi",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

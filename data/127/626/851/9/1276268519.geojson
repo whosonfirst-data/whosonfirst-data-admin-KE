@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Kamacharia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276268519,
-    "wof:lastmodified":1537567154,
+    "wof:lastmodified":1564174839,
     "wof:name":"Kamacharia",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

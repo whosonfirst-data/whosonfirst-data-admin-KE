@@ -32,10 +32,22 @@
     "mps:longitude":39.528475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tana River"
+    ],
+    "name:deu_x_preferred":[
+        "Tana River"
+    ],
     "name:eng_x_preferred":[
         "Tana River"
     ],
     "name:eng_x_variant":[
+        "Tana River"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Tana"
+    ],
+    "name:swe_x_preferred":[
         "Tana River"
     ],
     "src:geom":"meso",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1091912587,
-    "wof:lastmodified":1553717977,
+    "wof:lastmodified":1564175008,
     "wof:name":"Tana River",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

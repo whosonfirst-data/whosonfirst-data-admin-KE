@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Haruru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293183111,
-    "wof:lastmodified":1537567160,
+    "wof:lastmodified":1564174821,
     "wof:name":"Haruru",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

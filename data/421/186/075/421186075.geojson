@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Baringo"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0438\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Baringo"
     ],
     "name:swe_x_preferred":[
         "Baringo"
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":421186075,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1564175039,
     "wof:name":"Baringo",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

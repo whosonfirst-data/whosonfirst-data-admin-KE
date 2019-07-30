@@ -25,6 +25,18 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tulia"
+    ],
+    "name:hun_x_preferred":[
+        "Tulia"
+    ],
+    "name:ita_x_preferred":[
+        "Tulia"
+    ],
+    "name:pol_x_preferred":[
+        "Tulia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632329
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209462519,
-    "wof:lastmodified":1536286334,
+    "wof:lastmodified":1564174893,
     "wof:name":"Tulia",
     "wof:parent_id":85632329,
     "wof:placetype":"locality",

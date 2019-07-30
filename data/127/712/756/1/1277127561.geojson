@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Msambweni"
+    ],
     "name:und_x_variant":[
         "Msambweni Government Hospital",
         "Msambweni"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1277127561,
-    "wof:lastmodified":1537653049,
+    "wof:lastmodified":1564174858,
     "wof:name":"Msambweni",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

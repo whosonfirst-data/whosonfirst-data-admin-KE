@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mukurwe-ini"
+    ],
+    "name:swe_x_preferred":[
+        "Mukurwe-ini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259699003,
-    "wof:lastmodified":1537567173,
+    "wof:lastmodified":1564175105,
     "wof:name":"Mukurwe-ini",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndenderu"
+    ],
+    "name:swe_x_preferred":[
+        "Ndenderu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632329
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209673991,
-    "wof:lastmodified":1537567133,
+    "wof:lastmodified":1564174905,
     "wof:name":"Ndenderu",
     "wof:parent_id":85632329,
     "wof:placetype":"locality",

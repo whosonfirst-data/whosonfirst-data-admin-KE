@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0646\u06af\u0631\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259973367,
-    "wof:lastmodified":1537567146,
+    "wof:lastmodified":1564175095,
     "wof:name":"Langarwa",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

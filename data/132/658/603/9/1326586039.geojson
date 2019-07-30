@@ -25,6 +25,27 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ganda"
+    ],
+    "name:deu_x_preferred":[
+        "Ganda"
+    ],
+    "name:fin_x_preferred":[
+        "Ganda"
+    ],
+    "name:fra_x_preferred":[
+        "Ganda"
+    ],
+    "name:ita_x_preferred":[
+        "Ganda"
+    ],
+    "name:srp_x_preferred":[
+        "Ganda"
+    ],
+    "name:swe_x_preferred":[
+        "Ganda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1326586039,
-    "wof:lastmodified":1536906819,
+    "wof:lastmodified":1564174700,
     "wof:name":"Ganda",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

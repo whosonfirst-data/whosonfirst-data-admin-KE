@@ -32,10 +32,31 @@
     "mps:longitude":39.213537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kwale"
+    ],
+    "name:deu_x_preferred":[
+        "Kwale"
+    ],
     "name:eng_x_preferred":[
         "Kwale"
     ],
     "name:eng_x_variant":[
+        "Kwale"
+    ],
+    "name:ita_x_preferred":[
+        "Kwale"
+    ],
+    "name:nor_x_preferred":[
+        "Kwale"
+    ],
+    "name:pol_x_preferred":[
+        "Kwale"
+    ],
+    "name:spa_x_preferred":[
+        "Kwale"
+    ],
+    "name:swe_x_preferred":[
         "Kwale"
     ],
     "src:geom":"meso",
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1091911773,
-    "wof:lastmodified":1553717974,
+    "wof:lastmodified":1564175020,
     "wof:name":"Kwale",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

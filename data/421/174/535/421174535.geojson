@@ -13,6 +13,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tawa"
+    ],
+    "name:deu_x_preferred":[
+        "Tawa"
+    ],
+    "name:ita_x_preferred":[
+        "Tawa"
+    ],
+    "name:spa_x_preferred":[
+        "Tawa"
+    ],
+    "name:swe_x_preferred":[
+        "Tawa"
+    ],
+    "name:vie_x_preferred":[
+        "Tawa"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":179521,
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":421174535,
-    "wof:lastmodified":1527716224,
+    "wof:lastmodified":1564175037,
     "wof:name":"Tawa",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

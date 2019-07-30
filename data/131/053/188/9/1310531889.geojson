@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "South Horr"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310531889,
-    "wof:lastmodified":1537567129,
+    "wof:lastmodified":1564174966,
     "wof:name":"South Horr",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kapsokwony"
+    ],
+    "name:swa_x_preferred":[
+        "Kapsokwony"
+    ],
+    "name:swe_x_preferred":[
+        "Kapsokwony"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226024961,
-    "wof:lastmodified":1536755235,
+    "wof:lastmodified":1564175126,
     "wof:name":"Kapsokwony",
     "wof:parent_id":1091912267,
     "wof:placetype":"locality",

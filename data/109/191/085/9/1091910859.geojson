@@ -32,10 +32,22 @@
     "mps:longitude":35.998405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Baringo"
+    ],
     "name:eng_x_preferred":[
         "Baringo"
     ],
     "name:eng_x_variant":[
+        "Baringo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Baringo"
+    ],
+    "name:swe_x_preferred":[
         "Baringo"
     ],
     "src:geom":"meso",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1091910859,
-    "wof:lastmodified":1555220358,
+    "wof:lastmodified":1564175007,
     "wof:name":"Baringo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

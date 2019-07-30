@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kilema Dui"
+    ],
+    "name:swe_x_preferred":[
+        "Kilema Dui"
+    ],
     "name:und_x_variant":[
         "Clema Dui",
         "Kilema Dui"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326466851,
-    "wof:lastmodified":1537653063,
+    "wof:lastmodified":1564174716,
     "wof:name":"Kilema Dui",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

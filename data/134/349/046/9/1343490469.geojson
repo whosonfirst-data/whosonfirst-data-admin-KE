@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0631\u0627\u0634\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0631\u0627\u0634\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343490469,
-    "wof:lastmodified":1537567174,
+    "wof:lastmodified":1564174759,
     "wof:name":"Endarasha",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

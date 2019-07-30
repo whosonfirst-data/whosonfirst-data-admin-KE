@@ -26,6 +26,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Dagoretti"
+    ],
     "name:und_x_variant":[
         "Dagoretti Corner",
         "Dagoretti"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343363735,
-    "wof:lastmodified":1537653087,
+    "wof:lastmodified":1564174735,
     "wof:name":"Dagoretti",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

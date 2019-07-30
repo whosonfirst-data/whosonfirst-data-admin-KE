@@ -29,6 +29,9 @@
         "Makwara",
         "Mwakwala"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0627\u06a9 \u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1293059509,
-    "wof:lastmodified":1537653046,
+    "wof:lastmodified":1564174818,
     "wof:name":"Mwakwala",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

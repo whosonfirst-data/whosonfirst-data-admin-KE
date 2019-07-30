@@ -32,11 +32,53 @@
     "mps:longitude":36.762242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Kajiado"
+    ],
+    "name:cat_x_preferred":[
+        "Kajiado"
+    ],
+    "name:ceb_x_preferred":[
+        "Kajiado"
+    ],
     "name:eng_x_preferred":[
         "Kajiado"
     ],
     "name:eng_x_variant":[
         "Kajiado"
+    ],
+    "name:fra_x_preferred":[
+        "Kajiado"
+    ],
+    "name:ita_x_preferred":[
+        "Kajiado"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10ef\u10d8\u10d0\u10d3\u10dd"
+    ],
+    "name:pol_x_preferred":[
+        "Kajiado"
+    ],
+    "name:ron_x_preferred":[
+        "Kajiado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0436\u0438\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kajiado"
+    ],
+    "name:swa_x_preferred":[
+        "Kajiado"
+    ],
+    "name:swe_x_preferred":[
+        "Kajiado"
+    ],
+    "name:vec_x_preferred":[
+        "Kajiado"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8cc8\u591a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +115,7 @@
         }
     ],
     "wof:id":1091911399,
-    "wof:lastmodified":1553717974,
+    "wof:lastmodified":1564175014,
     "wof:name":"Kajiado",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

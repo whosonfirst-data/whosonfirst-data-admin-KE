@@ -32,11 +32,59 @@
     "mps:longitude":34.454987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0647\u0648\u0645\u0627 \u0628\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:ceb_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Homa Bay"
+    ],
     "name:eng_x_preferred":[
         "Homa Bay"
     ],
     "name:eng_x_variant":[
         "Homa Bay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u0627 \u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:ita_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10db\u10d0-\u10d1\u10d0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:nor_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:pol_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:ron_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:swa_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:swe_x_preferred":[
+        "Homa Bay"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0645\u0627 \u0628\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u99ac\u7063"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +109,7 @@
         }
     ],
     "wof:id":1091911319,
-    "wof:lastmodified":1555220358,
+    "wof:lastmodified":1564175013,
     "wof:name":"Homa Bay",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

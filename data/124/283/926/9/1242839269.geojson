@@ -25,6 +25,33 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Kota praja"
+    ],
+    "name:ita_x_preferred":[
+        "Township"
+    ],
+    "name:jav_x_preferred":[
+        "Township"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30a6\u30f3\u30b7\u30c3\u30d7\u5236"
+    ],
+    "name:nds_x_preferred":[
+        "Township"
+    ],
+    "name:pol_x_preferred":[
+        "Township"
+    ],
+    "name:por_x_preferred":[
+        "Municipalidade"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e33\u0e1a\u0e25"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0624\u0646 \u0634\u067e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1242839269,
-    "wof:lastmodified":1536686889,
+    "wof:lastmodified":1564175074,
     "wof:name":"Township",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

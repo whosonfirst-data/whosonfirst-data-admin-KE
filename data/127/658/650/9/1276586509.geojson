@@ -25,6 +25,18 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Karatina"
+    ],
+    "name:swa_x_preferred":[
+        "Karatina"
+    ],
+    "name:swe_x_preferred":[
+        "Karatina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u8482\u7d0d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276586509,
-    "wof:lastmodified":1537567151,
+    "wof:lastmodified":1564174851,
     "wof:name":"Karatina",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

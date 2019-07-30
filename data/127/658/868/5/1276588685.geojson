@@ -25,6 +25,27 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ege"
+    ],
+    "name:dan_x_preferred":[
+        "Ege"
+    ],
+    "name:deu_x_preferred":[
+        "Ege"
+    ],
+    "name:hun_x_preferred":[
+        "Ege"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0433\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ege"
+    ],
+    "name:tur_x_preferred":[
+        "Ege"
+    ],
     "name:und_x_variant":[
         "Egge"
     ],
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1276588685,
-    "wof:lastmodified":1537653086,
+    "wof:lastmodified":1564174851,
     "wof:name":"Ege",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

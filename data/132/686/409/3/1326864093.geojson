@@ -25,9 +25,63 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0642\u0648\u0644\u06cc"
+    ],
+    "name:cat_x_preferred":[
+        "Baragoi"
+    ],
+    "name:ceb_x_preferred":[
+        "Baragoi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u06af\u0648\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Baragoi"
+    ],
+    "name:ita_x_preferred":[
+        "Baragoi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10d0\u10d2\u10dd\u10d8"
+    ],
+    "name:kik_x_preferred":[
+        "Baragoi"
+    ],
+    "name:kur_x_preferred":[
+        "Baragoi"
+    ],
+    "name:nld_x_preferred":[
+        "Baragoi"
+    ],
+    "name:pol_x_preferred":[
+        "Baragoi"
+    ],
+    "name:ron_x_preferred":[
+        "Baragoi"
+    ],
+    "name:spa_x_preferred":[
+        "Baragoi"
+    ],
+    "name:swa_x_preferred":[
+        "Baragoi"
+    ],
+    "name:swe_x_preferred":[
+        "Baragoi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u0491\u043e\u0439"
+    ],
     "name:und_x_variant":[
         "Baragoli",
         "Baragoi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u06af\u0648\u0626\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u6208\u4f0a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1326864093,
-    "wof:lastmodified":1537653091,
+    "wof:lastmodified":1564174691,
     "wof:name":"Baragoi",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

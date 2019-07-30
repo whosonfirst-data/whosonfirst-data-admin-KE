@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ngandu"
+    ],
+    "name:swe_x_preferred":[
+        "Ngandu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293814725,
-    "wof:lastmodified":1537567132,
+    "wof:lastmodified":1564174828,
     "wof:name":"Ngandu",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

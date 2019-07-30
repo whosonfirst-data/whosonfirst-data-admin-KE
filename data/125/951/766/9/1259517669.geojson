@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0644\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259517669,
-    "wof:lastmodified":1537567173,
+    "wof:lastmodified":1564175106,
     "wof:name":"Sabule",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

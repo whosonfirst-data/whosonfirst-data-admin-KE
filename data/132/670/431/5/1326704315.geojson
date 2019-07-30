@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fort Ternan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326704315,
-    "wof:lastmodified":1537567167,
+    "wof:lastmodified":1564174717,
     "wof:name":"Fort Ternan",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

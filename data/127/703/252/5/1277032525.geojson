@@ -25,6 +25,12 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Kutus"
+    ],
+    "name:swa_x_preferred":[
+        "Kutus"
+    ],
     "name:und_x_variant":[
         "Gutu",
         "Mucakuthi",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277032525,
-    "wof:lastmodified":1537653059,
+    "wof:lastmodified":1564174861,
     "wof:name":"Kutus",
     "wof:parent_id":890431357,
     "wof:placetype":"locality",

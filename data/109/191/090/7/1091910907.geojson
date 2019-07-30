@@ -32,11 +32,41 @@
     "mps:longitude":35.278125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bomet"
+    ],
+    "name:deu_x_preferred":[
+        "Bomet"
+    ],
     "name:eng_x_preferred":[
         "Bomet"
     ],
     "name:eng_x_variant":[
         "Bomet"
+    ],
+    "name:ita_x_preferred":[
+        "Bomet"
+    ],
+    "name:pol_x_preferred":[
+        "Bomet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043c\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Bomet"
+    ],
+    "name:swa_x_preferred":[
+        "Bomet"
+    ],
+    "name:swe_x_preferred":[
+        "Bomet"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0645\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7f8e\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1091910907,
-    "wof:lastmodified":1555220358,
+    "wof:lastmodified":1564175009,
     "wof:name":"Bomet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

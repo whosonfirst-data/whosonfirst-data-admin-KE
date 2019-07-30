@@ -25,6 +25,9 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mar_x_preferred":[
+        "\u0915\u0930\u093f\u092f\u093e"
+    ],
     "name:und_x_variant":[
         "Kiria",
         "Karia"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343329955,
-    "wof:lastmodified":1537653068,
+    "wof:lastmodified":1564174763,
     "wof:name":"Karia",
     "wof:parent_id":890431357,
     "wof:placetype":"locality",

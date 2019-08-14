@@ -15,6 +15,9 @@
     "label:eng_x_preferred_longname":[
         "Rift Valley Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RV"
+    ],
     "lbl:latitude":1.393644,
     "lbl:longitude":36.075087,
     "meso:name_alt1":"",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85672963,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "swa"
@@ -296,7 +296,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1563305390,
+    "wof:lastmodified":1565725001,
     "wof:name":"Rift Valley",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

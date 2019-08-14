@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Coast Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":-2.439432,
     "lbl:longitude":39.519291,
     "meso:name_alt1":"",
@@ -360,9 +363,6 @@
         }
     ],
     "wof:id":85672943,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "swa"
@@ -371,7 +371,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1563305388,
+    "wof:lastmodified":1565725001,
     "wof:name":"Coast",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "North-Eastern Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":1.319319,
     "lbl:longitude":40.205419,
     "meso:name_alt1":"N. Eastern",
@@ -217,9 +220,6 @@
         }
     ],
     "wof:id":85672969,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "swa"
@@ -228,7 +228,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1563305384,
+    "wof:lastmodified":1565725000,
     "wof:name":"North-Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

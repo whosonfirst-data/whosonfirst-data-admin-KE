@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Central Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":-0.652954,
     "lbl:longitude":36.91156,
     "meso:name_alt1":"",
@@ -262,9 +265,6 @@
         }
     ],
     "wof:id":85672947,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "swa"
@@ -273,7 +273,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1563305391,
+    "wof:lastmodified":1565725002,
     "wof:name":"Central",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

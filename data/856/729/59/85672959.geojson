@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Eastern National Capital Area"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EA"
+    ],
     "lbl:latitude":2.59552,
     "lbl:longitude":37.918971,
     "meso:name_alt1":"",
@@ -258,9 +261,6 @@
         }
     ],
     "wof:id":85672959,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "swa"
@@ -269,7 +269,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1563305384,
+    "wof:lastmodified":1565725000,
     "wof:name":"Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

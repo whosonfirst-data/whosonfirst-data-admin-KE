@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.32173,-4.02758,39.36173,-3.98758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "Mtaa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343809069,
-    "wof:lastmodified":1564174778,
+    "wof:lastmodified":1566726976,
     "wof:name":"Mtaa",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

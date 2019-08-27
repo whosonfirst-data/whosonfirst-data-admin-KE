@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.039394,
     "lbl:longitude":38.559276,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN",
     "meso:diss_me":"IsioloEASTERN",
     "meso:gadm_admin":"Isiolo",
@@ -32,6 +34,7 @@
     "mps:longitude":38.559276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u06cc\u0648\u0644\u0648"
     ],
@@ -93,9 +96,9 @@
         "\u4f0a\u897f\u5967\u6d1b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"25,698.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Isiolo",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1091911367,
-    "wof:lastmodified":1564175014,
+    "wof:lastmodified":1566727039,
     "wof:name":"Isiolo",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

@@ -12,6 +12,8 @@
     "iso:country":"KE",
     "lbl:latitude":-1.28333,
     "lbl:longitude":36.81667,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -495,7 +497,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0439\u0440\u043e\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nairoba"
     ],
     "name:urd_x_preferred":[
@@ -668,7 +670,7 @@
         "gn:id":184745,
         "gp:id":1528488,
         "loc:id":"n79011090",
-        "qs:id":809718,
+        "qs_pg:id":809718,
         "wd:id":"Q3870",
         "wk:page":"Nairobi"
     },
@@ -688,7 +690,7 @@
         }
     ],
     "wof:id":421174401,
-    "wof:lastmodified":1563305653,
+    "wof:lastmodified":1566727048,
     "wof:name":"Nairobi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

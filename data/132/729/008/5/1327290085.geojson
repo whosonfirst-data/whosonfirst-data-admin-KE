@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.671,-3.53818,39.711,-3.49818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0645\u0648\u0627\u0644\u06cc\u0644\u06cc"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327290085,
-    "wof:lastmodified":1564174731,
+    "wof:lastmodified":1566726966,
     "wof:name":"Mwalili",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

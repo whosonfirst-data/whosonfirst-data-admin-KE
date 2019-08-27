@@ -10,8 +10,12 @@
     "geom:latitude":-1.06344,
     "geom:longitude":34.47313,
     "iso:country":"KE",
+    "lbl:bbox":"34.45313,-1.08344,34.49313,-1.04344",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Migori"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":186731,
         "gp:id":1528282,
-        "qs:id":247154,
+        "qs_pg:id":247154,
         "wd:id":"Q1932505",
         "wk:page":"Migori"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421204747,
-    "wof:lastmodified":1563305644,
+    "wof:lastmodified":1566727047,
     "wof:name":"Migori",
     "wof:parent_id":1091912205,
     "wof:placetype":"locality",

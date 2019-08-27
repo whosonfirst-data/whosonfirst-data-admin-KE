@@ -11,8 +11,11 @@
     "geom:longitude":35.00622,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":75123,
+    "gn:population":75123,
     "iso:country":"KE",
+    "lbl:bbox":"34.98622,0.99572,35.02622,1.03572",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -264,7 +267,7 @@
     "wof:concordances":{
         "gn:id":191220,
         "gp:id":1527906,
-        "qs:id":275860,
+        "qs_pg:id":275860,
         "wd:id":"Q523000",
         "wk:page":"Kitale"
     },
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":890440161,
-    "wof:lastmodified":1563305687,
+    "wof:lastmodified":1566727052,
     "wof:name":"Kitale",
     "wof:parent_id":1091912757,
     "wof:placetype":"locality",

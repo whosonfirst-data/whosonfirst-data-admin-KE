@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"37.68307,-1.85041,37.72307,-1.81041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngosini-West Detention Camp",
         "Ngosini West"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259925697,
-    "wof:lastmodified":1537653042,
+    "wof:lastmodified":1566727069,
     "wof:name":"Ngosini West",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

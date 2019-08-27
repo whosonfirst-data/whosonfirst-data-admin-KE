@@ -11,10 +11,14 @@
     "geom:longitude":39.38175,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":2374,
+    "gn:population":2374,
     "iso:country":"KE",
+    "lbl:bbox":"39.36175,-4.66756,39.40175,-4.62756",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shimoni"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":180389,
         "gp:id":1528819,
-        "qs:id":1248774,
+        "qs_pg:id":1248774,
         "wd:id":"Q2395680",
         "wk:page":"Shimoni"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890424155,
-    "wof:lastmodified":1563305691,
+    "wof:lastmodified":1566727052,
     "wof:name":"Shimoni",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":-1.25,
     "gn:longitude":36.78333,
     "iso:country":"KE",
+    "lbl:bbox":"36.785491,-1.258991,36.795491,-1.248991",
     "lbl:latitude":-1.253991,
     "lbl:longitude":36.790491,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-1.240369,
     "mps:longitude":36.788474,
     "mz:hierarchy_label":0,
@@ -70,9 +72,6 @@
     "name:srp_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043d\u0433 \u0412\u0430\u043b\u0438"
     ],
-    "name:unk_x_variant":[
-        "Spring Valley"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u067e\u0631\u0646\u06af \u0648\u06cc\u0644\u06cc"
     ],
@@ -106,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672951,
         102191573,
@@ -117,7 +116,7 @@
     "wof:concordances":{
         "gn:id":179819,
         "gp:id":1528860,
-        "qs:id":219417
+        "qs_pg:id":219417
     },
     "wof:country":"KE",
     "wof:geomhash":"c3ea39878a58c822adcf69c0850e633d",
@@ -135,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564174782,
+    "wof:lastmodified":1566726977,
     "wof:name":"Spring Valley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

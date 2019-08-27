@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"38.40638,-3.4532,38.44638,-3.4132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0645\u0648\u0627\u06a9\u06cc\u0646\u06cc\u0648\u0646\u06af\u0648"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209749549,
-    "wof:lastmodified":1564174914,
+    "wof:lastmodified":1566727012,
     "wof:name":"Mwakinyungu",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

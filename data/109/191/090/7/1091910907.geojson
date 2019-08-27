@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.838109,
     "lbl:longitude":35.278125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"BometRIFT VALLEY",
     "meso:gadm_admin":"Bomet",
@@ -32,6 +34,7 @@
     "mps:longitude":35.278125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bomet"
     ],
@@ -69,7 +72,7 @@
         "\u535a\u7f8e\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1091910907,
-    "wof:lastmodified":1564175009,
+    "wof:lastmodified":1566727038,
     "wof:name":"Bomet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

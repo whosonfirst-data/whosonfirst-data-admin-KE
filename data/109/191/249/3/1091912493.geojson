@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.657474,
     "lbl:longitude":34.965658,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NYANZA",
     "meso:diss_me":"NyamiraNYANZA",
     "meso:gadm_admin":"Nyamira",
@@ -32,6 +34,7 @@
     "mps:longitude":34.965658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nyamira"
     ],
@@ -60,9 +63,9 @@
         "Nyamira"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"896.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Nyamira",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1091912493,
-    "wof:lastmodified":1564175016,
+    "wof:lastmodified":1566727040,
     "wof:name":"Nyamira",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

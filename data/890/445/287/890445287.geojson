@@ -11,10 +11,14 @@
     "geom:longitude":37.62882,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":6133,
+    "gn:population":6133,
     "iso:country":"KE",
+    "lbl:bbox":"37.60882,-1.80079,37.64882,-1.76079",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wote"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":178077,
         "gp:id":1528134,
-        "qs:id":1237923,
+        "qs_pg:id":1237923,
         "wd:id":"Q7193508",
         "wk:page":"Wote"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890445287,
-    "wof:lastmodified":1563305701,
+    "wof:lastmodified":1566727053,
     "wof:name":"Wote",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.122147,
     "lbl:longitude":34.677461,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NYANZA",
     "meso:diss_me":"KisumuNYANZA",
     "meso:gadm_admin":"Kisumu",
@@ -32,6 +34,7 @@
     "mps:longitude":34.677461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0632\u064a\u0645\u0648"
     ],
@@ -178,7 +181,7 @@
         "\u57fa\u8607\u6728"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":1091911657,
-    "wof:lastmodified":1564175013,
+    "wof:lastmodified":1566727039,
     "wof:name":"Kisumu",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

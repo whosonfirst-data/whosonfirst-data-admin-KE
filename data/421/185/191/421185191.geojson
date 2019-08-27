@@ -10,8 +10,12 @@
     "geom:latitude":0.98333,
     "geom:longitude":37.31667,
     "iso:country":"KE",
+    "lbl:bbox":"37.29667,0.96333,37.33667,1.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Wamba"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":178389,
         "gp:id":1529005,
-        "qs:id":886340,
+        "qs_pg:id":886340,
         "wd:id":"Q4018063",
         "wk:page":"Wamba, Kenya"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421185191,
-    "wof:lastmodified":1563305687,
+    "wof:lastmodified":1566727052,
     "wof:name":"Wamba",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

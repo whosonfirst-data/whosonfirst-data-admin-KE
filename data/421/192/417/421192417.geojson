@@ -10,8 +10,12 @@
     "geom:latitude":0.26846,
     "geom:longitude":36.04842,
     "iso:country":"KE",
+    "lbl:bbox":"36.02842,0.24846,36.06842,0.28846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0645\u0627\u062c\u06cc\u200c\u0645\u0627\u062a\u0627"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Maji Mata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maji Moto"
     ],
     "qs:gn_country":"KE",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":188192,
         "gp:id":1528113,
-        "qs:id":1168127,
+        "qs_pg:id":1168127,
         "wd:id":"Q6737792",
         "wk:page":"Maji Mata"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421192417,
-    "wof:lastmodified":1563305633,
+    "wof:lastmodified":1566727046,
     "wof:name":"Maji Ya Moto",
     "wof:parent_id":1091911719,
     "wof:placetype":"locality",

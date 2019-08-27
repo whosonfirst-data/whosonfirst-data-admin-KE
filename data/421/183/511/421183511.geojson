@@ -10,8 +10,12 @@
     "geom:latitude":0.58546,
     "geom:longitude":36.12919,
     "iso:country":"KE",
+    "lbl:bbox":"36.10919,0.56546,36.14919,0.60546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nosuguro"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":183180,
         "gp:id":1528606,
-        "qs:id":979677,
+        "qs_pg:id":979677,
         "wd:id":"Q7062000",
         "wk:page":"Nosuguro"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421183511,
-    "wof:lastmodified":1561777176,
+    "wof:lastmodified":1566727051,
     "wof:name":"Nosuguro",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

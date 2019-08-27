@@ -10,8 +10,12 @@
     "geom:latitude":-4.2929,
     "geom:longitude":39.56404,
     "iso:country":"KE",
+    "lbl:bbox":"39.54404,-4.3129,39.58404,-4.2729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ukunda"
@@ -43,7 +47,7 @@
     "name:swa_x_preferred":[
         "Ukunda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukundu"
     ],
     "qs:gn_country":"KE",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":178792,
         "gp:id":1528957,
-        "qs:id":1276270,
+        "qs_pg:id":1276270,
         "wd:id":"Q1251356",
         "wk:page":"Ukunda"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421200077,
-    "wof:lastmodified":1563305675,
+    "wof:lastmodified":1566727050,
     "wof:name":"Ukunda",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

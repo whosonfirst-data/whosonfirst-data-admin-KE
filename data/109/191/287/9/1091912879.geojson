@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.773391,
     "lbl:longitude":40.159914,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NORTH EASTERN",
     "meso:diss_me":"WajirNORTH EASTERN",
     "meso:gadm_admin":"Wajir",
@@ -32,6 +34,7 @@
     "mps:longitude":40.159914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Wajir"
     ],
@@ -117,9 +120,9 @@
         "\u74e6\u5409\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"55,501.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Wajir",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1091912879,
-    "wof:lastmodified":1564175006,
+    "wof:lastmodified":1566727037,
     "wof:name":"Wajir",
     "wof:parent_id":85672969,
     "wof:placetype":"county",

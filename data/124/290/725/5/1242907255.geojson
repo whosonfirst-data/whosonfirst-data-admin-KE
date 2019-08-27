@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.2741,-2.52032,40.3141,-2.48032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Simkara",
         "Samikaro"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242907255,
-    "wof:lastmodified":1537653037,
+    "wof:lastmodified":1566727064,
     "wof:name":"Samikaro",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.546527,
     "lbl:longitude":39.571744,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"COAST",
     "meso:diss_me":"KilifiCOAST",
     "meso:gadm_admin":"Kilifi",
@@ -32,6 +34,7 @@
     "mps:longitude":39.571744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0644\u06cc\u0641\u06cc"
     ],
@@ -90,7 +93,7 @@
         "\u57fa\u5229\u83f2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1091911611,
-    "wof:lastmodified":1564175003,
+    "wof:lastmodified":1566727036,
     "wof:name":"Kilifi",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

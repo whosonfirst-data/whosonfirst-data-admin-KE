@@ -11,8 +11,11 @@
     "geom:longitude":34.76171,
     "gn:country":"KE",
     "gn:fcode":"PPLA",
-    "gn:pop":216479,
+    "gn:population":216479,
     "iso:country":"KE",
+    "lbl:bbox":"34.74171,-0.12221,34.78171,-0.08221",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0441\u0443\u043c\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Winam"
     ],
     "name:urd_x_preferred":[
@@ -316,10 +319,12 @@
     "wof:concordances":{
         "gn:id":191245,
         "gp:id":1527904,
-        "qs:id":275861,
-        "qs_pg:id":1118127,
+        "qs_pg:id":275861,
         "wd:id":"Q214485",
         "wk:page":"Kisumu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118127
     },
     "wof:country":"KE",
     "wof:created":1469051887,
@@ -334,7 +339,7 @@
         }
     ],
     "wof:id":890431355,
-    "wof:lastmodified":1563305693,
+    "wof:lastmodified":1566727052,
     "wof:name":"Kisumu",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

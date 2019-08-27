@@ -10,8 +10,12 @@
     "geom:latitude":0.06116,
     "geom:longitude":34.28823,
     "iso:country":"KE",
+    "lbl:bbox":"34.26823,0.04116,34.30823,0.08116",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Siaya"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":383388,
         "gp:id":1528824,
-        "qs:id":1221136,
+        "qs_pg:id":1221136,
         "wd:id":"Q2422035",
         "wk:page":"Siaya"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177245,
-    "wof:lastmodified":1563305679,
+    "wof:lastmodified":1566727051,
     "wof:name":"Siaya",
     "wof:parent_id":1091912583,
     "wof:placetype":"locality",

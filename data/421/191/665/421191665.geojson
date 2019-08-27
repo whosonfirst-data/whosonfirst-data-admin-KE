@@ -10,8 +10,12 @@
     "geom:latitude":-0.78129,
     "geom:longitude":35.34156,
     "iso:country":"KE",
+    "lbl:bbox":"35.32156,-0.80129,35.36156,-0.76129",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bomet"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Bomet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sotik"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":200308,
         "gp:id":1526891,
-        "qs:id":1150477,
+        "qs_pg:id":1150477,
         "wd:id":"Q891951",
         "wk:page":"Bomet"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421191665,
-    "wof:lastmodified":1563305671,
+    "wof:lastmodified":1566727050,
     "wof:name":"Bomet",
     "wof:parent_id":1091910907,
     "wof:placetype":"locality",

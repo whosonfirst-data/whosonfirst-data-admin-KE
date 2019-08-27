@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.530396,
     "lbl:longitude":35.287653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"West PokotRIFT VALLEY",
     "meso:gadm_admin":"West Pokot",
@@ -32,6 +34,7 @@
     "mps:longitude":35.287653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "West Pokot"
     ],
@@ -39,7 +42,7 @@
         "West Pokot"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1091912907,
-    "wof:lastmodified":1555220359,
+    "wof:lastmodified":1566727041,
     "wof:name":"West Pokot",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

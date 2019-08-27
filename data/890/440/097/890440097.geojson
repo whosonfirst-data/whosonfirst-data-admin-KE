@@ -11,8 +11,11 @@
     "geom:longitude":37.26667,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":31971,
+    "gn:population":31971,
     "iso:country":"KE",
+    "lbl:bbox":"37.24667,-1.53667,37.28667,-1.49667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -163,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0447\u0430\u043a\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Masaku"
     ],
     "name:urd_x_preferred":[
@@ -294,10 +297,12 @@
     "wof:concordances":{
         "gn:id":188492,
         "gp:id":1528075,
-        "qs:id":273730,
-        "qs_pg:id":1118137,
+        "qs_pg:id":273730,
         "wd:id":"Q693093",
         "wk:page":"Machakos"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118137
     },
     "wof:country":"KE",
     "wof:created":1469052262,
@@ -312,7 +317,7 @@
         }
     ],
     "wof:id":890440097,
-    "wof:lastmodified":1563305689,
+    "wof:lastmodified":1566727052,
     "wof:name":"Machakos",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

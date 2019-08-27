@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.294305,
     "lbl:longitude":37.043589,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"SamburuRIFT VALLEY",
     "meso:gadm_admin":"Samburu",
@@ -32,6 +34,7 @@
     "mps:longitude":37.043589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Samburu"
     ],
@@ -63,9 +66,9 @@
         "Samburu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"21,127.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Maralal",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1091912581,
-    "wof:lastmodified":1564175008,
+    "wof:lastmodified":1566727038,
     "wof:name":"Samburu",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

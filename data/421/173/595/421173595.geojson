@@ -10,8 +10,12 @@
     "geom:latitude":-0.77584,
     "geom:longitude":34.94531,
     "iso:country":"KE",
+    "lbl:bbox":"34.92531,-0.79584,34.96531,-0.75584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u043e\u043a\u0430"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":192869,
         "gp:id":1527681,
-        "qs:id":512260,
+        "qs_pg:id":512260,
         "wd:id":"Q6394255",
         "wk:page":"Keroka"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421173595,
-    "wof:lastmodified":1563305659,
+    "wof:lastmodified":1566727048,
     "wof:name":"Keroka",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

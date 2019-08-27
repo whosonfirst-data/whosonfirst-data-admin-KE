@@ -10,8 +10,12 @@
     "geom:latitude":-1.0077,
     "geom:longitude":34.88062,
     "iso:country":"KE",
+    "lbl:bbox":"34.86062,-1.0277,34.90062,-0.9877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kilgoris"
@@ -55,9 +59,6 @@
     "name:swe_x_preferred":[
         "Kilgoris"
     ],
-    "name:unk_x_variant":[
-        "Kilgoris"
-    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":192079,
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":192079,
         "gp:id":1527824,
-        "qs:id":249410,
+        "qs_pg:id":249410,
         "wd:id":"Q1637086",
         "wk:page":"Kilgoris"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421204817,
-    "wof:lastmodified":1563305643,
+    "wof:lastmodified":1566727047,
     "wof:name":"Kilkoris",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

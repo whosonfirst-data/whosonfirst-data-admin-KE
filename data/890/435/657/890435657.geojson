@@ -11,10 +11,14 @@
     "geom:longitude":35.46847,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":2952,
+    "gn:population":2952,
     "iso:country":"KE",
+    "lbl:bbox":"35.44847,-0.21675,35.48847,-0.17675",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043f\u043a\u0435\u043b\u0438\u043e\u043d"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kipkelion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lumowa"
     ],
     "qs:name":"Lumbwa",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":188617,
         "gp:id":1527864,
-        "qs:id":545041,
+        "qs_pg:id":545041,
         "wd:id":"Q6703164",
         "wk:page":"Lumbwa"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890435657,
-    "wof:lastmodified":1563305703,
+    "wof:lastmodified":1566727053,
     "wof:name":"Lumbwa",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

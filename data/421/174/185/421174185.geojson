@@ -10,8 +10,12 @@
     "geom:latitude":-0.66667,
     "geom:longitude":37.2,
     "iso:country":"KE",
+    "lbl:bbox":"37.18,-0.68667,37.22,-0.64667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sagana"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":180868,
         "gp:id":1528774,
-        "qs:id":317655,
+        "qs_pg:id":317655,
         "wd:id":"Q7193402",
         "wk:page":"Sagana"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421174185,
-    "wof:lastmodified":1563305655,
+    "wof:lastmodified":1566727048,
     "wof:name":"Sagana",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

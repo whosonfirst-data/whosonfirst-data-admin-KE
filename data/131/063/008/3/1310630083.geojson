@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.11427,-2.28164,40.15427,-2.24164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u094c\u0930\u092a\u093e\u091f\u0940"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1310630083,
-    "wof:lastmodified":1564174970,
+    "wof:lastmodified":1566727027,
     "wof:name":"Dumi",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

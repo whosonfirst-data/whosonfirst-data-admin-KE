@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.63,-2.13667,39.67,-2.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chirte Hiyasa",
         "Chirte Hiyesa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360218319,
-    "wof:lastmodified":1537653087,
+    "wof:lastmodified":1566727035,
     "wof:name":"Chirte Hiyesa",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

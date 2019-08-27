@@ -10,6 +10,9 @@
     "geom:latitude":-4.054686,
     "geom:longitude":39.665622,
     "iso:country":"KE",
+    "lbl:bbox":"39.645622,-4.074686,39.685622,-4.034686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -266,9 +269,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043c\u0431\u0430\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mombassa"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0645\u0628\u0627\u0633\u0627"
     ],
@@ -414,9 +414,11 @@
     "wof:concordances":{
         "gn:id":186301,
         "gp:id":1528664,
-        "qs:id":1118173,
         "qs_pg:id":349429,
         "wd:id":"Q225641"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118173
     },
     "wof:country":"KE",
     "wof:created":1459009643,
@@ -431,7 +433,7 @@
         }
     ],
     "wof:id":421189991,
-    "wof:lastmodified":1563305660,
+    "wof:lastmodified":1566727048,
     "wof:name":"Old Mombasa",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

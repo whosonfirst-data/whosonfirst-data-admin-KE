@@ -10,6 +10,9 @@
     "geom:latitude":-0.42013,
     "geom:longitude":36.94759,
     "iso:country":"KE",
+    "lbl:bbox":"36.92759,-0.44013,36.96759,-0.40013",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044c\u0454\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyiri"
     ],
     "name:urd_x_preferred":[
@@ -314,7 +317,7 @@
     "wof:concordances":{
         "gn:id":182701,
         "gp:id":1528643,
-        "qs:id":238758,
+        "qs_pg:id":238758,
         "wd:id":"Q380130",
         "wk:page":"Nyeri"
     },
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421204229,
-    "wof:lastmodified":1563305643,
+    "wof:lastmodified":1566727047,
     "wof:name":"Nyeri",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

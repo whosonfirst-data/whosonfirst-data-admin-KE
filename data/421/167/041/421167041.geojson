@@ -10,8 +10,12 @@
     "geom:latitude":1.30774,
     "geom:longitude":35.2039,
     "iso:country":"KE",
+    "lbl:bbox":"35.1839,1.28774,35.2239,1.32774",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Chepareria"
@@ -24,9 +28,6 @@
     ],
     "name:swe_x_preferred":[
         "Chepareria"
-    ],
-    "name:unk_x_variant":[
-        "Cheberia"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -59,7 +60,7 @@
     "wof:concordances":{
         "gn:id":199604,
         "gp:id":1526953,
-        "qs:id":122722,
+        "qs_pg:id":122722,
         "wd:id":"Q5088975",
         "wk:page":"Cheberia"
     },
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":421167041,
-    "wof:lastmodified":1563305637,
+    "wof:lastmodified":1566727046,
     "wof:name":"Chepareria",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

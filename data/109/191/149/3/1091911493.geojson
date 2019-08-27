@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.468163,
     "lbl:longitude":35.545953,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"KeiyoRIFT VALLEY",
     "meso:gadm_admin":"Elgeyo-Marakwet",
@@ -32,6 +34,7 @@
     "mps:longitude":35.545953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Keiyo District"
     ],
@@ -65,9 +68,9 @@
         "Keiyo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"1,439.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Iten/Tambach",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1091911493,
-    "wof:lastmodified":1561777169,
+    "wof:lastmodified":1566727041,
     "wof:name":"Keiyo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

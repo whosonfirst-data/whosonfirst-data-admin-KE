@@ -11,7 +11,7 @@
     "geom:longitude":36.482583,
     "gn:country":"KE",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Nyandarua District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.216065,
     "lbl:longitude":36.434784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CENTRAL",
     "meso:diss_me":"NyandaruaCENTRAL",
     "meso:gadm_admin":"Nyandarua",
@@ -35,6 +37,7 @@
     "mps:longitude":36.434784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Nyandarua"
     ],
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"3,304.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Ol Kalou",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gn:id":7603036,
         "hasc:id":"KE.CE.NN",
-        "qs:id":1154906,
+        "qs_pg:id":1154906,
         "wd:id":"Q1714352",
         "wk:page":"Nyandarua County"
     },
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":890437763,
-    "wof:lastmodified":1563305692,
+    "wof:lastmodified":1566727052,
     "wof:name":"Nyandarua",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

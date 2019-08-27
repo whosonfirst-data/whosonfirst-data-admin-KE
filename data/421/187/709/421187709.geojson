@@ -10,8 +10,12 @@
     "geom:latitude":-1.4563,
     "geom:longitude":36.97826,
     "iso:country":"KE",
+    "lbl:bbox":"36.95826,-1.4763,36.99826,-1.4363",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Athi River"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":200787,
         "gp:id":1526834,
-        "qs:id":7330,
+        "qs_pg:id":7330,
         "wd:id":"Q4813647",
         "wk:page":"Athi River (town)"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421187709,
-    "wof:lastmodified":1563305657,
+    "wof:lastmodified":1566727048,
     "wof:name":"Athi River",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

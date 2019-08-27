@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.89389,-1.22549,36.93389,-1.18549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276552401,
-    "wof:lastmodified":1536981752,
+    "wof:lastmodified":1566727001,
     "wof:name":"Githurai",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

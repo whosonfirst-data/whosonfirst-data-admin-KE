@@ -11,10 +11,14 @@
     "geom:longitude":36.287,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":14529,
+    "gn:population":14529,
     "iso:country":"KE",
+    "lbl:bbox":"36.267,-1.92122,36.307,-1.88122",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Magadi"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":188408,
         "gp:id":1528088,
-        "qs:id":369086,
+        "qs_pg:id":369086,
         "wd:id":"Q7193354",
         "wk:page":"Magadi"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890442931,
-    "wof:lastmodified":1563305698,
+    "wof:lastmodified":1566727053,
     "wof:name":"Magadi",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

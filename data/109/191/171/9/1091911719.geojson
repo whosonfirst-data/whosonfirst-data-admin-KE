@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.08128,
     "lbl:longitude":35.789415,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"KoibatekRIFT VALLEY",
     "meso:gadm_admin":"Baringo",
@@ -32,6 +34,7 @@
     "mps:longitude":35.789415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Koibatek District"
     ],
@@ -56,7 +59,7 @@
         "Koibatek"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1091911719,
-    "wof:lastmodified":1561777169,
+    "wof:lastmodified":1566727041,
     "wof:name":"Koibatek",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

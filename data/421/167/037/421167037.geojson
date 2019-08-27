@@ -10,8 +10,12 @@
     "geom:latitude":-1.29792,
     "geom:longitude":37.34705,
     "iso:country":"KE",
+    "lbl:bbox":"37.32705,-1.31792,37.36705,-1.27792",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kangundo"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Kangundo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kangundu"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":194406,
         "gp:id":1527541,
-        "qs:id":122705,
+        "qs_pg:id":122705,
         "wd:id":"Q6362919",
         "wk:page":"Kangundo"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421167037,
-    "wof:lastmodified":1563305639,
+    "wof:lastmodified":1566727046,
     "wof:name":"Kangundo",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-0.9,
     "geom:longitude":37.18333,
     "iso:country":"KE",
+    "lbl:bbox":"37.16333,-0.92,37.20333,-0.88",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Makuyu"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Makuyu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mukuyu"
     ],
     "qs:gn_country":"KE",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":188039,
         "gp:id":1528138,
-        "qs:id":1168121,
+        "qs_pg:id":1168121,
         "wd:id":"Q6740494",
         "wk:page":"Makuyu"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421192411,
-    "wof:lastmodified":1563305634,
+    "wof:lastmodified":1566727046,
     "wof:name":"Makuyu",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.13,-3.78667,39.17,-3.74667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0686\u06cc\u0648\u0627"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293550699,
-    "wof:lastmodified":1564174793,
+    "wof:lastmodified":1566726983,
     "wof:name":"Achivwa",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

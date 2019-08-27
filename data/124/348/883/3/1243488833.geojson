@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"35.97257,-1.2705,36.01257,-1.2305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angara Naado",
         "Angata Naado"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243488833,
-    "wof:lastmodified":1537653092,
+    "wof:lastmodified":1566727058,
     "wof:name":"Angata Naado",
     "wof:parent_id":1091912451,
     "wof:placetype":"locality",

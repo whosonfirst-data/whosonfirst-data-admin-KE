@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"37.09081,-1.20285,37.13081,-1.16285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Juja"
     ],
     "name:und_x_variant":[
-        "Juga",
-        "Juja"
+        "Juga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360243439,
-    "wof:lastmodified":1564174990,
+    "wof:lastmodified":1566727032,
     "wof:name":"Juja",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

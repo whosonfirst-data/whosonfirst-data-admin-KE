@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.68363,-2.43883,40.72363,-2.39883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243515055,
-    "wof:lastmodified":1537567137,
+    "wof:lastmodified":1566727061,
     "wof:name":"Msuakini",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

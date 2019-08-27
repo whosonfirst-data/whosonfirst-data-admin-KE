@@ -10,8 +10,12 @@
     "geom:latitude":-1.25,
     "geom:longitude":36.88333,
     "iso:country":"KE",
+    "lbl:bbox":"36.86333,-1.27,36.90333,-1.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kariobangi"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":193717,
         "gp:id":1527605,
-        "qs:id":1081059,
+        "qs_pg:id":1081059,
         "wd:id":"Q1143939",
         "wk:page":"Kariobangi"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421187137,
-    "wof:lastmodified":1561777173,
+    "wof:lastmodified":1566727048,
     "wof:name":"Kariobangi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

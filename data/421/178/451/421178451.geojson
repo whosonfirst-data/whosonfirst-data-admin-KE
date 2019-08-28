@@ -10,6 +10,9 @@
     "geom:latitude":0.05158,
     "geom:longitude":35.73078,
     "iso:country":"KE",
+    "lbl:bbox":"35.71078,0.03158,35.75078,0.07158",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,7 +59,7 @@
     "name:swe_x_preferred":[
         "Eldama Ravine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shimoni"
     ],
     "ne:ADM0CAP":0.0,
@@ -182,7 +185,7 @@
     "wof:concordances":{
         "gn:id":198636,
         "gp:id":1527037,
-        "qs:id":122728,
+        "qs_pg:id":122728,
         "wd:id":"Q1009186",
         "wk:page":"Eldama Ravine"
     },
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421178451,
-    "wof:lastmodified":1563305683,
+    "wof:lastmodified":1566727051,
     "wof:name":"Eldama Ravine",
     "wof:parent_id":1091911719,
     "wof:placetype":"locality",

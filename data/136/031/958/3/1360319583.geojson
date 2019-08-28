@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.34621,-0.19387,34.38621,-0.15387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360319583,
-    "wof:lastmodified":1537567154,
+    "wof:lastmodified":1566727034,
     "wof:name":"Kalandini",
     "wof:parent_id":1091910953,
     "wof:placetype":"locality",

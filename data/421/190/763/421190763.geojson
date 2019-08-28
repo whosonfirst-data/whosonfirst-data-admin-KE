@@ -10,8 +10,12 @@
     "geom:latitude":-1.329403,
     "geom:longitude":36.804321,
     "iso:country":"KE",
+    "lbl:bbox":"36.784321,-1.349403,36.824321,-1.309403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ngong Road"
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644693,
-        "qs:id":1120386,
+        "qs_pg:id":1120386,
         "wd:id":"Q17110721"
     },
     "wof:country":"KE",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421190763,
-    "wof:lastmodified":1563305672,
+    "wof:lastmodified":1566727050,
     "wof:name":"Ngong Road",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

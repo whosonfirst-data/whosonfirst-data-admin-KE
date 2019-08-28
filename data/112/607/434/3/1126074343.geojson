@@ -9,16 +9,19 @@
     "geom:bbox":"36.78333,-1.28333,36.78333,-1.28333",
     "geom:latitude":-1.28333,
     "geom:longitude":36.78333,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-1.28333,
     "gn:longitude":36.78333,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.77833,-1.28833,36.78833,-1.27833",
     "lbl:latitude":-1.28333,
     "lbl:longitude":36.78333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Kileleshwa"
@@ -26,10 +29,6 @@
     "name:eng_x_variant":[
         "Kileleshwan",
         "Kerichwa Kubwa"
-    ],
-    "name:unk_x_variant":[
-        "Kerichwa Kubwa",
-        "Kileleshwa"
     ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
@@ -52,7 +51,7 @@
     "qs_pg:woe_adm0":23424863,
     "qs_pg:woe_id":1527815,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424863,
     "woe:name_adm0":"Kenya",
     "woe:name_adm1":"Nairobi Area",
@@ -67,7 +66,6 @@
     "wof:concordances":{
         "gn:id":192093,
         "gp:id":1527815,
-        "qs:id":7552,
         "qs_pg:id":7552
     },
     "wof:country":"KE",
@@ -84,7 +82,7 @@
         }
     ],
     "wof:id":1126074343,
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1566727054,
     "wof:name":"Kileleshwa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

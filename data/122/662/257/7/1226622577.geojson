@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.13,0.43,34.17,0.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mbwekas",
         "Mbweka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226622577,
-    "wof:lastmodified":1537653052,
+    "wof:lastmodified":1566727081,
     "wof:name":"Mbweka",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

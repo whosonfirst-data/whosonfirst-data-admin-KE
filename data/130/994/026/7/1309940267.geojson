@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"35.37452,2.09278,35.41452,2.13278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nakwamuro",
         "Nakwamoru",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309940267,
-    "wof:lastmodified":1537653044,
+    "wof:lastmodified":1566727044,
     "wof:name":"Nakwamurua",
     "wof:parent_id":1091912795,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":34.665511,
     "gn:country":"KE",
     "gn:fcode":"ADM2",
-    "gn:pop":300000,
+    "gn:population":300000,
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Rachuonyo District"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":-0.389744,
     "lbl:longitude":34.670333,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NYANZA",
     "meso:diss_me":"RachuonyoNYANZA",
     "meso:gadm_admin":"Homa Bay",
@@ -35,6 +37,7 @@
     "mps:longitude":34.670333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Rachuonyo District"
     ],
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":7802748,
         "hasc:id":"KE.NY.HB",
-        "qs:id":705197,
+        "qs_pg:id":705197,
         "wd:id":"Q2125323",
         "wk:page":"Rachuonyo District"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890427529,
-    "wof:lastmodified":1561777178,
+    "wof:lastmodified":1566727053,
     "wof:name":"Rachuonyo",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

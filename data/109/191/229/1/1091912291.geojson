@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.675926,
     "lbl:longitude":36.978707,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CENTRAL",
     "meso:diss_me":"MurangaCENTRAL",
     "meso:gadm_admin":"Murang'a",
@@ -32,6 +34,7 @@
     "mps:longitude":36.978707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Murang'a"
     ],
@@ -40,9 +43,9 @@
         "Murang'a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"930.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Murang'a",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1091912291,
-    "wof:lastmodified":1553717977,
+    "wof:lastmodified":1566727036,
     "wof:name":"Muranga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

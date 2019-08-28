@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"37.57007,0.36447,37.61007,0.40447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Garba"
     ],
@@ -41,8 +45,7 @@
         "\u0413\u0430\u0440\u0431\u0430"
     ],
     "name:und_x_variant":[
-        "Gariba",
-        "Garba"
+        "Gariba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1343325029,
-    "wof:lastmodified":1564174763,
+    "wof:lastmodified":1566726973,
     "wof:name":"Garba",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

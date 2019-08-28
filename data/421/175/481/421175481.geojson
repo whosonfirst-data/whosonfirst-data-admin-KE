@@ -10,8 +10,12 @@
     "geom:latitude":-0.7,
     "geom:longitude":37.18333,
     "iso:country":"KE",
+    "lbl:bbox":"37.16333,-0.72,37.20333,-0.68",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0631\u06cc"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":193627,
         "gp:id":1529205,
-        "qs:id":969963,
+        "qs_pg:id":969963,
         "wd:id":"Q6373732"
     },
     "wof:country":"KE",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421175481,
-    "wof:lastmodified":1563305667,
+    "wof:lastmodified":1566727049,
     "wof:name":"Karuri",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

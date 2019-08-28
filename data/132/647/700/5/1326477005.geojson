@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.34852,-2.35868,40.38852,-2.31868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326477005,
-    "wof:lastmodified":1537060949,
+    "wof:lastmodified":1566726961,
     "wof:name":"Katsaka Kairu",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

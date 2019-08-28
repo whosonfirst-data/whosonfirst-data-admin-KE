@@ -10,8 +10,12 @@
     "geom:latitude":0.35462,
     "geom:longitude":37.58218,
     "iso:country":"KE",
+    "lbl:bbox":"37.56218,0.33462,37.60218,0.37462",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0632\u06cc\u0648\u0644\u0648"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":196231,
         "gp:id":1527329,
-        "qs:id":279506,
+        "qs_pg:id":279506,
         "wd:id":"Q1020292",
         "wk:page":"Isiolo"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421178351,
-    "wof:lastmodified":1563305683,
+    "wof:lastmodified":1566727051,
     "wof:name":"Isiolo",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

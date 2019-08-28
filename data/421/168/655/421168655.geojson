@@ -10,6 +10,9 @@
     "geom:latitude":3.5216,
     "geom:longitude":39.05472,
     "iso:country":"KE",
+    "lbl:bbox":"39.03472,3.5016,39.07472,3.5416",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -68,7 +71,7 @@
     "name:swe_x_preferred":[
         "Moyale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Harrington"
     ],
     "name:urd_x_preferred":[
@@ -202,7 +205,7 @@
     "wof:concordances":{
         "gn:id":186180,
         "gp:id":1528340,
-        "qs:id":257094,
+        "qs_pg:id":257094,
         "wd:id":"Q1009179",
         "wk:page":"Moyale"
     },
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421168655,
-    "wof:lastmodified":1563305631,
+    "wof:lastmodified":1566727045,
     "wof:name":"Moyale",
     "wof:parent_id":1091912223,
     "wof:placetype":"locality",

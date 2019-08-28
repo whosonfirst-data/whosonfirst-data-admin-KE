@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13140363.172868,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.815894,-1.286236,36.815894,-1.286236",
     "geom:latitude":-1.286236,
     "geom:longitude":36.815894,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-1.3,
     "gn:longitude":36.81667,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.810894,-1.291236,36.820894,-1.281236",
     "lbl:latitude":-1.286236,
     "lbl:longitude":36.815894,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-1.298687,
     "mps:longitude":36.810173,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Nairobi Hill"
-    ],
-    "name:unk_x_variant":[
         "Nairobi Hill"
     ],
     "qs:gn_adm0_cc":"KE",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672951,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":184739,
         "gp:id":1528489,
-        "qs:id":189193,
         "qs_pg:id":189193
     },
     "wof:country":"KE",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1566726977,
     "wof:name":"Nairobi Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.058153,
     "lbl:longitude":37.432833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN",
     "meso:diss_me":"MarsabitEASTERN",
     "meso:gadm_admin":"Marsabit",
@@ -32,6 +34,7 @@
     "mps:longitude":37.432833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0631\u0633\u0627\u0628\u06cc\u062a"
     ],
@@ -90,7 +93,7 @@
         "\u99ac\u85a9\u6bd4\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1091912007,
-    "wof:lastmodified":1564175018,
+    "wof:lastmodified":1566727040,
     "wof:name":"Marsabit",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

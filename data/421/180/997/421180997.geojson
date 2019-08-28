@@ -10,8 +10,12 @@
     "geom:latitude":-1.3,
     "geom:longitude":36.91667,
     "iso:country":"KE",
+    "lbl:bbox":"36.89667,-1.32,36.93667,-1.28",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mbagathi"
@@ -20,9 +24,6 @@
         "Mbagathi"
     ],
     "name:nld_x_preferred":[
-        "Mbagathi"
-    ],
-    "name:unk_x_variant":[
         "Mbagathi"
     ],
     "qs:gn_country":"KE",
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":198442,
         "gp:id":1527049,
-        "qs:id":472248,
+        "qs_pg:id":472248,
         "wd:id":"Q6799574"
     },
     "wof:country":"KE",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":421180997,
-    "wof:lastmodified":1561777172,
+    "wof:lastmodified":1566727048,
     "wof:name":"Empakasi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

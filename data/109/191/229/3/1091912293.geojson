@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.692733,
     "lbl:longitude":38.320637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN",
     "meso:diss_me":"MwingiEASTERN",
     "meso:gadm_admin":"Kitui",
@@ -32,6 +34,7 @@
     "mps:longitude":38.320637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mwingi"
     ],
@@ -67,7 +70,7 @@
         "\u0645\u0648\u0646\u06af\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1091912293,
-    "wof:lastmodified":1564175004,
+    "wof:lastmodified":1566727036,
     "wof:name":"Mwingi",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

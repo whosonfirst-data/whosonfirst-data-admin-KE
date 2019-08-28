@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.79095,-0.91108,36.83095,-0.87108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gakee",
         "Gakoe"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209172557,
-    "wof:lastmodified":1537653084,
+    "wof:lastmodified":1566727013,
     "wof:name":"Gakoe",
     "wof:parent_id":85632329,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.65695,-1.3557,36.69695,-1.3157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tiptolle"
     ],
@@ -176,8 +180,7 @@
         "\u0411\u044e\u043b\u044c\u0431\u044e\u043b\u0435\u0432\u0456"
     ],
     "name:und_x_variant":[
-        "Elbulbul",
-        "Bulbul"
+        "Elbulbul"
     ],
     "name:war_x_preferred":[
         "Pycnonotidae"
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1293888589,
-    "wof:lastmodified":1564174833,
+    "wof:lastmodified":1566726993,
     "wof:name":"Bulbul",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

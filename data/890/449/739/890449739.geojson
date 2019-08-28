@@ -11,10 +11,14 @@
     "geom:longitude":39.31528,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":8070,
+    "gn:population":8070,
     "iso:country":"KE",
+    "lbl:bbox":"39.29528,-4.15723,39.33528,-4.11723",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Kinango"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":191833,
         "gp:id":1529248,
-        "qs:id":58615,
+        "qs_pg:id":58615,
         "wd:id":"Q6410375",
         "wk:page":"Kinango"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890449739,
-    "wof:lastmodified":1563305690,
+    "wof:lastmodified":1566727052,
     "wof:name":"Kinango",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

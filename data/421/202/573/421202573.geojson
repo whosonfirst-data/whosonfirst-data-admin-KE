@@ -10,8 +10,12 @@
     "geom:latitude":-0.71667,
     "geom:longitude":37.15,
     "iso:country":"KE",
+    "lbl:bbox":"37.13,-0.73667,37.17,-0.69667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Muranga"
@@ -64,9 +68,6 @@
     "name:swe_x_preferred":[
         "Muranga"
     ],
-    "name:unk_x_variant":[
-        "Murang\u2019a"
-    ],
     "name:zho_x_preferred":[
         "\u7a46\u62c9\u96c5"
     ],
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":185579,
         "gp:id":1527068,
-        "qs:id":29075,
+        "qs_pg:id":29075,
         "wd:id":"Q974323",
         "wk:page":"Murang'a"
     },
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":421202573,
-    "wof:lastmodified":1563305647,
+    "wof:lastmodified":1566727047,
     "wof:name":"Fort Hall",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.77321,-0.73298,39.81321,-0.69298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malka Jara",
         "Jara Melka",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310241049,
-    "wof:lastmodified":1537653055,
+    "wof:lastmodified":1566727023,
     "wof:name":"Jara",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":34.75047,
     "gn:country":"KE",
     "gn:fcode":"PPLA",
-    "gn:pop":63426,
+    "gn:population":63426,
     "iso:country":"KE",
+    "lbl:bbox":"34.73047,0.268819,34.77047,0.308819",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0627\u0645\u064a\u063a\u0627"
@@ -212,12 +216,12 @@
     "wof:concordances":{
         "gn:id":195272,
         "gp:id":1527449,
-        "qs:id":1118104,
+        "qs_pg:id":1118104,
         "wd:id":"Q302912",
         "wk:page":"Kakamega"
     },
     "wof:concordances_alt":{
-        "qs:id":1029440
+        "qs_pg:id":1029440
     },
     "wof:country":"KE",
     "wof:created":1459009642,
@@ -232,7 +236,7 @@
         }
     ],
     "wof:id":421189971,
-    "wof:lastmodified":1563305662,
+    "wof:lastmodified":1566727049,
     "wof:name":"Kakamega",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

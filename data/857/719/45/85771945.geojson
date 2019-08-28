@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23724841.391129,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.8262,-1.319835,36.8262,-1.319835",
     "geom:latitude":-1.319835,
     "geom:longitude":36.8262,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-1.31667,
     "gn:longitude":36.83333,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.8212,-1.324835,36.8312,-1.314835",
     "lbl:latitude":-1.319835,
     "lbl:longitude":36.8262,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-1.326493,
     "mps:longitude":36.832355,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Nairobi South"
-    ],
-    "name:unk_x_variant":[
         "Nairobi South"
     ],
     "qs:gn_adm0_cc":"KE",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672951,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":184736,
         "gp:id":1528491,
-        "qs:id":247159,
         "qs_pg:id":247159
     },
     "wof:country":"KE",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1566726977,
     "wof:name":"Nairobi South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

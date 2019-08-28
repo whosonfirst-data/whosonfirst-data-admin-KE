@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.83081,-0.95018,34.87081,-0.91018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyangoso",
         "Nyangusu"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243023627,
-    "wof:lastmodified":1537653040,
+    "wof:lastmodified":1566727062,
     "wof:name":"Nyangusu",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

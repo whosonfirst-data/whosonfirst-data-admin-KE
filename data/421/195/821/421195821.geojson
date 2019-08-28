@@ -10,6 +10,9 @@
     "geom:latitude":-0.93435,
     "geom:longitude":38.06005,
     "iso:country":"KE",
+    "lbl:bbox":"38.04005,-0.95435,38.08005,-0.91435",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -179,7 +182,7 @@
     "wof:concordances":{
         "gn:id":184921,
         "gp:id":1528484,
-        "qs:id":122673,
+        "qs_pg:id":122673,
         "wd:id":"Q3499659"
     },
     "wof:country":"KE",
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421195821,
-    "wof:lastmodified":1563305634,
+    "wof:lastmodified":1566727046,
     "wof:name":"Mwingi",
     "wof:parent_id":1091912293,
     "wof:placetype":"locality",

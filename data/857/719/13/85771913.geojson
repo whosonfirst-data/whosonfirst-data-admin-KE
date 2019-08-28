@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9186959.399147,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.811162,-1.279443,36.811162,-1.279443",
     "geom:latitude":-1.279443,
     "geom:longitude":36.811162,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-1.26667,
     "gn:longitude":36.8,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.806162,-1.284443,36.816162,-1.274443",
     "lbl:latitude":-1.279443,
     "lbl:longitude":36.811162,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-1.268044,
     "mps:longitude":36.805194,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Chiromo"
-    ],
-    "name:unk_x_variant":[
         "Chiromo"
     ],
     "qs:gn_adm0_cc":"KE",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":59,
     "wof:belongsto":[
         85672951,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":199350,
         "gp:id":1526971,
-        "qs:id":1064130,
         "qs_pg:id":1064130
     },
     "wof:country":"KE",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1566726977,
     "wof:name":"Chiromo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

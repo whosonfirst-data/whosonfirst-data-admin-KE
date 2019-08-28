@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"38.92955,-3.99158,38.96955,-3.95158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360132027,
-    "wof:lastmodified":1537567147,
+    "wof:lastmodified":1566727033,
     "wof:name":"Kilibasi",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":35.26992,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":218446,
+    "gn:population":218446,
     "iso:country":"KE",
+    "lbl:bbox":"35.24992,0.50036,35.28992,0.54036",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -178,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u0434\u043e\u0440\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olteret"
     ],
     "name:urd_x_preferred":[
@@ -309,10 +312,12 @@
     "wof:concordances":{
         "gn:id":198629,
         "gp:id":1527038,
-        "qs:id":122727,
-        "qs_pg:id":1118085,
+        "qs_pg:id":122727,
         "wd:id":"Q322149",
         "wk:page":"Eldoret"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118085
     },
     "wof:country":"KE",
     "wof:created":1469051972,
@@ -327,7 +332,7 @@
         }
     ],
     "wof:id":890433257,
-    "wof:lastmodified":1563305702,
+    "wof:lastmodified":1566727053,
     "wof:name":"Eldoret",
     "wof:parent_id":1091912837,
     "wof:placetype":"locality",

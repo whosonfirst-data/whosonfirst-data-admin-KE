@@ -11,8 +11,11 @@
     "geom:longitude":34.76666,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":28547,
+    "gn:population":28547,
     "iso:country":"KE",
+    "lbl:bbox":"34.74666,-0.70174,34.78666,-0.66174",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -268,10 +271,12 @@
     "wof:concordances":{
         "gn:id":191299,
         "gp:id":1527899,
-        "qs:id":1029437,
-        "qs_pg:id":1118125,
+        "qs_pg:id":1029437,
         "wd:id":"Q1007719",
         "wk:page":"Kisii"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1118125
     },
     "wof:country":"KE",
     "wof:created":1469052426,
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":890443511,
-    "wof:lastmodified":1563305697,
+    "wof:lastmodified":1566727053,
     "wof:name":"Kisii",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

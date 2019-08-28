@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.06912,
     "lbl:longitude":35.512381,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"MarakwetRIFT VALLEY",
     "meso:gadm_admin":"West Pokot",
@@ -32,6 +34,7 @@
     "mps:longitude":35.512381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:dan_x_preferred":[
         "Marakwet"
     ],
@@ -68,7 +71,7 @@
         "Marakwet"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1091911965,
-    "wof:lastmodified":1561777168,
+    "wof:lastmodified":1566727039,
     "wof:name":"Marakwet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

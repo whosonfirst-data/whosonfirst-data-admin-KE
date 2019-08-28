@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.379792,
     "lbl:longitude":34.201565,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"WESTERN",
     "meso:diss_me":"BusiaWESTERN",
     "meso:gadm_admin":"Busia",
@@ -32,6 +34,7 @@
     "mps:longitude":34.201565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Busia"
     ],
@@ -75,7 +78,7 @@
         "\u5e03\u897f\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1091911075,
-    "wof:lastmodified":1564175014,
+    "wof:lastmodified":1566727039,
     "wof:name":"Busia",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

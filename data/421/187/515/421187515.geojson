@@ -10,8 +10,12 @@
     "geom:latitude":-4.23934,
     "geom:longitude":39.57638,
     "iso:country":"KE",
+    "lbl:bbox":"39.55638,-4.25934,39.59638,-4.21934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tiwi"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":179136,
         "gp:id":1528932,
-        "qs:id":1083608,
+        "qs_pg:id":1083608,
         "wd:id":"Q7810480"
     },
     "wof:country":"KE",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421187515,
-    "wof:lastmodified":1561777173,
+    "wof:lastmodified":1566727048,
     "wof:name":"Tiwi",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

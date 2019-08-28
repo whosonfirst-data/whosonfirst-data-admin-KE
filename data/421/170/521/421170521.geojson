@@ -10,8 +10,12 @@
     "geom:latitude":0.56842,
     "geom:longitude":34.27365,
     "iso:country":"KE",
+    "lbl:bbox":"34.25365,0.54842,34.29365,0.58842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Amakuni"
@@ -40,7 +44,7 @@
     "name:spa_x_preferred":[
         "Amakuni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amukura"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":201062,
         "gp:id":1526815,
-        "qs:id":1192055,
+        "qs_pg:id":1192055,
         "wd:id":"Q452599"
     },
     "wof:country":"KE",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421170521,
-    "wof:lastmodified":1563305678,
+    "wof:lastmodified":1566727051,
     "wof:name":"Amakura",
     "wof:parent_id":1091912613,
     "wof:placetype":"locality",

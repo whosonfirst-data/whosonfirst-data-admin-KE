@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"37.14765,-0.59507,37.18765,-0.55507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Kianjege"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327302251,
-    "wof:lastmodified":1564174685,
+    "wof:lastmodified":1566726955,
     "wof:name":"Kianjege",
     "wof:parent_id":890431357,
     "wof:placetype":"locality",

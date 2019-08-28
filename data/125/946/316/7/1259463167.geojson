@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.69489,0.82033,34.73489,0.86033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Kapsakwany"
     ],
     "name:und_x_variant":[
-        "Kapsakwany",
         "Kapsakwony"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259463167,
-    "wof:lastmodified":1564175098,
+    "wof:lastmodified":1566727068,
     "wof:name":"Kapsakwony",
     "wof:parent_id":1091912267,
     "wof:placetype":"locality",

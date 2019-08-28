@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.73271,2.18308,40.77271,2.22308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276370995,
-    "wof:lastmodified":1536728544,
+    "wof:lastmodified":1566727001,
     "wof:name":"Khorof Harar",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

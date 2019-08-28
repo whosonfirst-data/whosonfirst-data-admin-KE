@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.59876,-0.75809,36.63876,-0.71809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326864367,
-    "wof:lastmodified":1537001692,
+    "wof:lastmodified":1566726956,
     "wof:name":"Githioro",
     "wof:parent_id":890437763,
     "wof:placetype":"locality",

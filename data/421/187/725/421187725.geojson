@@ -10,8 +10,12 @@
     "geom:latitude":-1.1,
     "geom:longitude":36.65,
     "iso:country":"KE",
+    "lbl:bbox":"36.63,-1.12,36.67,-1.08",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Limuru"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":189386,
         "gp:id":1528028,
-        "qs:id":7547,
+        "qs_pg:id":7547,
         "wd:id":"Q1825607",
         "wk:page":"Limuru"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421187725,
-    "wof:lastmodified":1563305657,
+    "wof:lastmodified":1566727048,
     "wof:name":"Limuru",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

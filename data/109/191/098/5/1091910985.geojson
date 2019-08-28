@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.649622,
     "lbl:longitude":34.653693,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"WESTERN",
     "meso:diss_me":"BungomaWESTERN",
     "meso:gadm_admin":"Bungoma",
@@ -32,6 +34,7 @@
     "mps:longitude":34.653693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0646\u0642\u0648\u0645\u0627"
     ],
@@ -96,7 +99,7 @@
         "\u5954\u6208\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1091910985,
-    "wof:lastmodified":1564175007,
+    "wof:lastmodified":1566727037,
     "wof:name":"Bungoma",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

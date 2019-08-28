@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"39.40315,-2.10192,39.44315,-2.06192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259916671,
-    "wof:lastmodified":1536731551,
+    "wof:lastmodified":1566727066,
     "wof:name":"Onjila",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

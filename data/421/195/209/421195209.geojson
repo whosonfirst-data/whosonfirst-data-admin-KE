@@ -10,6 +10,9 @@
     "geom:latitude":-0.53112,
     "geom:longitude":37.4506,
     "iso:country":"KE",
+    "lbl:bbox":"37.4306,-0.55112,37.4706,-0.51112",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -104,7 +107,7 @@
     "name:tgl_x_preferred":[
         "Embu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirimari"
     ],
     "name:urd_x_preferred":[
@@ -244,7 +247,7 @@
     "wof:concordances":{
         "gn:id":198476,
         "gp:id":1527045,
-        "qs:id":122726,
+        "qs_pg:id":122726,
         "wd:id":"Q186362",
         "wk:page":"Embu, Kenya"
     },
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":421195209,
-    "wof:lastmodified":1563305635,
+    "wof:lastmodified":1566727046,
     "wof:name":"Embu",
     "wof:parent_id":1091911207,
     "wof:placetype":"locality",

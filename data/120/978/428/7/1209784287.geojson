@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.08,-3.08667,40.12,-3.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiembekesha",
         "Kaembekaesha"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209784287,
-    "wof:lastmodified":1537653074,
+    "wof:lastmodified":1566727008,
     "wof:name":"Kaembekaesha",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

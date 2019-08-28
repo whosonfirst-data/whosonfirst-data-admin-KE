@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"38.55623,-3.52957,38.59623,-3.48957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Sagala"
     ],
@@ -38,8 +42,7 @@
         "\u0b9a\u0b95\u0bb2\u0bbe"
     ],
     "name:und_x_variant":[
-        "Sagalla",
-        "Sagala"
+        "Sagalla"
     ],
     "name:uzb_x_preferred":[
         "Shakala"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276801831,
-    "wof:lastmodified":1564174842,
+    "wof:lastmodified":1566726995,
     "wof:name":"Sagala",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

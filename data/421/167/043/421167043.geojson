@@ -10,8 +10,12 @@
     "geom:latitude":0.09388,
     "geom:longitude":33.97559,
     "iso:country":"KE",
+    "lbl:bbox":"33.95559,0.07388,33.99559,0.11388",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Port Bunyala"
@@ -24,9 +28,6 @@
     ],
     "name:swe_x_preferred":[
         "Port Bunyala"
-    ],
-    "name:unk_x_variant":[
-        "Bunyala"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":200061,
         "gp:id":1528708,
-        "qs:id":122724,
+        "qs_pg:id":122724,
         "wd:id":"Q4997968",
         "wk:page":"Bunyala"
     },
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":421167043,
-    "wof:lastmodified":1563305641,
+    "wof:lastmodified":1566727046,
     "wof:name":"Port Victoria",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

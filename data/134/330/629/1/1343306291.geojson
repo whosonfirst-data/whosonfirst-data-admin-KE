@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.41499,-0.98876,34.45499,-0.94876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jaleny\u2019s Village",
         "Jaleny",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343306291,
-    "wof:lastmodified":1564174739,
+    "wof:lastmodified":1566726968,
     "wof:name":"Jaleny Village",
     "wof:parent_id":1091912205,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.658718,
     "lbl:longitude":34.454987,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NYANZA",
     "meso:diss_me":"Homa BayNYANZA",
     "meso:gadm_admin":"Homa Bay",
@@ -32,6 +34,7 @@
     "mps:longitude":34.454987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u0645\u0627 \u0628\u06cc"
     ],
@@ -87,7 +90,7 @@
         "\u970d\u99ac\u7063"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1091911319,
-    "wof:lastmodified":1564175013,
+    "wof:lastmodified":1566727039,
     "wof:name":"Homa Bay",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

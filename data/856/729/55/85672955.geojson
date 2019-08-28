@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-0.507523,
     "lbl:longitude":34.483525,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "mps:latitude":-0.505813,
     "mps:longitude":34.46339,
@@ -149,7 +150,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041d\u044c\u044f\u043d\u0437\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nyanza Region"
     ],
     "name:urd_x_preferred":[
@@ -233,7 +234,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -245,7 +246,7 @@
         "gn:id":182763,
         "gp:id":2345942,
         "hasc:id":"KE.NY",
-        "qs:id":427269,
+        "qs_pg:id":427269,
         "wd:id":"Q38589",
         "wk:page":"Nyanza Province"
     },
@@ -267,7 +268,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1565725001,
+    "wof:lastmodified":1566726979,
     "wof:name":"Nyanza",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

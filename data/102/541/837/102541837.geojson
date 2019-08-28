@@ -12,6 +12,7 @@
     "iso:country":"KE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Kisumu Airport"
     ],
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":102541837,
-    "wof:lastmodified":1563305335,
+    "wof:lastmodified":1566726967,
     "wof:name":"Kisumu Airport",
     "wof:parent_id":85672955,
     "wof:placetype":"campus",

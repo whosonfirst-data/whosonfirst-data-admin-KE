@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.171313,
     "lbl:longitude":35.119569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"NandiRIFT VALLEY",
     "meso:gadm_admin":"Nandi",
@@ -32,6 +34,7 @@
     "mps:longitude":35.119569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Nandi"
     ],
@@ -70,9 +73,9 @@
         "\u041d\u0430\u043d\u0434\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"2,899.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Kapsabet",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1091912403,
-    "wof:lastmodified":1564175015,
+    "wof:lastmodified":1566727040,
     "wof:name":"Nandi",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

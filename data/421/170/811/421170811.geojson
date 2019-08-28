@@ -10,8 +10,12 @@
     "geom:latitude":-2.91021,
     "geom:longitude":38.058928,
     "iso:country":"KE",
+    "lbl:bbox":"38.038928,-2.93021,38.078928,-2.89021",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kilaguni"
@@ -62,7 +66,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1527813,
-        "qs:id":239259,
+        "qs_pg:id":239259,
         "wd:id":"Q6406498"
     },
     "wof:country":"KE",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421170811,
-    "wof:lastmodified":1563305678,
+    "wof:lastmodified":1566727051,
     "wof:name":"Kilaguni",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

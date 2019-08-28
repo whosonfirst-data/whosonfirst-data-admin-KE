@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"38.30517,-3.37604,38.34517,-3.33604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umingu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310334649,
-    "wof:lastmodified":1537653034,
+    "wof:lastmodified":1566727031,
     "wof:name":"Wumingu",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

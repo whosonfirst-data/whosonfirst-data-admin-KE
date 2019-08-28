@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.1278,-2.39318,40.1678,-2.35318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dalu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310339239,
-    "wof:lastmodified":1564174987,
+    "wof:lastmodified":1566727031,
     "wof:name":"Dalu",
     "wof:parent_id":1091912587,
     "wof:placetype":"locality",

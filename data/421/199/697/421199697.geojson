@@ -10,8 +10,12 @@
     "geom:latitude":0.60751,
     "geom:longitude":34.76966,
     "iso:country":"KE",
+    "lbl:bbox":"34.74966,0.58751,34.78966,0.62751",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Webuye"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Webuye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broderick Falls"
     ],
     "name:zho_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":178202,
         "gp:id":1529029,
-        "qs:id":1221622,
+        "qs_pg:id":1221622,
         "wd:id":"Q185340",
         "wk:page":"Webuye"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421199697,
-    "wof:lastmodified":1563305673,
+    "wof:lastmodified":1566727050,
     "wof:name":"Webuye",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

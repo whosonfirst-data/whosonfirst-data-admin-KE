@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.307179,
     "lbl:longitude":37.440667,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN",
     "meso:diss_me":"MachakosEASTERN",
     "meso:gadm_admin":"Machakos",
@@ -32,6 +34,7 @@
     "mps:longitude":37.440667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u0686\u0627\u06a9\u0648\u0633"
     ],
@@ -123,9 +126,9 @@
         "\u9a6c\u67e5\u79d1\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"6,281.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Machakos",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1091911873,
-    "wof:lastmodified":1564175010,
+    "wof:lastmodified":1566727038,
     "wof:name":"Machakos",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

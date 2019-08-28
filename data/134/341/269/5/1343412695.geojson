@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.9624,-0.73933,37.0024,-0.69933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343412695,
-    "wof:lastmodified":1536814614,
+    "wof:lastmodified":1566726971,
     "wof:name":"Wanjengi",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

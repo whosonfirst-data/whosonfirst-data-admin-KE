@@ -10,8 +10,12 @@
     "geom:latitude":-0.870976,
     "geom:longitude":36.468429,
     "iso:country":"KE",
+    "lbl:bbox":"36.448429,-0.8909755,36.488429,-0.8509755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644799,
-        "qs:id":281780
+        "qs_pg:id":281780
     },
     "wof:country":"KE",
     "wof:created":1459008961,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421172981,
-    "wof:lastmodified":1500012739,
+    "wof:lastmodified":1566727049,
     "wof:name":"Longonot",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

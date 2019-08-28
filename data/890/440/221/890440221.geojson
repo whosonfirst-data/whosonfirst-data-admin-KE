@@ -11,10 +11,14 @@
     "geom:longitude":34.4864,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":45485,
+    "gn:population":45485,
     "iso:country":"KE",
+    "lbl:bbox":"34.4664,0.31511,34.5064,0.35511",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0645\u0648\u0645\u06cc\u0627\u0633"
     ],
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":185702,
         "gp:id":90874582,
-        "qs:id":275858,
+        "qs_pg:id":275858,
         "wd:id":"Q1020110",
         "wk:page":"Mumias"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890440221,
-    "wof:lastmodified":1563305689,
+    "wof:lastmodified":1566727052,
     "wof:name":"Mumias",
     "wof:parent_id":1091911121,
     "wof:placetype":"locality",

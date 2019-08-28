@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"37.85215,-2.27989,37.89215,-2.23989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293241681,
-    "wof:lastmodified":1536643801,
+    "wof:lastmodified":1566726985,
     "wof:name":"Kyeni Kya Kai",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

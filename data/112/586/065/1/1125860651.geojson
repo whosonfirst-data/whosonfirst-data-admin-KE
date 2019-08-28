@@ -9,15 +9,18 @@
     "geom:bbox":"37.06933,-1.03326,37.06933,-1.03326",
     "geom:latitude":-1.03326,
     "geom:longitude":37.06933,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":99322,
-    "gn:population":200000,
+    "gn:country":"KE",
+    "gn:fcode":"PPL",
+    "gn:population":99322,
     "iso:country":"KE",
+    "lbl:bbox":"37.04933,-1.05326,37.08933,-1.01326",
     "lbl:latitude":-1.03326,
     "lbl:longitude":37.06933,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062b\u064a\u0643\u0627"
@@ -148,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhika"
     ],
     "name:urd_x_preferred":[
@@ -175,7 +178,7 @@
     "qs_pg:qs_id":207989,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1125860651,
-    "wof:lastmodified":1563305703,
+    "wof:lastmodified":1566727053,
     "wof:name":"Thika",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

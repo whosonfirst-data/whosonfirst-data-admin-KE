@@ -10,8 +10,12 @@
     "geom:latitude":-0.16756,
     "geom:longitude":37.02129,
     "iso:country":"KE",
+    "lbl:bbox":"37.00129,-0.18756,37.04129,-0.14756",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Naro Moru"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":184367,
         "gp:id":1528509,
-        "qs:id":1205989,
+        "qs_pg:id":1205989,
         "wd:id":"Q2743647",
         "wk:page":"Naro Moru"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177753,
-    "wof:lastmodified":1563305679,
+    "wof:lastmodified":1566727051,
     "wof:name":"Naro Moru",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

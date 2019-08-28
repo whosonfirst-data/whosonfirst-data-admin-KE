@@ -10,8 +10,12 @@
     "geom:latitude":-0.00416,
     "geom:longitude":34.60951,
     "iso:country":"KE",
+    "lbl:bbox":"34.58951,-0.02416,34.62951,0.01584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a\u0646\u0648"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":187506,
         "gp:id":1528201,
-        "qs:id":1075482,
+        "qs_pg:id":1075482,
         "wd:id":"Q3043500",
         "wk:page":"Maseno"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421186683,
-    "wof:lastmodified":1563305665,
+    "wof:lastmodified":1566727049,
     "wof:name":"Maseno",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

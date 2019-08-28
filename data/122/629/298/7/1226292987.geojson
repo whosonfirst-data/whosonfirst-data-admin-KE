@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"41.09458,-2.09851,41.13458,-2.05851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tundwa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226292987,
-    "wof:lastmodified":1537653093,
+    "wof:lastmodified":1566727074,
     "wof:name":"Chundwa",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

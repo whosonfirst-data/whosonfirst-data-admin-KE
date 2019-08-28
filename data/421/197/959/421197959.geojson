@@ -10,8 +10,12 @@
     "geom:latitude":-4.045097,
     "geom:longitude":39.663391,
     "iso:country":"KE",
+    "lbl:bbox":"39.643391,-4.065097,39.683391,-4.025097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":10644712,
-        "qs:id":281785
+        "qs_pg:id":281785
     },
     "wof:country":"KE",
     "wof:created":1459009931,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421197959,
-    "wof:lastmodified":1500012669,
+    "wof:lastmodified":1566727050,
     "wof:name":"Coast General Hospital",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.81097,-1.16045,36.85097,-1.12045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193093561,
-    "wof:lastmodified":1537567163,
+    "wof:lastmodified":1566727015,
     "wof:name":"Gichocho",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

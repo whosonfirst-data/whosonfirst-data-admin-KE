@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14332240.886892,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.853661,-1.278317,36.853661,-1.278317",
     "geom:latitude":-1.278317,
     "geom:longitude":36.853661,
-    "gn:gn_country":"KE",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"KE",
+    "gn:fcode":"PPLX",
     "gn:latitude":-1.28333,
     "gn:longitude":36.85,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.848661,-1.283317,36.858661,-1.273317",
     "lbl:latitude":-1.278317,
     "lbl:longitude":36.853661,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-1.270033,
     "mps:longitude":36.85703,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Shauri Moyo"
-    ],
-    "name:unk_x_variant":[
         "Shauri Moyo"
     ],
     "qs:gn_adm0_cc":"KE",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672951,
         102191573,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":180451,
         "gp:id":1528812,
-        "qs:id":317040,
         "qs_pg:id":317040
     },
     "wof:country":"KE",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1566726977,
     "wof:name":"Shauri Moyo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

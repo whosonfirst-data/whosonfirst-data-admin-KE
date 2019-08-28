@@ -10,6 +10,9 @@
     "geom:latitude":0.5635,
     "geom:longitude":34.56055,
     "iso:country":"KE",
+    "lbl:bbox":"34.54055,0.5435,34.58055,0.5835",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":200067,
         "gp:id":1526915,
-        "qs:id":1275069,
+        "qs_pg:id":1275069,
         "wd:id":"Q996851",
         "wk:page":"Bungoma"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421200071,
-    "wof:lastmodified":1563305675,
+    "wof:lastmodified":1566727050,
     "wof:name":"Bungoma",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

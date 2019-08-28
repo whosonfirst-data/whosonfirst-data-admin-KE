@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.833229,
     "lbl:longitude":35.998405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIFT VALLEY",
     "meso:diss_me":"BaringoRIFT VALLEY",
     "meso:gadm_admin":"Baringo",
@@ -32,6 +34,7 @@
     "mps:longitude":35.998405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Baringo"
     ],
@@ -51,7 +54,7 @@
         "Baringo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632329,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1091910859,
-    "wof:lastmodified":1564175007,
+    "wof:lastmodified":1566727037,
     "wof:name":"Baringo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

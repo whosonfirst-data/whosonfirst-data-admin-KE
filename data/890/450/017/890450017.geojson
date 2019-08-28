@@ -11,11 +11,15 @@
     "geom:longitude":39.48463,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":12975,
+    "gn:population":12975,
     "iso:country":"KE",
+    "lbl:bbox":"39.46463,-4.49166,39.50463,-4.45166",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Sawasawa"
     ],
     "qs:name":"Sawa Sawa",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":180646,
         "gp:id":1528345,
-        "qs:id":78530
+        "qs_pg:id":78530
     },
     "wof:country":"KE",
     "wof:created":1469052720,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450017,
-    "wof:lastmodified":1505343631,
+    "wof:lastmodified":1566727053,
     "wof:name":"Sawa Sawa",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

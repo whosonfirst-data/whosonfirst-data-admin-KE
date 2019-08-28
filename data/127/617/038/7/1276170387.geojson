@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"40.79604,-2.32859,40.83604,-2.28859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kibirikani",
         "Kipungani"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276170387,
-    "wof:lastmodified":1537653062,
+    "wof:lastmodified":1566726994,
     "wof:name":"Kipungani",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

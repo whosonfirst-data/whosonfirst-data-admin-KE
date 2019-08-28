@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.79151,-0.78901,36.83151,-0.74901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mairi"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Mairie",
-        "Mairii",
-        "Mairi"
+        "Mairii"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209858501,
-    "wof:lastmodified":1564174897,
+    "wof:lastmodified":1566727008,
     "wof:name":"Mairi",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

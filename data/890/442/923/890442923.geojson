@@ -11,8 +11,11 @@
     "geom:longitude":37.65587,
     "gn:country":"KE",
     "gn:fcode":"PPL",
-    "gn:pop":47226,
+    "gn:population":47226,
     "iso:country":"KE",
+    "lbl:bbox":"37.63587,0.02626,37.67587,0.06626",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -276,9 +279,11 @@
     "wof:concordances":{
         "gn:id":186827,
         "gp:id":1528272,
-        "qs:id":369056,
-        "qs_pg:id":1053447,
+        "qs_pg:id":369056,
         "wd:id":"Q934149"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1053447
     },
     "wof:country":"KE",
     "wof:created":1469052388,
@@ -293,7 +298,7 @@
         }
     ],
     "wof:id":890442923,
-    "wof:lastmodified":1563305700,
+    "wof:lastmodified":1566727053,
     "wof:name":"Meru",
     "wof:parent_id":1091912097,
     "wof:placetype":"locality",

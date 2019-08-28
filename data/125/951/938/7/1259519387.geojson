@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"34.85627,1.42779,34.89627,1.46779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0628\u0631\u0646\u0642\u06cc"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259519387,
-    "wof:lastmodified":1564175105,
+    "wof:lastmodified":1566727070,
     "wof:name":"Kiberengi",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

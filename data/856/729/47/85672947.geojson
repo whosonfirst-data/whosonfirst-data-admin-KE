@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-0.652954,
     "lbl:longitude":36.91156,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "mps:latitude":-0.676336,
     "mps:longitude":36.905497,
@@ -155,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Central Province"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1"
     ],
@@ -239,7 +237,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -251,7 +249,7 @@
         "gn:id":400742,
         "gp:id":2345937,
         "hasc:id":"KE.CE",
-        "qs:id":906484,
+        "qs_pg:id":906484,
         "wd:id":"Q318666",
         "wk:page":"Central Province (Kenya)"
     },
@@ -273,7 +271,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1565725002,
+    "wof:lastmodified":1566726980,
     "wof:name":"Central",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

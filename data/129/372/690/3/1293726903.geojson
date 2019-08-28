@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
+    "lbl:bbox":"36.92077,-0.9466,36.96077,-0.9066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiarwara",
         "Kirawara",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293726903,
-    "wof:lastmodified":1537653061,
+    "wof:lastmodified":1566726992,
     "wof:name":"Kirwara",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

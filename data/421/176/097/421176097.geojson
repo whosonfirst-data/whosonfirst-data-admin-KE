@@ -10,8 +10,12 @@
     "geom:latitude":-1.25,
     "geom:longitude":36.8,
     "iso:country":"KE",
+    "lbl:bbox":"36.78,-1.27,36.82,-1.23",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Parklands"
@@ -22,7 +26,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a\u043b\u044d\u043d\u0434\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upper Parklands Estate"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":181656,
         "gp:id":1528695,
-        "qs:id":386618,
+        "qs_pg:id":386618,
         "wd:id":"Q7138579",
         "wk:page":"Parklands, Nairobi"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421176097,
-    "wof:lastmodified":1563305684,
+    "wof:lastmodified":1566727051,
     "wof:name":"Parklands",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

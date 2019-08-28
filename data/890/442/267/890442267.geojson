@@ -11,11 +11,15 @@
     "geom:longitude":36.83333,
     "gn:country":"KE",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"KE",
+    "lbl:bbox":"36.73333,-1.13333,36.93333,-0.93333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Karatina"
     ],
     "qs:name":"Kiratina Sub-Location",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":191505,
-        "qs:id":275864
+        "qs_pg:id":275864
     },
     "wof:country":"KE",
     "wof:created":1469052356,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890442267,
-    "wof:lastmodified":1505343587,
+    "wof:lastmodified":1566727053,
     "wof:name":"Kiratina Sub-Location",
     "wof:parent_id":1091911571,
     "wof:placetype":"localadmin",

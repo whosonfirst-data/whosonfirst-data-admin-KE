@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.204912,
     "lbl:longitude":39.213537,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"COAST",
     "meso:diss_me":"KwaleCOAST",
     "meso:gadm_admin":"Kwale",
@@ -32,6 +34,7 @@
     "mps:longitude":39.213537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kwale"
     ],
@@ -60,9 +63,9 @@
         "Kwale"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-08-24",
+    "src:population_date":"1999-08-24",
     "statoids:area_km":"8,295.0",
     "statoids:as_of_date":"1999-08-24",
     "statoids:capital":"Kwale",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1091911773,
-    "wof:lastmodified":1564175020,
+    "wof:lastmodified":1566727041,
     "wof:name":"Kwale",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

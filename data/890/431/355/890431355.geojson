@@ -328,6 +328,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469051887,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc4c864318ec943060e9525f44e90977",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
         }
     ],
     "wof:id":890431355,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kisumu",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

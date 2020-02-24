@@ -316,6 +316,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469051882,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"217c93873295aa512de0bbe400c04c13",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":890431213,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Malindi",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

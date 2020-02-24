@@ -997,6 +997,11 @@
     },
     "wof:country":"KE",
     "wof:country_alpha3":"KEN",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"cfebb9b97be04ab5e623266054647092",
     "wof:hierarchy":[
         {
@@ -1013,7 +1018,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

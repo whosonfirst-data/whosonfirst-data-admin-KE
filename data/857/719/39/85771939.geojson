@@ -94,6 +94,9 @@
         "qs_pg:id":189193
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53a3ebf50023180383441ce261ec70cb",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Nairobi Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

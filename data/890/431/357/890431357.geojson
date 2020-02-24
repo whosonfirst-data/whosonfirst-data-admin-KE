@@ -122,6 +122,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469051887,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bc8084073151dca1918551861bfb63c",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890431357,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kirinyaga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

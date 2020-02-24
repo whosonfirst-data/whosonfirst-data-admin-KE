@@ -95,6 +95,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469051700,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"915ab44dd5b7d6ca2b68473d5d095a2a",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890427529,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Rachuonyo",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

@@ -422,6 +422,9 @@
     },
     "wof:country":"KE",
     "wof:created":1459009643,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11c5eccd5fa4f47aa9a7df60c11cfae6",
     "wof:hierarchy":[
         {
@@ -433,7 +436,7 @@
         }
     ],
     "wof:id":421189991,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1582344730,
     "wof:name":"Old Mombasa",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

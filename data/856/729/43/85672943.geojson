@@ -355,6 +355,9 @@
         "wd:id":"Q93352"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed51a32a3284bdcc60ee70db0f730cc8",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726979,
+    "wof:lastmodified":1582344726,
     "wof:name":"Coast",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -119,6 +119,9 @@
         "qs_pg:id":219417
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3ea39878a58c822adcf69c0850e633d",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Spring Valley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

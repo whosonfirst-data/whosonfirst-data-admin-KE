@@ -254,6 +254,9 @@
         "wk:page":"Central Province (Kenya)"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2471f7523575e11d59fc108033f89334",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726980,
+    "wof:lastmodified":1582344727,
     "wof:name":"Central",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

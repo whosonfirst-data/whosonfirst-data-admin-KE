@@ -77,6 +77,9 @@
         "wk:page":"Doonholm"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c1396df9686726baab94fb44dcff309",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1582344724,
     "wof:name":"Doonholm",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

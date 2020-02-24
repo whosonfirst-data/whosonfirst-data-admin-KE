@@ -175,6 +175,9 @@
     },
     "wof:country":"KE",
     "wof:created":1459009954,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"1bc996eb49e5ebd63f9a4241053985a6",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":421198627,
-    "wof:lastmodified":1561777174,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kendu Bay",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

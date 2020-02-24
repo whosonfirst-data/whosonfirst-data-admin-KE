@@ -74,6 +74,9 @@
         "qs:id":1081060
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17d8e35daffb67f52bc635f4ff00590a",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1582344724,
     "wof:name":"Pangani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

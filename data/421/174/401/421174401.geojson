@@ -679,6 +679,9 @@
     ],
     "wof:country":"KE",
     "wof:created":1459009031,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"adab6993967ef2bce2b5ce5b5a8b562a",
     "wof:hierarchy":[
         {
@@ -690,7 +693,7 @@
         }
     ],
     "wof:id":421174401,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1582344730,
     "wof:name":"Nairobi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

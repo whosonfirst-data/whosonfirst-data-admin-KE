@@ -287,6 +287,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052388,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c82cfbcde94451797b057a11467e39cc",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":890442923,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344731,
     "wof:name":"Meru",
     "wof:parent_id":1091912097,
     "wof:placetype":"locality",

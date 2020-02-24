@@ -321,6 +321,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469051972,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"904675ff8ce097245119ea906bb82651",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         }
     ],
     "wof:id":890433257,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344731,
     "wof:name":"Eldoret",
     "wof:parent_id":1091912837,
     "wof:placetype":"locality",

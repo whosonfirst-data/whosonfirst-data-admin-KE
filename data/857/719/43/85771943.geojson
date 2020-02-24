@@ -74,6 +74,9 @@
         "qs:id":894362
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"338b3a6abe5072f3225d91e1ff8f7f7a",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1582344724,
     "wof:name":"Nairobi Industrial Area",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

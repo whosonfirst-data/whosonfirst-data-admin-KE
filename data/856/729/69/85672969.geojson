@@ -210,6 +210,9 @@
         "wk:page":"North Eastern Province (Kenya)"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b5ba85df81a09574f51393ca78e5978",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726978,
+    "wof:lastmodified":1582344726,
     "wof:name":"North-Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

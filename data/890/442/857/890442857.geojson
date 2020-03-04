@@ -122,6 +122,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052383,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"874b239efbcad0949ffb2dcd0ae1e818",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890442857,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Taita Taveta",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

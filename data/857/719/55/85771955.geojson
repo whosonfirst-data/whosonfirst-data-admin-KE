@@ -94,6 +94,9 @@
         "qs_pg:id":317040
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62b76f3dc18c4aa626f0ee68b7969b8f",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Shauri Moyo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

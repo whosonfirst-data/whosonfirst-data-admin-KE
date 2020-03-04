@@ -119,6 +119,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052165,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f2e523d09ae517f2f289d9a1ab6d5a7",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890437763,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1582344730,
     "wof:name":"Nyandarua",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

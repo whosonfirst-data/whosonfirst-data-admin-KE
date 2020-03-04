@@ -280,6 +280,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052426,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6143846ef5857fac05bd48c37c14d89f",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890443511,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kisii",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

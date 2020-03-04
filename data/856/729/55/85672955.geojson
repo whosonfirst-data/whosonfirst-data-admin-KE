@@ -251,6 +251,9 @@
         "wk:page":"Nyanza Province"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c86d6fbfc99b45dc727d6ca8dc301621",
     "wof:hierarchy":[
         {
@@ -268,7 +271,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726979,
+    "wof:lastmodified":1582344726,
     "wof:name":"Nyanza",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -204,6 +204,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052426,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"963cc16c7bff0927be1606cc5b6eb2f4",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":890443513,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kilifi",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

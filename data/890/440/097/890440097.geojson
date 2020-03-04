@@ -306,6 +306,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052262,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f901bb083beff8580b49e7d1ecb9b41b",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
         }
     ],
     "wof:id":890440097,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1582344730,
     "wof:name":"Machakos",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

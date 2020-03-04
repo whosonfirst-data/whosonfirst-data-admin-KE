@@ -134,6 +134,9 @@
         "qs_pg:id":275493
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1404e6e5b7699c19466a762bff1db11e",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Moi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

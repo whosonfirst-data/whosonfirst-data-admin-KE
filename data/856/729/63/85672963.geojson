@@ -277,6 +277,9 @@
         "wk:page":"Rift Valley Province"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"54b2e5b85197942bfc85aae3e875e1fb",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726979,
+    "wof:lastmodified":1582344726,
     "wof:name":"Rift Valley",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

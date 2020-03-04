@@ -74,6 +74,9 @@
         "qs:id":221253
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5cd975b49979f00036415c8f044f861b",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379373,
+    "wof:lastmodified":1582344724,
     "wof:name":"Mbotela",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

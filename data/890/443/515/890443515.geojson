@@ -270,6 +270,9 @@
     },
     "wof:country":"KE",
     "wof:created":1469052426,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fa2f6f1a0ce27974002b4bdf87e63f2",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":890443515,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1582344730,
     "wof:name":"Kericho",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

@@ -248,6 +248,9 @@
         "wk:page":"Western Province (Kenya)"
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f24c8757c2ec58772b1e0123dea11f6a",
     "wof:hierarchy":[
         {
@@ -265,7 +268,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1566726979,
+    "wof:lastmodified":1582344726,
     "wof:name":"Western",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

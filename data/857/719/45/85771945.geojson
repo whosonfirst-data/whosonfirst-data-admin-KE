@@ -94,6 +94,9 @@
         "qs_pg:id":247159
     },
     "wof:country":"KE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82b05cb284b6c5a43a0dbdc303816b52",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566726977,
+    "wof:lastmodified":1582344724,
     "wof:name":"Nairobi South",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -698,7 +698,9 @@
         85672951
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632329,
+    "wof:capital_of":[
+        85632329
+    ],
     "wof:concordances":{
         "gn:id":184745,
         "gp:id":1528488,
@@ -726,7 +728,7 @@
         }
     ],
     "wof:id":421174401,
-    "wof:lastmodified":1587428006,
+    "wof:lastmodified":1607390891,
     "wof:name":"Nairobi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

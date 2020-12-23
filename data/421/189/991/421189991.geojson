@@ -407,13 +407,14 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
-        1091912207
+        1091912207,
+        85672943
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":186301,
         "gp:id":1528664,
+        "ne:id":1159150829,
         "qs_pg:id":349429,
         "wd:id":"Q225641"
     },
@@ -436,7 +437,8 @@
         }
     ],
     "wof:id":421189991,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Old Mombasa",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

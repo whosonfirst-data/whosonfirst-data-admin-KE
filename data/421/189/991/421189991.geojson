@@ -10,7 +10,6 @@
     "geom:latitude":-4.015233,
     "geom:longitude":39.653721,
     "iso:country":"KE",
-    "lbl:bbox":"39.645622,-4.074686,39.685622,-4.034686",
     "lbl:latitude":-4.04563,
     "lbl:longitude":39.661174,
     "lbl:max_zoom":18.0,
@@ -444,7 +443,7 @@
         }
     ],
     "wof:id":421189991,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610153009,
     "wof:megacity":1,
     "wof:name":"Old Mombasa",
     "wof:parent_id":1091912207,

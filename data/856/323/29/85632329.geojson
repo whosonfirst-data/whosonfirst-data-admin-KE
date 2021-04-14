@@ -1061,7 +1061,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1122,7 +1123,8 @@
         "meso",
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"722b49986f3d29b05b19a89ea7a81507",
     "wof:hierarchy":[
@@ -1140,7 +1142,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1617827739,
+    "wof:lastmodified":1618362674,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

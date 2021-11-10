@@ -76,6 +76,9 @@
     "name:hrv_x_preferred":[
         "Garissa"
     ],
+    "name:hun_x_preferred":[
+        "Garissa"
+    ],
     "name:ile_x_preferred":[
         "Garissa"
     ],
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":890440339,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1636500537,
     "wof:name":"Garissa",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

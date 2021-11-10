@@ -73,6 +73,9 @@
     "name:hin_x_preferred":[
         "\u0915\u0947\u0938\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Kisii"
+    ],
     "name:ind_x_preferred":[
         "Kisii"
     ],
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":890443511,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1636500538,
     "wof:name":"Kisii",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

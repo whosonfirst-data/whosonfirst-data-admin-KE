@@ -77,10 +77,16 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a95\u0aae\u0ac7\u0a97\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e7\u05de\u05d2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0915\u093e\u092e\u0947\u0917\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Kakamega"
+    ],
+    "name:hun_x_preferred":[
         "Kakamega"
     ],
     "name:ind_x_preferred":[
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":421189971,
-    "wof:lastmodified":1566727049,
+    "wof:lastmodified":1636500536,
     "wof:name":"Kakamega",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

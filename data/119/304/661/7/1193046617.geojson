@@ -44,7 +44,13 @@
     "name:fra_x_preferred":[
         "Kericho"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05e6'\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Kericho"
+    ],
+    "name:hun_x_preferred":[
         "Kericho"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1193046617,
-    "wof:lastmodified":1566727016,
+    "wof:lastmodified":1636500530,
     "wof:name":"Kericho",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

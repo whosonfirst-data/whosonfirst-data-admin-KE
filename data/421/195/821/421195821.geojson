@@ -20,13 +20,34 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09c1\u0987\u0999\u09cd\u0997\u09bf"
+    ],
     "name:deu_x_preferred":[
         "Mwingi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03af\u03bd\u03b3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mwingi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Mwingi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d5\u05d9\u05e0\u05d2\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0935\u093f\u0902\u0917\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Mwingi"
+    ],
+    "name:ind_x_preferred":[
         "Mwingi"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +55,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a6\u30a3\u30f3\u30ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbc0\uc719\uc774"
     ],
     "name:nld_x_preferred":[
         "Mwingi"
@@ -44,6 +68,9 @@
     "name:por_x_preferred":[
         "Mwingi"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0432\u0438\u043d\u0433\u0438"
+    ],
     "name:spa_x_preferred":[
         "Mwingi"
     ],
@@ -53,8 +80,17 @@
     "name:swe_x_preferred":[
         "Mwingi"
     ],
+    "name:tur_x_preferred":[
+        "Mwingi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0432\u0456\u043d\u0433\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u06af\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mwingi"
     ],
     "name:zho_x_preferred":[
         "\u59c6\u6eab\u57fa"
@@ -198,7 +234,7 @@
         }
     ],
     "wof:id":421195821,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1636500535,
     "wof:name":"Mwingi",
     "wof:parent_id":1091912293,
     "wof:placetype":"locality",

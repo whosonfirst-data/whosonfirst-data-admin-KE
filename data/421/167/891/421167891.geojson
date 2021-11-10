@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u0627\u0644\u0627\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09be\u09b2\u09be\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043b\u0430\u043b"
     ],
@@ -29,10 +32,25 @@
     "name:ceb_x_preferred":[
         "Maralal"
     ],
+    "name:deu_x_preferred":[
+        "Maralal"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03bb\u03ac\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Maralal"
     ],
     "name:fra_x_preferred":[
+        "Maralal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05dc\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0930\u0932\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
         "Maralal"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +61,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10d0\u10da\u10d0\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub784\ub784"
     ],
     "name:nld_x_preferred":[
         "Maralal"
@@ -68,8 +89,17 @@
     "name:swe_x_preferred":[
         "Maralal"
     ],
+    "name:tur_x_preferred":[
+        "Maralal"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043b\u0430\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u0644\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Maralal"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u81d8\u62c9\u723e"
@@ -216,7 +246,7 @@
         }
     ],
     "wof:id":421167891,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1636500535,
     "wof:name":"Maralal",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

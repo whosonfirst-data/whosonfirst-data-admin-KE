@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u062c\u064a\u0631"
+    ],
     "name:ast_x_preferred":[
         "Wajir"
     ],
     "name:azb_x_preferred":[
         "\u0648\u0627\u062c\u06cc\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09be\u099c\u09bf\u09b0"
     ],
     "name:bul_x_preferred":[
         "\u0423\u0430\u0434\u0436\u0438\u0440"
@@ -41,6 +47,9 @@
     "name:deu_x_preferred":[
         "Wajir"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03b3\u03af\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Wajir"
     ],
@@ -59,6 +68,15 @@
     "name:heb_x_preferred":[
         "\u05d5\u05d0\u05d2'\u05d9\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0935\u091c\u093c\u0940\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Wajir"
+    ],
+    "name:ind_x_preferred":[
+        "Wajir"
+    ],
     "name:ita_x_preferred":[
         "Wajir"
     ],
@@ -67,6 +85,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10ef\u10d8\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc640\uc9c0\ub974"
     ],
     "name:lit_x_preferred":[
         "Vad\u017eiras"
@@ -84,6 +105,9 @@
         "Wajir"
     ],
     "name:pol_x_preferred":[
+        "Wajir"
+    ],
+    "name:por_x_preferred":[
         "Wajir"
     ],
     "name:ron_x_preferred":[
@@ -104,11 +128,20 @@
     "name:swe_x_preferred":[
         "Wajir"
     ],
+    "name:tur_x_preferred":[
+        "Wajir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0436\u0456\u0440"
+    ],
     "name:und_x_variant":[
         "El Sadi"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u062c\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Wajir"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5409\u723e"
@@ -256,7 +289,7 @@
         }
     ],
     "wof:id":421181295,
-    "wof:lastmodified":1566727049,
+    "wof:lastmodified":1636500536,
     "wof:name":"Wajir",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

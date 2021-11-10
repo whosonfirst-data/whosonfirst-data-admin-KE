@@ -35,11 +35,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b8\u09bf\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Busia"
     ],
     "name:deu_x_preferred":[
         "Busia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Busia"
@@ -50,8 +56,20 @@
     "name:fra_x_preferred":[
         "Busia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0938\u093f\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Busia"
+    ],
     "name:ita_x_preferred":[
         "Busia"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc2dc\uc544"
     ],
     "name:lug_x_preferred":[
         "Busia"
@@ -75,6 +93,12 @@
         "Busia"
     ],
     "name:tgl_x_preferred":[
+        "Busia"
+    ],
+    "name:tur_x_preferred":[
+        "Busia"
+    ],
+    "name:vie_x_preferred":[
         "Busia"
     ],
     "name:zho_x_preferred":[
@@ -103,7 +127,7 @@
         }
     ],
     "wof:id":1091911075,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1636500533,
     "wof:name":"Busia",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

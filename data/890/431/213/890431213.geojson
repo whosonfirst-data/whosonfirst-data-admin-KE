@@ -85,6 +85,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abf\u0aa8\u0acd\u0aa6\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d9\u05e0\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0932\u093f\u0902\u0926\u0940"
     ],
@@ -330,7 +333,7 @@
         }
     ],
     "wof:id":890431213,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1636500538,
     "wof:name":"Malindi",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

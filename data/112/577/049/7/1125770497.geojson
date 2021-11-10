@@ -28,6 +28,9 @@
     "name:azb_x_preferred":[
         "\u0644\u0648\u062f\u0648\u0627\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09a1\u09cb\u09df\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Lodwar"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:deu_x_preferred":[
         "Lodwar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03bd\u03c4\u03b2\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Lodwar"
@@ -49,6 +55,12 @@
     "name:fra_x_preferred":[
         "Lodwar"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0926\u094d\u0935\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Lodwar"
+    ],
     "name:ita_x_preferred":[
         "Lodwar"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10d3\u10d5\u10d0\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub4dc\uc6cc"
     ],
     "name:lit_x_preferred":[
         "Lodvaras"
@@ -95,6 +110,9 @@
         "Lodwar"
     ],
     "name:tgl_x_preferred":[
+        "Lodwar"
+    ],
+    "name:tur_x_preferred":[
         "Lodwar"
     ],
     "name:urd_x_preferred":[
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":1125770497,
-    "wof:lastmodified":1566727054,
+    "wof:lastmodified":1636500540,
     "wof:name":"Lodwar",
     "wof:parent_id":1091912795,
     "wof:placetype":"locality",

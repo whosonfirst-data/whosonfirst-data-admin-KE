@@ -46,6 +46,12 @@
     "name:fra_x_preferred":[
         "Thika"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Thika"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Thika"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1091912681,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1636500532,
     "wof:name":"Thika",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

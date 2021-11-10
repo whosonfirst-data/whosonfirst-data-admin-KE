@@ -64,10 +64,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac2"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0930\u0941"
     ],
     "name:hrv_x_preferred":[
+        "Meru"
+    ],
+    "name:hun_x_preferred":[
         "Meru"
     ],
     "name:ind_x_preferred":[
@@ -301,7 +307,7 @@
         }
     ],
     "wof:id":890442923,
-    "wof:lastmodified":1582344731,
+    "wof:lastmodified":1636500539,
     "wof:name":"Meru",
     "wof:parent_id":1091912097,
     "wof:placetype":"locality",

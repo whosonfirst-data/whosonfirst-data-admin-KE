@@ -58,10 +58,16 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab0\u0ac0\u0a95\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05e6'\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0930\u0940\u091a\u094b"
     ],
     "name:hrv_x_preferred":[
+        "Kericho"
+    ],
+    "name:hun_x_preferred":[
         "Kericho"
     ],
     "name:ind_x_preferred":[
@@ -284,7 +290,7 @@
         }
     ],
     "wof:id":890443515,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1636500539,
     "wof:name":"Kericho",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

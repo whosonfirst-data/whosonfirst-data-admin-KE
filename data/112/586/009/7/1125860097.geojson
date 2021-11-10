@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09cb\u0987"
+    ],
     "name:cat_x_preferred":[
         "Voi"
     ],
@@ -37,6 +40,9 @@
     "name:deu_x_preferred":[
         "Voi"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Voi"
     ],
@@ -44,6 +50,18 @@
         "\u0648\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Voi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u094b\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "Voi"
+    ],
+    "name:ind_x_preferred":[
         "Voi"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +72,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc774"
     ],
     "name:nld_x_preferred":[
         "Voi"
@@ -82,8 +103,14 @@
     "name:swe_x_preferred":[
         "Voi"
     ],
+    "name:tur_x_preferred":[
+        "Voi"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Voi"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u4f0a"
@@ -127,7 +154,7 @@
         }
     ],
     "wof:id":1125860097,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1636500539,
     "wof:name":"Voi",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

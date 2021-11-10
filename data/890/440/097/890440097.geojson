@@ -67,10 +67,16 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a82\u0a95\u0abe\u0a95\u0acb\u0ab8"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e6'\u05d0\u05e7\u05d5\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u091a\u093e\u0915\u094b\u0938"
     ],
     "name:hrv_x_preferred":[
+        "Machakos"
+    ],
+    "name:hun_x_preferred":[
         "Machakos"
     ],
     "name:ind_x_preferred":[
@@ -320,7 +326,7 @@
         }
     ],
     "wof:id":890440097,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1636500538,
     "wof:name":"Machakos",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:ceb_x_preferred":[
         "Kirinyaga"
     ],
+    "name:cym_x_preferred":[
+        "Sir Kirinyaga"
+    ],
     "name:deu_x_preferred":[
         "Kirinyaga County"
     ],
@@ -71,6 +74,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\ub9ac\ub2c8\uc544\uac00 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\ub9ac\ub2c8\uc544\uac00\ud604"
+    ],
     "name:nan_x_preferred":[
         "Kirinyaga K\u016bn"
     ],
@@ -80,14 +86,29 @@
     "name:nob_x_preferred":[
         "Kirinyaga fylke"
     ],
+    "name:pol_x_preferred":[
+        "Kirinyaga"
+    ],
+    "name:por_x_preferred":[
+        "Quiriniaga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u043d\u044f\u0433\u0430"
+    ],
     "name:swe_x_preferred":[
         "Kirinyaga"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0646\u06cc\u0627\u06af\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
+    "name:vie_x_preferred":[
+        "Kirinyaga"
+    ],
     "name:zho_x_preferred":[
         "\u57fa\u91cc\u5c3c\u4e9e\u52a0\u90e1"
+    ],
+    "name:zul_x_preferred":[
+        "Kirinyaga County"
     ],
     "qs:name":"Kirinyaga District",
     "qs:photos_9r":0,
@@ -138,7 +159,7 @@
         }
     ],
     "wof:id":890431357,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1690938072,
     "wof:name":"Kirinyaga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

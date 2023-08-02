@@ -41,10 +41,16 @@
     "name:ron_x_preferred":[
         "Wundanyi"
     ],
+    "name:spa_x_preferred":[
+        "Wundanyi"
+    ],
     "name:swa_x_preferred":[
         "Wundanyi"
     ],
     "name:swe_x_preferred":[
+        "Wundanyi"
+    ],
+    "name:zul_x_preferred":[
         "Wundanyi"
     ],
     "qs:gn_country":"KE",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421185187,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1690938068,
     "wof:name":"Wundanyi",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

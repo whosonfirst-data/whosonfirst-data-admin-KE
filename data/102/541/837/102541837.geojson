@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Kisumu Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Kisumu"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Kisumu"
     ],
@@ -25,6 +28,12 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u06a9\u06cc\u0633\u0648\u0645\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05e7\u05d9\u05e1\u05d5\u05de\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kisumui nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Kisumu"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":102541837,
-    "wof:lastmodified":1631749901,
+    "wof:lastmodified":1690938036,
     "wof:name":"Kisumu Airport",
     "wof:parent_id":85672955,
     "wof:placetype":"campus",

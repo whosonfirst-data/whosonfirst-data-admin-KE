@@ -74,6 +74,9 @@
     "name:hun_x_preferred":[
         "Wajir"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u057b\u056b\u0580"
+    ],
     "name:ind_x_preferred":[
         "Wajir"
     ],
@@ -110,6 +113,9 @@
     "name:por_x_preferred":[
         "Wajir"
     ],
+    "name:pus_x_preferred":[
+        "\u0648\u0627\u062c\u064a\u0631"
+    ],
     "name:ron_x_preferred":[
         "Wajir"
     ],
@@ -134,6 +140,9 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0434\u0436\u0456\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0434\u0436\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "El Sadi"
     ],
@@ -145,6 +154,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5409\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Wajir"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -289,7 +301,7 @@
         }
     ],
     "wof:id":421181295,
-    "wof:lastmodified":1636500536,
+    "wof:lastmodified":1690938058,
     "wof:name":"Wajir",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

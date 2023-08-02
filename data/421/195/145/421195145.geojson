@@ -26,8 +26,17 @@
     "name:dan_x_preferred":[
         "Gilgil"
     ],
+    "name:deu_x_preferred":[
+        "Gilgil"
+    ],
     "name:eng_x_preferred":[
         "Gilgil"
+    ],
+    "name:fra_x_preferred":[
+        "Gilgil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05dc\u05d2\u05d9\u05dc"
     ],
     "name:jpn_x_preferred":[
         "\u30ae\u30eb\u30ae\u30eb"
@@ -51,6 +60,12 @@
         "Gilgil"
     ],
     "name:swe_x_preferred":[
+        "Gilgil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043b\u0433\u0456\u043b"
+    ],
+    "name:zul_x_preferred":[
         "Gilgil"
     ],
     "qs:gn_country":"KE",
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":421195145,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1690938045,
     "wof:name":"Gilgil",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

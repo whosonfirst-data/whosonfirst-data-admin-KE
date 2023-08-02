@@ -56,6 +56,12 @@
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0645\u0648\u0631\u0648"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u7a46\u9b6f"
+    ],
+    "name:zul_x_preferred":[
+        "Limuru"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":189386,
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421187725,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938054,
     "wof:name":"Limuru",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

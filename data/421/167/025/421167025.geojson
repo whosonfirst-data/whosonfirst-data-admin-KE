@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Oyugis"
     ],
+    "name:zul_x_preferred":[
+        "Oyugis"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":181702,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421167025,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1690938046,
     "wof:name":"Oyugis",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:swe_x_preferred":[
         "Molo"
     ],
+    "name:zul_x_preferred":[
+        "Molo"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":186315,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421174693,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938052,
     "wof:name":"Molo",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

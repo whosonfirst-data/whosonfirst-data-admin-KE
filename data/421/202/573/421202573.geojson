@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u0646\u063a\u0629"
+    ],
     "name:cat_x_preferred":[
         "Muranga"
     ],
@@ -30,6 +33,9 @@
         "Murang'a"
     ],
     "name:fra_x_preferred":[
+        "Murang'a"
+    ],
+    "name:ind_x_preferred":[
         "Murang'a"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u62c9\u96c5"
+    ],
+    "name:zul_x_preferred":[
+        "Murang'a"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421202573,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938050,
     "wof:name":"Fort Hall",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

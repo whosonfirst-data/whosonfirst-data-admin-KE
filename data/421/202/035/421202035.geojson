@@ -56,6 +56,9 @@
     "name:zho_x_preferred":[
         "\u74e6\u5854\u7a46"
     ],
+    "name:zul_x_preferred":[
+        "Watamu"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":178245,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421202035,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938051,
     "wof:name":"Watamu",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

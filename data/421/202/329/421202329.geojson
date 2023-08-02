@@ -38,10 +38,16 @@
     "name:pol_x_preferred":[
         "Mbita Point"
     ],
+    "name:spa_x_preferred":[
+        "Mbita Point"
+    ],
     "name:swa_x_preferred":[
         "Mbita Point"
     ],
     "name:swe_x_preferred":[
+        "Mbita Point"
+    ],
+    "name:zul_x_preferred":[
         "Mbita Point"
     ],
     "qs:gn_country":"KE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421202329,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938051,
     "wof:name":"Mbita",
     "wof:parent_id":1091912585,
     "wof:placetype":"locality",

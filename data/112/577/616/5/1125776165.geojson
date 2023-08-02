@@ -43,6 +43,9 @@
     "name:swe_x_preferred":[
         "Muhoroni"
     ],
+    "name:zul_x_preferred":[
+        "Muhoroni"
+    ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125776165,
-    "wof:lastmodified":1566727054,
+    "wof:lastmodified":1690938078,
     "wof:name":"Muhoroni",
     "wof:parent_id":1091912511,
     "wof:placetype":"locality",

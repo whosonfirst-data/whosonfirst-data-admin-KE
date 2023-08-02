@@ -88,6 +88,9 @@
     "name:vie_x_preferred":[
         "Bondo"
     ],
+    "name:zul_x_preferred":[
+        "Bondo"
+    ],
     "qs:name":"Bondo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890431215,
-    "wof:lastmodified":1636500538,
+    "wof:lastmodified":1690938072,
     "wof:name":"Bondo",
     "wof:parent_id":1091912583,
     "wof:placetype":"locality",

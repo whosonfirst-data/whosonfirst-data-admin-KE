@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Archers Post"
     ],
+    "name:swa_x_preferred":[
+        "Archers Post"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":200891,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421196089,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938060,
     "wof:name":"Archers Post",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

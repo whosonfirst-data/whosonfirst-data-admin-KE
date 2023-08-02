@@ -41,6 +41,9 @@
     "name:nor_x_preferred":[
         "Ukunda"
     ],
+    "name:pol_x_preferred":[
+        "Ukunda"
+    ],
     "name:spa_x_preferred":[
         "Ukunda"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:und_x_variant":[
         "Ukundu"
+    ],
+    "name:zul_x_preferred":[
+        "Ukunda"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421200077,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938062,
     "wof:name":"Ukunda",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:pol_x_preferred":[
         "Kangema"
     ],
+    "name:por_x_preferred":[
+        "Cangema"
+    ],
     "name:swe_x_preferred":[
         "Kangema"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421167039,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1690938047,
     "wof:name":"Kangema",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

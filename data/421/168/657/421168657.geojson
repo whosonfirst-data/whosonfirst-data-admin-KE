@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0646\u062f\u064a\u0631\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0631\u0627"
     ],
@@ -113,6 +116,9 @@
     "name:tur_x_preferred":[
         "Mandera"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0435\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Madera"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u66fc\u5fb7\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mandera"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Somalia",
@@ -265,7 +274,7 @@
         }
     ],
     "wof:id":421168657,
-    "wof:lastmodified":1636500535,
+    "wof:lastmodified":1690938043,
     "wof:name":"Mandera",
     "wof:parent_id":1091911881,
     "wof:placetype":"locality",

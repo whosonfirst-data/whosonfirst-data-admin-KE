@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Kabarnet"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0628\u0627\u0631\u0646\u062a"
+    ],
     "name:fra_x_preferred":[
         "Kabarnet"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Kabarnet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0430\u0440\u043d\u0435\u0442"
     ],
     "name:vie_x_preferred":[
         "Kabarnet"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421196847,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938060,
     "wof:name":"Kabarnet",
     "wof:parent_id":1091910859,
     "wof:placetype":"locality",

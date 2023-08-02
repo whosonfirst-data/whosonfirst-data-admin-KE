@@ -38,6 +38,9 @@
     "name:swe_x_preferred":[
         "Keroka"
     ],
+    "name:zul_x_preferred":[
+        "Keroka"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":192869,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421173595,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938055,
     "wof:name":"Keroka",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

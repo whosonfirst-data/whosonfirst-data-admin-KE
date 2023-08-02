@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Maralal"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u0644\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Maralal"
     ],
@@ -51,6 +54,9 @@
         "\u092e\u0930\u0932\u093e\u0932"
     ],
     "name:hun_x_preferred":[
+        "Maralal"
+    ],
+    "name:ind_x_preferred":[
         "Maralal"
     ],
     "name:ita_x_preferred":[
@@ -103,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u81d8\u62c9\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Maralal"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -246,7 +255,7 @@
         }
     ],
     "wof:id":421167891,
-    "wof:lastmodified":1636500535,
+    "wof:lastmodified":1690938048,
     "wof:name":"Maralal",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Salengai"
     ],
+    "name:swa_x_preferred":[
+        "Salengai"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":180599,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421190941,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938061,
     "wof:name":"Selengai",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

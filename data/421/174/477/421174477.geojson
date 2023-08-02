@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062b\u0627\u064a\u0629"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u0430\u044f"
     ],
@@ -38,11 +41,17 @@
     "name:pol_x_preferred":[
         "Othaya"
     ],
+    "name:por_x_preferred":[
+        "Otaia"
+    ],
     "name:swa_x_preferred":[
         "Othaya"
     ],
     "name:swe_x_preferred":[
         "Othaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b50\u85a9\u4e9e"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421174477,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938052,
     "wof:name":"Othaya",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

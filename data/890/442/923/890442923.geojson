@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Meru"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u0648"
     ],
@@ -59,6 +65,9 @@
         "Meru"
     ],
     "name:fra_x_preferred":[
+        "Meru"
+    ],
+    "name:gle_x_preferred":[
         "Meru"
     ],
     "name:guj_x_preferred":[
@@ -174,6 +183,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6885\u9b6f"
+    ],
+    "name:zul_x_preferred":[
+        "Meru"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -307,7 +319,7 @@
         }
     ],
     "wof:id":890442923,
-    "wof:lastmodified":1636500539,
+    "wof:lastmodified":1690938074,
     "wof:name":"Meru",
     "wof:parent_id":1091912097,
     "wof:placetype":"locality",

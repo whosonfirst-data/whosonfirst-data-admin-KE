@@ -41,6 +41,9 @@
     "name:pol_x_preferred":[
         "Amakuni"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0430\u043a\u0443\u043d\u0438"
+    ],
     "name:spa_x_preferred":[
         "Amakuni"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421170521,
-    "wof:lastmodified":1566727051,
+    "wof:lastmodified":1690938064,
     "wof:name":"Amakura",
     "wof:parent_id":1091912613,
     "wof:placetype":"locality",

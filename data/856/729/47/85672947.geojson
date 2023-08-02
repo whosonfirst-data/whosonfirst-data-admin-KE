@@ -162,6 +162,9 @@
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0635\u0648\u0628\u06c1"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e2d\u90e8\u7701"
+    ],
     "name:yor_x_preferred":[
         "\u00ccgb\u00e9r\u00edko \u00c0rin"
     ],
@@ -277,7 +280,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500529,
+    "wof:lastmodified":1690938039,
     "wof:name":"Central",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

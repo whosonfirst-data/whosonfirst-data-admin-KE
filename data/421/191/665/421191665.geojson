@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Bomet"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u043c\u0435\u0442"
+    ],
     "name:deu_x_preferred":[
         "Bomet"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Bomet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043c\u0435\u0442"
     ],
     "name:und_x_variant":[
         "Sotik"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421191665,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938061,
     "wof:name":"Bomet",
     "wof:parent_id":1091910907,
     "wof:placetype":"locality",

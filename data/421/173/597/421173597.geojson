@@ -29,6 +29,9 @@
     "name:pol_x_preferred":[
         "Ahero"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0435\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Ahero"
     ],
@@ -36,6 +39,12 @@
         "Ahero"
     ],
     "name:swe_x_preferred":[
+        "Ahero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0435\u0440\u043e"
+    ],
+    "name:zul_x_preferred":[
         "Ahero"
     ],
     "qs:gn_country":"KE",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421173597,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938055,
     "wof:name":"Ahero",
     "wof:parent_id":1091912511,
     "wof:placetype":"locality",

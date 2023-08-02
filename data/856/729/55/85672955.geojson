@@ -42,6 +42,9 @@
     "name:bul_x_preferred":[
         "\u041d\u044f\u043d\u0437\u0430"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Nyanza"
+    ],
     "name:dan_x_preferred":[
         "Nyanzaprovinsen"
     ],
@@ -78,6 +81,9 @@
     "name:hun_x_preferred":[
         "Nyanza tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0561\u0576\u0566\u0561"
+    ],
     "name:ind_x_preferred":[
         "Nyanza"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2c8\uc548\uc790 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc548\uc790\uc8fc"
     ],
     "name:lav_x_preferred":[
         "\u0145anzas province"
@@ -144,6 +153,9 @@
     "name:swe_x_preferred":[
         "Nyanzaprovinsen"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0baf\u0ba9\u0bcd\u0b9a\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c3e\u0c02\u0c1c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -164,6 +176,9 @@
     ],
     "name:vie_x_preferred":[
         "Nyanza"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u626c\u624e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u626c\u624e\u7701"
@@ -277,7 +292,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500529,
+    "wof:lastmodified":1690938039,
     "wof:name":"Nyanza",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

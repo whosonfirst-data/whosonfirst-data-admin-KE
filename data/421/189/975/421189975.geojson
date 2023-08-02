@@ -23,6 +23,9 @@
     "name:nld_x_preferred":[
         "Kipevu"
     ],
+    "name:swa_x_preferred":[
+        "Kipevu"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421189975,
-    "wof:lastmodified":1566727049,
+    "wof:lastmodified":1690938057,
     "wof:name":"Kipevu",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

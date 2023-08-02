@@ -30,11 +30,17 @@
     "name:afr_x_preferred":[
         "kus"
     ],
+    "name:aka_x_preferred":[
+        "Mpoano"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u062d\u0644"
     ],
     "name:arg_x_preferred":[
         "Costa"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0627\u0643\u0648\u0637"
     ],
     "name:ast_x_preferred":[
         "Costa"
@@ -66,8 +72,14 @@
     "name:chr_x_preferred":[
         "\u13a0\u13b9\u13f3\u13b8\u13d7"
     ],
+    "name:chv_x_preferred":[
+        "\u00c7\u044b\u0440\u0430\u043d\u00e7\u0443\u043c"
+    ],
     "name:cym_x_preferred":[
         "Arfordir"
+    ],
+    "name:cym_x_variant":[
+        "arfordir"
     ],
     "name:dan_x_preferred":[
         "kyst"
@@ -111,6 +123,9 @@
     "name:gle_x_preferred":[
         "C\u00f3sta"
     ],
+    "name:gle_x_variant":[
+        "c\u00f3sta"
+    ],
     "name:glg_x_preferred":[
         "Costa"
     ],
@@ -129,11 +144,20 @@
     "name:hrv_x_preferred":[
         "Obala"
     ],
+    "name:hrv_x_variant":[
+        "obala"
+    ],
+    "name:hsb_x_preferred":[
+        "pobrj\u00f3h"
+    ],
     "name:hun_x_preferred":[
         "tengerpart"
     ],
     "name:hye_x_preferred":[
         "\u053e\u0578\u057e\u0561\u0583"
+    ],
+    "name:ina_x_preferred":[
+        "Costa"
     ],
     "name:ind_x_preferred":[
         "pesisir"
@@ -162,17 +186,29 @@
     "name:lat_x_preferred":[
         "Litus"
     ],
+    "name:lat_x_variant":[
+        "litus"
+    ],
     "name:lav_x_preferred":[
         "piekraste"
     ],
+    "name:lim_x_preferred":[
+        "Kus"
+    ],
     "name:lmo_x_preferred":[
         "C\u00f2sta"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d1f\u0d7d\u0d24\u0d4d\u0d24\u0d40\u0d30\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u0938\u092e\u0941\u0926\u094d\u0930\u0915\u093f\u0928\u093e\u0930\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u043a\u0440\u0430\u0458\u0431\u0440\u0435\u0436\u0458\u0435"
+    ],
+    "name:mlg_x_preferred":[
+        "Morontsiraka"
     ],
     "name:nan_x_preferred":[
         "H\u00e1i-k\u00ee\u207f"
@@ -186,11 +222,17 @@
     "name:nob_x_preferred":[
         "kyst"
     ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0627\u062d\u0644\u06cc \u06a9\u0646\u0688\u06be\u0627"
+    ],
     "name:pol_x_preferred":[
         "wybrze\u017ce"
     ],
     "name:por_x_preferred":[
         "costa"
+    ],
+    "name:que_x_preferred":[
+        "Mamaquchap patan"
     ],
     "name:rmy_x_preferred":[
         "Sahel"
@@ -213,6 +255,9 @@
     "name:slv_x_preferred":[
         "Obala"
     ],
+    "name:slv_x_variant":[
+        "obala"
+    ],
     "name:som_x_preferred":[
         "Xeeb"
     ],
@@ -222,6 +267,9 @@
     "name:sqi_x_preferred":[
         "Bregdeti"
     ],
+    "name:sqi_x_variant":[
+        "bregdet"
+    ],
     "name:srp_x_preferred":[
         "\u043e\u0431\u0430\u043b\u0430"
     ],
@@ -230,6 +278,9 @@
     ],
     "name:swe_x_preferred":[
         "kust"
+    ],
+    "name:szy_x_preferred":[
+        "saedipan"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0b9f\u0bb1\u0bcd\u0b95\u0bb0\u0bc8\u0baf\u0bbf\u0bb2\u0bcd"
@@ -246,6 +297,9 @@
     "name:tur_x_preferred":[
         "sahil"
     ],
+    "name:twi_x_preferred":[
+        "Mpoano"
+    ],
     "name:ukr_x_preferred":[
         "\u0443\u0437\u0431\u0435\u0440\u0435\u0436\u0436\u044f"
     ],
@@ -257,6 +311,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u1edd bi\u1ec3n"
+    ],
+    "name:vie_x_variant":[
+        "b\u1edd bi\u1ec3n"
     ],
     "name:war_x_preferred":[
         "Baybayon"
@@ -378,7 +435,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500529,
+    "wof:lastmodified":1690938038,
     "wof:name":"Coast",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -79,6 +79,9 @@
     "name:spa_x_preferred":[
         "Sotik"
     ],
+    "name:swa_x_preferred":[
+        "Chemagel"
+    ],
     "name:swe_x_preferred":[
         "Sotik"
     ],
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":890449943,
-    "wof:lastmodified":1636500538,
+    "wof:lastmodified":1690938070,
     "wof:name":"Sotik",
     "wof:parent_id":1091911035,
     "wof:placetype":"locality",

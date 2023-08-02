@@ -29,10 +29,16 @@
     "name:eus_x_preferred":[
         "Gede"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u062f\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Gede"
     ],
     "name:hun_x_preferred":[
+        "Gedi"
+    ],
+    "name:ita_x_preferred":[
         "Gedi"
     ],
     "name:jpn_x_preferred":[
@@ -50,6 +56,9 @@
     "name:swa_x_preferred":[
         "Gedi"
     ],
+    "name:swa_x_variant":[
+        "Gede"
+    ],
     "name:swe_x_preferred":[
         "Gede"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:zho_x_preferred":[
         "\u683c\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Gede"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":421187519,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938054,
     "wof:name":"Gede",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

@@ -17,8 +17,14 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Universid\u00e1 Kenyatta"
+    ],
     "name:cat_x_preferred":[
         "Universitat Kenyatta"
+    ],
+    "name:cym_x_preferred":[
+        "Prifysgol Kenyatta"
     ],
     "name:deu_x_preferred":[
         "Kenyatta University"
@@ -34,6 +40,15 @@
     ],
     "name:fra_x_variant":[
         "universit\u00e9 Kenyatta"
+    ],
+    "name:gle_x_preferred":[
+        "Ollscoil Kenyatta"
+    ],
+    "name:ind_x_preferred":[
+        "Universitas Kenyatta"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub0d0\ud0c0 \ub300\ud559\uad50"
     ],
     "name:lat_x_preferred":[
         "Universitas Keniata"
@@ -52,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Kenyatta universitet"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u0439\u043d\u0430\u0442\u0442\u0430 \u04af\u043d\u0438\u0432\u0438\u0440\u0441\u0438\u0442\u0438\u0442\u0435"
     ],
     "name:zho_x_preferred":[
         "\u80af\u96c5\u5854\u5927\u5b66"
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":421190761,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938062,
     "wof:name":"Kenyatta University",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

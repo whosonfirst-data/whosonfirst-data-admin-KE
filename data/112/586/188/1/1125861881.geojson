@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Narok"
+    ],
     "name:cat_x_preferred":[
         "Narok"
     ],
@@ -47,6 +50,9 @@
         "Narok"
     ],
     "name:fra_x_preferred":[
+        "Narok"
+    ],
+    "name:ind_x_preferred":[
         "Narok"
     ],
     "name:ita_x_preferred":[
@@ -91,8 +97,14 @@
     "name:vec_x_preferred":[
         "Narok"
     ],
+    "name:yor_x_preferred":[
+        "Narok"
+    ],
     "name:zho_x_preferred":[
         "\u7d0d\u7f85\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Narok"
     ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1125861881,
-    "wof:lastmodified":1566727054,
+    "wof:lastmodified":1690938076,
     "wof:name":"Narok",
     "wof:parent_id":1091912451,
     "wof:placetype":"locality",

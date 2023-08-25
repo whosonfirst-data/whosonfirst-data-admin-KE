@@ -52,6 +52,9 @@
     "name:zho_x_preferred":[
         "\u5e0c\u83ab\u5c3c"
     ],
+    "name:zul_x_preferred":[
+        "Shimoni"
+    ],
     "qs:name":"Shimoni",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890424155,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1690938070,
     "wof:name":"Shimoni",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

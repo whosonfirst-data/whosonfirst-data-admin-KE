@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Kilaguni"
+    ],
     "name:ceb_x_preferred":[
         "Kilaguni"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421170811,
-    "wof:lastmodified":1566727051,
+    "wof:lastmodified":1690938064,
     "wof:name":"Kilaguni",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

@@ -20,10 +20,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u064a\u0646\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0633\u064a\u0646\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u043d\u043e"
     ],
     "name:ceb_x_preferred":[
+        "Maseno"
+    ],
+    "name:dan_x_preferred":[
         "Maseno"
     ],
     "name:eng_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421186683,
-    "wof:lastmodified":1566727049,
+    "wof:lastmodified":1690938058,
     "wof:name":"Maseno",
     "wof:parent_id":1091911657,
     "wof:placetype":"locality",

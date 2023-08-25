@@ -53,6 +53,9 @@
     "name:pol_x_preferred":[
         "Migori"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u064a\u06ab\u0648\u0631\u064a"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0433\u043e\u0440\u0438"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7c73\u6208\u5229"
+    ],
+    "name:zul_x_preferred":[
+        "Migori"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421204747,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938049,
     "wof:name":"Migori",
     "wof:parent_id":1091912205,
     "wof:placetype":"locality",

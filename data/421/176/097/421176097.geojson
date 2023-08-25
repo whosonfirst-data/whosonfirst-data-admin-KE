@@ -26,6 +26,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a\u043b\u044d\u043d\u0434\u0441"
     ],
+    "name:swa_x_preferred":[
+        "Parklands"
+    ],
     "name:und_x_variant":[
         "Upper Parklands Estate"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421176097,
-    "wof:lastmodified":1566727051,
+    "wof:lastmodified":1690938067,
     "wof:name":"Parklands",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

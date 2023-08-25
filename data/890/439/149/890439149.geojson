@@ -49,6 +49,9 @@
     "name:zho_x_preferred":[
         "\u5854\u5361\u6eab\u53e4"
     ],
+    "name:zul_x_preferred":[
+        "Takaungu"
+    ],
     "qs:name":"Takaungu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890439149,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1690938071,
     "wof:name":"Takaungu",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

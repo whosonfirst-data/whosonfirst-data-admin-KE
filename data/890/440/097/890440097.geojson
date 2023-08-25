@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u0627\u0643\u0648\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0634\u0627\u0643\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Machakos"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0686\u0627\u06a9\u0648\u0633"
     ],
@@ -64,11 +70,17 @@
     "name:fra_x_preferred":[
         "Machakos"
     ],
+    "name:gle_x_preferred":[
+        "Machakos"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a82\u0a95\u0abe\u0a95\u0acb\u0ab8"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e6'\u05d0\u05e7\u05d5\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05e6'\u05e7\u05d5\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u092e\u091a\u093e\u0915\u094b\u0938"
@@ -148,6 +160,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0445\u0430\u043a\u043e\u0441"
     ],
+    "name:srp_x_variant":[
+        "\u041c\u0430\u0447\u0430\u043a\u043e\u0441"
+    ],
     "name:swa_x_preferred":[
         "Machakos"
     ],
@@ -189,6 +204,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u67e5\u79d1\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Machakos"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -326,7 +344,7 @@
         }
     ],
     "wof:id":890440097,
-    "wof:lastmodified":1636500538,
+    "wof:lastmodified":1690938070,
     "wof:name":"Machakos",
     "wof:parent_id":1091911873,
     "wof:placetype":"locality",

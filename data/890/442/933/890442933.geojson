@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Litein"
     ],
+    "name:zul_x_preferred":[
+        "Litein"
+    ],
     "qs:name":"Litein",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890442933,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1690938075,
     "wof:name":"Litein",
     "wof:parent_id":1091911035,
     "wof:placetype":"locality",

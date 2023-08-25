@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Maji Mata"
     ],
+    "name:swa_x_preferred":[
+        "Maji Mata"
+    ],
     "name:und_x_variant":[
         "Maji Moto"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421192417,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1690938045,
     "wof:name":"Maji Ya Moto",
     "wof:parent_id":1091911719,
     "wof:placetype":"locality",

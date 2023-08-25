@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u062d\u0648\u0645\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u062d\u0648\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Homa Bay"
+    ],
     "name:azb_x_preferred":[
         "\u0647\u0648\u0645\u0627 \u0628\u06cc"
     ],
@@ -64,6 +73,12 @@
     "name:ron_x_preferred":[
         "Homa Bay"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043c\u0430-\u0411\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Homa Bay"
+    ],
     "name:swa_x_preferred":[
         "Homa Bay"
     ],
@@ -78,6 +93,9 @@
     ],
     "name:zho_x_preferred":[
         "\u970d\u99ac\u7063"
+    ],
+    "name:zul_x_preferred":[
+        "Homa Bay"
     ],
     "qs:name":"Homa Bay",
     "qs:photos_9r":0,
@@ -114,7 +132,7 @@
         }
     ],
     "wof:id":890436593,
-    "wof:lastmodified":1566727052,
+    "wof:lastmodified":1690938071,
     "wof:name":"Homa Bay",
     "wof:parent_id":1091911319,
     "wof:placetype":"locality",

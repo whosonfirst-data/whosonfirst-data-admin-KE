@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0645\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0645\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0627\u0645\u0628\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Lamu"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u043c\u0443"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u0430\u043c\u0443"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ae\u09c1"
+    ],
+    "name:bre_x_preferred":[
+        "Lamu"
     ],
     "name:cat_x_preferred":[
         "Lamu"
@@ -65,6 +77,9 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0aae\u0ac1"
     ],
+    "name:hau_x_preferred":[
+        "Lamu"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d0\u05de\u05d5"
     ],
@@ -76,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Lamu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0574\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Lamu"
@@ -106,6 +124,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u092e\u0942"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0430\u043c\u0443"
     ],
     "name:msa_x_preferred":[
         "Lamu"
@@ -187,6 +208,9 @@
     ],
     "name:zho_x_variant":[
         "\u62c9\u7a46"
+    ],
+    "name:zul_x_preferred":[
+        "Lamu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -329,7 +353,7 @@
         }
     ],
     "wof:id":421174021,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938053,
     "wof:name":"Lamu",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

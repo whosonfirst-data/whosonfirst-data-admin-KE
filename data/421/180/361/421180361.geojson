@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Yala"
     ],
+    "name:por_x_preferred":[
+        "Ial\u00e1"
+    ],
     "name:swa_x_preferred":[
         "Yala"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:und_x_variant":[
         "Yala Station"
+    ],
+    "name:zul_x_preferred":[
+        "Yala"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421180361,
-    "wof:lastmodified":1636500536,
+    "wof:lastmodified":1690938054,
     "wof:name":"Yala",
     "wof:parent_id":1091912583,
     "wof:placetype":"locality",

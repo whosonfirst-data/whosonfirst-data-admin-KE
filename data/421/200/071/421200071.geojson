@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062c\u0648\u0645\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Bungoma"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0646\u0642\u0648\u0645\u0627"
     ],
@@ -77,6 +80,9 @@
     "name:kor_x_preferred":[
         "\ubd84\uace0\ub9c8"
     ],
+    "name:lit_x_preferred":[
+        "Bungoma"
+    ],
     "name:nld_x_preferred":[
         "Bungoma"
     ],
@@ -110,6 +116,9 @@
     "name:tur_x_preferred":[
         "Bungoma"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043d\u0433\u043e\u043c\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0648\u0645\u0627"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5954\u6208\u99ac"
+    ],
+    "name:zul_x_preferred":[
+        "Bungoma"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -261,7 +273,7 @@
         }
     ],
     "wof:id":421200071,
-    "wof:lastmodified":1636500536,
+    "wof:lastmodified":1690938063,
     "wof:name":"Bungoma",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

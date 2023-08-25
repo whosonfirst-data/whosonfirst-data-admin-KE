@@ -29,6 +29,9 @@
     "name:pol_x_preferred":[
         "Makuyu"
     ],
+    "name:por_x_preferred":[
+        "Quenol"
+    ],
     "name:spa_x_preferred":[
         "Makuyu"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:und_x_variant":[
         "Mukuyu"
+    ],
+    "name:zul_x_preferred":[
+        "Makuyu"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421192411,
-    "wof:lastmodified":1566727046,
+    "wof:lastmodified":1690938045,
     "wof:name":"Makuyu",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

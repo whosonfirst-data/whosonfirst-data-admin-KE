@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062b\u064a\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062b\u064a\u0643\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u06cc\u06a9\u0627"
     ],
@@ -172,6 +175,9 @@
     "name:zho_x_preferred":[
         "\u932b\u5361"
     ],
+    "name:zul_x_preferred":[
+        "Thika"
+    ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
     "qs_pg:gn_fcode":"PPL",
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":1125860651,
-    "wof:lastmodified":1636500539,
+    "wof:lastmodified":1690938076,
     "wof:name":"Thika",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

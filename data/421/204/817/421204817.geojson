@@ -44,6 +44,9 @@
     "name:nob_x_preferred":[
         "Kilgoris"
     ],
+    "name:pol_x_preferred":[
+        "Kilgoris"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0433\u043e\u0440\u0438\u0441"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421204817,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938049,
     "wof:name":"Kilkoris",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

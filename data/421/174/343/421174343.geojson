@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ogembo"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0433\u0435\u043c\u0431\u043e"
     ],
@@ -42,6 +45,9 @@
         "Ogembo"
     ],
     "name:swe_x_preferred":[
+        "Ogembo"
+    ],
+    "name:zul_x_preferred":[
         "Ogembo"
     ],
     "qs:gn_country":"KE",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421174343,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1690938053,
     "wof:name":"Ogembo",
     "wof:parent_id":1091911277,
     "wof:placetype":"locality",

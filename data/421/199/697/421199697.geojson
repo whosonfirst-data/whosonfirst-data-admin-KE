@@ -77,6 +77,9 @@
     "name:zho_x_preferred":[
         "\u97cb\u5e03\u8036"
     ],
+    "name:zul_x_preferred":[
+        "Webuye"
+    ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":178202,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421199697,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938062,
     "wof:name":"Webuye",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

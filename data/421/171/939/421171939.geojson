@@ -20,11 +20,20 @@
     "name:eng_x_preferred":[
         "Embakasi"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30f3\u30d0\u30ab\u30b7"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u0431\u0430\u043a\u0430\u0441\u0438"
+    ],
     "name:swa_x_preferred":[
         "Embakasi"
     ],
     "name:swe_x_preferred":[
         "Embakasi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043c\u0431\u0430\u043a\u0430\u0441\u0456"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":421171939,
-    "wof:lastmodified":1566727051,
+    "wof:lastmodified":1690938068,
     "wof:name":"Embakasi",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

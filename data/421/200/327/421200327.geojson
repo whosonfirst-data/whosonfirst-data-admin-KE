@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Londiani"
     ],
+    "name:ind_x_preferred":[
+        "Londiani"
+    ],
     "name:nld_x_preferred":[
         "Londiani"
     ],
@@ -39,6 +42,9 @@
         "Londiani"
     ],
     "name:swe_x_preferred":[
+        "Londiani"
+    ],
+    "name:zul_x_preferred":[
         "Londiani"
     ],
     "qs:gn_country":"KE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421200327,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938063,
     "wof:name":"Londiani",
     "wof:parent_id":1091911533,
     "wof:placetype":"locality",

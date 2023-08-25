@@ -78,6 +78,9 @@
     "name:kor_x_preferred":[
         "\ubd81\ub3d9\ubd80 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\ub3d9\ubd80\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Zieme\u013caustrumu province"
     ],
@@ -123,6 +126,9 @@
     "name:und_x_variant":[
         "N. Eastern",
         "North Eastern Province"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u5317\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u5317\u7701"
@@ -236,7 +242,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500528,
+    "wof:lastmodified":1690938037,
     "wof:name":"North-Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

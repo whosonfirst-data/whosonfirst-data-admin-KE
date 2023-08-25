@@ -162,6 +162,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn \u0110\u00f4ng"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u90e8\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u4e1c\u533a"
     ],
@@ -282,7 +285,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500528,
+    "wof:lastmodified":1690938037,
     "wof:name":"Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -23,17 +23,26 @@
     "name:eng_x_preferred":[
         "Malakisi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u06a9\u06cc\u0633\u06cc"
+    ],
     "name:nld_x_preferred":[
         "Malakisi"
     ],
     "name:pol_x_preferred":[
         "Malakisi"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043a\u0438\u0441\u0438"
+    ],
     "name:swa_x_preferred":[
         "Malakisi"
     ],
     "name:swe_x_preferred":[
         "Malikisi"
+    ],
+    "name:zul_x_preferred":[
+        "Malakisi"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":421205153,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938051,
     "wof:name":"Malikisi",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

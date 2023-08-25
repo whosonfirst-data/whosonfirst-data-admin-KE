@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0625\u0645\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Embu"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0648"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:fas_x_variant":[
         "\u0627\u0645\u0628\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Embu"
     ],
     "name:fra_x_preferred":[
         "Embu"
@@ -128,8 +137,14 @@
     "name:tgl_x_preferred":[
         "Embu"
     ],
+    "name:tum_x_preferred":[
+        "Embu ,Kenya"
+    ],
     "name:tur_x_preferred":[
         "Embu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043c\u0431\u0443"
     ],
     "name:und_x_variant":[
         "Kirimari"
@@ -148,6 +163,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Embu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kenya",
@@ -291,7 +309,7 @@
         }
     ],
     "wof:id":421195209,
-    "wof:lastmodified":1636500535,
+    "wof:lastmodified":1690938046,
     "wof:name":"Embu",
     "wof:parent_id":1091911207,
     "wof:placetype":"locality",

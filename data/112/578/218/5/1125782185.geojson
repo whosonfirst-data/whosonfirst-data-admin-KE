@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Butere"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0435\u0440\u0435"
     ],
@@ -67,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u6cf0\u96f7"
     ],
+    "name:zul_x_preferred":[
+        "Butere"
+    ],
     "qs_pg:aaroncc":"KE",
     "qs_pg:gn_country":"KE",
     "qs_pg:gn_fcode":"PPL",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125782185,
-    "wof:lastmodified":1566727054,
+    "wof:lastmodified":1690938077,
     "wof:name":"Butere",
     "wof:parent_id":1091911121,
     "wof:placetype":"locality",

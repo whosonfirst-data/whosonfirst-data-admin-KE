@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Kapenguria"
     ],
+    "name:ind_x_preferred":[
+        "Kapenguria"
+    ],
     "name:ita_x_preferred":[
         "Kapenguria"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5f6d\u53e4\u91cc\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "Kapenguria"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421199459,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938062,
     "wof:name":"Kapenguria",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

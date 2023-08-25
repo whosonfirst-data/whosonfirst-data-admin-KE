@@ -49,6 +49,12 @@
     "name:swe_x_preferred":[
         "Mariakani"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91cc\u4e9a\u5361\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Mariakani"
+    ],
     "qs:name":"Mariakani",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890442925,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1690938074,
     "wof:name":"Mariakani",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

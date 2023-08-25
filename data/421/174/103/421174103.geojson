@@ -23,6 +23,15 @@
     "name:nld_x_preferred":[
         "Mweiga"
     ],
+    "name:pol_x_preferred":[
+        "Mweiga"
+    ],
+    "name:por_x_preferred":[
+        "Mueiga"
+    ],
+    "name:swa_x_preferred":[
+        "Mweiga"
+    ],
     "name:und_x_variant":[
         "Muiga"
     ],
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421174103,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1690938052,
     "wof:name":"Mweiga",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

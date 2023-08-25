@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nambale"
+    ],
     "name:eng_x_preferred":[
         "Nambale"
     ],
@@ -29,8 +32,14 @@
     "name:swa_x_preferred":[
         "Nambale"
     ],
+    "name:swe_x_preferred":[
+        "Nambale"
+    ],
     "name:und_x_variant":[
         "Nambare"
+    ],
+    "name:zul_x_preferred":[
+        "Nambale"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":421178441,
-    "wof:lastmodified":1566727051,
+    "wof:lastmodified":1690938067,
     "wof:name":"Nambale",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

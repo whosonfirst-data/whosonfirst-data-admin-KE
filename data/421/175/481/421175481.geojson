@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Karuri"
     ],
+    "name:deu_x_preferred":[
+        "Karuri"
+    ],
     "name:eng_x_preferred":[
         "Karuri"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u0648\u0631\u06cc"
+    ],
+    "name:zul_x_preferred":[
+        "Karuri"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421175481,
-    "wof:lastmodified":1566727049,
+    "wof:lastmodified":1690938059,
     "wof:name":"Karuri",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Kahawa"
+    ],
     "name:eng_x_preferred":[
         "Kahawa"
+    ],
+    "name:swa_x_preferred":[
+        "Kahawa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u54c8\u74e6"
     ],
     "qs:gn_country":"KE",
     "qs:gn_fcode":"PPL",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":421191175,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938060,
     "wof:name":"Kahawa",
     "wof:parent_id":1091912313,
     "wof:placetype":"locality",

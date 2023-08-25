@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Njoro"
     ],
+    "name:pol_x_preferred":[
+        "Njoro"
+    ],
     "name:swa_x_preferred":[
         "Njoro"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":421191845,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938060,
     "wof:name":"Njoro",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

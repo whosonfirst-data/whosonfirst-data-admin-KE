@@ -22,8 +22,20 @@
     "name:eng_x_preferred":[
         "Pumwani"
     ],
+    "name:ind_x_preferred":[
+        "Pumwani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30ef\u30cb"
+    ],
+    "name:swa_x_preferred":[
+        "Pumwani"
+    ],
     "name:swe_x_preferred":[
         "Pumwani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043c\u0432\u0430\u043d\u0456"
     ],
     "name:und_x_variant":[
         "Pumuani"
@@ -76,7 +88,7 @@
         }
     ],
     "wof:id":421170195,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1690938064,
     "wof:name":"Pumwani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

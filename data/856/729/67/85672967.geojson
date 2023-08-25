@@ -159,6 +159,9 @@
     "name:vie_x_variant":[
         "T\u00e2y Kenya"
     ],
+    "name:wuu_x_preferred":[
+        "\u897f\u90e8\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u897f\u90e8"
     ],
@@ -277,7 +280,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1636500528,
+    "wof:lastmodified":1690938038,
     "wof:name":"Western",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.359864,
-    "geom:area_square_m":128014703904.342422,
+    "geom:area_square_m":128014704143.029617,
     "geom:bbox":"38.670505,-2.032075,41.906838,4.285202",
     "geom:latitude":1.33847,
     "geom:longitude":40.229796,
@@ -13,6 +13,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "North-Eastern Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NE"
@@ -225,7 +228,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"94a1f9f1a45b8c691cd6574b22da022c",
+    "wof:geomhash":"b9570e0ec2c074b531923b855256f4c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -242,7 +245,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938037,
+    "wof:lastmodified":1694493258,
     "wof:name":"North-Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

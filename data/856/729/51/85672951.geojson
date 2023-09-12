@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056609,
-    "geom:area_square_m":699805290.198653,
+    "geom:area_square_m":699805538.160357,
     "geom:bbox":"36.666353,-1.429758,37.106098,-1.155849",
     "geom:latitude":-1.290049,
     "geom:longitude":36.866658,
@@ -13,6 +13,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Nairobi National Capital Area"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NA"
@@ -263,7 +266,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"189a8197f7ac191f51ad3e2ffe1aaeb0",
+    "wof:geomhash":"7545eae5b34060ff3dea37acff46bf80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -280,7 +283,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938038,
+    "wof:lastmodified":1694493129,
     "wof:name":"Nairobi",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

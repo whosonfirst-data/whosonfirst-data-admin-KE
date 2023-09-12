@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.323428,
-    "geom:area_square_m":16363523677.361582,
+    "geom:area_square_m":16363523112.392408,
     "geom:bbox":"33.925475,-1.386516,35.34402,0.316004",
     "geom:latitude":-0.486992,
     "geom:longitude":34.483843,
@@ -13,6 +13,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Nyanza Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NY"
@@ -275,7 +278,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f656d99c53bd5d39a9b8fe2f91bef0e",
+    "wof:geomhash":"631240cd6b2d7baa5c12b01156584666",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -292,7 +295,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938039,
+    "wof:lastmodified":1694493258,
     "wof:name":"Nyanza",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

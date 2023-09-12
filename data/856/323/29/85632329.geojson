@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":47.650354,
-    "geom:area_square_m":585365891438.991821,
+    "geom:area_square_m":588738677679.383301,
     "geom:bbox":"33.909829,-4.680056,41.906838,5.033421",
     "geom:latitude":0.558239,
     "geom:longitude":37.8451,
@@ -14,6 +14,9 @@
     "iso:country":"KE",
     "itu:country_code":[
         "254"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KE"
@@ -1155,7 +1158,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"254",
     "statoids:ds":"EAK",
     "statoids:fifa":"KEN",
@@ -1216,7 +1220,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"722b49986f3d29b05b19a89ea7a81507",
+    "wof:geomhash":"ac7f77fa06c9c0618a1bf2eabbfc102f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1232,12 +1236,12 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938036,
+    "wof:lastmodified":1694492181,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":44353691,
-    "wof:population_rank":15,
+    "wof:population":52573973,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"KE",
     "wof:superseded_by":[],

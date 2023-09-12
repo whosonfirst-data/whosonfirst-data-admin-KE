@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.752636,
-    "geom:area_square_m":83401928359.916565,
+    "geom:area_square_m":83401926599.624802,
     "geom:bbox":"37.585272,-4.680056,41.557264,-0.015533",
     "geom:latitude":-2.4967,
     "geom:longitude":39.331122,
@@ -13,6 +13,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Coast Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "CO"
@@ -418,7 +421,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3702a832d08df876f3a10788a166e431",
+    "wof:geomhash":"6247a9c441cb147e0fe45df8ec544bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -435,7 +438,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938038,
+    "wof:lastmodified":1694493128,
     "wof:name":"Coast",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

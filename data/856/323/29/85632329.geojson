@@ -1159,7 +1159,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"254",
     "statoids:ds":"EAK",
     "statoids:fifa":"KEN",
@@ -1236,7 +1236,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1694492181,
+    "wof:lastmodified":1694639632,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

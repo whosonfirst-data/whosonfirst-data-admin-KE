@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.680173,
-    "geom:area_square_m":8410061845.627874,
+    "geom:area_square_m":8410061546.261756,
     "geom:bbox":"33.909829,-0.038522,35.156358,1.148015",
     "geom:latitude":0.503833,
     "geom:longitude":34.585906,
@@ -13,6 +13,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Western Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "WE"
@@ -263,7 +266,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e42d0eb15734a8ef514454f45ca585e",
+    "wof:geomhash":"14e1bfc75beffbcf53f600d8bdd3495b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -280,7 +283,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938038,
+    "wof:lastmodified":1694493258,
     "wof:name":"Western",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

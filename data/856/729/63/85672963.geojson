@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.629057,
-    "geom:area_square_m":180742489230.69928,
+    "geom:area_square_m":180742489910.805725,
     "geom:bbox":"33.992061,-3.182801,38.073247,5.033421",
     "geom:latitude":1.108215,
     "geom:longitude":35.936023,
@@ -14,6 +14,9 @@
     "iso:country":"KE",
     "label:eng_x_preferred_longname":[
         "Rift Valley Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "RV"
@@ -299,7 +302,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e35b4444720a30c5c6dd455a94befbfe",
+    "wof:geomhash":"cc922a52156308398b09da3662d4105d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -316,7 +319,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1690938039,
+    "wof:lastmodified":1694493130,
     "wof:name":"Rift Valley",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

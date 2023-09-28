@@ -255,10 +255,12 @@
         "gn:id":184742,
         "gp:id":2345940,
         "hasc:id":"KE.NA",
+        "iso:code_historic":"KE-110",
         "qs_pg:id":1131390,
         "wd:id":"Q3335223",
         "wk:page":"Nairobi County"
     },
+    "wof:concordances_official":"iso:code_historic",
     "wof:coterminous":[
         421174401
     ],
@@ -283,7 +285,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884360,
     "wof:name":"Nairobi",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

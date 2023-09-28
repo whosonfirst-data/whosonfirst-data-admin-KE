@@ -1197,6 +1197,7 @@
         "hasc:id":"KE",
         "icao:code":"5Y",
         "ioc:id":"KEN",
+        "iso:code":"KE",
         "itu:id":"KEN",
         "loc:id":"n80061011",
         "m49:code":"404",
@@ -1211,6 +1212,7 @@
         "wk:page":"Kenya",
         "wmo:id":"KN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KE",
     "wof:country_alpha3":"KEN",
     "wof:geom_alt":[
@@ -1236,7 +1238,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1694639632,
+    "wof:lastmodified":1695881294,
     "wof:name":"Kenya",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

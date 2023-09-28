@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.702223,
-    "geom:area_square_m":8682099073.601912,
+    "geom:area_square_m":8682098455.100311,
     "geom:bbox":"35.597632,0.183432,36.491747,1.642894",
     "geom:latitude":0.822164,
     "geom:longitude":35.96802,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892583,
-    "wof:geomhash":"3dd3d452340c6592bdae137703db355e",
+    "wof:geomhash":"4c01288d68c32e0ad1ad48177c86c8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091910859,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886744,
     "wof:name":"Baringo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

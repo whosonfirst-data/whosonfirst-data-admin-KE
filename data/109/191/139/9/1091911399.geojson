@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.782354,
-    "geom:area_square_m":22023361589.926044,
+    "geom:area_square_m":22023361589.925316,
     "geom:bbox":"35.9904015395,-3.1828009115,37.942740947,-1.0465786476",
     "geom:latitude":-2.120483,
     "geom:longitude":36.909712,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.KJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892602,
-    "wof:geomhash":"3768bac7b2c0734881de6bdfe1ebf396",
+    "wof:geomhash":"3e46f2dc605fa2a24ee36e4791752968",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1091911399,
-    "wof:lastmodified":1566727039,
+    "wof:lastmodified":1695886183,
     "wof:name":"Kajiado",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

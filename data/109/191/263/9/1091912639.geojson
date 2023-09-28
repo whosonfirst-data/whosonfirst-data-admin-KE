@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126092,
-    "geom:area_square_m":1559141701.256171,
+    "geom:area_square_m":1559141785.132778,
     "geom:bbox":"37.796273,-0.425407,38.305442,0.069247",
     "geom:latitude":-0.135363,
     "geom:longitude":38.023025,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892669,
-    "wof:geomhash":"4b7405ab48a5a0487cb5c2bee3ec912d",
+    "wof:geomhash":"04fd4354f3b3602148e75d191243c8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091912639,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Tharaka",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

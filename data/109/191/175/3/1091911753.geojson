@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049017,
-    "geom:area_square_m":605972166.590734,
+    "geom:area_square_m":605972166.590702,
     "geom:bbox":"34.3713821843,-1.38651629996,34.729203161,-1.09555076999",
     "geom:latitude":-1.218079,
     "geom:longitude":34.566289,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892616,
-    "wof:geomhash":"37794744c29cc8bf02971809bb6c6581",
+    "wof:geomhash":"a80fa9ae89da773347f42aa8c596fb65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091911753,
-    "wof:lastmodified":1566727039,
+    "wof:lastmodified":1695886183,
     "wof:name":"Kuria",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

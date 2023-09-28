@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198734,
-    "geom:area_square_m":2457272523.219501,
+    "geom:area_square_m":2457271755.530729,
     "geom:bbox":"33.925475,-0.841844,34.463004,-0.279606",
     "geom:latitude":-0.542984,
     "geom:longitude":34.133762,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.HB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892664,
-    "wof:geomhash":"e40dc48753a2a16f422055c673de18e0",
+    "wof:geomhash":"6300ffc062c23226c493b032e5c3615b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091912585,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Suba",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113451,
-    "geom:area_square_m":1402775745.310619,
+    "geom:area_square_m":1402775593.564362,
     "geom:bbox":"35.052686,-0.722385,35.587021,-0.365249",
     "geom:latitude":-0.549085,
     "geom:longitude":35.298104,
@@ -76,9 +76,10 @@
         "hasc:id":"KE.RV.BO",
         "wd:id":"Q1010616"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892588,
-    "wof:geomhash":"d33350fa6c80dad96e35ddef9b3be71c",
+    "wof:geomhash":"8cc5655b78173c54805f3332307da1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091911035,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886744,
     "wof:name":"Buret",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

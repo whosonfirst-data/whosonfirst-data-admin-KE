@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021741,
-    "geom:area_square_m":268172343.233079,
+    "geom:area_square_m":268172343.23311,
     "geom:bbox":"39.5629970643,-4.15227602331,39.762889862,-3.92034167672",
     "geom:latitude":-4.015233,
     "geom:longitude":39.653721,
@@ -301,9 +301,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CO.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892642,
-    "wof:geomhash":"a28ce15af8ce1760b30e793b1920521b",
+    "wof:geomhash":"ce9385b55c5d92bbb5f5f8280625dcbd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -313,7 +314,7 @@
         }
     ],
     "wof:id":1091912207,
-    "wof:lastmodified":1566727036,
+    "wof:lastmodified":1695886181,
     "wof:name":"Mombasa",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

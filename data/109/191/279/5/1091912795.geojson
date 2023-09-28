@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.31589,
-    "geom:area_square_m":65617143991.901283,
+    "geom:area_square_m":65617143991.903824,
     "geom:bbox":"33.992061,0.920855741536,36.7274118261,5.033421",
     "geom:latitude":3.254148,
     "geom:longitude":35.453029,
@@ -115,9 +115,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892675,
-    "wof:geomhash":"7c37aa04919cdc03e2bfca769f6bb2ce",
+    "wof:geomhash":"454628a7208164f4d7c0cfe12e2e676d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1091912795,
-    "wof:lastmodified":1566727040,
+    "wof:lastmodified":1695886184,
     "wof:name":"Turkana",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

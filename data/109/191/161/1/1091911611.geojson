@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.390277,
-    "geom:area_square_m":4816521976.758773,
+    "geom:area_square_m":4816522718.987692,
     "geom:bbox":"39.087424,-3.987882,39.96875,-3.211776",
     "geom:latitude":-3.558911,
     "geom:longitude":39.571754,
@@ -136,9 +136,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CO.KF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892610,
-    "wof:geomhash":"f8c9a736ba931a6ebb4f7b1d814d7c0a",
+    "wof:geomhash":"6c1d82a95850d7baa1d7d53e9c65aef9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":1091911611,
-    "wof:lastmodified":1636500531,
+    "wof:lastmodified":1695886757,
     "wof:name":"Kilifi",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

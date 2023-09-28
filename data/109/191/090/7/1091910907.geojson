@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116465,
-    "geom:area_square_m":1439959091.710756,
+    "geom:area_square_m":1439959079.473178,
     "geom:bbox":"35.014908,-1.03538,35.54507,-0.64634",
     "geom:latitude":-0.827247,
     "geom:longitude":35.274165,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892584,
-    "wof:geomhash":"115195af7ed35b4f6711433e2821c862",
+    "wof:geomhash":"cc89606c784faf97adb6e9ac57536f59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091910907,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886744,
     "wof:name":"Bomet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

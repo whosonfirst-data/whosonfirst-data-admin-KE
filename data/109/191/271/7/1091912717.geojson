@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233194,
-    "geom:area_square_m":2882883469.564438,
+    "geom:area_square_m":2882883561.574157,
     "geom:bbox":"34.588088,-1.549473,35.242985,-0.884578",
     "geom:latitude":-1.159987,
     "geom:longitude":34.899852,
@@ -76,9 +76,10 @@
         "hasc:id":"KE.RV.NR",
         "wd:id":"Q1754960"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892672,
-    "wof:geomhash":"9074ba19bdccd89059a836ab8d128a2a",
+    "wof:geomhash":"9a737523ff0d708fcfcbb0f2b468552e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091912717,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886747,
     "wof:name":"Trans Mara",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

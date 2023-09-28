@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638984,
-    "geom:area_square_m":7890742954.687093,
+    "geom:area_square_m":7890742716.382896,
     "geom:bbox":"39.156438,-3.39125,40.242054,-2.30989",
     "geom:latitude":-2.933772,
     "geom:longitude":39.756977,
@@ -76,9 +76,10 @@
         "hasc:id":"KE.CO.KF",
         "wd:id":"Q1852189"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892628,
-    "wof:geomhash":"a5ac6a96b1d64cdd03ebdc4d9b74bdfa",
+    "wof:geomhash":"9a13c4581bc48f7c5d48b58590a495a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091911877,
-    "wof:lastmodified":1636500532,
+    "wof:lastmodified":1695886758,
     "wof:name":"Malindi",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

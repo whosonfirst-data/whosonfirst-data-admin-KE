@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.782795,
-    "geom:area_square_m":9664817682.29459,
+    "geom:area_square_m":9664817937.100388,
     "geom:bbox":"38.12863,2.154857,39.347745,3.659439",
     "geom:latitude":3.131123,
     "geom:longitude":38.819339,
@@ -97,9 +97,10 @@
         "hasc:id":"KE.EA.MB",
         "wd:id":"Q2198934"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892644,
-    "wof:geomhash":"bbf4309accbff221f7ceb04d930dd9de",
+    "wof:geomhash":"6872871e960f038f8d0cdd940dd7cb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091912223,
-    "wof:lastmodified":1636500534,
+    "wof:lastmodified":1695886759,
     "wof:name":"Moyale",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

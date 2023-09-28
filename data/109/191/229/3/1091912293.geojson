@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.819817,
-    "geom:area_square_m":10136302167.657398,
+    "geom:area_square_m":10136302300.696041,
     "geom:bbox":"37.802673,-1.200565,38.972699,-0.049526",
     "geom:latitude":-0.708652,
     "geom:longitude":38.331915,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892649,
-    "wof:geomhash":"d4f9f21b9ec939eacca46dedd48c1dec",
+    "wof:geomhash":"23f37c8a43b9ff8720f02251cd47a423",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1091912293,
-    "wof:lastmodified":1636500531,
+    "wof:lastmodified":1695886757,
     "wof:name":"Mwingi",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

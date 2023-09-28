@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170318,
-    "geom:area_square_m":2105995487.88165,
+    "geom:area_square_m":2105995916.479697,
     "geom:bbox":"35.008004,-0.499481,35.669391,0.029649",
     "geom:latitude":-0.241517,
     "geom:longitude":35.339228,
@@ -124,9 +124,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892606,
-    "wof:geomhash":"a25c03a996032c7e3aa7aec0b5fc4362",
+    "wof:geomhash":"6e45405c0ae77303a018116e7e1432a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1091911533,
-    "wof:lastmodified":1636500533,
+    "wof:lastmodified":1695886758,
     "wof:name":"Kericho",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

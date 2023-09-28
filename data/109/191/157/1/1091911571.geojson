@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107351,
-    "geom:area_square_m":1327173929.889546,
+    "geom:area_square_m":1327173462.084126,
     "geom:bbox":"36.498681,-1.308086,36.899679,-0.757074",
     "geom:latitude":-1.085849,
     "geom:longitude":36.68823,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CE.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892608,
-    "wof:geomhash":"44d6d494a05cfd409523fff6e39894c6",
+    "wof:geomhash":"4e134514002660d254654f30263340de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091911571,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886745,
     "wof:name":"Kiambu",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

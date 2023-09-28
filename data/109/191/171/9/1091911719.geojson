@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18754,
-    "geom:area_square_m":2318965897.146747,
+    "geom:area_square_m":2318965598.649073,
     "geom:bbox":"35.522796,-0.222055,36.216927,0.412919",
     "geom:latitude":0.107758,
     "geom:longitude":35.870927,
@@ -73,9 +73,10 @@
         "hasc:id":"KE.RV.BA",
         "wd:id":"Q1778818"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892614,
-    "wof:geomhash":"1a8430b262c49c67f419ffecc8448f6f",
+    "wof:geomhash":"389acd7cff3f91b15876a5c2a3795168",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1091911719,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886745,
     "wof:name":"Koibatek",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

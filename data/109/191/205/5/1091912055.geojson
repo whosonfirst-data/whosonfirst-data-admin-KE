@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169843,
-    "geom:area_square_m":2099996455.867274,
+    "geom:area_square_m":2099996656.051605,
     "geom:bbox":"37.269423,-0.911977,37.935709,-0.341212",
     "geom:latitude":-0.666783,
     "geom:longitude":37.667186,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892635,
-    "wof:geomhash":"e5d57ec6b170a07fb1a2dca3fe5d7d33",
+    "wof:geomhash":"b05ea5e3e51068a3476ae0084905efcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091912055,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886746,
     "wof:name":"Mbeere",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07599,
-    "geom:area_square_m":939561773.262613,
+    "geom:area_square_m":939561508.062292,
     "geom:bbox":"36.705969,-0.78117,37.261541,-0.56265",
     "geom:latitude":-0.676736,
     "geom:longitude":36.973484,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CE.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892647,
-    "wof:geomhash":"25561ce33331fce7162c9b9a370b14aa",
+    "wof:geomhash":"e218801c8a9644ecdff78176a53d3bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091912291,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Muranga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045076,
-    "geom:area_square_m":557336789.86143,
+    "geom:area_square_m":557336708.716533,
     "geom:bbox":"34.103645,0.450815,34.443217,0.780251",
     "geom:latitude":0.602379,
     "geom:longitude":34.274766,
@@ -79,9 +79,10 @@
         "hasc:id":"KE.WE.BS",
         "wd:id":"Q1577530"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892667,
-    "wof:geomhash":"37915e33ee9e733fdaecab8b730e4411",
+    "wof:geomhash":"d0f0c4ea212963ecb1a13152fb88ec2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091912613,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Teso",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

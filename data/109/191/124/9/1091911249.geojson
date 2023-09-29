@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.629588,
-    "geom:area_square_m":44875511150.147301,
+    "geom:area_square_m":44875511444.809731,
     "geom:bbox":"38.670505,-2.032075,41.559176,0.995236",
     "geom:latitude":-0.486039,
     "geom:longitude":40.182566,
@@ -169,9 +169,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NE.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892596,
-    "wof:geomhash":"4aab725d6ca83dcf6aae5b46e481c00d",
+    "wof:geomhash":"b87c074e570002b2f81ad785af3d3b56",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1091911249,
-    "wof:lastmodified":1636500534,
+    "wof:lastmodified":1695886759,
     "wof:name":"Garissa",
     "wof:parent_id":85672969,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087704,
-    "geom:area_square_m":1084459382.358141,
+    "geom:area_square_m":1084459316.401567,
     "geom:bbox":"37.316854,-0.44842,37.891795,-0.149216",
     "geom:latitude":-0.290032,
     "geom:longitude":37.657562,
@@ -85,9 +85,10 @@
         "hasc:id":"KE.EA.MS",
         "wd:id":"Q1894683"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892639,
-    "wof:geomhash":"c8229c52d2a05e207b4ea1bba8270df1",
+    "wof:geomhash":"bab8e8ac1e638284fc30cab5861e0f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091912169,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Meru South",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

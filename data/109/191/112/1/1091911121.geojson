@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075729,
-    "geom:area_square_m":936385878.134616,
+    "geom:area_square_m":936386578.235086,
     "geom:bbox":"34.346511,0.095727,34.681481,0.48025",
     "geom:latitude":0.292751,
     "geom:longitude":34.509737,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"KE.WE.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892591,
-    "wof:geomhash":"3e72b3027a98d600e59f6fcb4ed83617",
+    "wof:geomhash":"5e7d4921c5e9523737ba8c63c5b0ae8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1091911121,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886744,
     "wof:name":"Butere/mumias",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

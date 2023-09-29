@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07029,
-    "geom:area_square_m":869054186.534448,
+    "geom:area_square_m":869054393.265383,
     "geom:bbox":"36.706986,-0.968521,37.265971,-0.665602",
     "geom:latitude":-0.832669,
     "geom:longitude":37.038875,
@@ -90,9 +90,10 @@
         "hasc:id":"KE.CE.MA",
         "wd:id":"Q2311126"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892631,
-    "wof:geomhash":"9478354b99b6b4da22b4f0847dcc3632",
+    "wof:geomhash":"f0572d6f4c6be145aba64f9483adcd49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091911931,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886746,
     "wof:name":"Maragua",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

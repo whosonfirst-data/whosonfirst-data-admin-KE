@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242871,
-    "geom:area_square_m":3003141025.967204,
+    "geom:area_square_m":3003141488.455754,
     "geom:bbox":"37.090828,-0.213838,37.896421,0.331793",
     "geom:latitude":0.019008,
     "geom:longitude":37.512097,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892636,
-    "wof:geomhash":"7bc05e2d79db13d6b708b72721318fd9",
+    "wof:geomhash":"4140be3bf72b01421f27947de0f299f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091912097,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886746,
     "wof:name":"Meru Central",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

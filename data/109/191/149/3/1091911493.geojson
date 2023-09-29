@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117274,
-    "geom:area_square_m":1450059291.392925,
+    "geom:area_square_m":1450059291.392828,
     "geom:bbox":"35.4134689224,0.16976768897,35.7263709794,0.864190256929",
     "geom:latitude":0.489195,
     "geom:longitude":35.572029,
@@ -91,9 +91,10 @@
         "hasc:id":"KE.RV.KY",
         "wd:id":"Q1684196"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892605,
-    "wof:geomhash":"214190dda7164e148b8b5bfba439b3ec",
+    "wof:geomhash":"7e0f43acd951cb7a6716c2ecff16452b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1091911493,
-    "wof:lastmodified":1566727041,
+    "wof:lastmodified":1695886184,
     "wof:name":"Keiyo",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

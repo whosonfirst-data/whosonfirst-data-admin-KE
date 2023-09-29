@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119169,
-    "geom:area_square_m":1473481234.09023,
+    "geom:area_square_m":1473480599.502553,
     "geom:bbox":"37.148298,-0.783795,37.488235,-0.152541",
     "geom:latitude":-0.523409,
     "geom:longitude":37.319141,
@@ -144,12 +144,13 @@
         "wd:id":"Q2230311",
         "wk:page":"Kirinyaga County"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1469051887,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"485273e20f0cf3e79704ef8b94b6ad4f",
+    "wof:geomhash":"28c6ae8a0fcab1b730ac75d057ebd621",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":890431357,
-    "wof:lastmodified":1690938072,
+    "wof:lastmodified":1695886745,
     "wof:name":"Kirinyaga",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

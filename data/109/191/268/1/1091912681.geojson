@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158909,
-    "geom:area_square_m":1964629555.099447,
+    "geom:area_square_m":1964629523.441259,
     "geom:bbox":"36.654638,-1.253635,37.419697,-0.697654",
     "geom:latitude":-1.007492,
     "geom:longitude":37.017672,
@@ -79,9 +79,10 @@
         "hasc:id":"KE.CE.KB",
         "wd:id":"Q2575085"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892670,
-    "wof:geomhash":"a6dea29ea48e4f99cdf849bd7cbb88bc",
+    "wof:geomhash":"846ae543f1b9cb3c611f8365c9ff885d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1091912681,
-    "wof:lastmodified":1636500532,
+    "wof:lastmodified":1695886758,
     "wof:name":"Thika",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

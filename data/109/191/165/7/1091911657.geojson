@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111119,
-    "geom:area_square_m":1374006139.125291,
+    "geom:area_square_m":1374006139.125231,
     "geom:bbox":"34.412569467,-0.292783913788,35.0137802582,0.0116208245787",
     "geom:latitude":-0.129808,
     "geom:longitude":34.683204,
@@ -191,9 +191,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.KU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892611,
-    "wof:geomhash":"74558b248d2868817a641d2359dd79b9",
+    "wof:geomhash":"b9413e35d2425026f340f83531420a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1091911657,
-    "wof:lastmodified":1566727039,
+    "wof:lastmodified":1695886183,
     "wof:name":"Kisumu",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

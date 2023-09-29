@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05286,
-    "geom:area_square_m":653575093.568549,
+    "geom:area_square_m":653575257.160731,
     "geom:bbox":"34.639285,-0.911212,35.016055,-0.497328",
     "geom:latitude":-0.696215,
     "geom:longitude":34.817561,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892593,
-    "wof:geomhash":"f2e6f95f554f7575dc764a663126bf96",
+    "wof:geomhash":"99029c26c194a181c2866bd565a1ff1b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1091911163,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886745,
     "wof:name":"Central Kisii",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

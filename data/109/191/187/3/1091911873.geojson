@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.506566,
-    "geom:area_square_m":6262152081.541307,
+    "geom:area_square_m":6262152005.811353,
     "geom:bbox":"36.880171,-1.78,37.865442,-0.776188",
     "geom:latitude":-1.288343,
     "geom:longitude":37.407023,
@@ -154,9 +154,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892624,
-    "wof:geomhash":"515e06e43b1659ba7a729a478c26c5b3",
+    "wof:geomhash":"256a7220d6dcb073b5dc61069bf91c11",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1091911873,
-    "wof:lastmodified":1636500532,
+    "wof:lastmodified":1695886758,
     "wof:name":"Machakos",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107392,
-    "geom:area_square_m":1327893199.799851,
+    "geom:area_square_m":1327893199.799908,
     "geom:bbox":"34.3911461172,-0.602040800224,35.028944274,-0.236218631583",
     "geom:latitude":-0.401464,
     "geom:longitude":34.665511,
@@ -93,12 +93,13 @@
         "wd:id":"Q2125323",
         "wk:page":"Rachuonyo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1469051700,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"915ab44dd5b7d6ca2b68473d5d095a2a",
+    "wof:geomhash":"edc18673e54c1297bcff1019971b6cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":890427529,
-    "wof:lastmodified":1582344730,
+    "wof:lastmodified":1695886782,
     "wof:name":"Rachuonyo",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

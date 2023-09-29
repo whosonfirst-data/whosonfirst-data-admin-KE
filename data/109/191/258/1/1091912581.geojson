@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.718376,
-    "geom:area_square_m":21241812935.573547,
+    "geom:area_square_m":21241812935.574238,
     "geom:bbox":"36.2944458532,0.571711831074,38.0732468092,2.51964246861",
     "geom:latitude":1.326791,
     "geom:longitude":37.11726,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892661,
-    "wof:geomhash":"4c2e9a8287cef9f89311ea8bb4e097a6",
+    "wof:geomhash":"8d786c03dd398a7c93fa4ab92c8ffffa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091912581,
-    "wof:lastmodified":1566727038,
+    "wof:lastmodified":1695886182,
     "wof:name":"Samburu",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

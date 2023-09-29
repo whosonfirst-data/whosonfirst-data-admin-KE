@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.058726,
-    "geom:area_square_m":25451645780.606163,
+    "geom:area_square_m":25451645780.606342,
     "geom:bbox":"36.8664338582,-0.0815316139902,39.4629579592,2.1030705438",
     "geom:latitude":1.014149,
     "geom:longitude":38.539842,
@@ -118,9 +118,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892600,
-    "wof:geomhash":"f04ae1640ba420c013559a6a2e544b28",
+    "wof:geomhash":"223dcd772f6baf1434d620ad68e3d2fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1091911367,
-    "wof:lastmodified":1566727039,
+    "wof:lastmodified":1695886182,
     "wof:name":"Isiolo",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

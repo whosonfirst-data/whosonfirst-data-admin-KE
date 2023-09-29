@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128187,
-    "geom:area_square_m":1584772117.711244,
+    "geom:area_square_m":1584772117.711129,
     "geom:bbox":"35.1577595776,0.850943544442,35.7101983616,1.319848718",
     "geom:latitude":1.084439,
     "geom:longitude":35.508176,
@@ -82,9 +82,10 @@
         "hasc:id":"KE.RV.WP",
         "wd:id":"Q1741465"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892632,
-    "wof:geomhash":"ad0d47e08cc365601d1b7b0bdd7e052f",
+    "wof:geomhash":"60b8e3ae5b78f9bf4a972597b3e619f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1091911965,
-    "wof:lastmodified":1566727039,
+    "wof:lastmodified":1695886183,
     "wof:name":"Marakwet",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

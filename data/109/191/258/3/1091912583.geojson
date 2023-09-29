@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.12238,
-    "geom:area_square_m":1513250159.371988,
+    "geom:area_square_m":1513250159.371931,
     "geom:bbox":"34.0523112965,-0.0746359870924,34.5640842503,0.316003790525",
     "geom:latitude":0.114263,
     "geom:longitude":34.307746,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892662,
-    "wof:geomhash":"f497209dcc0bac08ec2b49a64d01c836",
+    "wof:geomhash":"cb7f56c67b7c4d67c389a81d30fe70a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091912583,
-    "wof:lastmodified":1566727038,
+    "wof:lastmodified":1695886182,
     "wof:name":"Siaya",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

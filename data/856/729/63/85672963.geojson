@@ -294,10 +294,12 @@
         "gn:id":400744,
         "gp:id":2345943,
         "hasc:id":"KE.RV",
+        "iso:code_historic":"KE-700",
         "qs_pg:id":673286,
         "wd:id":"Q38587",
         "wk:page":"Rift Valley Province"
     },
+    "wof:concordances_official":"iso:code_historic",
     "wof:country":"KE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -319,7 +321,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1694493130,
+    "wof:lastmodified":1695884360,
     "wof:name":"Rift Valley",
     "wof:parent_id":85632329,
     "wof:placetype":"region",

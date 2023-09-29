@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266204,
-    "geom:area_square_m":3291579639.581911,
+    "geom:area_square_m":3291579964.84779,
     "geom:bbox":"36.20155,-0.919509,36.730909,0.135426",
     "geom:latitude":-0.31886,
     "geom:longitude":36.482583,
@@ -138,12 +138,13 @@
         "wd:id":"Q1714352",
         "wk:page":"Nyandarua County"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1469052165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a119d882cdcfeb253dece2fd765ab082",
+    "wof:geomhash":"408c9ccd78ef7d98ac8560ecd1559edf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":890437763,
-    "wof:lastmodified":1690938071,
+    "wof:lastmodified":1695886746,
     "wof:name":"Nyandarua",
     "wof:parent_id":85672947,
     "wof:placetype":"county",

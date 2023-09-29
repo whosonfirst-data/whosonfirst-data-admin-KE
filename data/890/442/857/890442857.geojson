@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.398128,
-    "geom:area_square_m":17256824360.43359,
+    "geom:area_square_m":17256824137.849442,
     "geom:bbox":"37.585272,-4.142766,39.22,-2.696511",
     "geom:latitude":-3.433973,
     "geom:longitude":38.418129,
@@ -141,12 +141,13 @@
         "wd:id":"Q7193788",
         "wk:page":"Taita-Taveta County"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1469052383,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d319d0eef50e0e23d00dec6bd2ee0da5",
+    "wof:geomhash":"7db1aa6c7c15f28b28f7a79101c6e517",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":890442857,
-    "wof:lastmodified":1690938074,
+    "wof:lastmodified":1695886782,
     "wof:name":"Taita Taveta",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

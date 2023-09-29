@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.320763,
-    "geom:area_square_m":3966227413.619046,
+    "geom:area_square_m":3966226970.759265,
     "geom:bbox":"37.562996,-0.084684,38.416245,0.671637",
     "geom:latitude":0.288644,
     "geom:longitude":37.949341,
@@ -82,9 +82,10 @@
         "hasc:id":"KE.EA.MN",
         "wd:id":"Q5259795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892638,
-    "wof:geomhash":"fd12802f8fdee794d8b9b5bf7420900d",
+    "wof:geomhash":"7dfd224ff836625d2152420ebdc5550c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1091912127,
-    "wof:lastmodified":1627522277,
+    "wof:lastmodified":1695886746,
     "wof:name":"Meru North",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

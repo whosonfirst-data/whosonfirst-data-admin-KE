@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206436,
-    "geom:area_square_m":2552276209.629669,
+    "geom:area_square_m":2552276209.629676,
     "geom:bbox":"33.9324379623,-1.18605029549,34.6485487087,-0.648407047812",
     "geom:latitude":-0.937756,
     "geom:longitude":34.32549,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892641,
-    "wof:geomhash":"4759c4e8f63601fe2d37811dc638e5d8",
+    "wof:geomhash":"a3aabecbadf39e398198748db8e57d53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091912205,
-    "wof:lastmodified":1566727037,
+    "wof:lastmodified":1695886182,
     "wof:name":"Migori",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

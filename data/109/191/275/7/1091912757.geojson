@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201901,
-    "geom:area_square_m":2496121672.864428,
+    "geom:area_square_m":2496122166.724576,
     "geom:bbox":"34.581985,0.809179,35.361624,1.280439",
     "geom:latitude":1.052413,
     "geom:longitude":34.958584,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892673,
-    "wof:geomhash":"bad1b02cb252e1c5a33b704b88a8258d",
+    "wof:geomhash":"4bbef0e0427116ba363977fcdeb2be24",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091912757,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886747,
     "wof:name":"Trans Nzoia",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

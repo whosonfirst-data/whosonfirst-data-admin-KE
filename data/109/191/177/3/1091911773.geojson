@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.68164,
-    "geom:area_square_m":8406494616.137055,
+    "geom:area_square_m":8406493684.680597,
     "geom:bbox":"38.450401,-4.680056,39.643727,-3.564084",
     "geom:latitude":-4.144184,
     "geom:longitude":39.155341,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CO.KW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892617,
-    "wof:geomhash":"a554fc363c6773f3ab2075fefa8a011d",
+    "wof:geomhash":"132c88d279ff64f715906966fb8b13d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1091911773,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886745,
     "wof:name":"Kwale",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

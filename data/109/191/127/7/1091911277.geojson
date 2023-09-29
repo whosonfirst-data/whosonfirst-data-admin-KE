@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05305,
-    "geom:area_square_m":655903008.805966,
+    "geom:area_square_m":655903087.550522,
     "geom:bbox":"34.620762,-0.969927,34.920881,-0.704058",
     "geom:latitude":-0.845069,
     "geom:longitude":34.741129,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892597,
-    "wof:geomhash":"ef170cfafee3be62c8074ec062c4e43b",
+    "wof:geomhash":"2870363938944412732027b8f56c629a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1091911277,
-    "wof:lastmodified":1627522275,
+    "wof:lastmodified":1695886745,
     "wof:name":"Gucha",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

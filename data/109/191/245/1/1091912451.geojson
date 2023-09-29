@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.223831,
-    "geom:area_square_m":15128903348.393574,
+    "geom:area_square_m":15128903348.393635,
     "geom:bbox":"34.9896947305,-2.09953552717,36.3507270614,-0.452113441449",
     "geom:latitude":-1.270518,
     "geom:longitude":35.704569,
@@ -112,9 +112,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.NR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892655,
-    "wof:geomhash":"d245d107aed1b9a8c5dd808a497a7ce5",
+    "wof:geomhash":"1fb30ff9bf50dbbfc420879cdcaf2b96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1091912451,
-    "wof:lastmodified":1566727037,
+    "wof:lastmodified":1695886182,
     "wof:name":"Narok",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

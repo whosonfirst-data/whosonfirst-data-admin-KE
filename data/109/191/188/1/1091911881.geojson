@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.113481,
-    "geom:area_square_m":26085810243.866531,
+    "geom:area_square_m":26085809900.962418,
     "geom:bbox":"39.78171,2.17291,41.906838,4.285202",
     "geom:latitude":3.438789,
     "geom:longitude":40.736963,
@@ -154,9 +154,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NE.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892629,
-    "wof:geomhash":"da8450c5dd6ad5848bd649b33737cc1f",
+    "wof:geomhash":"12facc9032de285ea1945afd5eced8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1091911881,
-    "wof:lastmodified":1636500533,
+    "wof:lastmodified":1695886758,
     "wof:name":"Mandera",
     "wof:parent_id":85672969,
     "wof:placetype":"county",

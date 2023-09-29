@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0728,
-    "geom:area_square_m":900133546.84772,
+    "geom:area_square_m":900133546.847806,
     "geom:bbox":"34.7939621783,-0.878412622434,35.0922865548,-0.405069794908",
     "geom:latitude":-0.637753,
     "geom:longitude":34.967874,
@@ -85,9 +85,10 @@
     "wof:concordances":{
         "hasc:id":"KE.NY.NM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892656,
-    "wof:geomhash":"56787c8cf884252817393af1466b1ab8",
+    "wof:geomhash":"3c98cf9c97963c119ca5db269d02bead",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1091912493,
-    "wof:lastmodified":1566727040,
+    "wof:lastmodified":1695886183,
     "wof:name":"Nyamira",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

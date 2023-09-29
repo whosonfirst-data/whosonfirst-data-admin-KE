@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.736431,
-    "geom:area_square_m":9101804223.502258,
+    "geom:area_square_m":9101804500.341082,
     "geom:bbox":"34.771691,1.120161,35.788821,2.666481",
     "geom:latitude":1.725039,
     "geom:longitude":35.245421,
@@ -55,9 +55,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.WP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892681,
-    "wof:geomhash":"d1c494a3f279caead6400386e0d5c562",
+    "wof:geomhash":"953f1fd016413dff313c310192825780",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1091912907,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886747,
     "wof:name":"West Pokot",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

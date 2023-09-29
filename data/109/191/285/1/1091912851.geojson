@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04522,
-    "geom:area_square_m":559148473.680393,
+    "geom:area_square_m":559148862.749766,
     "geom:bbox":"34.536052,-0.037777,34.926007,0.206348",
     "geom:latitude":0.079637,
     "geom:longitude":34.722086,
@@ -97,9 +97,10 @@
     "wof:concordances":{
         "hasc:id":"KE.WE.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892678,
-    "wof:geomhash":"d16b553fecaced4facc8eb9c3349a88b",
+    "wof:geomhash":"d7c711f36ed583b4014fbb63b74f6b65",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1091912851,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886747,
     "wof:name":"Vihiga",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

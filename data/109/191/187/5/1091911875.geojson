@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.65263,
-    "geom:area_square_m":8063978380.830257,
+    "geom:area_square_m":8063978550.884048,
     "geom:bbox":"37.14518,-2.989342,38.509189,-1.516349",
     "geom:latitude":-2.165767,
     "geom:longitude":37.802346,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892626,
-    "wof:geomhash":"bdef97ab4c2b383a42275ad673424b84",
+    "wof:geomhash":"bfb88f3adf3f906dce22b2c792db08cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091911875,
-    "wof:lastmodified":1627522276,
+    "wof:lastmodified":1695886745,
     "wof:name":"Makueni",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149796,
-    "geom:area_square_m":1852243682.29914,
+    "geom:area_square_m":1852243932.365993,
     "geom:bbox":"33.954882,-0.424301,34.480849,0.044802",
     "geom:latitude":-0.181928,
     "geom:longitude":34.21609,
@@ -121,9 +121,10 @@
         "hasc:id":"KE.NY.SI",
         "wd:id":"Q2252471"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892585,
-    "wof:geomhash":"a3abcc64017cb0124b6b1b38c827a89b",
+    "wof:geomhash":"75353aed854effeaf563217738d849f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1091910953,
-    "wof:lastmodified":1636500534,
+    "wof:lastmodified":1695886759,
     "wof:name":"Bondo",
     "wof:parent_id":85672955,
     "wof:placetype":"county",

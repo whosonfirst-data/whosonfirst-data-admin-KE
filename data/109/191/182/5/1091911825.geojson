@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525388,
-    "geom:area_square_m":6492342031.542585,
+    "geom:area_square_m":6492342031.542275,
     "geom:bbox":"40.2145857205,-2.47,41.5572640925,-1.66135537054",
     "geom:latitude":-2.047279,
     "geom:longitude":40.777607,
@@ -160,9 +160,10 @@
     "wof:concordances":{
         "hasc:id":"KE.CO.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892620,
-    "wof:geomhash":"94f26ee8bdd411637366e147863aa108",
+    "wof:geomhash":"ede48820421a709fa7d69eb2c76cb4af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":1091911825,
-    "wof:lastmodified":1566727041,
+    "wof:lastmodified":1695886184,
     "wof:name":"Lamu",
     "wof:parent_id":85672943,
     "wof:placetype":"county",

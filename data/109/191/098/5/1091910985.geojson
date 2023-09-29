@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167786,
-    "geom:area_square_m":2074557043.518855,
+    "geom:area_square_m":2074557224.585886,
     "geom:bbox":"34.367756,0.435061,35.066062,0.886987",
     "geom:latitude":0.669484,
     "geom:longitude":34.659076,
@@ -142,9 +142,10 @@
     "wof:concordances":{
         "hasc:id":"KE.WE.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892587,
-    "wof:geomhash":"48b1e9c1f177c9cdc63eda732d20fb6b",
+    "wof:geomhash":"0e9045d47b458d9578ddc7bb4b7d1ffc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1091910985,
-    "wof:lastmodified":1636500532,
+    "wof:lastmodified":1695886758,
     "wof:name":"Bungoma",
     "wof:parent_id":85672967,
     "wof:placetype":"county",

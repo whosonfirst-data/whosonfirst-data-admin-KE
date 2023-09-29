@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.271201,
-    "geom:area_square_m":3353280426.965643,
+    "geom:area_square_m":3353281145.285178,
     "geom:bbox":"34.855296,0.008604,35.591194,0.951012",
     "geom:latitude":0.536243,
     "geom:longitude":35.320844,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"KE.RV.UG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892677,
-    "wof:geomhash":"7587d1e63294dedbafe25f4d545de420",
+    "wof:geomhash":"7f0e7a27cf219422c39a5683f39640c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091912837,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886747,
     "wof:name":"Uasin Gishu",
     "wof:parent_id":85672963,
     "wof:placetype":"county",

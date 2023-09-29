@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.286271,
-    "geom:area_square_m":65272446439.194389,
+    "geom:area_square_m":65272445327.690598,
     "geom:bbox":"36.013414,1.2755,38.960949,4.459143",
     "geom:latitude":2.964955,
     "geom:longitude":37.410517,
@@ -109,9 +109,10 @@
     "wof:concordances":{
         "hasc:id":"KE.EA.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KE",
     "wof:created":1473892633,
-    "wof:geomhash":"7bae1a67b29f0d33ed42d6f5d4aac878",
+    "wof:geomhash":"cdd20be86fe14722df67dca55312826c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1091912007,
-    "wof:lastmodified":1636500534,
+    "wof:lastmodified":1695886759,
     "wof:name":"Marsabit",
     "wof:parent_id":85672959,
     "wof:placetype":"county",

@@ -9,6 +9,19 @@
     "geom:bbox":"34.42167,0.67694,34.42167,0.67694",
     "geom:latitude":0.67694,
     "geom:longitude":34.42167,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malikisi",
+    "gn:country_code":"KE",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":187976,
+    "gn:latitude":0.67475,
+    "gn:longitude":34.42252,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Malikisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Nairobi",
     "iso:country":"KE",
     "lbl:bbox":"34.40167,0.65694,34.44167,0.69694",
     "lbl:max_zoom":15.0,
@@ -40,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Malikisi"
+    ],
+    "name:und_x_variant":[
+        "Malakisi"
     ],
     "name:zul_x_preferred":[
         "Malakisi"
@@ -79,6 +95,11 @@
         "wd:id":"Q6741176",
         "wk:page":"Malakisi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            187976
+        ]
+    },
     "wof:country":"KE",
     "wof:created":1459010214,
     "wof:geomhash":"d0313de3401542333fbfc061b578bd69",
@@ -92,7 +113,7 @@
         }
     ],
     "wof:id":421205153,
-    "wof:lastmodified":1690938051,
+    "wof:lastmodified":1706240322,
     "wof:name":"Malikisi",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",
@@ -100,7 +121,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310481717
+    ],
     "wof:tags":[]
 },
   "bbox": [
